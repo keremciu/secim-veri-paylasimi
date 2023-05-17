@@ -1,0 +1,2658 @@
+[
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41890,
+    "neighbor_name": "GÜMÜŞTEPE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41883,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41902,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 49770,
+    "neighbor_name": "YENİŞABANLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41877,
+    "neighbor_name": "YURTSEVER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41881,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41882,
+    "neighbor_name": "ABALI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41870,
+    "neighbor_name": "ABDİUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41895,
+    "neighbor_name": "AHIRLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41878,
+    "neighbor_name": "AVŞAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41896,
+    "neighbor_name": "CAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41894,
+    "neighbor_name": "ÇATALÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41886,
+    "neighbor_name": "DADILAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41879,
+    "neighbor_name": "DEMİRCİLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41887,
+    "neighbor_name": "GÖLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41889,
+    "neighbor_name": "GÖYNÜK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41897,
+    "neighbor_name": "GÜZELÖZ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41873,
+    "neighbor_name": "HACIAHMETLİDAVUTLU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41891,
+    "neighbor_name": "HACIAHMETLİTEPEKÖY"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41892,
+    "neighbor_name": "HACIİSMAİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41874,
+    "neighbor_name": "HÜSREVKÖY"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 50023,
+    "neighbor_name": "KAŞIÇALIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41871,
+    "neighbor_name": "KEDERLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41893,
+    "neighbor_name": "KILIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41899,
+    "neighbor_name": "KIRIMİNİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41900,
+    "neighbor_name": "KURTİNİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41884,
+    "neighbor_name": "KÜTÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41888,
+    "neighbor_name": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41885,
+    "neighbor_name": "SARIAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41875,
+    "neighbor_name": "SARIHASANLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41901,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41880,
+    "neighbor_name": "YAĞMURHÜYÜĞÜ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 811,
+    "district_name": "AĞAÇÖREN",
+    "neighbor_id": 41876,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41831,
+    "neighbor_name": "ARATOL BAHÇELİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41849,
+    "neighbor_name": "ARATOL İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41813,
+    "neighbor_name": "BAHÇELİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41847,
+    "neighbor_name": "BAHÇESARAY MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41805,
+    "neighbor_name": "BAYRAMBABA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41758,
+    "neighbor_name": "BEDİR MUHTAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41760,
+    "neighbor_name": "BÜYÜK BÖLCEK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41778,
+    "neighbor_name": "COĞLAKİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41786,
+    "neighbor_name": "ÇERDİĞİN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41719,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41807,
+    "neighbor_name": "EREĞLİKAPI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41808,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41836,
+    "neighbor_name": "HACIHASANLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41759,
+    "neighbor_name": "HACILAR HARMANI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41739,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41862,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41801,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41732,
+    "neighbor_name": "KALANLAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41745,
+    "neighbor_name": "KILIÇASLAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41842,
+    "neighbor_name": "KIRIMLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41795,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41711,
+    "neighbor_name": "LALELİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41837,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41733,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41780,
+    "neighbor_name": "MİNARECİK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41726,
+    "neighbor_name": "MUHSİN ÇELEBİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41838,
+    "neighbor_name": "PAMUCAK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41734,
+    "neighbor_name": "PAŞACIK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41843,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41722,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41713,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41810,
+    "neighbor_name": "TACİN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41853,
+    "neighbor_name": "TAŞPAZAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41735,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41846,
+    "neighbor_name": "ZİNCİRLİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41753,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41830,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41776,
+    "neighbor_name": "HASAS MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41826,
+    "neighbor_name": "KÜÇÜK BÖLCEK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41721,
+    "neighbor_name": "NAKKAŞ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41727,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41829,
+    "neighbor_name": "SOMUNCU BABA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41742,
+    "neighbor_name": "ŞAMLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41851,
+    "neighbor_name": "ŞEYHHAMİT MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41815,
+    "neighbor_name": "ŞİFAHANE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41823,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41824,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41819,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41744,
+    "neighbor_name": "BAĞLIKAYA-BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41868,
+    "neighbor_name": "BAĞLIKAYA-ÇİMELİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41724,
+    "neighbor_name": "BAĞLIKAYA-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41799,
+    "neighbor_name": "BAĞLIKAYA-YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41856,
+    "neighbor_name": "HELVADERE-AYDINLAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41749,
+    "neighbor_name": "HELVADERE-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41857,
+    "neighbor_name": "HELVADERE-KİRAZLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41827,
+    "neighbor_name": "HELVADERE-ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41770,
+    "neighbor_name": "SAĞLIK-DİVANOĞLU MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41866,
+    "neighbor_name": "SAĞLIK-FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41792,
+    "neighbor_name": "SAĞLIK-YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41741,
+    "neighbor_name": "TAŞPINAR-ERENLER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41750,
+    "neighbor_name": "TAŞPINAR-YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41774,
+    "neighbor_name": "TAŞPINAR-YENİ CAMİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41763,
+    "neighbor_name": "TOPAKKAYA-FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41784,
+    "neighbor_name": "TOPAKKAYA-GÜLHANE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41850,
+    "neighbor_name": "TOPAKKAYA-MEDENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41728,
+    "neighbor_name": "TOPAKKAYA-YEŞİLÇAM MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41859,
+    "neighbor_name": "YENİKENT-GAZİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41771,
+    "neighbor_name": "YENİKENT-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41860,
+    "neighbor_name": "YENİKENT-ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41785,
+    "neighbor_name": "YEŞİLOVA-ALASAKALLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41798,
+    "neighbor_name": "YEŞİLOVA-KÖSELİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41729,
+    "neighbor_name": "YEŞİLOVA-PARABAŞLI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41730,
+    "neighbor_name": "YEŞİLTEPE-ÇALIŞKAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41752,
+    "neighbor_name": "YEŞİLTEPE-FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41766,
+    "neighbor_name": "YEŞİLTEPE-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41767,
+    "neighbor_name": "YEŞİLTEPE-ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41781,
+    "neighbor_name": "ACIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41840,
+    "neighbor_name": "AĞZIKARAHAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41772,
+    "neighbor_name": "AKÇAKENT KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41839,
+    "neighbor_name": "AKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41788,
+    "neighbor_name": "AKİN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41820,
+    "neighbor_name": "ALAYHANI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41812,
+    "neighbor_name": "ALTINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41723,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41821,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41743,
+    "neighbor_name": "BABAKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41848,
+    "neighbor_name": "BAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41731,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41804,
+    "neighbor_name": "BAYMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41764,
+    "neighbor_name": "BEBEK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41715,
+    "neighbor_name": "BORUCU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41738,
+    "neighbor_name": "BOSTANLIK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41717,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41765,
+    "neighbor_name": "BOZCATEPE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41761,
+    "neighbor_name": "BÜYÜKGÜVE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41716,
+    "neighbor_name": "BÜYÜKPÖRNEKLER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41802,
+    "neighbor_name": "CANKILLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41782,
+    "neighbor_name": "CERAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41718,
+    "neighbor_name": "CERİT KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41794,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41867,
+    "neighbor_name": "ÇAVDARLILAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41725,
+    "neighbor_name": "ÇEKİÇLER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41768,
+    "neighbor_name": "ÇELTEK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41861,
+    "neighbor_name": "ÇİMELİYENİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41714,
+    "neighbor_name": "ÇOLAKNEBİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41834,
+    "neighbor_name": "DARIHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41720,
+    "neighbor_name": "DİKMEN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41841,
+    "neighbor_name": "DOĞANTARLA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41806,
+    "neighbor_name": "EKECİKGÖDELER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41869,
+    "neighbor_name": "EKECİKTOL KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41832,
+    "neighbor_name": "EKECİKYENİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41747,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41754,
+    "neighbor_name": "FATMAUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41800,
+    "neighbor_name": "GENÇOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41762,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41809,
+    "neighbor_name": "GÖKSÜGÜZEL KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41864,
+    "neighbor_name": "GÖZLÜKUYU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41779,
+    "neighbor_name": "GÜCÜNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41789,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41825,
+    "neighbor_name": "HANOBASI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41736,
+    "neighbor_name": "HATİPOĞLUTOLU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41740,
+    "neighbor_name": "HIRKATOL KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41787,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41756,
+    "neighbor_name": "İSMAİLAĞATOLU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41828,
+    "neighbor_name": "KALEBALTA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41816,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41797,
+    "neighbor_name": "KARAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41773,
+    "neighbor_name": "KARAKOVA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41737,
+    "neighbor_name": "KARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41817,
+    "neighbor_name": "KARAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41852,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41748,
+    "neighbor_name": "KARKIN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41863,
+    "neighbor_name": "KAZICIK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41818,
+    "neighbor_name": "KOÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41769,
+    "neighbor_name": "KOYAK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41835,
+    "neighbor_name": "KUTLU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41796,
+    "neighbor_name": "KÜÇÜKGÜVE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41865,
+    "neighbor_name": "KÜÇÜKPÖRNEKLER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41790,
+    "neighbor_name": "MACARLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41712,
+    "neighbor_name": "NURGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41854,
+    "neighbor_name": "SALMANLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41791,
+    "neighbor_name": "SAPMAZ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41755,
+    "neighbor_name": "SARAYHAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41844,
+    "neighbor_name": "SARIAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41858,
+    "neighbor_name": "SELECİKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41746,
+    "neighbor_name": "SEVİNÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41777,
+    "neighbor_name": "SUSADI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41814,
+    "neighbor_name": "ŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41783,
+    "neighbor_name": "TAPTUK EMRE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41803,
+    "neighbor_name": "TATLICA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41811,
+    "neighbor_name": "ULUKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41751,
+    "neighbor_name": "ULUKIŞLATOLU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41757,
+    "neighbor_name": "YAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41822,
+    "neighbor_name": "YALMAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41855,
+    "neighbor_name": "YALNIZCEVİZ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41793,
+    "neighbor_name": "YANYURT KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41775,
+    "neighbor_name": "YAPILCAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41833,
+    "neighbor_name": "YENİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 810,
+    "district_name": "AKSARAY MERKEZ",
+    "neighbor_id": 41845,
+    "neighbor_name": "YUVA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41906,
+    "neighbor_name": "AYDINLIK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41913,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 49836,
+    "neighbor_name": "ÇULFA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41907,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41916,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41926,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41905,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41908,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41919,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41927,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 50156,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41928,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41911,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41914,
+    "neighbor_name": "EŞMEKAYA-CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41903,
+    "neighbor_name": "EŞMEKAYA-KAYACIK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41915,
+    "neighbor_name": "EŞMEKAYA-YENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41904,
+    "neighbor_name": "EŞMEKAYA-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41923,
+    "neighbor_name": "BAŞARAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41922,
+    "neighbor_name": "BAYRAMDÜĞÜN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41912,
+    "neighbor_name": "BÜĞET KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41924,
+    "neighbor_name": "CELİL KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41921,
+    "neighbor_name": "ÇUKURYURT KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41925,
+    "neighbor_name": "FİLİKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41917,
+    "neighbor_name": "GÜMÜŞDÜĞÜN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41918,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41909,
+    "neighbor_name": "KATRANCI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41910,
+    "neighbor_name": "KÖKEZ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 812,
+    "district_name": "ESKİL",
+    "neighbor_id": 41920,
+    "neighbor_name": "SAĞSAK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41932,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41945,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41946,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41951,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41933,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41950,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41942,
+    "neighbor_name": "DEMİRCİ-ESKİCAMİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41944,
+    "neighbor_name": "DEMİRCİ-KALEALTI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41953,
+    "neighbor_name": "DEMİRCİ-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41937,
+    "neighbor_name": "DEMİRCİ-YENİPAZAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41954,
+    "neighbor_name": "GÜLPINAR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41940,
+    "neighbor_name": "GÜLPINAR-FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41943,
+    "neighbor_name": "GÜLPINAR-KOYUNLU MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41941,
+    "neighbor_name": "GÜLPINAR-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41938,
+    "neighbor_name": "GÜLPINAR-TUZLA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41949,
+    "neighbor_name": "SARATLI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41930,
+    "neighbor_name": "SARATLI-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41929,
+    "neighbor_name": "SARATLI-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41956,
+    "neighbor_name": "SARATLI-MEYDAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41957,
+    "neighbor_name": "SARATLI-ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41931,
+    "neighbor_name": "AKMEZAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41936,
+    "neighbor_name": "BEKARLAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41952,
+    "neighbor_name": "CAMİLİÖREN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41935,
+    "neighbor_name": "ÇATALSU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41955,
+    "neighbor_name": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41934,
+    "neighbor_name": "OSMANLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41948,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41939,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 813,
+    "district_name": "GÜLAĞAÇ",
+    "neighbor_id": 41947,
+    "neighbor_name": "SÜLEYMANHÜYÜĞÜ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41965,
+    "neighbor_name": "AKYAMAÇ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41958,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41969,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41970,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41960,
+    "neighbor_name": "IHLARA-AKPINAR MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41961,
+    "neighbor_name": "IHLARA-HARMANLIK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41962,
+    "neighbor_name": "IHLARA-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41963,
+    "neighbor_name": "IHLARA-KAYAARDI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41975,
+    "neighbor_name": "SELİME-KAYAALTI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41973,
+    "neighbor_name": "SELİME-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41967,
+    "neighbor_name": "SELİME-YENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41971,
+    "neighbor_name": "ALANYURT KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41966,
+    "neighbor_name": "BELİSIRMA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41959,
+    "neighbor_name": "BOZCAYURT KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41974,
+    "neighbor_name": "GAZİEMİR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41972,
+    "neighbor_name": "ILISU KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41968,
+    "neighbor_name": "SİVRİHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41964,
+    "neighbor_name": "UZUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 814,
+    "district_name": "GÜZELYURT",
+    "neighbor_id": 41976,
+    "neighbor_name": "YAPRAKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 50161,
+    "neighbor_name": "BALCI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42014,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42011,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41980,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41985,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42016,
+    "neighbor_name": "KARŞI MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42003,
+    "neighbor_name": "KIZILAY MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41996,
+    "neighbor_name": "MALTEPE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41989,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41997,
+    "neighbor_name": "PLEVNE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42005,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41982,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41991,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42009,
+    "neighbor_name": "BOZKIR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42010,
+    "neighbor_name": "CAMUZLUK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42015,
+    "neighbor_name": "CECELİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41987,
+    "neighbor_name": "CUMALİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41977,
+    "neighbor_name": "ÇATİN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41978,
+    "neighbor_name": "ÇİFTEVİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41979,
+    "neighbor_name": "DEVEDAMI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41992,
+    "neighbor_name": "DURHASANLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42001,
+    "neighbor_name": "GÖKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41981,
+    "neighbor_name": "GÖKLER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41988,
+    "neighbor_name": "HACIİBRAHİMUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41983,
+    "neighbor_name": "HACIMAHMUTUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42012,
+    "neighbor_name": "HARMANDALI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41993,
+    "neighbor_name": "HIDIRLI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42006,
+    "neighbor_name": "HOCABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42002,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41995,
+    "neighbor_name": "KÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42007,
+    "neighbor_name": "NAMLIKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42004,
+    "neighbor_name": "OĞUZLAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41990,
+    "neighbor_name": "OZANCIK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42017,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41998,
+    "neighbor_name": "PİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41984,
+    "neighbor_name": "REŞADİYE KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41999,
+    "neighbor_name": "SALARIALACA KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42018,
+    "neighbor_name": "SALARIGÖDELER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 41986,
+    "neighbor_name": "SARIKARAMAN KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42013,
+    "neighbor_name": "SATANSARI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42000,
+    "neighbor_name": "SEKSENUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 815,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 42008,
+    "neighbor_name": "YILDIRIMLAR KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 50212,
+    "neighbor_name": "15 TEMMUZ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42024,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42019,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42027,
+    "neighbor_name": "KIZILIRMAK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42020,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42029,
+    "neighbor_name": "ÖZAL MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42030,
+    "neighbor_name": "ŞAFAKTEPE MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42022,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42031,
+    "neighbor_name": "BEKDİK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42025,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42026,
+    "neighbor_name": "DEMİRCİOBASI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42021,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42028,
+    "neighbor_name": "YAYLAK KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 816,
+    "district_name": "SARIYAHŞİ",
+    "neighbor_id": 42023,
+    "neighbor_name": "YENİTORUNOBASI KÖYÜ"
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42036,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42037,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42035,
+    "neighbor_name": "İSTİKAMET MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42038,
+    "neighbor_name": "KOYUNCU MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42039,
+    "neighbor_name": "SELÇUK MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42032,
+    "neighbor_name": "TÜRKİSTAN MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42034,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 64,
+    "city_name": "AKSARAY",
+    "district_id": 817,
+    "district_name": "SULTANHANI",
+    "neighbor_id": 42033,
+    "neighbor_name": "YEŞİLTÖMEK KÖYÜ"
+  }
+]

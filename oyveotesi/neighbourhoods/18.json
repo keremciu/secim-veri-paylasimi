@@ -1,0 +1,3834 @@
+[
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11319,
+    "neighbor_name": "AKBİLEK MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11384,
+    "neighbor_name": "BAHÇELERİÇİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11340,
+    "neighbor_name": "BEYAZITPAŞA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11395,
+    "neighbor_name": "BOĞAZKÖY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11398,
+    "neighbor_name": "ÇAKALLAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11387,
+    "neighbor_name": "DEMET EVLER MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11421,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11396,
+    "neighbor_name": "ELLİBEŞEVLER MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11381,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11392,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11386,
+    "neighbor_name": "GÖKMEDRESE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11349,
+    "neighbor_name": "GÖLLÜ BAĞLARI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11313,
+    "neighbor_name": "GÜMÜŞLÜ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11314,
+    "neighbor_name": "HACI İLYAS MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11403,
+    "neighbor_name": "HACILAR MEYDANI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11360,
+    "neighbor_name": "HATUNİYE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11303,
+    "neighbor_name": "HELVACI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11304,
+    "neighbor_name": "HIZIRPAŞA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11442,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11331,
+    "neighbor_name": "KARASENİR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11413,
+    "neighbor_name": "KİRAZLIDERE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11400,
+    "neighbor_name": "KOZA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11316,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11418,
+    "neighbor_name": "MEHMET PAŞA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11397,
+    "neighbor_name": "NERGİZ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11306,
+    "neighbor_name": "ORMAN BAĞLARI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11378,
+    "neighbor_name": "PİRİNÇÇİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11337,
+    "neighbor_name": "SAVADİYE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11354,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11366,
+    "neighbor_name": "ŞAMLAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11323,
+    "neighbor_name": "ŞEHİRÜSTÜ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11419,
+    "neighbor_name": "ŞEYHCUİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11334,
+    "neighbor_name": "ÜÇLER MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11318,
+    "neighbor_name": "YAZI BAĞLARI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 50197,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11394,
+    "neighbor_name": "YEŞİLYENİCE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11344,
+    "neighbor_name": "YÜZEVLER MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11339,
+    "neighbor_name": "ZİYARET-AŞAĞI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11425,
+    "neighbor_name": "ZİYARET-SARAYCIK MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11328,
+    "neighbor_name": "ZİYARET-YUKARI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11401,
+    "neighbor_name": "ABACI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11402,
+    "neighbor_name": "AKSALUR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11320,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11329,
+    "neighbor_name": "AKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11371,
+    "neighbor_name": "ALAKADI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11356,
+    "neighbor_name": "ALBAYRAK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11380,
+    "neighbor_name": "ARDIÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11390,
+    "neighbor_name": "AVŞAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11427,
+    "neighbor_name": "AYDINCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11428,
+    "neighbor_name": "AYDINLIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11357,
+    "neighbor_name": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11420,
+    "neighbor_name": "BAĞLARÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11391,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11324,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11429,
+    "neighbor_name": "BEKE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11325,
+    "neighbor_name": "BELDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11341,
+    "neighbor_name": "BOĞAKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11347,
+    "neighbor_name": "BÖKE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11407,
+    "neighbor_name": "BULDUKLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11385,
+    "neighbor_name": "BÜYÜKKIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11312,
+    "neighbor_name": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11411,
+    "neighbor_name": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11370,
+    "neighbor_name": "ÇENGELKAYI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11346,
+    "neighbor_name": "ÇİĞDEMLİK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11389,
+    "neighbor_name": "ÇİVİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11358,
+    "neighbor_name": "DADI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11345,
+    "neighbor_name": "DAMUDERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11412,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11351,
+    "neighbor_name": "DİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11348,
+    "neighbor_name": "DOĞANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11321,
+    "neighbor_name": "DURUCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11342,
+    "neighbor_name": "ELİKTEKKE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11439,
+    "neighbor_name": "ERMİŞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11352,
+    "neighbor_name": "ESKİKIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11372,
+    "neighbor_name": "EZİNEPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11310,
+    "neighbor_name": "GERNE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11433,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11359,
+    "neighbor_name": "GÖZLEK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11417,
+    "neighbor_name": "HALİFELİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11367,
+    "neighbor_name": "HASABDAL KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11426,
+    "neighbor_name": "İBECİK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11335,
+    "neighbor_name": "İLGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11309,
+    "neighbor_name": "İLYAS KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11438,
+    "neighbor_name": "İPEKKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11422,
+    "neighbor_name": "KALEBOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11404,
+    "neighbor_name": "KALEKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11364,
+    "neighbor_name": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11311,
+    "neighbor_name": "KARAALİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11377,
+    "neighbor_name": "KARAÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11332,
+    "neighbor_name": "KARAİBRAHİM KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11430,
+    "neighbor_name": "KARAKESE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11330,
+    "neighbor_name": "KARAKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11373,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11365,
+    "neighbor_name": "KARSAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11408,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11353,
+    "neighbor_name": "KAYACIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11440,
+    "neighbor_name": "KAYRAK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11409,
+    "neighbor_name": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11441,
+    "neighbor_name": "KEŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11368,
+    "neighbor_name": "KIZILKIŞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11393,
+    "neighbor_name": "KIZOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11326,
+    "neighbor_name": "KIZSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11434,
+    "neighbor_name": "KÖYCEĞİZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11431,
+    "neighbor_name": "KUTU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11336,
+    "neighbor_name": "KUZGEÇE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11315,
+    "neighbor_name": "KÜÇÜKKIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11305,
+    "neighbor_name": "MAHMATLAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11361,
+    "neighbor_name": "MEŞELİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11414,
+    "neighbor_name": "MUSAKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11362,
+    "neighbor_name": "OLUZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11374,
+    "neighbor_name": "ORMANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11307,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11435,
+    "neighbor_name": "OVASARAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11350,
+    "neighbor_name": "ÖZFINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11436,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11382,
+    "neighbor_name": "SARAYÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11415,
+    "neighbor_name": "SARIALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11333,
+    "neighbor_name": "SARIKIZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11308,
+    "neighbor_name": "SARIMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11423,
+    "neighbor_name": "SARIYAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11405,
+    "neighbor_name": "SAZKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11416,
+    "neighbor_name": "SEVİNCER KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11410,
+    "neighbor_name": "SIRACEVİZLER KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11327,
+    "neighbor_name": "SOMA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11399,
+    "neighbor_name": "ŞEYHSADİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11343,
+    "neighbor_name": "TATAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11437,
+    "neighbor_name": "TUZSUZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11317,
+    "neighbor_name": "UYGUR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11383,
+    "neighbor_name": "ÜMÜK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11432,
+    "neighbor_name": "YAĞCIABDAL KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11406,
+    "neighbor_name": "YAĞMUR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11376,
+    "neighbor_name": "YASSIÇAL KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11363,
+    "neighbor_name": "YAVRU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11388,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11379,
+    "neighbor_name": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11322,
+    "neighbor_name": "YIKILGAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11424,
+    "neighbor_name": "YILDIZKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11338,
+    "neighbor_name": "YOLYANI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11355,
+    "neighbor_name": "YUVACIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 241,
+    "district_name": "AMASYA MERKEZ",
+    "neighbor_id": 11369,
+    "neighbor_name": "YUVAKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11448,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11479,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11483,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11458,
+    "neighbor_name": "ABACI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11447,
+    "neighbor_name": "ALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11471,
+    "neighbor_name": "ARDIÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11465,
+    "neighbor_name": "ASAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11443,
+    "neighbor_name": "AYVALIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11481,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11472,
+    "neighbor_name": "BEKDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11444,
+    "neighbor_name": "BEŞİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11451,
+    "neighbor_name": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11452,
+    "neighbor_name": "ÇAYAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11455,
+    "neighbor_name": "ÇAYKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11460,
+    "neighbor_name": "ÇULPARA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11466,
+    "neighbor_name": "DAMLAÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11445,
+    "neighbor_name": "DAVUTEVİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11467,
+    "neighbor_name": "GEDİKSARAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11473,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11474,
+    "neighbor_name": "HARMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11461,
+    "neighbor_name": "HASANBEY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11475,
+    "neighbor_name": "ILISU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11480,
+    "neighbor_name": "İKİZYAKA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11476,
+    "neighbor_name": "KAFARLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11453,
+    "neighbor_name": "KARAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11459,
+    "neighbor_name": "KARAYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11468,
+    "neighbor_name": "KERTME KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11462,
+    "neighbor_name": "KERVANSARAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11477,
+    "neighbor_name": "KIŞLABEYİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11469,
+    "neighbor_name": "KONURALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11454,
+    "neighbor_name": "KOYUNCU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11478,
+    "neighbor_name": "KUYULU KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11449,
+    "neighbor_name": "PENPELİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11482,
+    "neighbor_name": "SIĞIRÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11456,
+    "neighbor_name": "ŞARKLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11470,
+    "neighbor_name": "ŞIHLAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11457,
+    "neighbor_name": "ŞIHOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11450,
+    "neighbor_name": "TENCİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11446,
+    "neighbor_name": "TERZİKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11463,
+    "neighbor_name": "YASSIKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 242,
+    "district_name": "GÖYNÜCEK",
+    "neighbor_id": 11464,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11505,
+    "neighbor_name": "ADATEPE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 49628,
+    "neighbor_name": "AĞCADEDE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11513,
+    "neighbor_name": "ARTIKABAT MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11532,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11527,
+    "neighbor_name": "CUMARA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11531,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11496,
+    "neighbor_name": "HACIYAHYA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11529,
+    "neighbor_name": "IRGAT MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11497,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11512,
+    "neighbor_name": "ŞIHLAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11499,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11490,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11524,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11492,
+    "neighbor_name": "ALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11521,
+    "neighbor_name": "AŞAĞIOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11510,
+    "neighbor_name": "BACAKOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11493,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11511,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11494,
+    "neighbor_name": "BEDEN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11519,
+    "neighbor_name": "ÇALKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11485,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11491,
+    "neighbor_name": "ÇETMİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11486,
+    "neighbor_name": "ÇİFTÇİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11520,
+    "neighbor_name": "ÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11536,
+    "neighbor_name": "DERBENTOBRUĞU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11495,
+    "neighbor_name": "DOLUCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11506,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11528,
+    "neighbor_name": "ESLEMEZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11507,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11508,
+    "neighbor_name": "GÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11537,
+    "neighbor_name": "GÜVEMÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11504,
+    "neighbor_name": "İMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11539,
+    "neighbor_name": "KAĞNICI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11538,
+    "neighbor_name": "KARAALİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11487,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11500,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11522,
+    "neighbor_name": "KEÇİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11525,
+    "neighbor_name": "KILIÇASLAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11501,
+    "neighbor_name": "KIRCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11514,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11502,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11535,
+    "neighbor_name": "KİZİROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11523,
+    "neighbor_name": "KOLTUK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11488,
+    "neighbor_name": "KONUKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11515,
+    "neighbor_name": "KORKUT KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11484,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11509,
+    "neighbor_name": "KUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11516,
+    "neighbor_name": "KUZALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11526,
+    "neighbor_name": "OVABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11533,
+    "neighbor_name": "PUSACAK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11517,
+    "neighbor_name": "SALLAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11489,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11534,
+    "neighbor_name": "SARAYÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11498,
+    "neighbor_name": "SEKÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11530,
+    "neighbor_name": "YAZIYERİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 243,
+    "district_name": "GÜMÜŞHACIKÖY",
+    "neighbor_id": 11503,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11546,
+    "neighbor_name": "ARKUTBEY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11560,
+    "neighbor_name": "HAMİTKAPLAN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11542,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11544,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11556,
+    "neighbor_name": "ALANKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11551,
+    "neighbor_name": "ARPADERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11559,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11547,
+    "neighbor_name": "DAMLADERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11540,
+    "neighbor_name": "DEDEKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11541,
+    "neighbor_name": "GÖÇERİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11552,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11553,
+    "neighbor_name": "HIDIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11557,
+    "neighbor_name": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11543,
+    "neighbor_name": "MAĞARAOBRUĞU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11548,
+    "neighbor_name": "SARAYÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11545,
+    "neighbor_name": "TEKÇAM KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11558,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11554,
+    "neighbor_name": "TUTKUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11549,
+    "neighbor_name": "UMARCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11550,
+    "neighbor_name": "YEMİŞEN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 244,
+    "district_name": "HAMAMÖZÜ",
+    "neighbor_id": 11555,
+    "neighbor_name": "YUKARIOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11602,
+    "neighbor_name": "ABİDEHATUN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11619,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11586,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11596,
+    "neighbor_name": "BUĞDAYLI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11597,
+    "neighbor_name": "CAMİCEDİT MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11570,
+    "neighbor_name": "ESKİ CAMİİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11574,
+    "neighbor_name": "GAZİMAHBUP MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11605,
+    "neighbor_name": "HACIBALI MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11571,
+    "neighbor_name": "HACIHASAN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11624,
+    "neighbor_name": "HARMANLAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11592,
+    "neighbor_name": "HOCASÜLEYMAN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11639,
+    "neighbor_name": "KÜMBET HATUN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11642,
+    "neighbor_name": "MAHSEN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11627,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11628,
+    "neighbor_name": "NACCAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11566,
+    "neighbor_name": "NUSRATİYE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11582,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11578,
+    "neighbor_name": "TAVŞAN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11608,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11631,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11561,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11562,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11643,
+    "neighbor_name": "AKSUNGUR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11585,
+    "neighbor_name": "AKTARLA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11563,
+    "neighbor_name": "ALICIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11636,
+    "neighbor_name": "ALIŞAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11573,
+    "neighbor_name": "AŞAĞIBÜK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11603,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11587,
+    "neighbor_name": "BALGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11564,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11604,
+    "neighbor_name": "BAYAZIT KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11588,
+    "neighbor_name": "BULAK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11589,
+    "neighbor_name": "BÜYÜKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11601,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11584,
+    "neighbor_name": "ÇAVUNDUR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11609,
+    "neighbor_name": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11649,
+    "neighbor_name": "ÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11614,
+    "neighbor_name": "ÇAYIRÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11594,
+    "neighbor_name": "ÇOBANÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11620,
+    "neighbor_name": "DEMİRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11598,
+    "neighbor_name": "DEREALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11621,
+    "neighbor_name": "DİPHACI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11590,
+    "neighbor_name": "ELMAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11632,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11622,
+    "neighbor_name": "EYMİR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11615,
+    "neighbor_name": "GELİNSİNİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11616,
+    "neighbor_name": "GÖKÇEBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11575,
+    "neighbor_name": "GÜMÜŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11644,
+    "neighbor_name": "HACET KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11623,
+    "neighbor_name": "HACIYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11606,
+    "neighbor_name": "HAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11591,
+    "neighbor_name": "HAYRETTİN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11645,
+    "neighbor_name": "HIRKA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11595,
+    "neighbor_name": "İNALANI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11579,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11637,
+    "neighbor_name": "KARACAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11611,
+    "neighbor_name": "KARAMAĞARA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11625,
+    "neighbor_name": "KARAMUSTAFAPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11580,
+    "neighbor_name": "KARATEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11626,
+    "neighbor_name": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11638,
+    "neighbor_name": "KAYADÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11576,
+    "neighbor_name": "KIREYMİR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11641,
+    "neighbor_name": "KIZILEĞREK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11633,
+    "neighbor_name": "KOÇ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11565,
+    "neighbor_name": "KUYU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11577,
+    "neighbor_name": "KÜÇÜKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11581,
+    "neighbor_name": "MAHMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11599,
+    "neighbor_name": "MUŞRUF KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11617,
+    "neighbor_name": "ORTABÜK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11572,
+    "neighbor_name": "ORTAOVA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11607,
+    "neighbor_name": "OSMANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11612,
+    "neighbor_name": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11646,
+    "neighbor_name": "OYMAK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11618,
+    "neighbor_name": "PEKMEZCİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11634,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11647,
+    "neighbor_name": "SARIBUĞDAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11629,
+    "neighbor_name": "SARI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11600,
+    "neighbor_name": "SAZLICA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11567,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11610,
+    "neighbor_name": "ŞEYHYENİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 49500,
+    "neighbor_name": "TÜRKOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11593,
+    "neighbor_name": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11635,
+    "neighbor_name": "YAKUP KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11648,
+    "neighbor_name": "YALNIZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11640,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11568,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11630,
+    "neighbor_name": "YEŞİLÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11583,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11613,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 245,
+    "district_name": "MERZİFON",
+    "neighbor_id": 11569,
+    "neighbor_name": "YUKARIBÜK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11654,
+    "neighbor_name": "ATA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11670,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11683,
+    "neighbor_name": "BİR EYLÜL MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11657,
+    "neighbor_name": "BORSA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11665,
+    "neighbor_name": "CEVİZDİBİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11697,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11682,
+    "neighbor_name": "ÇELTEKMADENİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11688,
+    "neighbor_name": "EYMİR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11693,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11675,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11704,
+    "neighbor_name": "HACIBAYRAM MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11667,
+    "neighbor_name": "HACIHAYTA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11705,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11707,
+    "neighbor_name": "MAARİF MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11687,
+    "neighbor_name": "MAGOSA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11701,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11671,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11695,
+    "neighbor_name": "SARAYDÜZÜ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11659,
+    "neighbor_name": "ŞEKER MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11681,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11661,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11672,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11663,
+    "neighbor_name": "ALABEDİR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11650,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11664,
+    "neighbor_name": "ARUCAK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11703,
+    "neighbor_name": "AŞAĞIKARASU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11679,
+    "neighbor_name": "AYRANCI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11656,
+    "neighbor_name": "BAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11673,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11684,
+    "neighbor_name": "CÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11710,
+    "neighbor_name": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11699,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11692,
+    "neighbor_name": "DEREBAŞALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11666,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11668,
+    "neighbor_name": "DEVECİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11708,
+    "neighbor_name": "EĞRİBÜK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11674,
+    "neighbor_name": "ERASLAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11651,
+    "neighbor_name": "HARMANAĞILI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11709,
+    "neighbor_name": "KANATPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11660,
+    "neighbor_name": "KAPANCI AĞILI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11685,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11655,
+    "neighbor_name": "KAZANLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11658,
+    "neighbor_name": "KERİMOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11677,
+    "neighbor_name": "KILIÇASLAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11652,
+    "neighbor_name": "KIRANBAŞALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11706,
+    "neighbor_name": "KOLAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11678,
+    "neighbor_name": "KULU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11686,
+    "neighbor_name": "KURNAZ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11676,
+    "neighbor_name": "KUTLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11698,
+    "neighbor_name": "KUZALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11669,
+    "neighbor_name": "KÜPELİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11694,
+    "neighbor_name": "OĞULBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11702,
+    "neighbor_name": "ORTAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11700,
+    "neighbor_name": "ÖZALAKADI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11689,
+    "neighbor_name": "SALUCU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11696,
+    "neighbor_name": "SAYGILI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11680,
+    "neighbor_name": "SEYFE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11690,
+    "neighbor_name": "SOKU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11691,
+    "neighbor_name": "UZUNOBA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11653,
+    "neighbor_name": "YOLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 246,
+    "district_name": "SULUOVA",
+    "neighbor_id": 11662,
+    "neighbor_name": "YÜZBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11760,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11767,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11736,
+    "neighbor_name": "SANAYİİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11742,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11720,
+    "neighbor_name": "YEMİŞEN MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11768,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11727,
+    "neighbor_name": "YEŞİLIRMAK MAH."
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11777,
+    "neighbor_name": "ALÇAKBEL KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11711,
+    "neighbor_name": "ALPASLAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11730,
+    "neighbor_name": "ALTINLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11731,
+    "neighbor_name": "ANDIRAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11772,
+    "neighbor_name": "ARDIÇÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11732,
+    "neighbor_name": "ARPADERESİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11722,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11723,
+    "neighbor_name": "BELEVİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11724,
+    "neighbor_name": "BORABOY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11721,
+    "neighbor_name": "ÇAKIRSU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11769,
+    "neighbor_name": "ÇALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11738,
+    "neighbor_name": "ÇAMBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11759,
+    "neighbor_name": "ÇAYDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11754,
+    "neighbor_name": "ÇILKIDIR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11718,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11778,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11779,
+    "neighbor_name": "DESTEK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11712,
+    "neighbor_name": "DEVRE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11756,
+    "neighbor_name": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11755,
+    "neighbor_name": "DURUCASU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11733,
+    "neighbor_name": "DUTLUK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11773,
+    "neighbor_name": "ELMAKIRI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11770,
+    "neighbor_name": "ESENÇAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11743,
+    "neighbor_name": "GEMİBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11734,
+    "neighbor_name": "GEYDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11744,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11745,
+    "neighbor_name": "GÜNGÖRMÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11774,
+    "neighbor_name": "GÜRSU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11713,
+    "neighbor_name": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11775,
+    "neighbor_name": "HACIBEY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11746,
+    "neighbor_name": "HÜSNÜOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11761,
+    "neighbor_name": "ILICA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11780,
+    "neighbor_name": "ILIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11749,
+    "neighbor_name": "KARABÜK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11719,
+    "neighbor_name": "KARAMUK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11750,
+    "neighbor_name": "KARLIK KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11762,
+    "neighbor_name": "KARSAVUL KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11747,
+    "neighbor_name": "KAVALOLUĞU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11751,
+    "neighbor_name": "KIRKHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11763,
+    "neighbor_name": "KIZGÜLDÜREN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11757,
+    "neighbor_name": "KORUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11771,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11735,
+    "neighbor_name": "KUMLUCA KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11714,
+    "neighbor_name": "MERCİMEKKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11725,
+    "neighbor_name": "MÜLKBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11776,
+    "neighbor_name": "ÖZBARAKLI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11726,
+    "neighbor_name": "SEPETLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11739,
+    "neighbor_name": "SOFUALAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11728,
+    "neighbor_name": "ŞAHİNLER KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11729,
+    "neighbor_name": "ŞEYHLİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11715,
+    "neighbor_name": "TATLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11764,
+    "neighbor_name": "TEKKE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11741,
+    "neighbor_name": "TEKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11752,
+    "neighbor_name": "TÜRKMENDAMI KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11740,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11737,
+    "neighbor_name": "YAYLADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11753,
+    "neighbor_name": "YAYLASARAY KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11716,
+    "neighbor_name": "YENİDERE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11758,
+    "neighbor_name": "YERKOZLU KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11748,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11765,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11766,
+    "neighbor_name": "YOLAÇAN KÖYÜ"
+  },
+  {
+    "city_id": 18,
+    "city_name": "AMASYA",
+    "district_id": 247,
+    "district_name": "TAŞOVA",
+    "neighbor_id": 11717,
+    "neighbor_name": "YUKARIBARAKLI KÖYÜ"
+  }
+]
