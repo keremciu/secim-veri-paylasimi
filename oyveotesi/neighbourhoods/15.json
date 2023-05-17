@@ -1,0 +1,5018 @@
+[
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9262,
+    "neighbor_name": "ALİTAŞI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9313,
+    "neighbor_name": "ALTINŞEHİR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9353,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9300,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9281,
+    "neighbor_name": "BARBAROS HAYRETTİN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9243,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9286,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9386,
+    "neighbor_name": "ESKİSARAY MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9301,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9356,
+    "neighbor_name": "HOCAÖMER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9211,
+    "neighbor_name": "İMAMAĞA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9334,
+    "neighbor_name": "KAPCAMİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9245,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9374,
+    "neighbor_name": "KAYALIK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9326,
+    "neighbor_name": "MALAZGİRT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9303,
+    "neighbor_name": "MARA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9268,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9254,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9279,
+    "neighbor_name": "MUSALLA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9280,
+    "neighbor_name": "ÖRENLİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9247,
+    "neighbor_name": "SIRATUT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9377,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9239,
+    "neighbor_name": "SÜMEREVLER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9349,
+    "neighbor_name": "TURGUT REİS MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9291,
+    "neighbor_name": "TÜRKİYE PETROLLERİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9274,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9259,
+    "neighbor_name": "VARLIK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9318,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9261,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9359,
+    "neighbor_name": "YENİPINAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9227,
+    "neighbor_name": "YENİ SANAYİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9271,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9272,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9308,
+    "neighbor_name": "KÖMÜR-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9309,
+    "neighbor_name": "KÖMÜR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9302,
+    "neighbor_name": "KÖMÜR-ESENCE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9298,
+    "neighbor_name": "KÖMÜR-GAZİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9257,
+    "neighbor_name": "KÖMÜR-HASANKAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9324,
+    "neighbor_name": "KÖMÜR-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9329,
+    "neighbor_name": "KÖMÜR-MUSTAFA YÜCEL ÖZBİLGİN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9357,
+    "neighbor_name": "KÖMÜR-SERİNTEPE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9347,
+    "neighbor_name": "KÖMÜR-YAKACIK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9337,
+    "neighbor_name": "KÖMÜR-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9379,
+    "neighbor_name": "YAYLAKONAK-ÇATDERESİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9260,
+    "neighbor_name": "YAYLAKONAK-ÇİMENKE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9369,
+    "neighbor_name": "YAYLAKONAK-İNCEKOZ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9330,
+    "neighbor_name": "YAYLAKONAK-KARAÇALI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9378,
+    "neighbor_name": "YAYLAKONAK-MERKEZ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9299,
+    "neighbor_name": "YAYLAKONAK-ZİVAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9222,
+    "neighbor_name": "100.YIL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9389,
+    "neighbor_name": "AĞAÇKONAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9371,
+    "neighbor_name": "AĞCİN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9341,
+    "neighbor_name": "AĞİKAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 50009,
+    "neighbor_name": "AĞVEREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9339,
+    "neighbor_name": "AHMETHOCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9344,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9327,
+    "neighbor_name": "AKDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9361,
+    "neighbor_name": "AKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9340,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9223,
+    "neighbor_name": "AKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9266,
+    "neighbor_name": "ALBET KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9209,
+    "neighbor_name": "ALİBEY KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9352,
+    "neighbor_name": "ATAKENT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9292,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9284,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9212,
+    "neighbor_name": "BAĞDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9383,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9218,
+    "neighbor_name": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9293,
+    "neighbor_name": "BAĞPINAR KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9372,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9382,
+    "neighbor_name": "BATTALHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9294,
+    "neighbor_name": "BEBEK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9295,
+    "neighbor_name": "BOZATLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9251,
+    "neighbor_name": "BOZHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9214,
+    "neighbor_name": "BOZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9354,
+    "neighbor_name": "BÖRKENEK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9276,
+    "neighbor_name": "BÜKLÜM KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9332,
+    "neighbor_name": "BÜYÜKKAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9345,
+    "neighbor_name": "BÜYÜKKIRIKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9283,
+    "neighbor_name": "ÇAKMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9265,
+    "neighbor_name": "ÇAMGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9242,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9241,
+    "neighbor_name": "ÇAMYURDU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9305,
+    "neighbor_name": "ÇATALAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9391,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9331,
+    "neighbor_name": "ÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9388,
+    "neighbor_name": "ÇEMBERLİTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 49946,
+    "neighbor_name": "ÇENÇENG KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9250,
+    "neighbor_name": "ÇINARİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9311,
+    "neighbor_name": "ÇOBANDEDE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9314,
+    "neighbor_name": "DAMDIRMAZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9229,
+    "neighbor_name": "DAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9384,
+    "neighbor_name": "DARDAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9320,
+    "neighbor_name": "DAVUTHAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9306,
+    "neighbor_name": "DERİNSU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9385,
+    "neighbor_name": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9296,
+    "neighbor_name": "DOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9346,
+    "neighbor_name": "DOYRAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9297,
+    "neighbor_name": "DURAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9273,
+    "neighbor_name": "DURUKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9215,
+    "neighbor_name": "DÜZCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9285,
+    "neighbor_name": "EKİNCİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9342,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9366,
+    "neighbor_name": "ESENCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9307,
+    "neighbor_name": "ESKİHÜSNÜMANSUR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9256,
+    "neighbor_name": "GİRİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9315,
+    "neighbor_name": "GÖKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9343,
+    "neighbor_name": "GÖLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9328,
+    "neighbor_name": "GÖZEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9355,
+    "neighbor_name": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9230,
+    "neighbor_name": "GÜMÜŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9373,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9277,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9321,
+    "neighbor_name": "HACIHALİL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9316,
+    "neighbor_name": "HASANCIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9252,
+    "neighbor_name": "HASANKENDİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9333,
+    "neighbor_name": "ILICAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9387,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9234,
+    "neighbor_name": "İNCEBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9312,
+    "neighbor_name": "İNCELER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9360,
+    "neighbor_name": "İPEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9244,
+    "neighbor_name": "KALBURCU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9335,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9322,
+    "neighbor_name": "KARAGÖL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9235,
+    "neighbor_name": "KARAHÖYÜK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9231,
+    "neighbor_name": "KARAKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9224,
+    "neighbor_name": "KAŞKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9210,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9367,
+    "neighbor_name": "KAYACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9368,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9362,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9236,
+    "neighbor_name": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9263,
+    "neighbor_name": "KEMERKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9375,
+    "neighbor_name": "KINDIRALİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9237,
+    "neighbor_name": "KIZILCAHÖYÜK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9363,
+    "neighbor_name": "KIZILCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9216,
+    "neighbor_name": "KOÇALİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9323,
+    "neighbor_name": "KORUKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9232,
+    "neighbor_name": "KOZAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9253,
+    "neighbor_name": "KUŞAKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9267,
+    "neighbor_name": "KUŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9336,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9278,
+    "neighbor_name": "KUYULU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9238,
+    "neighbor_name": "KÜÇÜKHASANCIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9325,
+    "neighbor_name": "KÜLAFHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9287,
+    "neighbor_name": "LOKMAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9364,
+    "neighbor_name": "MALPINARI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9246,
+    "neighbor_name": "MESTAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9288,
+    "neighbor_name": "OLGUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9319,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9390,
+    "neighbor_name": "ORMANİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9348,
+    "neighbor_name": "PALANLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9358,
+    "neighbor_name": "PAŞAMEZRASI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9264,
+    "neighbor_name": "PAYAMLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9351,
+    "neighbor_name": "PINARYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9304,
+    "neighbor_name": "REZİP KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9269,
+    "neighbor_name": "SARIHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9225,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9376,
+    "neighbor_name": "SERHATLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9213,
+    "neighbor_name": "ŞEMİKAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9228,
+    "neighbor_name": "ŞEREFLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9317,
+    "neighbor_name": "TAŞGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9248,
+    "neighbor_name": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9270,
+    "neighbor_name": "TECİR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9233,
+    "neighbor_name": "TEKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9258,
+    "neighbor_name": "TERMAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9289,
+    "neighbor_name": "TOPTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9217,
+    "neighbor_name": "UĞURCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9226,
+    "neighbor_name": "ULUDAM KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9255,
+    "neighbor_name": "UZUNKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9370,
+    "neighbor_name": "UZUNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9350,
+    "neighbor_name": "ÜÇDİREK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9282,
+    "neighbor_name": "VARLIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9290,
+    "neighbor_name": "YARMAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9275,
+    "neighbor_name": "YAYLADAMI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9249,
+    "neighbor_name": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9380,
+    "neighbor_name": "YAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9219,
+    "neighbor_name": "YEDİOLUK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9220,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9240,
+    "neighbor_name": "YENİGÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9221,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9338,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9365,
+    "neighbor_name": "ZEY KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 192,
+    "district_name": "ADIYAMAN MERKEZ",
+    "neighbor_id": 9381,
+    "neighbor_name": "ZİYARETPAYAMLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9405,
+    "neighbor_name": "15 TEMMUZ ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 49616,
+    "neighbor_name": "ALİ ERDEMOĞLU MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9449,
+    "neighbor_name": "AŞAĞISARHAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9478,
+    "neighbor_name": "CİRİT MEYDANI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9413,
+    "neighbor_name": "ÇAT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9432,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9397,
+    "neighbor_name": "ERDEMOĞLU MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9438,
+    "neighbor_name": "KAYMAKAM HASAN TÜTÜN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9466,
+    "neighbor_name": "KORUPINAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9444,
+    "neighbor_name": "OYALI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9400,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9494,
+    "neighbor_name": "YENİ BESNİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9445,
+    "neighbor_name": "YUKARI SARHAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9483,
+    "neighbor_name": "ÇAKIRHÜYÜK-ABIMISTIK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9412,
+    "neighbor_name": "ÇAKIRHÜYÜK-BOYBEYPINARI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9457,
+    "neighbor_name": "ÇAKIRHÜYÜK-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9465,
+    "neighbor_name": "ÇAKIRHÜYÜK-LEVZİN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9453,
+    "neighbor_name": "ÇAKIRHÜYÜK-YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9427,
+    "neighbor_name": "KESMETEPE-ATATÜRK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9416,
+    "neighbor_name": "KESMETEPE-ÇAKMAK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9463,
+    "neighbor_name": "KESMETEPE-FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9490,
+    "neighbor_name": "KESMETEPE-İNCE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9428,
+    "neighbor_name": "KESMETEPE-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9471,
+    "neighbor_name": "KESMETEPE-TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9452,
+    "neighbor_name": "KÖSECELİ-AŞAĞISÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9426,
+    "neighbor_name": "KÖSECELİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9429,
+    "neighbor_name": "KÖSECELİ-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9404,
+    "neighbor_name": "KÖSECELİ-TETİRLİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9476,
+    "neighbor_name": "SUVARLI-ADALET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9394,
+    "neighbor_name": "SUVARLI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9491,
+    "neighbor_name": "SUVARLI-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9459,
+    "neighbor_name": "ŞAMBAYAT-BAYAT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9468,
+    "neighbor_name": "ŞAMBAYAT-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9489,
+    "neighbor_name": "ŞAMBAYAT-FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9460,
+    "neighbor_name": "ŞAMBAYAT-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9446,
+    "neighbor_name": "ŞAMBAYAT-MENDERES MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9414,
+    "neighbor_name": "ŞAMBAYAT-YENİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9485,
+    "neighbor_name": "AKDURAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9440,
+    "neighbor_name": "AKKUYU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9406,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9454,
+    "neighbor_name": "AKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9407,
+    "neighbor_name": "AKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9415,
+    "neighbor_name": "ALIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9408,
+    "neighbor_name": "ALİŞAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9392,
+    "neighbor_name": "AŞAĞIÇÖPLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9455,
+    "neighbor_name": "ATMALI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9423,
+    "neighbor_name": "BAHRİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9431,
+    "neighbor_name": "BAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9441,
+    "neighbor_name": "BEREKETLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9442,
+    "neighbor_name": "BERETE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9424,
+    "neighbor_name": "BEŞKOZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9443,
+    "neighbor_name": "BEŞYOL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9486,
+    "neighbor_name": "BONCUK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9477,
+    "neighbor_name": "BURUNÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9393,
+    "neighbor_name": "CAMUŞÇU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9461,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9488,
+    "neighbor_name": "ÇAYKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9448,
+    "neighbor_name": "ÇİLBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9484,
+    "neighbor_name": "ÇOMAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9410,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9401,
+    "neighbor_name": "DİKİLİTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9436,
+    "neighbor_name": "DOĞANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9479,
+    "neighbor_name": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9480,
+    "neighbor_name": "EĞERLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9473,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9433,
+    "neighbor_name": "GÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9450,
+    "neighbor_name": "GÜNEYKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9437,
+    "neighbor_name": "HACIHALİL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9425,
+    "neighbor_name": "HARMANARDI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9402,
+    "neighbor_name": "HASANLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9411,
+    "neighbor_name": "İZOLLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9469,
+    "neighbor_name": "KARAGÜVEÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9462,
+    "neighbor_name": "KARALAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9470,
+    "neighbor_name": "KARGALI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9434,
+    "neighbor_name": "KESECİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9417,
+    "neighbor_name": "KIZILHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9398,
+    "neighbor_name": "KIZILİN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9472,
+    "neighbor_name": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9458,
+    "neighbor_name": "KIZILPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9451,
+    "neighbor_name": "KONUKLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9403,
+    "neighbor_name": "KURUGÖL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9439,
+    "neighbor_name": "KUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9456,
+    "neighbor_name": "KUZEVLERİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9474,
+    "neighbor_name": "OYRATLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9422,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9399,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9467,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9475,
+    "neighbor_name": "SARIYAPRAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9395,
+    "neighbor_name": "SAYÖREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9409,
+    "neighbor_name": "SUGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9492,
+    "neighbor_name": "TAŞLIYAZI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9396,
+    "neighbor_name": "TEKAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9481,
+    "neighbor_name": "TOKAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9487,
+    "neighbor_name": "TOKLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9419,
+    "neighbor_name": "TOPKAPI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9464,
+    "neighbor_name": "UZUNKUYU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9435,
+    "neighbor_name": "ÜÇGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9430,
+    "neighbor_name": "YAYIKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9418,
+    "neighbor_name": "YAZIBEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9482,
+    "neighbor_name": "YAZIKARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9420,
+    "neighbor_name": "YELBASTI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9421,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9447,
+    "neighbor_name": "YOLDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 193,
+    "district_name": "BESNİ",
+    "neighbor_id": 9493,
+    "neighbor_name": "YUKARISÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9562,
+    "neighbor_name": "BAHÇELİ EVLER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9549,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9533,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9540,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9545,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9552,
+    "neighbor_name": "MAHMUT NEDİM ÖKMEN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9541,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9539,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9547,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9568,
+    "neighbor_name": "PINARBAŞI-AKTAŞ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9563,
+    "neighbor_name": "PINARBAŞI-BALIKBURUN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9560,
+    "neighbor_name": "PINARBAŞI-CAMİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9553,
+    "neighbor_name": "PINARBAŞI-ÇAMLIYAYLA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9564,
+    "neighbor_name": "PINARBAŞI-HACILAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9543,
+    "neighbor_name": "PINARBAŞI-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9542,
+    "neighbor_name": "PINARBAŞI-KAYA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9561,
+    "neighbor_name": "PINARBAŞI-KURUDERE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9555,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9556,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9557,
+    "neighbor_name": "ASKERHAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9550,
+    "neighbor_name": "BOZGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9536,
+    "neighbor_name": "ÇAMPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9544,
+    "neighbor_name": "FATİH KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9546,
+    "neighbor_name": "GÖLBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9569,
+    "neighbor_name": "İNCİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9551,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9534,
+    "neighbor_name": "KARAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9558,
+    "neighbor_name": "KARAGÖL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9559,
+    "neighbor_name": "KORUCAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9535,
+    "neighbor_name": "KÖSEUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9567,
+    "neighbor_name": "MUTLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9537,
+    "neighbor_name": "RECEP KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9548,
+    "neighbor_name": "ŞEREFHAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9565,
+    "neighbor_name": "YAĞIZATLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9554,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9566,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 195,
+    "district_name": "ÇELİKHAN",
+    "neighbor_id": 9538,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9035,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9029,
+    "neighbor_name": "KELEŞAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9025,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9053,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9032,
+    "neighbor_name": "AÇMA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9033,
+    "neighbor_name": "AĞAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9057,
+    "neighbor_name": "AŞAĞIDAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9048,
+    "neighbor_name": "BEŞGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9058,
+    "neighbor_name": "BEYBOSTAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9017,
+    "neighbor_name": "BUDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9012,
+    "neighbor_name": "BURÇAKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9018,
+    "neighbor_name": "CEVİZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9036,
+    "neighbor_name": "ÇAMİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9015,
+    "neighbor_name": "ÇİFTHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9023,
+    "neighbor_name": "ÇOBANPINARI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9049,
+    "neighbor_name": "DAĞDEVİREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9034,
+    "neighbor_name": "DALLARCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9040,
+    "neighbor_name": "DEMİRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9013,
+    "neighbor_name": "ESKİKENT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9059,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9050,
+    "neighbor_name": "GÖLYURT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9051,
+    "neighbor_name": "GÖNAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9041,
+    "neighbor_name": "GÖZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9044,
+    "neighbor_name": "GÜMÜŞKAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9028,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9060,
+    "neighbor_name": "GÜNGÖRMÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9042,
+    "neighbor_name": "GÜRGENLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9045,
+    "neighbor_name": "GÜZELSU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9024,
+    "neighbor_name": "KAŞYAZI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9030,
+    "neighbor_name": "KESERTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9054,
+    "neighbor_name": "KILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9055,
+    "neighbor_name": "KONACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9046,
+    "neighbor_name": "KORULU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9021,
+    "neighbor_name": "KOŞARLAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9022,
+    "neighbor_name": "KÖKLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9056,
+    "neighbor_name": "KÜTÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9047,
+    "neighbor_name": "NAKIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9043,
+    "neighbor_name": "ONEVLER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9052,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9037,
+    "neighbor_name": "OYMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9038,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9019,
+    "neighbor_name": "SEYİTMAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9039,
+    "neighbor_name": "SUTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9016,
+    "neighbor_name": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9026,
+    "neighbor_name": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9020,
+    "neighbor_name": "YAYLADALI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9027,
+    "neighbor_name": "YENİBARDAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9014,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 189,
+    "district_name": "GERGER",
+    "neighbor_id": 9031,
+    "neighbor_name": "YUKARIDAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9609,
+    "neighbor_name": "ASFALT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9575,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9605,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9577,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9578,
+    "neighbor_name": "KURUGEÇİT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9614,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9612,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9588,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9590,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9580,
+    "neighbor_name": "BALKAR-ASFALT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9616,
+    "neighbor_name": "BALKAR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9596,
+    "neighbor_name": "BELÖREN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9581,
+    "neighbor_name": "BELÖREN-MERKEZ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9606,
+    "neighbor_name": "HARMANLI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9608,
+    "neighbor_name": "HARMANLI-ÇAKMAK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9571,
+    "neighbor_name": "HARMANLI-KALEMKAS MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9607,
+    "neighbor_name": "HARMANLI-YENİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9594,
+    "neighbor_name": "AKÇABEL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9615,
+    "neighbor_name": "AKÇAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9601,
+    "neighbor_name": "AKTOPRAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9610,
+    "neighbor_name": "AŞAĞIAZAPLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9603,
+    "neighbor_name": "AŞAĞIKARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9595,
+    "neighbor_name": "AŞAĞINASIRLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9602,
+    "neighbor_name": "BAĞLARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9604,
+    "neighbor_name": "CANKARA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9593,
+    "neighbor_name": "ÇATALAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9600,
+    "neighbor_name": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9574,
+    "neighbor_name": "ÇELİKKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9576,
+    "neighbor_name": "GEDİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9570,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9586,
+    "neighbor_name": "HAMZALAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9597,
+    "neighbor_name": "HAYDARLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9591,
+    "neighbor_name": "KARABAHŞILI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9587,
+    "neighbor_name": "KARABURUN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9598,
+    "neighbor_name": "KÖSÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9592,
+    "neighbor_name": "KÜÇÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9613,
+    "neighbor_name": "MEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9582,
+    "neighbor_name": "OZAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9579,
+    "neighbor_name": "ÖRENLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9589,
+    "neighbor_name": "SAVRAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9611,
+    "neighbor_name": "YARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9572,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9583,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9584,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9585,
+    "neighbor_name": "YUKARIÇÖPLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9573,
+    "neighbor_name": "YUKARIKARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 196,
+    "district_name": "GÖLBAŞI",
+    "neighbor_id": 9599,
+    "neighbor_name": "YUKARINASIRLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9072,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9107,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9122,
+    "neighbor_name": "BAYRAKTAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9156,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9066,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9102,
+    "neighbor_name": "ÇOBANLI MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9151,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9169,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9184,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9117,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9182,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9141,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9133,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9088,
+    "neighbor_name": "ŞEYHBABA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9119,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9124,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9084,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9063,
+    "neighbor_name": "AKINCILAR-AKINCILAR ATATÜRK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9148,
+    "neighbor_name": "AKINCILAR-ÇAMLICA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9186,
+    "neighbor_name": "AKINCILAR-KILAVUZ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9071,
+    "neighbor_name": "AKINCILAR-SOĞUKSU MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9112,
+    "neighbor_name": "BÖLÜKYAYLA-ATATÜRK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9097,
+    "neighbor_name": "BÖLÜKYAYLA-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9085,
+    "neighbor_name": "BÖLÜKYAYLA-FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9091,
+    "neighbor_name": "BÖLÜKYAYLA-KANGÜLÜ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9096,
+    "neighbor_name": "ADALI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9062,
+    "neighbor_name": "AKALIN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9183,
+    "neighbor_name": "AKDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9153,
+    "neighbor_name": "AKKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9140,
+    "neighbor_name": "AKKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9111,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9136,
+    "neighbor_name": "AKYILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9121,
+    "neighbor_name": "ALİDAM KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9064,
+    "neighbor_name": "ARILI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9106,
+    "neighbor_name": "AYDINPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9103,
+    "neighbor_name": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9149,
+    "neighbor_name": "BAĞÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9075,
+    "neighbor_name": "BALLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9131,
+    "neighbor_name": "BELENLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9100,
+    "neighbor_name": "BELÖREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9142,
+    "neighbor_name": "BEŞİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9143,
+    "neighbor_name": "BOĞAZKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9180,
+    "neighbor_name": "BOSTANLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9163,
+    "neighbor_name": "BOZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9172,
+    "neighbor_name": "BOZTARLA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9167,
+    "neighbor_name": "BURMAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9144,
+    "neighbor_name": "BÜYÜKBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9145,
+    "neighbor_name": "BÜYÜKBEJYAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9080,
+    "neighbor_name": "BÜYÜKBEY KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9168,
+    "neighbor_name": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9099,
+    "neighbor_name": "ÇAKIREŞME KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9137,
+    "neighbor_name": "ÇALTILI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9155,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9126,
+    "neighbor_name": "ÇARDAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9120,
+    "neighbor_name": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9116,
+    "neighbor_name": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9135,
+    "neighbor_name": "ÇIRALIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9134,
+    "neighbor_name": "ÇUKURTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9181,
+    "neighbor_name": "DAMLACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9067,
+    "neighbor_name": "DARDAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9165,
+    "neighbor_name": "DİKENLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9086,
+    "neighbor_name": "DOLUCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9174,
+    "neighbor_name": "DUMLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9187,
+    "neighbor_name": "DUT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9173,
+    "neighbor_name": "ECELER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9101,
+    "neighbor_name": "EKİNCİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9146,
+    "neighbor_name": "ELBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9164,
+    "neighbor_name": "ERİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9147,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9081,
+    "neighbor_name": "ESENDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9158,
+    "neighbor_name": "ESKİ KAHTA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9109,
+    "neighbor_name": "ESKİTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9166,
+    "neighbor_name": "FISTIKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9082,
+    "neighbor_name": "GELDİBULDU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9127,
+    "neighbor_name": "GÖÇERİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9077,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9113,
+    "neighbor_name": "GÖLGELİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9078,
+    "neighbor_name": "GÜDÜLGE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9110,
+    "neighbor_name": "GÜZELÇAY KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9152,
+    "neighbor_name": "HABİPLER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9159,
+    "neighbor_name": "HACIYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9132,
+    "neighbor_name": "HAMZALAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9118,
+    "neighbor_name": "HASANDİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9160,
+    "neighbor_name": "HASKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9092,
+    "neighbor_name": "IŞIKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9090,
+    "neighbor_name": "İKİZCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9087,
+    "neighbor_name": "İSLAMKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9108,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9114,
+    "neighbor_name": "KARADUT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9161,
+    "neighbor_name": "KARAMAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9068,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9129,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9069,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9076,
+    "neighbor_name": "KOÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9105,
+    "neighbor_name": "KOZAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9089,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9170,
+    "neighbor_name": "MENZİL KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9083,
+    "neighbor_name": "MÜLKKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9115,
+    "neighbor_name": "NARİNCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9065,
+    "neighbor_name": "NARLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9175,
+    "neighbor_name": "NARSIRTI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9128,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9093,
+    "neighbor_name": "ORTANCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9061,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9123,
+    "neighbor_name": "SALKIMBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9185,
+    "neighbor_name": "SARISU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9157,
+    "neighbor_name": "SIRACA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9104,
+    "neighbor_name": "SIRAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9176,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9171,
+    "neighbor_name": "ŞAHİNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9139,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9138,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9073,
+    "neighbor_name": "TAŞLIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9162,
+    "neighbor_name": "TEĞMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9177,
+    "neighbor_name": "TEKNECİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9094,
+    "neighbor_name": "TUĞLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9178,
+    "neighbor_name": "TURANLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9070,
+    "neighbor_name": "TÜTENOCAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9154,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9079,
+    "neighbor_name": "YAPRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9150,
+    "neighbor_name": "YELKOVAN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9179,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9130,
+    "neighbor_name": "YENİKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9098,
+    "neighbor_name": "YEŞİLKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9095,
+    "neighbor_name": "YOLALTI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9125,
+    "neighbor_name": "ZEYTİN KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 190,
+    "district_name": "KAHTA",
+    "neighbor_id": 9074,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9633,
+    "neighbor_name": "BARAJ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9625,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9632,
+    "neighbor_name": "ÖRENTAŞ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9618,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9624,
+    "neighbor_name": "AKDAMAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9629,
+    "neighbor_name": "BAĞARASI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9628,
+    "neighbor_name": "BAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9631,
+    "neighbor_name": "ÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9634,
+    "neighbor_name": "DOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9619,
+    "neighbor_name": "GÖLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9620,
+    "neighbor_name": "GÖLTARLA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9630,
+    "neighbor_name": "KIRMACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9621,
+    "neighbor_name": "KIZILÖZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9622,
+    "neighbor_name": "KOVANOLUK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9623,
+    "neighbor_name": "KUŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9626,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9617,
+    "neighbor_name": "TAŞKUYU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9635,
+    "neighbor_name": "TEPEÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9627,
+    "neighbor_name": "UZUNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 197,
+    "district_name": "SAMSAT",
+    "neighbor_id": 9636,
+    "neighbor_name": "YARIMBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9515,
+    "neighbor_name": "AYENGİN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9505,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9517,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9511,
+    "neighbor_name": "KARAMAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9506,
+    "neighbor_name": "MAHMUTOĞLU MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9527,
+    "neighbor_name": "ONUR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9500,
+    "neighbor_name": "ZEYNEL ASLAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9501,
+    "neighbor_name": "İNLİCE-ÇINAR MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9518,
+    "neighbor_name": "İNLİCE-ÇÜKAN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9514,
+    "neighbor_name": "İNLİCE-FIRAT MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9496,
+    "neighbor_name": "İNLİCE-KARADAĞ MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9502,
+    "neighbor_name": "İNLİCE-ÖZBİLGİN MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9509,
+    "neighbor_name": "İNLİCE-TAŞLICA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9532,
+    "neighbor_name": "İNLİCE-TUNA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9519,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9497,
+    "neighbor_name": "ALANCIK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9530,
+    "neighbor_name": "ARIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9516,
+    "neighbor_name": "BALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9524,
+    "neighbor_name": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9529,
+    "neighbor_name": "ÇATBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9513,
+    "neighbor_name": "ÇAT KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9525,
+    "neighbor_name": "DİLEKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9520,
+    "neighbor_name": "ESKİKÖY"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9531,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9526,
+    "neighbor_name": "HASANLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9521,
+    "neighbor_name": "HÜSEYİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9510,
+    "neighbor_name": "KARAKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9498,
+    "neighbor_name": "NARLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9508,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9499,
+    "neighbor_name": "SAKIZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9512,
+    "neighbor_name": "SERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9523,
+    "neighbor_name": "SÖĞÜTLÜBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9522,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9504,
+    "neighbor_name": "ŞAHİNBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9503,
+    "neighbor_name": "ŞAHKOLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9528,
+    "neighbor_name": "TAŞKALE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9495,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 194,
+    "district_name": "SİNCİK",
+    "neighbor_id": 9507,
+    "neighbor_name": "YARPUZLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9188,
+    "neighbor_name": "AYNİYE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9189,
+    "neighbor_name": "BULANIK MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9203,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9201,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9205,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9207,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9190,
+    "neighbor_name": "SALAH MAH."
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9195,
+    "neighbor_name": "AKÇATEPE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9202,
+    "neighbor_name": "BOYUNDERE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9193,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9204,
+    "neighbor_name": "ELÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9196,
+    "neighbor_name": "HAVUTLU KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9197,
+    "neighbor_name": "KAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9198,
+    "neighbor_name": "KÖSELİ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9206,
+    "neighbor_name": "MERYEMUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9194,
+    "neighbor_name": "ÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9191,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9208,
+    "neighbor_name": "ÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9199,
+    "neighbor_name": "YALANKOZ KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9192,
+    "neighbor_name": "YAYLIMLI KÖYÜ"
+  },
+  {
+    "city_id": 15,
+    "city_name": "ADIYAMAN",
+    "district_id": 191,
+    "district_name": "TUT",
+    "neighbor_id": 9200,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  }
+]

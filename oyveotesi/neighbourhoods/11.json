@@ -1,0 +1,5298 @@
+[
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7231,
+    "neighbor_name": "100.YIL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7278,
+    "neighbor_name": "ABİDE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7279,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7222,
+    "neighbor_name": "AŞAĞIKÜPKIRAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7257,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7274,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7192,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7262,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7227,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7193,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7263,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7258,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7253,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7212,
+    "neighbor_name": "LEYLEK PINAR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7194,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7229,
+    "neighbor_name": "MURAT MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7230,
+    "neighbor_name": "SITKIYE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7251,
+    "neighbor_name": "YAVUZ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7206,
+    "neighbor_name": "AĞILBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7196,
+    "neighbor_name": "AHMETBEY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7197,
+    "neighbor_name": "AKBULGUR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50216,
+    "neighbor_name": "AKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7284,
+    "neighbor_name": "ANAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7188,
+    "neighbor_name": "ARAKONAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7269,
+    "neighbor_name": "ASLANGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7256,
+    "neighbor_name": "AŞAĞIAĞADEVE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50035,
+    "neighbor_name": "AŞAĞIDÜRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7270,
+    "neighbor_name": "AŞAĞIKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7246,
+    "neighbor_name": "AŞAĞIPAMUKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7198,
+    "neighbor_name": "AŞAĞISAKLICA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7271,
+    "neighbor_name": "AŞAĞIYOLDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7214,
+    "neighbor_name": "AŞKALE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7184,
+    "neighbor_name": "BADILLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7232,
+    "neighbor_name": "BALIKSU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7264,
+    "neighbor_name": "BALKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7280,
+    "neighbor_name": "BALLIBOSTAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7238,
+    "neighbor_name": "BALOLUK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7233,
+    "neighbor_name": "BAŞÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7207,
+    "neighbor_name": "BAŞKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50217,
+    "neighbor_name": "BEŞBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50192,
+    "neighbor_name": "BEŞİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7215,
+    "neighbor_name": "BEZİRHANE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7191,
+    "neighbor_name": "BOZTOPRAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7273,
+    "neighbor_name": "BÖLÜKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7261,
+    "neighbor_name": "CUMAÇAY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7249,
+    "neighbor_name": "ÇAKIROBA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7260,
+    "neighbor_name": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7213,
+    "neighbor_name": "ÇATALİPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7255,
+    "neighbor_name": "ÇAYIRKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50089,
+    "neighbor_name": "ÇOBANBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7283,
+    "neighbor_name": "ÇUKURALAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7245,
+    "neighbor_name": "ÇUKURÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7223,
+    "neighbor_name": "DEDEMAKSUT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7199,
+    "neighbor_name": "DOĞUTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7208,
+    "neighbor_name": "DÖNERDERE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50194,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7250,
+    "neighbor_name": "EĞRİBELEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7247,
+    "neighbor_name": "ELİAÇIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7226,
+    "neighbor_name": "ESENKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7275,
+    "neighbor_name": "ESKİHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7202,
+    "neighbor_name": "GEÇİTALAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7224,
+    "neighbor_name": "GÜMÜŞYAZI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7216,
+    "neighbor_name": "GÜNEYSU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7209,
+    "neighbor_name": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7265,
+    "neighbor_name": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49756,
+    "neighbor_name": "HACISEFER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7210,
+    "neighbor_name": "HANOBA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7189,
+    "neighbor_name": "HIDIR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7266,
+    "neighbor_name": "KALENDER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7200,
+    "neighbor_name": "KARASU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7239,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50164,
+    "neighbor_name": "KAVAKKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7228,
+    "neighbor_name": "KAYABEY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7276,
+    "neighbor_name": "KAZLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49995,
+    "neighbor_name": "KOCATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7211,
+    "neighbor_name": "KONUKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7248,
+    "neighbor_name": "KOVANCIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7203,
+    "neighbor_name": "KUMLUGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49772,
+    "neighbor_name": "MOLLAALİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7217,
+    "neighbor_name": "MOLLAOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7241,
+    "neighbor_name": "MURATHAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7218,
+    "neighbor_name": "MURAT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7277,
+    "neighbor_name": "OĞLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50165,
+    "neighbor_name": "ORTAKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7242,
+    "neighbor_name": "ORTAYOKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49562,
+    "neighbor_name": "OTLUBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7201,
+    "neighbor_name": "OZANLAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50182,
+    "neighbor_name": "ÖZBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50159,
+    "neighbor_name": "ÖZVEREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50012,
+    "neighbor_name": "SABUNCU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49643,
+    "neighbor_name": "SAĞIRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7219,
+    "neighbor_name": "SARICA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7243,
+    "neighbor_name": "SARIDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50173,
+    "neighbor_name": "SARIHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 50170,
+    "neighbor_name": "SARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7254,
+    "neighbor_name": "SOĞANCUMAÇAY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7267,
+    "neighbor_name": "SOĞANKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7281,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7204,
+    "neighbor_name": "SUÇATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7282,
+    "neighbor_name": "TAŞTEKNE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7185,
+    "neighbor_name": "TAYPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49690,
+    "neighbor_name": "TELLİSIRT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7268,
+    "neighbor_name": "TEZEREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7234,
+    "neighbor_name": "UÇARKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7259,
+    "neighbor_name": "UZUNVELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7190,
+    "neighbor_name": "YAKINCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49583,
+    "neighbor_name": "YALNIZKONAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7220,
+    "neighbor_name": "YAYLAKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7240,
+    "neighbor_name": "YAZICI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7221,
+    "neighbor_name": "YAZILI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7195,
+    "neighbor_name": "YIĞINTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7236,
+    "neighbor_name": "YOLLUYAZI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7237,
+    "neighbor_name": "YOLUGÜZEL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7205,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49577,
+    "neighbor_name": "YORGUNSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7235,
+    "neighbor_name": "YUKARIAĞADEVE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7244,
+    "neighbor_name": "YUKARIDÜRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7225,
+    "neighbor_name": "YUKARIKÜPKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 49861,
+    "neighbor_name": "YUKARIPAMUKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7186,
+    "neighbor_name": "YUKARISAKLICA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7272,
+    "neighbor_name": "YUKARIYOLDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7252,
+    "neighbor_name": "YURTPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 157,
+    "district_name": "AĞRI MERKEZ",
+    "neighbor_id": 7187,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7388,
+    "neighbor_name": "14 NİSAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7374,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7403,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7409,
+    "neighbor_name": "GÖL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7407,
+    "neighbor_name": "İSAAĞA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7414,
+    "neighbor_name": "KETENPINAR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7380,
+    "neighbor_name": "MURAT MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7411,
+    "neighbor_name": "AKÇEVRE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7400,
+    "neighbor_name": "AKYOLAÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7373,
+    "neighbor_name": "ALTINKİLİT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7401,
+    "neighbor_name": "AŞAĞIAKPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7389,
+    "neighbor_name": "AŞAĞIDALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7412,
+    "neighbor_name": "AŞAĞIKARDEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 49852,
+    "neighbor_name": "AŞAĞITÜTEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 50004,
+    "neighbor_name": "ATADAMI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7369,
+    "neighbor_name": "ATAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7408,
+    "neighbor_name": "BATIBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7425,
+    "neighbor_name": "BOYALAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7393,
+    "neighbor_name": "BUDAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7413,
+    "neighbor_name": "BURGULU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7426,
+    "neighbor_name": "BÜVETLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7397,
+    "neighbor_name": "DAVUT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7370,
+    "neighbor_name": "DEDEBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7420,
+    "neighbor_name": "DELİHASAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7402,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7398,
+    "neighbor_name": "DOKUZTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7427,
+    "neighbor_name": "GEDİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7375,
+    "neighbor_name": "GÖZÜPEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7421,
+    "neighbor_name": "GÜNBULDU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7422,
+    "neighbor_name": "HACIHALİT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7404,
+    "neighbor_name": "HEYBELİYURT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7387,
+    "neighbor_name": "İSAAĞA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7410,
+    "neighbor_name": "KAPANCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7405,
+    "neighbor_name": "KARAPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7416,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7382,
+    "neighbor_name": "KOCAÇOBAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7390,
+    "neighbor_name": "KOTANCI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7394,
+    "neighbor_name": "KUŞBURNU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7391,
+    "neighbor_name": "KUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7428,
+    "neighbor_name": "MOLLAKARA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7376,
+    "neighbor_name": "MUTLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7377,
+    "neighbor_name": "OĞULOBA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7395,
+    "neighbor_name": "OMUZBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7383,
+    "neighbor_name": "PİRALİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 49589,
+    "neighbor_name": "RAHMANKULU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7384,
+    "neighbor_name": "SATICILAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 50209,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7406,
+    "neighbor_name": "SÜRENKÖK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7371,
+    "neighbor_name": "SÜRMELİKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7419,
+    "neighbor_name": "ŞAHİNŞAH KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7379,
+    "neighbor_name": "ŞEKERBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7423,
+    "neighbor_name": "TAŞBASAMAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7396,
+    "neighbor_name": "TAŞKESEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7417,
+    "neighbor_name": "TAZEKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7378,
+    "neighbor_name": "TOKLUCAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7418,
+    "neighbor_name": "ULUKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7372,
+    "neighbor_name": "UYSALLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7415,
+    "neighbor_name": "YANIKÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7392,
+    "neighbor_name": "YENİÇADIR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7385,
+    "neighbor_name": "YEŞİLDURAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 50102,
+    "neighbor_name": "YILDIRIM KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7424,
+    "neighbor_name": "YILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7429,
+    "neighbor_name": "YOLCUPINARI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7381,
+    "neighbor_name": "YÖRÜKATLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7399,
+    "neighbor_name": "YUKARIAKPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7386,
+    "neighbor_name": "YUKARIDALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 50060,
+    "neighbor_name": "YUKARITÜTEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 159,
+    "district_name": "DİYADİN",
+    "neighbor_id": 7430,
+    "neighbor_name": "YUVA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7359,
+    "neighbor_name": "ABDİGÖR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7301,
+    "neighbor_name": "AHMEDİHANİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7305,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7328,
+    "neighbor_name": "BÜYÜK AĞRI MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7357,
+    "neighbor_name": "ÇİFTEPINAR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7293,
+    "neighbor_name": "HASANKEYF MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7307,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7358,
+    "neighbor_name": "İSHAKPAŞA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7321,
+    "neighbor_name": "KOÇKIRAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7303,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7334,
+    "neighbor_name": "SARIGÜL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7322,
+    "neighbor_name": "ULUYOL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7304,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7336,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7348,
+    "neighbor_name": "AKTARLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7349,
+    "neighbor_name": "AKTUĞLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7312,
+    "neighbor_name": "ALINTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7319,
+    "neighbor_name": "AŞAĞITAVLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7350,
+    "neighbor_name": "ATABAKAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7288,
+    "neighbor_name": "AYRANCI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7320,
+    "neighbor_name": "BARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7289,
+    "neighbor_name": "BARINDI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7290,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7341,
+    "neighbor_name": "BEREKET KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49523,
+    "neighbor_name": "BESLER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7339,
+    "neighbor_name": "BEZİRHANE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7306,
+    "neighbor_name": "BİNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7342,
+    "neighbor_name": "BOZKURT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 50177,
+    "neighbor_name": "BOZYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7324,
+    "neighbor_name": "BÖLÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7323,
+    "neighbor_name": "BULAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7351,
+    "neighbor_name": "BUYURETTİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7337,
+    "neighbor_name": "ÇALIKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7356,
+    "neighbor_name": "ÇETENLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7368,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7310,
+    "neighbor_name": "ÇÖMÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7313,
+    "neighbor_name": "DAĞDELEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7343,
+    "neighbor_name": "DALBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 50166,
+    "neighbor_name": "DEMİRTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7365,
+    "neighbor_name": "DOLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 50057,
+    "neighbor_name": "DOSTALİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7333,
+    "neighbor_name": "ESKİSU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7314,
+    "neighbor_name": "ESNEMEZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49849,
+    "neighbor_name": "GÖKÇEKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7315,
+    "neighbor_name": "GÖLLER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49956,
+    "neighbor_name": "GÖLYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7366,
+    "neighbor_name": "GÖZÜKARA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7352,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7325,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 50178,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7292,
+    "neighbor_name": "GÜNYOLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7360,
+    "neighbor_name": "GÜRBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 50169,
+    "neighbor_name": "HALAÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7318,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7344,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7345,
+    "neighbor_name": "KARABULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7329,
+    "neighbor_name": "KARABURUN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7294,
+    "neighbor_name": "KARACA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7353,
+    "neighbor_name": "KARAKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7316,
+    "neighbor_name": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7285,
+    "neighbor_name": "KARGAKONMAZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7298,
+    "neighbor_name": "KAZAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7295,
+    "neighbor_name": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 50162,
+    "neighbor_name": "KUCAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7326,
+    "neighbor_name": "KUTLUBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7354,
+    "neighbor_name": "MELİKŞAH KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7302,
+    "neighbor_name": "MESCİTKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7347,
+    "neighbor_name": "ORTADİREK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7308,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7338,
+    "neighbor_name": "ÖRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7311,
+    "neighbor_name": "ÖRTÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7330,
+    "neighbor_name": "PULLUTARLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7332,
+    "neighbor_name": "SAĞDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7309,
+    "neighbor_name": "SAĞLIKSUYU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7367,
+    "neighbor_name": "SARIBIYIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49837,
+    "neighbor_name": "SARIÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7331,
+    "neighbor_name": "SAZOBA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49482,
+    "neighbor_name": "SESLİTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7355,
+    "neighbor_name": "SOMKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49436,
+    "neighbor_name": "SUBEŞİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7327,
+    "neighbor_name": "SULUÇEM KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7361,
+    "neighbor_name": "TANIKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7335,
+    "neighbor_name": "TELÇEKER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7291,
+    "neighbor_name": "TOPÇATAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7286,
+    "neighbor_name": "TUTAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7362,
+    "neighbor_name": "TUTUMLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7287,
+    "neighbor_name": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7346,
+    "neighbor_name": "ÜÇGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7340,
+    "neighbor_name": "ÜÇMURAT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7300,
+    "neighbor_name": "ÜZENGİLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7296,
+    "neighbor_name": "YAĞMURDÜŞEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7317,
+    "neighbor_name": "YALINSAZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7299,
+    "neighbor_name": "YANOBA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49689,
+    "neighbor_name": "YAYGINYURT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7363,
+    "neighbor_name": "YENİHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49439,
+    "neighbor_name": "YIĞINÇAL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7297,
+    "neighbor_name": "YILANLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 49920,
+    "neighbor_name": "YİĞİTYATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 158,
+    "district_name": "DOĞUBAYAZIT",
+    "neighbor_id": 7364,
+    "neighbor_name": "YUKARITAVLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6901,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6858,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6850,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6870,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6877,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6913,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6903,
+    "neighbor_name": "LOZAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6849,
+    "neighbor_name": "MÜFTÜSELİM MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6874,
+    "neighbor_name": "TAHİR-AYDINTEPE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6897,
+    "neighbor_name": "TAHİR-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6878,
+    "neighbor_name": "TAHİR-YEŞİL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6879,
+    "neighbor_name": "YAYLADÜZÜ-AŞAĞICİHANBEY MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6875,
+    "neighbor_name": "YAYLADÜZÜ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6876,
+    "neighbor_name": "YAYLADÜZÜ-DEĞİRMENGEÇİDİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6884,
+    "neighbor_name": "YAYLADÜZÜ-GÖKÇAYIR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6847,
+    "neighbor_name": "YAYLADÜZÜ-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6891,
+    "neighbor_name": "YÜCEKAPI-ESENTEPE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6907,
+    "neighbor_name": "YÜCEKAPI-OKLAVALI MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6869,
+    "neighbor_name": "YÜCEKAPI-ŞEHİT ENGİN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6893,
+    "neighbor_name": "YÜCEKAPI-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6904,
+    "neighbor_name": "ABDİKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6890,
+    "neighbor_name": "AKYUMAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6909,
+    "neighbor_name": "ALAGÜN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6865,
+    "neighbor_name": "ALKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6910,
+    "neighbor_name": "ARİFBEY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6866,
+    "neighbor_name": "AŞAĞIKOPUZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6871,
+    "neighbor_name": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6899,
+    "neighbor_name": "ÇATALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6889,
+    "neighbor_name": "ÇATKÖSEDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6886,
+    "neighbor_name": "ÇETİNSU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6864,
+    "neighbor_name": "ÇİFTEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6900,
+    "neighbor_name": "DALKILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6881,
+    "neighbor_name": "DEĞİRMENOLUĞU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6857,
+    "neighbor_name": "DOLUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6894,
+    "neighbor_name": "DÜZAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6915,
+    "neighbor_name": "DÜZYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6872,
+    "neighbor_name": "ERGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6887,
+    "neighbor_name": "GONCALI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6905,
+    "neighbor_name": "GÖZAYDIN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6888,
+    "neighbor_name": "GÜNEYKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6916,
+    "neighbor_name": "GÜVENCE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6852,
+    "neighbor_name": "HASANPINARI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6911,
+    "neighbor_name": "HAYDAROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6902,
+    "neighbor_name": "HAYRANGÖL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6867,
+    "neighbor_name": "HÜRRİYET KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6851,
+    "neighbor_name": "İKİZGEÇE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6880,
+    "neighbor_name": "İKİZGÖL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6856,
+    "neighbor_name": "İNDERE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6912,
+    "neighbor_name": "KANATGEREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6859,
+    "neighbor_name": "KARABACAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 50053,
+    "neighbor_name": "KAYAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 49783,
+    "neighbor_name": "KOKULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6848,
+    "neighbor_name": "KÖRPEÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6868,
+    "neighbor_name": "MOLLAHÜSEYİN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6853,
+    "neighbor_name": "MOLLASÜLEYMAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6908,
+    "neighbor_name": "ÖZTOPRAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6896,
+    "neighbor_name": "PALAKÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6860,
+    "neighbor_name": "PİRABAT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6861,
+    "neighbor_name": "RAMAZAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6895,
+    "neighbor_name": "SADAKLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6883,
+    "neighbor_name": "SALKIMLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6882,
+    "neighbor_name": "SARIKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6873,
+    "neighbor_name": "SÖBETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6862,
+    "neighbor_name": "SULTANABAT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6892,
+    "neighbor_name": "SÜZGEÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6846,
+    "neighbor_name": "TOPRAKKALE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6914,
+    "neighbor_name": "TÜRKELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6863,
+    "neighbor_name": "ULUDAL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6854,
+    "neighbor_name": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 50189,
+    "neighbor_name": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6898,
+    "neighbor_name": "YANIKDERE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6885,
+    "neighbor_name": "YELKESEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6855,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 6906,
+    "neighbor_name": "YIĞINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 152,
+    "district_name": "ELEŞKİRT",
+    "neighbor_id": 49874,
+    "neighbor_name": "YUKARIKOPUZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6927,
+    "neighbor_name": "BUZHANE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6947,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6942,
+    "neighbor_name": "KÜMBET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6951,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6920,
+    "neighbor_name": "ABDİÇIKMAZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6937,
+    "neighbor_name": "ADIMOVA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 50172,
+    "neighbor_name": "AKYURT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6944,
+    "neighbor_name": "ALAKOYUN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6925,
+    "neighbor_name": "AŞAĞIALADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6945,
+    "neighbor_name": "AŞAĞIDEREDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6931,
+    "neighbor_name": "AŞAĞIGÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6959,
+    "neighbor_name": "AŞAĞIKARABAL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6926,
+    "neighbor_name": "AŞAĞIYENİGÜN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 50200,
+    "neighbor_name": "AYVACIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6938,
+    "neighbor_name": "BALDERE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6921,
+    "neighbor_name": "BEKLEMEZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6939,
+    "neighbor_name": "CEYLANLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6936,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6946,
+    "neighbor_name": "DANAKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6922,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6955,
+    "neighbor_name": "EKİNCİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 50205,
+    "neighbor_name": "ERDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 50135,
+    "neighbor_name": "ESENÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6949,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6923,
+    "neighbor_name": "GÜMÜŞKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6934,
+    "neighbor_name": "KAÇMAZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 50180,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6917,
+    "neighbor_name": "KANDİLDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6932,
+    "neighbor_name": "KARADOĞU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6928,
+    "neighbor_name": "KARAKAZAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6918,
+    "neighbor_name": "KARASEYİTALİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6941,
+    "neighbor_name": "KARLICA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6933,
+    "neighbor_name": "KAYNAKLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6924,
+    "neighbor_name": "KILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6956,
+    "neighbor_name": "KÖŞK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6960,
+    "neighbor_name": "NALLIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6954,
+    "neighbor_name": "ÖZDİREK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6929,
+    "neighbor_name": "SARIBUĞDAY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6957,
+    "neighbor_name": "SESLİDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6950,
+    "neighbor_name": "SEYİTHANBEY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6919,
+    "neighbor_name": "SOĞANLITEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6958,
+    "neighbor_name": "SÜLEYMANKÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6930,
+    "neighbor_name": "TÜKENMEZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 49545,
+    "neighbor_name": "UĞURTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6940,
+    "neighbor_name": "YAPILI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6935,
+    "neighbor_name": "YOĞUNHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6943,
+    "neighbor_name": "YUKARIALADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6952,
+    "neighbor_name": "YUKARIGÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6948,
+    "neighbor_name": "YUKARIYENİGÜN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 153,
+    "district_name": "HAMUR",
+    "neighbor_id": 6953,
+    "neighbor_name": "YUVACIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7045,
+    "neighbor_name": "14 NİSAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7039,
+    "neighbor_name": "ABDULVEHAP KÜFREVİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7046,
+    "neighbor_name": "AHMED-İ HANİ MAHALLESİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7026,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7052,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7010,
+    "neighbor_name": "BADİŞAN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7053,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7014,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7012,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6966,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6976,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7008,
+    "neighbor_name": "SARISU MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7064,
+    "neighbor_name": "SELAHADDİNİ EYYUBİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7027,
+    "neighbor_name": "SERHAD MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7030,
+    "neighbor_name": "SÜPHAN DAĞI MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6972,
+    "neighbor_name": "SÜTLÜ PINAR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7068,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6988,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7025,
+    "neighbor_name": "YEŞİL ÇİMEN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7013,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 49721,
+    "neighbor_name": "DEDELİ-AKBULUT MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6971,
+    "neighbor_name": "DEDELİ-BUDAK MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6981,
+    "neighbor_name": "DEDELİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 50085,
+    "neighbor_name": "DEDELİ-ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 49621,
+    "neighbor_name": "DEDELİ-DEĞİRMEN MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7019,
+    "neighbor_name": "DEDELİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7011,
+    "neighbor_name": "DEDELİ-ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6991,
+    "neighbor_name": "DEDELİ-YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7043,
+    "neighbor_name": "AKÇAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7009,
+    "neighbor_name": "AKDİLEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7071,
+    "neighbor_name": "AKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6997,
+    "neighbor_name": "AKYEMİŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7055,
+    "neighbor_name": "ALATAY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7044,
+    "neighbor_name": "ANDAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6989,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7034,
+    "neighbor_name": "AŞAĞIGÖÇMEZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6967,
+    "neighbor_name": "AŞAĞIKAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7065,
+    "neighbor_name": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7004,
+    "neighbor_name": "BALTACIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7016,
+    "neighbor_name": "BAŞTARLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6980,
+    "neighbor_name": "BOZOĞLAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6990,
+    "neighbor_name": "BUDAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6979,
+    "neighbor_name": "ÇAKIRBEY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7070,
+    "neighbor_name": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6962,
+    "neighbor_name": "ÇAPUTLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 49492,
+    "neighbor_name": "ÇATMAOLUK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7003,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 50464,
+    "neighbor_name": "ÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7033,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6996,
+    "neighbor_name": "ÇUKURBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7056,
+    "neighbor_name": "DAĞALAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6984,
+    "neighbor_name": "DEĞİRMENDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7024,
+    "neighbor_name": "DEMİRÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6961,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 49666,
+    "neighbor_name": "DİZGİNKALE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6985,
+    "neighbor_name": "DOĞANSU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6993,
+    "neighbor_name": "DÜZCELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6986,
+    "neighbor_name": "EDREMİT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6998,
+    "neighbor_name": "ERGEÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6973,
+    "neighbor_name": "ERYILMAZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6999,
+    "neighbor_name": "ESENBEL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7000,
+    "neighbor_name": "ESKİKONAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6963,
+    "neighbor_name": "GENÇALİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7066,
+    "neighbor_name": "GÖKÇEALİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6974,
+    "neighbor_name": "GÖKOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6987,
+    "neighbor_name": "GÖNLÜAÇIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6975,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7047,
+    "neighbor_name": "GÜNBELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 50062,
+    "neighbor_name": "GÜNDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7040,
+    "neighbor_name": "GÜVERCİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6964,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6982,
+    "neighbor_name": "HASANDOLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7057,
+    "neighbor_name": "HİSAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7015,
+    "neighbor_name": "KARATOKLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 50176,
+    "neighbor_name": "KARBASAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6969,
+    "neighbor_name": "KAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6968,
+    "neighbor_name": "KAZANBEY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7005,
+    "neighbor_name": "KEÇELBABA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7037,
+    "neighbor_name": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7048,
+    "neighbor_name": "KIZKAPAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7007,
+    "neighbor_name": "KOÇAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7058,
+    "neighbor_name": "KONAKBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7067,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7029,
+    "neighbor_name": "KUCAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7072,
+    "neighbor_name": "KURUYAKA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6994,
+    "neighbor_name": "KUŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7063,
+    "neighbor_name": "KÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7049,
+    "neighbor_name": "MEYDANDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7035,
+    "neighbor_name": "MOLLAİBRAHİM KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 50174,
+    "neighbor_name": "ONBAŞILAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7041,
+    "neighbor_name": "ORTADAMLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7020,
+    "neighbor_name": "OYACIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6965,
+    "neighbor_name": "ÖRENDİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7036,
+    "neighbor_name": "ÖZDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7021,
+    "neighbor_name": "PİRÖMER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7001,
+    "neighbor_name": "SAĞRICA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6970,
+    "neighbor_name": "SARIDİBEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7054,
+    "neighbor_name": "SULUCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7022,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7028,
+    "neighbor_name": "TANYELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7059,
+    "neighbor_name": "TAŞKIN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6978,
+    "neighbor_name": "TEPELİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 50225,
+    "neighbor_name": "TEPEÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7050,
+    "neighbor_name": "USLUCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7006,
+    "neighbor_name": "UZUNCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7002,
+    "neighbor_name": "UZUNGÜN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6983,
+    "neighbor_name": "ÜÇOYMAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6977,
+    "neighbor_name": "ÜRKÜT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7038,
+    "neighbor_name": "YALÇINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7042,
+    "neighbor_name": "YEŞİLHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7031,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7023,
+    "neighbor_name": "YUKARIDAMLA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7060,
+    "neighbor_name": "YUKARIGÖÇMEZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7051,
+    "neighbor_name": "YUKARIKAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7061,
+    "neighbor_name": "YUKARIKÜLECİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7017,
+    "neighbor_name": "YURTÖVEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7018,
+    "neighbor_name": "YÜNCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7069,
+    "neighbor_name": "YÜREKVEREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 6995,
+    "neighbor_name": "ZİNCİRKALE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7062,
+    "neighbor_name": "ZİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 154,
+    "district_name": "PATNOS",
+    "neighbor_id": 7032,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7076,
+    "neighbor_name": "15 TEMMUZ ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7107,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7099,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7074,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7084,
+    "neighbor_name": "ALAKOÇLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7092,
+    "neighbor_name": "ARAS KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7096,
+    "neighbor_name": "AŞAĞIDUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7097,
+    "neighbor_name": "AŞAĞIDÜZMEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7085,
+    "neighbor_name": "AŞAĞIESEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7077,
+    "neighbor_name": "AŞAĞITOKLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7108,
+    "neighbor_name": "BALÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7098,
+    "neighbor_name": "BAYIRALTI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7093,
+    "neighbor_name": "BAYRAMYAZI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7094,
+    "neighbor_name": "BOYUNCAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7106,
+    "neighbor_name": "ÇÖĞÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7081,
+    "neighbor_name": "ÇÖKELGE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7073,
+    "neighbor_name": "DİLEKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7086,
+    "neighbor_name": "DÜZGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7109,
+    "neighbor_name": "GEÇİTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7100,
+    "neighbor_name": "GÖZUCU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 50222,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7087,
+    "neighbor_name": "GÜNEYSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7103,
+    "neighbor_name": "İKİYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 49952,
+    "neighbor_name": "KAĞNILI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7101,
+    "neighbor_name": "KARAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7088,
+    "neighbor_name": "KUMLUBUCAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7104,
+    "neighbor_name": "KUMLUCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7095,
+    "neighbor_name": "SAMANYOLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7105,
+    "neighbor_name": "TANRIVERDİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7089,
+    "neighbor_name": "TANYOLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7090,
+    "neighbor_name": "TAŞTEKER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7110,
+    "neighbor_name": "YANALYOL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 49854,
+    "neighbor_name": "YANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7082,
+    "neighbor_name": "YARDIMCILAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7075,
+    "neighbor_name": "YASSIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7083,
+    "neighbor_name": "YELTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7102,
+    "neighbor_name": "YUKARIDUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7078,
+    "neighbor_name": "YUKARIDÜZMEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7079,
+    "neighbor_name": "YUKARIESEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7080,
+    "neighbor_name": "YUKARITAŞLIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 155,
+    "district_name": "TAŞLIÇAY",
+    "neighbor_id": 7091,
+    "neighbor_name": "YUKARITOKLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7112,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7161,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7148,
+    "neighbor_name": "MURAT MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7171,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7158,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7125,
+    "neighbor_name": "ADAKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7166,
+    "neighbor_name": "AHMETABAT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7160,
+    "neighbor_name": "AKYELE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50210,
+    "neighbor_name": "ALACAHAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7126,
+    "neighbor_name": "AŞAĞIKARAHALİT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7134,
+    "neighbor_name": "AŞAĞIKARGALIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7176,
+    "neighbor_name": "AŞAĞIKÖŞKKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7129,
+    "neighbor_name": "AŞAĞIKÜLECİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 49814,
+    "neighbor_name": "AŞAĞIÖZDEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7180,
+    "neighbor_name": "ATABİNDİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7142,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50187,
+    "neighbor_name": "AZİZLER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7156,
+    "neighbor_name": "BAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7127,
+    "neighbor_name": "BATMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7170,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50139,
+    "neighbor_name": "BEYDAMARLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7177,
+    "neighbor_name": "BİNTOSUN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7143,
+    "neighbor_name": "BİŞİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7135,
+    "neighbor_name": "BOLAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7116,
+    "neighbor_name": "BOZKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50066,
+    "neighbor_name": "BULUTPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7121,
+    "neighbor_name": "BURNUBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7155,
+    "neighbor_name": "ÇELEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7159,
+    "neighbor_name": "ÇIRPILI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7183,
+    "neighbor_name": "ÇOBANOBA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7140,
+    "neighbor_name": "ÇUKURKONAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7167,
+    "neighbor_name": "DAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7151,
+    "neighbor_name": "DALDALIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7152,
+    "neighbor_name": "DAMLAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7136,
+    "neighbor_name": "DAYIPINARI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7117,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7178,
+    "neighbor_name": "DİBELEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7179,
+    "neighbor_name": "DİKBIYIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7181,
+    "neighbor_name": "DİKME KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 49809,
+    "neighbor_name": "DOĞANGÜN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7168,
+    "neighbor_name": "DORUKDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7113,
+    "neighbor_name": "DÖNERTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7144,
+    "neighbor_name": "DÖŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7162,
+    "neighbor_name": "EKİNCEK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7122,
+    "neighbor_name": "ERDAL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 49843,
+    "neighbor_name": "ERGEÇİDİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7153,
+    "neighbor_name": "ESMER KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7123,
+    "neighbor_name": "GEÇİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7130,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7118,
+    "neighbor_name": "GÜNEŞGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7173,
+    "neighbor_name": "HACIYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 49568,
+    "neighbor_name": "İKİGÖZÜM KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7120,
+    "neighbor_name": "İPEKKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7146,
+    "neighbor_name": "İSAABAT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7154,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7174,
+    "neighbor_name": "KARACAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7124,
+    "neighbor_name": "KARAHAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50224,
+    "neighbor_name": "KARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7145,
+    "neighbor_name": "KAŞÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7114,
+    "neighbor_name": "KESİK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7115,
+    "neighbor_name": "KILIÇGEDİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7147,
+    "neighbor_name": "MIZRAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50213,
+    "neighbor_name": "MOLLAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50175,
+    "neighbor_name": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7138,
+    "neighbor_name": "OĞLAKSUYU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7149,
+    "neighbor_name": "ORTAYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7119,
+    "neighbor_name": "OTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7131,
+    "neighbor_name": "OZANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7141,
+    "neighbor_name": "ÖNDÜL KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7137,
+    "neighbor_name": "PALANDÖKEN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7132,
+    "neighbor_name": "SARIGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7172,
+    "neighbor_name": "SİNCAN KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7169,
+    "neighbor_name": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7111,
+    "neighbor_name": "SORGUÇLU KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7157,
+    "neighbor_name": "SUVAR KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 50215,
+    "neighbor_name": "ŞEKERBULAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7182,
+    "neighbor_name": "TAŞBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7133,
+    "neighbor_name": "UZUNÖZ KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7150,
+    "neighbor_name": "YAYIKLI KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7165,
+    "neighbor_name": "YENİKENT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7163,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7164,
+    "neighbor_name": "YUKARIKARAHALİT KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7175,
+    "neighbor_name": "YUKARIKARGALIK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7128,
+    "neighbor_name": "YUKARIKÖŞK KÖYÜ"
+  },
+  {
+    "city_id": 11,
+    "city_name": "AĞRI",
+    "district_id": 156,
+    "district_name": "TUTAK",
+    "neighbor_id": 7139,
+    "neighbor_name": "YUKARIÖZDEK KÖYÜ"
+  }
+]

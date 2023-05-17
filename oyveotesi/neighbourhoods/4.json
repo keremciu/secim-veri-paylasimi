@@ -1,0 +1,6970 @@
+[
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1517,
+    "neighbor_name": "AKÇİN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1490,
+    "neighbor_name": "ALİ ÇETİNKAYA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1477,
+    "neighbor_name": "ALİ İHSAN PAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1552,
+    "neighbor_name": "BATTALGAZİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1536,
+    "neighbor_name": "BAYATCIK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1564,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1598,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1602,
+    "neighbor_name": "ÇAKIR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1599,
+    "neighbor_name": "DEMİRÇEVRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1519,
+    "neighbor_name": "DÖRTYOL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1585,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1510,
+    "neighbor_name": "ERTUĞRUL GAZİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1478,
+    "neighbor_name": "EŞREFPAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1521,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1473,
+    "neighbor_name": "HATTAT KARAHİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1501,
+    "neighbor_name": "İSMAİL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1484,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1504,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1537,
+    "neighbor_name": "KÜÇÜKÇOBANLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1601,
+    "neighbor_name": "MARULCU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1587,
+    "neighbor_name": "NAZMİ SAATÇİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1551,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1486,
+    "neighbor_name": "OSMAN GAZİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1582,
+    "neighbor_name": "SADIKBEY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1546,
+    "neighbor_name": "SAHİPATA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1589,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1525,
+    "neighbor_name": "TAŞPINAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1547,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1475,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1562,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1597,
+    "neighbor_name": "BEYYAZI-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1565,
+    "neighbor_name": "BEYYAZI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1491,
+    "neighbor_name": "BEYYAZI-ÖRNEK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1539,
+    "neighbor_name": "ÇAYIRBAĞ-ALİ ÇETİNKAYA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1511,
+    "neighbor_name": "ÇAYIRBAĞ-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1500,
+    "neighbor_name": "ÇAYIRBAĞ-HUZUR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1532,
+    "neighbor_name": "ÇAYIRBAĞ-UĞUR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1513,
+    "neighbor_name": "ÇIKRIK-ERENLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1476,
+    "neighbor_name": "ÇIKRIK-YUNUSLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1548,
+    "neighbor_name": "ERKMEN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1544,
+    "neighbor_name": "ERKMEN-FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1567,
+    "neighbor_name": "ERKMEN-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1573,
+    "neighbor_name": "FETHİBEY-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1493,
+    "neighbor_name": "FETHİBEY-YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1559,
+    "neighbor_name": "FETHİBEY-YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1527,
+    "neighbor_name": "GEBECELER-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1518,
+    "neighbor_name": "GEBECELER-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1560,
+    "neighbor_name": "GEBECELER-KOCATEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1524,
+    "neighbor_name": "GEBECELER-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1522,
+    "neighbor_name": "GEBECELER-ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1480,
+    "neighbor_name": "SUSUZ-GÖKHAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1488,
+    "neighbor_name": "SUSUZ-OSMANLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1530,
+    "neighbor_name": "SUSUZ-SAKARYA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1505,
+    "neighbor_name": "SUSUZ-SELÇUKLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1596,
+    "neighbor_name": "BELKARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1576,
+    "neighbor_name": "ÇAVDARLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1577,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1594,
+    "neighbor_name": "GÖZSÜZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1561,
+    "neighbor_name": "HALIMORU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1555,
+    "neighbor_name": "KARAARSLAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1474,
+    "neighbor_name": "KIZILDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1497,
+    "neighbor_name": "KÜÇÜKKALECİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1514,
+    "neighbor_name": "SARIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1592,
+    "neighbor_name": "AKMESCİT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1593,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1566,
+    "neighbor_name": "BURMALI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1492,
+    "neighbor_name": "DAİRECEP MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1534,
+    "neighbor_name": "DERVİŞ PAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1503,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1568,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1526,
+    "neighbor_name": "FAKIPAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1569,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1479,
+    "neighbor_name": "GÜVENEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1494,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1572,
+    "neighbor_name": "HASAN KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1528,
+    "neighbor_name": "HOCA AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1554,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1520,
+    "neighbor_name": "KANLICA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1570,
+    "neighbor_name": "KARAMAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1578,
+    "neighbor_name": "KASIMPAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1579,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1580,
+    "neighbor_name": "KIŞLACIK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1575,
+    "neighbor_name": "MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1581,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1512,
+    "neighbor_name": "OLUCAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1509,
+    "neighbor_name": "ÖRNEKEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1531,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1591,
+    "neighbor_name": "TACI AHMET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1584,
+    "neighbor_name": "VEYSEL KARANİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1516,
+    "neighbor_name": "YARENLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1571,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1600,
+    "neighbor_name": "DEĞİRMENAYVALI-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1502,
+    "neighbor_name": "DEĞİRMENAYVALI-ŞEHİT AHMET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1574,
+    "neighbor_name": "IŞIKLAR-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1540,
+    "neighbor_name": "IŞIKLAR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1535,
+    "neighbor_name": "IŞIKLAR-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1508,
+    "neighbor_name": "IŞIKLAR-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1482,
+    "neighbor_name": "IŞIKLAR-YAKA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1507,
+    "neighbor_name": "IŞIKLAR-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1545,
+    "neighbor_name": "KOCATEPE-KOCATEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1495,
+    "neighbor_name": "KOCATEPE-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1556,
+    "neighbor_name": "NURİBEY-ALİ İHSAN PAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1529,
+    "neighbor_name": "NURİBEY-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1496,
+    "neighbor_name": "NURİBEY-MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1498,
+    "neighbor_name": "NURİBEY-MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1541,
+    "neighbor_name": "SALAR-BARBAROS MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1588,
+    "neighbor_name": "SALAR-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1557,
+    "neighbor_name": "SALAR-GÜMÜŞ TEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1487,
+    "neighbor_name": "SALAR-HALİL İBRAHİM SULTAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1553,
+    "neighbor_name": "SALAR-YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1583,
+    "neighbor_name": "SÜLÜMENLİ-ALTINDAĞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1590,
+    "neighbor_name": "SÜLÜMENLİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1550,
+    "neighbor_name": "SÜLÜMENLİ-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1538,
+    "neighbor_name": "SÜLÜMENLİ-ŞEKER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1515,
+    "neighbor_name": "SÜLÜMENLİ-ULUCAMİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1506,
+    "neighbor_name": "SÜLÜMENLİ-ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1481,
+    "neighbor_name": "SÜLÜN-GÜLTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1489,
+    "neighbor_name": "SÜLÜN-HİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1563,
+    "neighbor_name": "ALCALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1533,
+    "neighbor_name": "ANITKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1558,
+    "neighbor_name": "BAYRAMGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1472,
+    "neighbor_name": "BOSTANLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1543,
+    "neighbor_name": "BURHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1483,
+    "neighbor_name": "KAPLANLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1586,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1485,
+    "neighbor_name": "KÖPRÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1549,
+    "neighbor_name": "OLUCAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1523,
+    "neighbor_name": "OMUZCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1499,
+    "neighbor_name": "SAADET KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1595,
+    "neighbor_name": "SARAYDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 30,
+    "district_name": "AFYONKARAHİSAR MERKEZ",
+    "neighbor_id": 1542,
+    "neighbor_name": "YARIMCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2133,
+    "neighbor_name": "AŞAĞI HİLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2123,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2135,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2136,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2124,
+    "neighbor_name": "GÜLİSTAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2138,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2126,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2128,
+    "neighbor_name": "YUKARI HİLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2130,
+    "neighbor_name": "AKKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2131,
+    "neighbor_name": "AKKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2132,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2122,
+    "neighbor_name": "AŞAĞI BELTARLA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2129,
+    "neighbor_name": "ÇEVLİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2121,
+    "neighbor_name": "ÇIĞRI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2134,
+    "neighbor_name": "EKİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2119,
+    "neighbor_name": "HIRKAKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2137,
+    "neighbor_name": "KÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2125,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2139,
+    "neighbor_name": "SARIKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2127,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2120,
+    "neighbor_name": "YASSIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 44,
+    "district_name": "BAŞMAKÇI",
+    "neighbor_id": 2140,
+    "neighbor_name": "YUKARIBELTARLA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2115,
+    "neighbor_name": "BÜYÜK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2116,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2110,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2105,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2114,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2103,
+    "neighbor_name": "AŞAĞIÇAYBELEN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2118,
+    "neighbor_name": "ÇUKURKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2108,
+    "neighbor_name": "DERBENT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2109,
+    "neighbor_name": "ESKİGÖMÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2113,
+    "neighbor_name": "İMRALLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2107,
+    "neighbor_name": "İNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2111,
+    "neighbor_name": "KUZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2104,
+    "neighbor_name": "MALLICA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2106,
+    "neighbor_name": "MURATKORU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2112,
+    "neighbor_name": "SAĞIRLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 43,
+    "district_name": "BAYAT",
+    "neighbor_id": 2117,
+    "neighbor_name": "YUKARIÇAYBELEN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1638,
+    "neighbor_name": "AKÇEŞME MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1629,
+    "neighbor_name": "ALACA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1641,
+    "neighbor_name": "ALİ EFENDİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1605,
+    "neighbor_name": "AŞAĞI GÖKÇEYAYLA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1674,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1668,
+    "neighbor_name": "BADEMLİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1634,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1653,
+    "neighbor_name": "BAĞLARÜSTÜ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1642,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1645,
+    "neighbor_name": "BEKİR AĞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1675,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1646,
+    "neighbor_name": "CİRİT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1624,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1669,
+    "neighbor_name": "EMRULLAH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1676,
+    "neighbor_name": "ERKMEN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1616,
+    "neighbor_name": "ETHEM KELEKÇİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1659,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1627,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1623,
+    "neighbor_name": "HACI ESAT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1660,
+    "neighbor_name": "HACI HALİFE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1630,
+    "neighbor_name": "HACI ÖMER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1617,
+    "neighbor_name": "HACI YUSUF MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1678,
+    "neighbor_name": "HASTANE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1649,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1652,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1677,
+    "neighbor_name": "İMARET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1671,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1607,
+    "neighbor_name": "KARABAĞLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1621,
+    "neighbor_name": "KAYMAZ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1647,
+    "neighbor_name": "KESTEMET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1667,
+    "neighbor_name": "KIRKGÖZ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1636,
+    "neighbor_name": "KIRKLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1679,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1661,
+    "neighbor_name": "LALA SİNAN PAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1662,
+    "neighbor_name": "MALAZGİRT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1618,
+    "neighbor_name": "MESCİT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1640,
+    "neighbor_name": "MÜSLÜMANA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1619,
+    "neighbor_name": "ÖMEROĞLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1672,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1632,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1604,
+    "neighbor_name": "ŞAZİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1608,
+    "neighbor_name": "ŞIHLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1670,
+    "neighbor_name": "TAŞAĞIL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1650,
+    "neighbor_name": "YAKUP ŞEVKİ PAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1628,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1656,
+    "neighbor_name": "YENİ DOĞAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1613,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1614,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1657,
+    "neighbor_name": "YUKARI GÖKÇEYAYLA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1610,
+    "neighbor_name": "DİŞLİ-ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1606,
+    "neighbor_name": "DİŞLİ-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1665,
+    "neighbor_name": "DİŞLİ-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1666,
+    "neighbor_name": "DİŞLİ-MALAZGİRT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1654,
+    "neighbor_name": "DİŞLİ-MEVLANA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1655,
+    "neighbor_name": "DİŞLİ-OKUL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1626,
+    "neighbor_name": "DİŞLİ-ŞEYH ŞAMİL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1615,
+    "neighbor_name": "DİŞLİ-YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1609,
+    "neighbor_name": "DİŞLİ-YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1658,
+    "neighbor_name": "DİŞLİ-YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1644,
+    "neighbor_name": "ÖZBURUN-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1673,
+    "neighbor_name": "ÖZBURUN-ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1651,
+    "neighbor_name": "ÖZBURUN-ŞEHİRÖNÜ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1633,
+    "neighbor_name": "ÖZBURUN-ULUCAMİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1664,
+    "neighbor_name": "ÖZBURUN-ÜSKÜDAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1639,
+    "neighbor_name": "BÜYÜKKARABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1635,
+    "neighbor_name": "DEREKARABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1625,
+    "neighbor_name": "DİPEVLER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1643,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1648,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1620,
+    "neighbor_name": "KARAYOKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1611,
+    "neighbor_name": "KEMERKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1603,
+    "neighbor_name": "KURUCAOVA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1622,
+    "neighbor_name": "KUTLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1663,
+    "neighbor_name": "NUSRATLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1612,
+    "neighbor_name": "ORTAKARABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1631,
+    "neighbor_name": "TAŞAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1637,
+    "neighbor_name": "TAŞLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 31,
+    "district_name": "BOLVADİN",
+    "neighbor_id": 1680,
+    "neighbor_name": "YÜRÜKKARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1785,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1820,
+    "neighbor_name": "ALİ İHSAN PAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1794,
+    "neighbor_name": "ALİ KALELİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1815,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1808,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1809,
+    "neighbor_name": "CEDİT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1810,
+    "neighbor_name": "DEMİRAĞAÇ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1795,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1799,
+    "neighbor_name": "ELBİZ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1814,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1813,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1805,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1819,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1797,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1824,
+    "neighbor_name": "VAKIF MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1804,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1783,
+    "neighbor_name": "YEŞİLEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1796,
+    "neighbor_name": "KARAMIKKARACAÖREN-AŞAĞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1817,
+    "neighbor_name": "KARAMIKKARACAÖREN-BAĞLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1812,
+    "neighbor_name": "KARAMIKKARACAÖREN-SEKA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1790,
+    "neighbor_name": "KARAMIKKARACAÖREN-YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1792,
+    "neighbor_name": "PAZARAĞAÇ-AFYON MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1806,
+    "neighbor_name": "PAZARAĞAÇ-BEŞEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1801,
+    "neighbor_name": "PAZARAĞAÇ-KARABULUT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1782,
+    "neighbor_name": "PAZARAĞAÇ-ORTA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1802,
+    "neighbor_name": "PAZARAĞAÇ-YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1793,
+    "neighbor_name": "AKKONAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1821,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1798,
+    "neighbor_name": "AYDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1786,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1787,
+    "neighbor_name": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1818,
+    "neighbor_name": "ÇAYIRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1807,
+    "neighbor_name": "ÇAYIRYAZI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1811,
+    "neighbor_name": "DERESİNEK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1788,
+    "neighbor_name": "DEVEDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1822,
+    "neighbor_name": "EBER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1789,
+    "neighbor_name": "GÖCEN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1825,
+    "neighbor_name": "İNLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1800,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1816,
+    "neighbor_name": "KARAMIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1780,
+    "neighbor_name": "KILIÇYAKA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1791,
+    "neighbor_name": "KOÇBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1823,
+    "neighbor_name": "MALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1781,
+    "neighbor_name": "ORHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1803,
+    "neighbor_name": "PINARKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 34,
+    "district_name": "ÇAY",
+    "neighbor_id": 1784,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2101,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2092,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2102,
+    "neighbor_name": "IŞIK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2094,
+    "neighbor_name": "KARADEDE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2097,
+    "neighbor_name": "SIRAKAPI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2089,
+    "neighbor_name": "TERMALKENT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2090,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2100,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2091,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2088,
+    "neighbor_name": "KOCAÖZ-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2095,
+    "neighbor_name": "KOCAÖZ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2093,
+    "neighbor_name": "KOCAÖZ-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2096,
+    "neighbor_name": "KOCAÖZ-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2098,
+    "neighbor_name": "AKKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2087,
+    "neighbor_name": "GÖYNÜK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 42,
+    "district_name": "ÇOBANLAR",
+    "neighbor_id": 2099,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1982,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1987,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1985,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1997,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1993,
+    "neighbor_name": "YENİYOL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1994,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1998,
+    "neighbor_name": "AKARCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1989,
+    "neighbor_name": "ARIKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1981,
+    "neighbor_name": "AŞAĞIYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1983,
+    "neighbor_name": "BOZAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 2001,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1984,
+    "neighbor_name": "DARICILAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1996,
+    "neighbor_name": "HASANDEDE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1990,
+    "neighbor_name": "HİSARALAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1988,
+    "neighbor_name": "İDRİS KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1986,
+    "neighbor_name": "KARAAĞAÇKUYUSU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1991,
+    "neighbor_name": "KIZILÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 2002,
+    "neighbor_name": "ÖRTÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1999,
+    "neighbor_name": "SARIKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1992,
+    "neighbor_name": "YAYLAKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 1995,
+    "neighbor_name": "YUKARIYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 39,
+    "district_name": "DAZKIRI",
+    "neighbor_id": 2000,
+    "neighbor_name": "YÜREĞİL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1897,
+    "neighbor_name": "ADLİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1904,
+    "neighbor_name": "ALTMIŞEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1905,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1884,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1898,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1854,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1864,
+    "neighbor_name": "DÖRTYOL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1855,
+    "neighbor_name": "EMNİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1923,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1924,
+    "neighbor_name": "GAZİ MEHMET ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1857,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1893,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1861,
+    "neighbor_name": "İNCİRLİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1830,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1870,
+    "neighbor_name": "İTFAİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1899,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1848,
+    "neighbor_name": "KORUBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1902,
+    "neighbor_name": "OTOGAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1894,
+    "neighbor_name": "PANCAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1878,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1849,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1852,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1926,
+    "neighbor_name": "SANTRAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1862,
+    "neighbor_name": "STADYUM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1850,
+    "neighbor_name": "SUÇIKAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1836,
+    "neighbor_name": "TOPTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1875,
+    "neighbor_name": "ÜÇLERCE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1912,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1865,
+    "neighbor_name": "HAYDARLI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1844,
+    "neighbor_name": "HAYDARLI-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1834,
+    "neighbor_name": "HAYDARLI-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1833,
+    "neighbor_name": "HAYDARLI-MERKEZ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1866,
+    "neighbor_name": "HAYDARLI-OCAKLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1892,
+    "neighbor_name": "HAYDARLI-ÖRNEK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1847,
+    "neighbor_name": "HAYDARLI-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1910,
+    "neighbor_name": "TATARLI-ALTINHİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1886,
+    "neighbor_name": "TATARLI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1887,
+    "neighbor_name": "TATARLI-ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1911,
+    "neighbor_name": "TATARLI-ÇAMLICA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1900,
+    "neighbor_name": "TATARLI-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1828,
+    "neighbor_name": "TATARLI-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1831,
+    "neighbor_name": "AFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1832,
+    "neighbor_name": "AKÇA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1903,
+    "neighbor_name": "AKÇİN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1876,
+    "neighbor_name": "AKGÜN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1841,
+    "neighbor_name": "AKPINARLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1871,
+    "neighbor_name": "AKTOPRAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1922,
+    "neighbor_name": "ALACATLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1880,
+    "neighbor_name": "ALPARSLAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1845,
+    "neighbor_name": "AVDAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1863,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1915,
+    "neighbor_name": "BAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1838,
+    "neighbor_name": "BELENPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1842,
+    "neighbor_name": "BİLGİÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1839,
+    "neighbor_name": "BURUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1906,
+    "neighbor_name": "BÜLÜCALAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1843,
+    "neighbor_name": "CERİTYAYLASI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1853,
+    "neighbor_name": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1874,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1890,
+    "neighbor_name": "ÇAKICI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1840,
+    "neighbor_name": "ÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1851,
+    "neighbor_name": "ÇAPALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1873,
+    "neighbor_name": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1896,
+    "neighbor_name": "ÇİÇEKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1914,
+    "neighbor_name": "ÇOBANSARAY KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1860,
+    "neighbor_name": "ÇÜRÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1881,
+    "neighbor_name": "DİKİCİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1872,
+    "neighbor_name": "DOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1891,
+    "neighbor_name": "DOMBAY KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1916,
+    "neighbor_name": "DUMAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1907,
+    "neighbor_name": "ELDERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1856,
+    "neighbor_name": "ERGENLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1917,
+    "neighbor_name": "GENCELİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1846,
+    "neighbor_name": "GÖÇERLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1826,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1918,
+    "neighbor_name": "KABAKLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1908,
+    "neighbor_name": "KADILAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1858,
+    "neighbor_name": "KARABEDİR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1909,
+    "neighbor_name": "KARAHACILI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1885,
+    "neighbor_name": "KARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1919,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1867,
+    "neighbor_name": "KAZANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1859,
+    "neighbor_name": "KEKLİCEK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1868,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1877,
+    "neighbor_name": "KIZILLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1869,
+    "neighbor_name": "KÖRPELİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1920,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1835,
+    "neighbor_name": "PALAZ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1925,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1827,
+    "neighbor_name": "SÜTLAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1901,
+    "neighbor_name": "TEKİN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1921,
+    "neighbor_name": "TUGAYLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1888,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1895,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1882,
+    "neighbor_name": "YAPAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1829,
+    "neighbor_name": "YELALAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1879,
+    "neighbor_name": "YEŞİLÇAT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1837,
+    "neighbor_name": "YEŞİLHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1913,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1889,
+    "neighbor_name": "YIPRAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 35,
+    "district_name": "DİNAR",
+    "neighbor_id": 1883,
+    "neighbor_name": "YÜKSEL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 50147,
+    "neighbor_name": "ADAÇAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 50168,
+    "neighbor_name": "AZİZİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1328,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1352,
+    "neighbor_name": "ÇİLLİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 50075,
+    "neighbor_name": "EMİRBABA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1345,
+    "neighbor_name": "ESKİ KACERLİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1365,
+    "neighbor_name": "İNCİLİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1353,
+    "neighbor_name": "İNKİLAP MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1309,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1297,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1357,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1298,
+    "neighbor_name": "YENİ KACERLİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1331,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 49434,
+    "neighbor_name": "DAVULGA-ALASAKALLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 49458,
+    "neighbor_name": "DAVULGA-DOMURLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1294,
+    "neighbor_name": "DAVULGA-HİSARKÖY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1283,
+    "neighbor_name": "DAVULGA-İNCİK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1343,
+    "neighbor_name": "DAVULGA-KARAKUYU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 49943,
+    "neighbor_name": "DAVULGA-SOFULU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1368,
+    "neighbor_name": "GÖMÜ-BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1322,
+    "neighbor_name": "GÖMÜ-DÖRTYOL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1305,
+    "neighbor_name": "GÖMÜ-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1334,
+    "neighbor_name": "GÖMÜ-GÖKÇEYAKA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 49739,
+    "neighbor_name": "GÖMÜ-TOKİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1366,
+    "neighbor_name": "ABLAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1333,
+    "neighbor_name": "ADAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1354,
+    "neighbor_name": "AĞILCIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1358,
+    "neighbor_name": "ALİBEYCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1300,
+    "neighbor_name": "AŞAĞIALİÇOMAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1291,
+    "neighbor_name": "AŞAĞIKURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1308,
+    "neighbor_name": "AŞAĞIPİRİBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1327,
+    "neighbor_name": "AVDAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1359,
+    "neighbor_name": "AYDINYAKA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1292,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1342,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1293,
+    "neighbor_name": "BALCAM KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1310,
+    "neighbor_name": "BAŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1311,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1321,
+    "neighbor_name": "BEYÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1304,
+    "neighbor_name": "BURUNARKAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1360,
+    "neighbor_name": "BÜYÜKTUĞLUK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1312,
+    "neighbor_name": "CAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1364,
+    "neighbor_name": "ÇATALLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1320,
+    "neighbor_name": "ÇAYKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1326,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1367,
+    "neighbor_name": "DAĞILGAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1344,
+    "neighbor_name": "DAĞINIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1340,
+    "neighbor_name": "DAYDALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1314,
+    "neighbor_name": "DEMİRCİLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1301,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1284,
+    "neighbor_name": "EKİZCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1302,
+    "neighbor_name": "ELHAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1355,
+    "neighbor_name": "EMİRİNKÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1356,
+    "neighbor_name": "ESKİAKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1315,
+    "neighbor_name": "EŞREFLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1341,
+    "neighbor_name": "GEDİKEVİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1329,
+    "neighbor_name": "GELİNCİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1295,
+    "neighbor_name": "GÖZELİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1335,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1330,
+    "neighbor_name": "GÜNEYSARAY KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1316,
+    "neighbor_name": "GÜVEÇÇİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1346,
+    "neighbor_name": "HAMZAHACILI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1296,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1289,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1369,
+    "neighbor_name": "KARAYATAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1306,
+    "neighbor_name": "KILIÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1336,
+    "neighbor_name": "KILIÇLI KAVLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1323,
+    "neighbor_name": "KIRKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1370,
+    "neighbor_name": "KURUCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1347,
+    "neighbor_name": "LEYLEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1332,
+    "neighbor_name": "ÖRENKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1286,
+    "neighbor_name": "ÖZKAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1303,
+    "neighbor_name": "SALİHLER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1348,
+    "neighbor_name": "SIĞRACIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1349,
+    "neighbor_name": "SOĞUKKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1317,
+    "neighbor_name": "SUVERMEZ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1337,
+    "neighbor_name": "TABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1285,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1338,
+    "neighbor_name": "TEZKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1318,
+    "neighbor_name": "TOKLUCAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1371,
+    "neighbor_name": "TOPDERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1361,
+    "neighbor_name": "TÜRKMENAKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1362,
+    "neighbor_name": "TÜRKMENKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1287,
+    "neighbor_name": "ÜMRANİYE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1307,
+    "neighbor_name": "VEYSEL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1290,
+    "neighbor_name": "YARIKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1319,
+    "neighbor_name": "YARIMCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1324,
+    "neighbor_name": "YAVUZ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1299,
+    "neighbor_name": "YENİKAPI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1363,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1350,
+    "neighbor_name": "YUKARIKURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1325,
+    "neighbor_name": "YUSUFAĞA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 27,
+    "district_name": "EMİRDAĞ",
+    "neighbor_id": 1351,
+    "neighbor_name": "YÜREĞİL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1950,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1951,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1946,
+    "neighbor_name": "KAYALIK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1954,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1955,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1957,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1948,
+    "neighbor_name": "AKYARMA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1956,
+    "neighbor_name": "ALTINOVA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1945,
+    "neighbor_name": "BARAKLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1949,
+    "neighbor_name": "BOSTANCI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1952,
+    "neighbor_name": "GÖKÇEK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1947,
+    "neighbor_name": "KÖRKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 37,
+    "district_name": "EVCİLER",
+    "neighbor_id": 1953,
+    "neighbor_name": "MADENLER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1933,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1932,
+    "neighbor_name": "ŞAFAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1938,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1944,
+    "neighbor_name": "AKÇADERE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1939,
+    "neighbor_name": "AVGANCIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1929,
+    "neighbor_name": "ÇALÇA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1930,
+    "neighbor_name": "ÇEPNİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1934,
+    "neighbor_name": "DAVULGA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1940,
+    "neighbor_name": "DEVLETHAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1935,
+    "neighbor_name": "GÜRE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1931,
+    "neighbor_name": "İHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1936,
+    "neighbor_name": "KOCAGÖL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1937,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1942,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1943,
+    "neighbor_name": "ÖRTÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1941,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1928,
+    "neighbor_name": "YAĞCI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 36,
+    "district_name": "HOCALAR",
+    "neighbor_id": 1927,
+    "neighbor_name": "YEŞİLHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1396,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1403,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 50181,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1377,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 49735,
+    "neighbor_name": "SUSUZ OSMANİYE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1407,
+    "neighbor_name": "ŞAHİNLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 50191,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1413,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1398,
+    "neighbor_name": "DÖĞER-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1381,
+    "neighbor_name": "DÖĞER-KERVANSARAY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1399,
+    "neighbor_name": "DÖĞER-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1394,
+    "neighbor_name": "DÖĞER-YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1408,
+    "neighbor_name": "GAZLIGÖL-BELCE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1409,
+    "neighbor_name": "GAZLIGÖL-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1376,
+    "neighbor_name": "GAZLIGÖL-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1405,
+    "neighbor_name": "GAZLIGÖL-YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1395,
+    "neighbor_name": "KAYIHAN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1378,
+    "neighbor_name": "KAYIHAN-KUNDUZLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1388,
+    "neighbor_name": "KAYIHAN-PINAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1372,
+    "neighbor_name": "KAYIHAN-TÜRBE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1373,
+    "neighbor_name": "YAYLABAĞI-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1400,
+    "neighbor_name": "YAYLABAĞI-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1412,
+    "neighbor_name": "YAYLABAĞI-ESENTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1391,
+    "neighbor_name": "ABLAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1392,
+    "neighbor_name": "AŞAĞITANDIR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1402,
+    "neighbor_name": "AYAZİNİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1415,
+    "neighbor_name": "BASIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1380,
+    "neighbor_name": "BAYRAMALİLER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1375,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1384,
+    "neighbor_name": "BOZHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1397,
+    "neighbor_name": "CUMALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1393,
+    "neighbor_name": "DEMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1385,
+    "neighbor_name": "ESKİEYMİR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1404,
+    "neighbor_name": "EYNEHANKUZVİRAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1410,
+    "neighbor_name": "HACIBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1414,
+    "neighbor_name": "İĞDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1387,
+    "neighbor_name": "KADIMÜRSEL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1411,
+    "neighbor_name": "KARACAAHMET KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1406,
+    "neighbor_name": "KIYIR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1416,
+    "neighbor_name": "MURATLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1386,
+    "neighbor_name": "OĞULBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1382,
+    "neighbor_name": "ORHANLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1383,
+    "neighbor_name": "OSMANKÖY"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1417,
+    "neighbor_name": "SARICAOVA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1379,
+    "neighbor_name": "ÜÇLERKAYASI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1401,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1374,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1390,
+    "neighbor_name": "YİĞİTPINARI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 28,
+    "district_name": "İHSANİYE",
+    "neighbor_id": 1389,
+    "neighbor_name": "YUKARITANDIR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 50218,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1971,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1969,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1973,
+    "neighbor_name": "ESKİ HAMAM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1959,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1961,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 50160,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1964,
+    "neighbor_name": "MEDRESE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1974,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1972,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1965,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1975,
+    "neighbor_name": "ZEYBEK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1980,
+    "neighbor_name": "SEYDİLER-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1958,
+    "neighbor_name": "SEYDİLER-HASAN BASRİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1977,
+    "neighbor_name": "ALANYURT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1967,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1968,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1976,
+    "neighbor_name": "ÇALIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1966,
+    "neighbor_name": "ÇATAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1978,
+    "neighbor_name": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1979,
+    "neighbor_name": "DOĞLAT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1960,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1970,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1963,
+    "neighbor_name": "KONARI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 38,
+    "district_name": "İSCEHİSAR",
+    "neighbor_id": 1962,
+    "neighbor_name": "OLUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 40,
+    "district_name": "KIZILÖREN",
+    "neighbor_id": 2008,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 40,
+    "district_name": "KIZILÖREN",
+    "neighbor_id": 2006,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 40,
+    "district_name": "KIZILÖREN",
+    "neighbor_id": 2003,
+    "neighbor_name": "EKİNOVA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 40,
+    "district_name": "KIZILÖREN",
+    "neighbor_id": 2004,
+    "neighbor_name": "GÜLYAZI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 40,
+    "district_name": "KIZILÖREN",
+    "neighbor_id": 2005,
+    "neighbor_name": "TÜRKBELKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 40,
+    "district_name": "KIZILÖREN",
+    "neighbor_id": 2007,
+    "neighbor_name": "YENİBELKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1720,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1741,
+    "neighbor_name": "ÇAKIR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1693,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1697,
+    "neighbor_name": "ECE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1722,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1703,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1735,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1736,
+    "neighbor_name": "KEVSER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 50157,
+    "neighbor_name": "SAZAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1683,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 50001,
+    "neighbor_name": "TAPDUK EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1734,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1698,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1688,
+    "neighbor_name": "AKHARIM-ÇİĞİLTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1687,
+    "neighbor_name": "AKHARIM-DİKMEN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1707,
+    "neighbor_name": "AKHARIM-HİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1708,
+    "neighbor_name": "AKİN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1695,
+    "neighbor_name": "ALACAMİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1710,
+    "neighbor_name": "ALAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1712,
+    "neighbor_name": "ALAMESCİT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1726,
+    "neighbor_name": "ARIZLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1696,
+    "neighbor_name": "ASMACIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1730,
+    "neighbor_name": "BALLIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1681,
+    "neighbor_name": "BAŞAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1718,
+    "neighbor_name": "BAŞKUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1742,
+    "neighbor_name": "BAŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1719,
+    "neighbor_name": "BEKTEŞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1689,
+    "neighbor_name": "CELİLOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1747,
+    "neighbor_name": "ÇAMBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1729,
+    "neighbor_name": "ÇAMOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1694,
+    "neighbor_name": "ÇEVREPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1704,
+    "neighbor_name": "ÇİĞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1750,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1709,
+    "neighbor_name": "DAYLIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1727,
+    "neighbor_name": "DODURGA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1728,
+    "neighbor_name": "DUTAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1748,
+    "neighbor_name": "EKİNHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1690,
+    "neighbor_name": "EMİRHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1713,
+    "neighbor_name": "GÖKÇEALAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1745,
+    "neighbor_name": "GÜRSU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1682,
+    "neighbor_name": "HIRKA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1700,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1714,
+    "neighbor_name": "KARADİREK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1684,
+    "neighbor_name": "KARASANDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1731,
+    "neighbor_name": "KARKIN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1685,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1746,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1701,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1723,
+    "neighbor_name": "KOÇGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1725,
+    "neighbor_name": "KOÇHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1711,
+    "neighbor_name": "KOZVAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1749,
+    "neighbor_name": "KUSURA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1733,
+    "neighbor_name": "MENTEŞ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1743,
+    "neighbor_name": "NASUHOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1715,
+    "neighbor_name": "ODA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1732,
+    "neighbor_name": "OTLUK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1705,
+    "neighbor_name": "ÖRENKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1738,
+    "neighbor_name": "ÖRMEKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1691,
+    "neighbor_name": "REŞADİYE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1724,
+    "neighbor_name": "SALTIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1744,
+    "neighbor_name": "SELÇİK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1716,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1737,
+    "neighbor_name": "SORKUN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1739,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1706,
+    "neighbor_name": "ŞEYHYAHŞİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1699,
+    "neighbor_name": "ÜLFECİLER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1717,
+    "neighbor_name": "ÜRKÜT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1692,
+    "neighbor_name": "YANIKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1740,
+    "neighbor_name": "YAVAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1686,
+    "neighbor_name": "YAYMAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1721,
+    "neighbor_name": "YOLKONAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 32,
+    "district_name": "SANDIKLI",
+    "neighbor_id": 1702,
+    "neighbor_name": "YUMRUCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2044,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2079,
+    "neighbor_name": "ALİ ÇETİNKAYA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2045,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2013,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2060,
+    "neighbor_name": "ÇİĞİLTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2014,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2071,
+    "neighbor_name": "ÖĞRETMENLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2065,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2036,
+    "neighbor_name": "AHMETPAŞA-ÇİĞİLTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2023,
+    "neighbor_name": "AHMETPAŞA-DİBEKBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2026,
+    "neighbor_name": "AHMETPAŞA-GÖLCÜK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2061,
+    "neighbor_name": "AHMETPAŞA-HALKALI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2072,
+    "neighbor_name": "AHMETPAŞA-KÜÇÜKTEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2066,
+    "neighbor_name": "AHMETPAŞA-YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2031,
+    "neighbor_name": "AKÖREN-BAĞDAT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2018,
+    "neighbor_name": "AKÖREN-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2012,
+    "neighbor_name": "AKÖREN-YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2019,
+    "neighbor_name": "DÜZAĞAÇ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2024,
+    "neighbor_name": "DÜZAĞAÇ-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2052,
+    "neighbor_name": "DÜZAĞAÇ-IŞIK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2020,
+    "neighbor_name": "DÜZAĞAÇ-ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 49424,
+    "neighbor_name": "GÜNEY-AŞAĞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 50032,
+    "neighbor_name": "GÜNEY-ÇALIŞLAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 49572,
+    "neighbor_name": "GÜNEY-ORTA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 50098,
+    "neighbor_name": "GÜNEY-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 50063,
+    "neighbor_name": "GÜNEY-YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2067,
+    "neighbor_name": "KILIÇARSLAN-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2081,
+    "neighbor_name": "KILIÇARSLAN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2054,
+    "neighbor_name": "KILIÇARSLAN-FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2032,
+    "neighbor_name": "KILIÇARSLAN-KOCATEPE MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2082,
+    "neighbor_name": "KIRKA-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2068,
+    "neighbor_name": "KIRKA-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2055,
+    "neighbor_name": "KIRKA-YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2056,
+    "neighbor_name": "KIRKA-YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2049,
+    "neighbor_name": "KÜÇÜKHÜYÜK-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2021,
+    "neighbor_name": "KÜÇÜKHÜYÜK-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2083,
+    "neighbor_name": "KÜÇÜKHÜYÜK-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2033,
+    "neighbor_name": "KÜÇÜKHÜYÜK-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2057,
+    "neighbor_name": "KÜÇÜKHÜYÜK-ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2084,
+    "neighbor_name": "SERBAN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2038,
+    "neighbor_name": "SERBAN-HİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2069,
+    "neighbor_name": "SERBAN-HOZMAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2051,
+    "neighbor_name": "SERBAN-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2029,
+    "neighbor_name": "SERBAN-KÜMBET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2022,
+    "neighbor_name": "SERBAN-ORTA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2074,
+    "neighbor_name": "TAŞOLUK-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2075,
+    "neighbor_name": "TAŞOLUK-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2010,
+    "neighbor_name": "TAŞOLUK-ÇANKAYA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2039,
+    "neighbor_name": "TAŞOLUK-ÇINARLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2015,
+    "neighbor_name": "TAŞOLUK-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2085,
+    "neighbor_name": "TAŞOLUK-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2050,
+    "neighbor_name": "TINAZTEPE-AMBAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2016,
+    "neighbor_name": "TINAZTEPE-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2058,
+    "neighbor_name": "TINAZTEPE-FATİH MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2011,
+    "neighbor_name": "TINAZTEPE-SARAY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2047,
+    "neighbor_name": "TINAZTEPE-YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2034,
+    "neighbor_name": "TINAZTEPE-ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2078,
+    "neighbor_name": "AKÇAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2043,
+    "neighbor_name": "AKDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2041,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2048,
+    "neighbor_name": "BALMAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2042,
+    "neighbor_name": "BAŞKİMSE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2046,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2037,
+    "neighbor_name": "BULCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2035,
+    "neighbor_name": "ÇATKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2025,
+    "neighbor_name": "ÇAYHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2086,
+    "neighbor_name": "ÇOBANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2053,
+    "neighbor_name": "ELVANPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2080,
+    "neighbor_name": "EYİCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2062,
+    "neighbor_name": "GARİPCE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2027,
+    "neighbor_name": "GEZLER KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2030,
+    "neighbor_name": "İĞDELİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2073,
+    "neighbor_name": "KARACA ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2009,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2028,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2076,
+    "neighbor_name": "NUH KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2077,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2070,
+    "neighbor_name": "TAZLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2040,
+    "neighbor_name": "TOKUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2064,
+    "neighbor_name": "YILDIRIM KEMAL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 41,
+    "district_name": "SİNANPAŞA",
+    "neighbor_id": 2059,
+    "neighbor_name": "YÖRÜK MEZARI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1454,
+    "neighbor_name": "ALTIGÖZ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1438,
+    "neighbor_name": "BAŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1434,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1465,
+    "neighbor_name": "HACI MUSA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1426,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1447,
+    "neighbor_name": "İPLİK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1458,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1422,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1430,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1455,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1471,
+    "neighbor_name": "TAŞLICA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1457,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1453,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1427,
+    "neighbor_name": "KARAADİLLİ-ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1459,
+    "neighbor_name": "KARAADİLLİ-DEVELİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1466,
+    "neighbor_name": "KARAADİLLİ-ERENLER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1449,
+    "neighbor_name": "KARAADİLLİ-ZAFER MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1441,
+    "neighbor_name": "AĞZIKARA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1463,
+    "neighbor_name": "AKYUVA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1450,
+    "neighbor_name": "ANAYURT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1451,
+    "neighbor_name": "ARIZLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1432,
+    "neighbor_name": "ATLIHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1437,
+    "neighbor_name": "AYDIN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1470,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1442,
+    "neighbor_name": "BALÇIKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1467,
+    "neighbor_name": "BAŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1433,
+    "neighbor_name": "BOZAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1431,
+    "neighbor_name": "ÇAKIRÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1468,
+    "neighbor_name": "ÇOBANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1419,
+    "neighbor_name": "DADAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1452,
+    "neighbor_name": "DEMİRBEL KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1464,
+    "neighbor_name": "EFE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1439,
+    "neighbor_name": "GÜNEYTEPE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1440,
+    "neighbor_name": "HALLAÇ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1424,
+    "neighbor_name": "İCİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1462,
+    "neighbor_name": "İLYASLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1425,
+    "neighbor_name": "İSALI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1460,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1421,
+    "neighbor_name": "KARAHALLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1435,
+    "neighbor_name": "KARLIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1469,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1428,
+    "neighbor_name": "KAYABELEN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1448,
+    "neighbor_name": "KILINÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1443,
+    "neighbor_name": "KOÇYATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1429,
+    "neighbor_name": "KULAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1461,
+    "neighbor_name": "MAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1444,
+    "neighbor_name": "ORTAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1420,
+    "neighbor_name": "OYNAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1456,
+    "neighbor_name": "PAŞACIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1446,
+    "neighbor_name": "SENİR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1423,
+    "neighbor_name": "TEKKE KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1436,
+    "neighbor_name": "UZUNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 29,
+    "district_name": "ŞUHUT",
+    "neighbor_id": 1445,
+    "neighbor_name": "YARIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1779,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1776,
+    "neighbor_name": "KAYRAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1752,
+    "neighbor_name": "PAZARALTI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1755,
+    "neighbor_name": "SELÇUK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1772,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1769,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1757,
+    "neighbor_name": "DEREÇİNE-ATATÜRK MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1763,
+    "neighbor_name": "DEREÇİNE-CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1774,
+    "neighbor_name": "DEREÇİNE-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1753,
+    "neighbor_name": "DEREÇİNE-KARAMAN MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1758,
+    "neighbor_name": "DEREÇİNE-KAVAKLI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1768,
+    "neighbor_name": "YEŞİLÇİFTLİK-AKPINAR MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1777,
+    "neighbor_name": "YEŞİLÇİFTLİK-AŞAĞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1759,
+    "neighbor_name": "YEŞİLÇİFTLİK-SIRA MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1773,
+    "neighbor_name": "YEŞİLÇİFTLİK-TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1775,
+    "neighbor_name": "YEŞİLÇİFTLİK-YENİKENT MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1778,
+    "neighbor_name": "YEŞİLÇİFTLİK-YILDIZ MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1760,
+    "neighbor_name": "YEŞİLÇİFTLİK-YUKARI MAH."
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1762,
+    "neighbor_name": "AKBABA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1761,
+    "neighbor_name": "ÇAMÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1770,
+    "neighbor_name": "ÇUKURCAK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1754,
+    "neighbor_name": "DOĞANCIK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1765,
+    "neighbor_name": "KARAKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1766,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1751,
+    "neighbor_name": "KIRCA KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1767,
+    "neighbor_name": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1764,
+    "neighbor_name": "ÜÇKUYU KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1771,
+    "neighbor_name": "YAKASİNEK KÖYÜ"
+  },
+  {
+    "city_id": 4,
+    "city_name": "AFYONKARAHİSAR",
+    "district_id": 33,
+    "district_name": "SULTANDAĞI",
+    "neighbor_id": 1756,
+    "neighbor_name": "YENİKARABAĞ KÖYÜ"
+  }
+]
