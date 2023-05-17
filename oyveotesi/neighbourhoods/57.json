@@ -1,0 +1,6642 @@
+[
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36720,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36718,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36743,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36726,
+    "neighbor_name": "BOZTAHTA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36738,
+    "neighbor_name": "BÜYÜKSOFULU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36744,
+    "neighbor_name": "CERİTLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36727,
+    "neighbor_name": "DAİLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36723,
+    "neighbor_name": "DARILIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36733,
+    "neighbor_name": "DÖLEKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36739,
+    "neighbor_name": "EBRİŞİM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36745,
+    "neighbor_name": "EĞNER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36728,
+    "neighbor_name": "GERDİBİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36741,
+    "neighbor_name": "GİREĞİYENİKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36740,
+    "neighbor_name": "GÖKÇEKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36736,
+    "neighbor_name": "KABASAKAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36746,
+    "neighbor_name": "KARAHAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36724,
+    "neighbor_name": "KICAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36722,
+    "neighbor_name": "KIŞLAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36721,
+    "neighbor_name": "KIZILDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36734,
+    "neighbor_name": "KÖKEZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36735,
+    "neighbor_name": "KÖPRÜCÜK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36729,
+    "neighbor_name": "KÜP MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36730,
+    "neighbor_name": "MADENLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36725,
+    "neighbor_name": "MANSURLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36747,
+    "neighbor_name": "MAZILIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36748,
+    "neighbor_name": "POSYAĞBASAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36731,
+    "neighbor_name": "SİNANPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36719,
+    "neighbor_name": "TOPALLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36732,
+    "neighbor_name": "UZUNKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36742,
+    "neighbor_name": "YETİMLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 732,
+    "district_name": "ALADAĞ",
+    "neighbor_id": 36737,
+    "neighbor_name": "YÜKSEKÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36648,
+    "neighbor_name": "ADAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36665,
+    "neighbor_name": "ADATEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36652,
+    "neighbor_name": "AĞAÇLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36627,
+    "neighbor_name": "AĞAÇPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36638,
+    "neighbor_name": "AKDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 50016,
+    "neighbor_name": "ALTIGÖZBEKİRLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36582,
+    "neighbor_name": "ALTIKARA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36605,
+    "neighbor_name": "ALTIOCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 50196,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36636,
+    "neighbor_name": "AYDEMİROĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36632,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36600,
+    "neighbor_name": "AZİZLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36630,
+    "neighbor_name": "BAŞÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36583,
+    "neighbor_name": "BELEDİYE EVLERİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36649,
+    "neighbor_name": "BİRKENT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36571,
+    "neighbor_name": "BOTA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36661,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36657,
+    "neighbor_name": "BURHANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36589,
+    "neighbor_name": "BÜYÜKBURHANİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36617,
+    "neighbor_name": "BÜYÜKKIRIM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36615,
+    "neighbor_name": "BÜYÜKMANGIT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36653,
+    "neighbor_name": "CAMUZAĞILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36584,
+    "neighbor_name": "CEYHANBEKİRLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36572,
+    "neighbor_name": "CİVANTAYAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36623,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36647,
+    "neighbor_name": "ÇAKALDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36642,
+    "neighbor_name": "ÇATAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36669,
+    "neighbor_name": "ÇATALHÜYÜK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36664,
+    "neighbor_name": "ÇEVRETEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36569,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36643,
+    "neighbor_name": "ÇİFTLİKLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36603,
+    "neighbor_name": "ÇOKÇAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36590,
+    "neighbor_name": "DAĞISTAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36601,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36624,
+    "neighbor_name": "DEĞİRMENLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36594,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36558,
+    "neighbor_name": "DOKUZTEKNE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36585,
+    "neighbor_name": "DORUK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36654,
+    "neighbor_name": "DURHASANDEDE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36562,
+    "neighbor_name": "DUTLUPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36595,
+    "neighbor_name": "EKİNYAZI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36628,
+    "neighbor_name": "ELMAGÖLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36658,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36586,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36577,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36578,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36579,
+    "neighbor_name": "GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36573,
+    "neighbor_name": "GÜMÜRDÜLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36639,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36655,
+    "neighbor_name": "GÜNLÜCE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36618,
+    "neighbor_name": "HAMDİLLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36621,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36559,
+    "neighbor_name": "HAMİTBEYBUCAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36616,
+    "neighbor_name": "HAMİTBEY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36666,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36591,
+    "neighbor_name": "IRMAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36644,
+    "neighbor_name": "ISIRGANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36622,
+    "neighbor_name": "İMRAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36651,
+    "neighbor_name": "İNCEYER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36570,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36597,
+    "neighbor_name": "İSALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36564,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36656,
+    "neighbor_name": "KARAKAYALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36619,
+    "neighbor_name": "KELEMETİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36592,
+    "neighbor_name": "KILIÇKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36606,
+    "neighbor_name": "KIVRIKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36633,
+    "neighbor_name": "KIZILDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36580,
+    "neighbor_name": "KONAKOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36563,
+    "neighbor_name": "KORUKLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36611,
+    "neighbor_name": "KÖPRÜLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36566,
+    "neighbor_name": "KÖRKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36561,
+    "neighbor_name": "KÖSRELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36634,
+    "neighbor_name": "KURTKULAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36560,
+    "neighbor_name": "KURTPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36659,
+    "neighbor_name": "KUZUCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36612,
+    "neighbor_name": "KÜÇÜKBURHANİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36620,
+    "neighbor_name": "KÜÇÜKKIRIM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36625,
+    "neighbor_name": "KÜÇÜKMANGIT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36607,
+    "neighbor_name": "MERCİMEK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36641,
+    "neighbor_name": "MERCİN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36635,
+    "neighbor_name": "MİTHAT PAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36660,
+    "neighbor_name": "MODERNEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36637,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36608,
+    "neighbor_name": "MUSTAFABEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36596,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36602,
+    "neighbor_name": "NARLIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 49929,
+    "neighbor_name": "NAZIMBEY YENİKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36613,
+    "neighbor_name": "SAĞIRLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36609,
+    "neighbor_name": "SAĞKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36567,
+    "neighbor_name": "SARIBAHÇE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36667,
+    "neighbor_name": "SARIMAZI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36598,
+    "neighbor_name": "SARISAKAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36645,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36587,
+    "neighbor_name": "SİRKELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36650,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36646,
+    "neighbor_name": "SOYSALLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36610,
+    "neighbor_name": "ŞAHİN ÖZBİLEN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36626,
+    "neighbor_name": "ŞEHİT HACI İBRAHİM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36614,
+    "neighbor_name": "TATARLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36568,
+    "neighbor_name": "TATLIKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36631,
+    "neighbor_name": "TOKTAMIŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36668,
+    "neighbor_name": "TUMLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36629,
+    "neighbor_name": "ULUS MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36576,
+    "neighbor_name": "ÜÇDUTYEŞİLOVA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 49883,
+    "neighbor_name": "VEYSİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36581,
+    "neighbor_name": "YALAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36662,
+    "neighbor_name": "YARSUAT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36575,
+    "neighbor_name": "YELLİBEL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36599,
+    "neighbor_name": "YEŞİLBAHÇE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36663,
+    "neighbor_name": "YEŞİLDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 36593,
+    "neighbor_name": "YILANKALE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 730,
+    "district_name": "CEYHAN",
+    "neighbor_id": 50171,
+    "neighbor_name": "ZÜBEYDE HANIM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36243,
+    "neighbor_name": "BEYAZEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36249,
+    "neighbor_name": "DÖRTLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36265,
+    "neighbor_name": "GÜZELYALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36250,
+    "neighbor_name": "KARSLILAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36254,
+    "neighbor_name": "KAŞOBA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36260,
+    "neighbor_name": "KURTTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36239,
+    "neighbor_name": "MAHFESIĞMAZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36261,
+    "neighbor_name": "MEMİŞLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36248,
+    "neighbor_name": "ÖRCÜN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36247,
+    "neighbor_name": "TOROS MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36242,
+    "neighbor_name": "BELEDİYE EVLERİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36256,
+    "neighbor_name": "BOZCALAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36264,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36258,
+    "neighbor_name": "FADIL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36259,
+    "neighbor_name": "GÖKKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36253,
+    "neighbor_name": "HUZUREVLERİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36255,
+    "neighbor_name": "KABASAKAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36244,
+    "neighbor_name": "KARAHAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36245,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36246,
+    "neighbor_name": "KÜÇÜKÇINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36240,
+    "neighbor_name": "PİRİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36262,
+    "neighbor_name": "SALBAŞ ESENTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36263,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36252,
+    "neighbor_name": "ŞAMBAYADI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36257,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36251,
+    "neighbor_name": "YURT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 723,
+    "district_name": "ÇUKUROVA",
+    "neighbor_id": 36241,
+    "neighbor_name": "YÜZÜNCÜYIL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36678,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36708,
+    "neighbor_name": "AKOLUK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36710,
+    "neighbor_name": "BAĞDATLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36709,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36714,
+    "neighbor_name": "BELENKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36690,
+    "neighbor_name": "ÇANDIRLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36683,
+    "neighbor_name": "ÇONDU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36691,
+    "neighbor_name": "ÇÜRÜKLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36711,
+    "neighbor_name": "DEĞİRMENCİUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36715,
+    "neighbor_name": "GAFFARUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36692,
+    "neighbor_name": "GEDİKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36705,
+    "neighbor_name": "GÖBELLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36716,
+    "neighbor_name": "GÖKÇELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36685,
+    "neighbor_name": "GÜRÜMZE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36686,
+    "neighbor_name": "GÜZPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36671,
+    "neighbor_name": "HIDIRUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36677,
+    "neighbor_name": "İNCİRCİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36707,
+    "neighbor_name": "İSLAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36717,
+    "neighbor_name": "KALEYÜZÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36693,
+    "neighbor_name": "KARACAOĞLAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36696,
+    "neighbor_name": "KARACAUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36697,
+    "neighbor_name": "KAŞALTI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36687,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36679,
+    "neighbor_name": "KAZANCI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36680,
+    "neighbor_name": "KEKLİKÇİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36672,
+    "neighbor_name": "KIRIKUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36701,
+    "neighbor_name": "KISACIKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36702,
+    "neighbor_name": "KIZILYER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36704,
+    "neighbor_name": "KOÇYAZI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36673,
+    "neighbor_name": "KONAKKURAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36703,
+    "neighbor_name": "KOVUKÇINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36706,
+    "neighbor_name": "MANSURLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36688,
+    "neighbor_name": "MUSALAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36694,
+    "neighbor_name": "OLUCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36698,
+    "neighbor_name": "ORMANCIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36674,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36699,
+    "neighbor_name": "ORUÇLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36700,
+    "neighbor_name": "PAŞALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36681,
+    "neighbor_name": "SÜLEMİŞLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36682,
+    "neighbor_name": "SÜPHANDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36684,
+    "neighbor_name": "ŞAHMURATLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36675,
+    "neighbor_name": "TENKERLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36676,
+    "neighbor_name": "TOKMANAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36712,
+    "neighbor_name": "TORTULU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36695,
+    "neighbor_name": "UĞURLUBAĞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36670,
+    "neighbor_name": "YAYLAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36713,
+    "neighbor_name": "YEREBAKAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 731,
+    "district_name": "FEKE",
+    "neighbor_id": 36689,
+    "neighbor_name": "YEŞİL DÜŞMÜŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36540,
+    "neighbor_name": "ADALET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36553,
+    "neighbor_name": "AĞZIKARACA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36556,
+    "neighbor_name": "ALAYBEYİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36536,
+    "neighbor_name": "ALİLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36537,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36552,
+    "neighbor_name": "CAMİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36557,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36547,
+    "neighbor_name": "ÇÖRTEN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36554,
+    "neighbor_name": "DANACILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36548,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36549,
+    "neighbor_name": "HACIHASANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36543,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36550,
+    "neighbor_name": "KOYUNEVİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36535,
+    "neighbor_name": "MALIHIDIRLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36538,
+    "neighbor_name": "MENTEŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36555,
+    "neighbor_name": "OTLUK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36544,
+    "neighbor_name": "PEKMEZCİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36531,
+    "neighbor_name": "SAYCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36545,
+    "neighbor_name": "SAYGEÇİT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36546,
+    "neighbor_name": "SEVİNÇLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36541,
+    "neighbor_name": "SOKUTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36532,
+    "neighbor_name": "TUNA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36533,
+    "neighbor_name": "UFACIKÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36539,
+    "neighbor_name": "ULUÇINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36542,
+    "neighbor_name": "ÜÇTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36551,
+    "neighbor_name": "YAZITEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 729,
+    "district_name": "İMAMOĞLU",
+    "neighbor_id": 36534,
+    "neighbor_name": "YENİEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36356,
+    "neighbor_name": "AKÇALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36332,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36349,
+    "neighbor_name": "ALTINOVA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36309,
+    "neighbor_name": "AŞAĞIBELEMEDİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36318,
+    "neighbor_name": "AŞAĞIYÖRÜKLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36313,
+    "neighbor_name": "AYAKKIF MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36350,
+    "neighbor_name": "BARAKDAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36310,
+    "neighbor_name": "BAŞKIF MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36326,
+    "neighbor_name": "BEKİRLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36333,
+    "neighbor_name": "BEYDEMİR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36314,
+    "neighbor_name": "BOLACALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36360,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36330,
+    "neighbor_name": "ÇAKALLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36312,
+    "neighbor_name": "ÇATALAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36331,
+    "neighbor_name": "ÇECELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36355,
+    "neighbor_name": "ÇEVLİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36370,
+    "neighbor_name": "ÇOCUKLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36337,
+    "neighbor_name": "ÇORLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36342,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36336,
+    "neighbor_name": "DEMİRÇİT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36343,
+    "neighbor_name": "DÖŞEKEVİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36357,
+    "neighbor_name": "DURAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36351,
+    "neighbor_name": "EĞLENCE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36368,
+    "neighbor_name": "EMELCİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36338,
+    "neighbor_name": "ETEKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36327,
+    "neighbor_name": "FETTAHLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36369,
+    "neighbor_name": "FİLİKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36352,
+    "neighbor_name": "GİLDİRLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36363,
+    "neighbor_name": "GÖKHASANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36339,
+    "neighbor_name": "GÜLÜŞLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36358,
+    "neighbor_name": "GÜVENÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36353,
+    "neighbor_name": "HACILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36364,
+    "neighbor_name": "HACIMUSALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36344,
+    "neighbor_name": "KALEDAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36319,
+    "neighbor_name": "KAPIKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36365,
+    "neighbor_name": "KARAHASANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36315,
+    "neighbor_name": "KARAKILIÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36340,
+    "neighbor_name": "KARAKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36316,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36341,
+    "neighbor_name": "KIRALAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36322,
+    "neighbor_name": "KIRIKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36334,
+    "neighbor_name": "KOCAVELİLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36361,
+    "neighbor_name": "KÖRÜKLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36323,
+    "neighbor_name": "KUŞCUSOFULU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36345,
+    "neighbor_name": "KUYUCU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36320,
+    "neighbor_name": "KUZGUN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36324,
+    "neighbor_name": "MARAŞLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36321,
+    "neighbor_name": "MERKEZBOZTAHTA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36366,
+    "neighbor_name": "MURTÇUKURU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36328,
+    "neighbor_name": "NERGİZLİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36362,
+    "neighbor_name": "NUHLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36335,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36359,
+    "neighbor_name": "SADIKALİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36329,
+    "neighbor_name": "SARIMEHMETLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36346,
+    "neighbor_name": "SAYPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36317,
+    "neighbor_name": "SELAMPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36354,
+    "neighbor_name": "TATIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36367,
+    "neighbor_name": "TOPAKTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36347,
+    "neighbor_name": "TOPKARALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36325,
+    "neighbor_name": "TORUNSOLAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36348,
+    "neighbor_name": "TÜMENLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 725,
+    "district_name": "KARAİSALI",
+    "neighbor_id": 36311,
+    "neighbor_name": "YAZIBAŞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36299,
+    "neighbor_name": "ADALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36283,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36268,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36305,
+    "neighbor_name": "BEBELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36294,
+    "neighbor_name": "ÇAĞŞIRLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36273,
+    "neighbor_name": "ÇAKIRÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36281,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36274,
+    "neighbor_name": "ÇİMELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36282,
+    "neighbor_name": "ÇUKURKAMIŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36269,
+    "neighbor_name": "DAMLAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36290,
+    "neighbor_name": "DEVELİÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36291,
+    "neighbor_name": "DOLAPLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36306,
+    "neighbor_name": "GÖLKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36284,
+    "neighbor_name": "HACIHASAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36270,
+    "neighbor_name": "HASIRAĞACI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36285,
+    "neighbor_name": "HELVACI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36267,
+    "neighbor_name": "İNNEPLİHÜYÜĞÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36289,
+    "neighbor_name": "İSAHACILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36300,
+    "neighbor_name": "KAPI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36271,
+    "neighbor_name": "KARAGÖÇER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36292,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36301,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36275,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36307,
+    "neighbor_name": "KESİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36308,
+    "neighbor_name": "KIRHASAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36302,
+    "neighbor_name": "KIZILTAHTA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36286,
+    "neighbor_name": "KİREMİTLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36276,
+    "neighbor_name": "MELETMEZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36279,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36277,
+    "neighbor_name": "OYMAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36295,
+    "neighbor_name": "SARIMSAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36303,
+    "neighbor_name": "SİRKENLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36296,
+    "neighbor_name": "TABAKLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36297,
+    "neighbor_name": "TABUR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36293,
+    "neighbor_name": "TERLİKSİZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36278,
+    "neighbor_name": "TOPRAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36280,
+    "neighbor_name": "TUZKUYUSU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36272,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36266,
+    "neighbor_name": "YASSIVEREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36304,
+    "neighbor_name": "YEMİŞLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36287,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36288,
+    "neighbor_name": "YENİMURAT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 724,
+    "district_name": "KARATAŞ",
+    "neighbor_id": 36298,
+    "neighbor_name": "YÜZBAŞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36441,
+    "neighbor_name": "ACARMANTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36380,
+    "neighbor_name": "AĞLIBOĞAZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36406,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36448,
+    "neighbor_name": "AKÇALIUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36469,
+    "neighbor_name": "AKDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36447,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36470,
+    "neighbor_name": "ALAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36379,
+    "neighbor_name": "ANDIL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36450,
+    "neighbor_name": "ARSLANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36394,
+    "neighbor_name": "ARSLANPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36455,
+    "neighbor_name": "AYDIN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36399,
+    "neighbor_name": "AYŞEHOCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36431,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36461,
+    "neighbor_name": "BAĞÖZÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36395,
+    "neighbor_name": "BAĞTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36423,
+    "neighbor_name": "BOZTAHTA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36386,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36407,
+    "neighbor_name": "BULDUKLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36381,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36467,
+    "neighbor_name": "ÇAMDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36454,
+    "neighbor_name": "ÇAMLARCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36412,
+    "neighbor_name": "ÇANAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36401,
+    "neighbor_name": "ÇANDIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36413,
+    "neighbor_name": "ÇELENUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36426,
+    "neighbor_name": "ÇOBANPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36373,
+    "neighbor_name": "ÇOKAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36468,
+    "neighbor_name": "ÇUKURÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36437,
+    "neighbor_name": "ÇULLUUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36374,
+    "neighbor_name": "ÇÜRÜKLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36396,
+    "neighbor_name": "DAMYERİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36414,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36471,
+    "neighbor_name": "DİLEKKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36442,
+    "neighbor_name": "DOĞANALANI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36408,
+    "neighbor_name": "DURALUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36409,
+    "neighbor_name": "DURMUŞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36382,
+    "neighbor_name": "DÜZAĞAÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36443,
+    "neighbor_name": "ENİZÇAKIRI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36383,
+    "neighbor_name": "ERGENUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36419,
+    "neighbor_name": "ESKİKABASAKAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36410,
+    "neighbor_name": "ESKİMANTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36420,
+    "neighbor_name": "FAYDALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36432,
+    "neighbor_name": "FERHATLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36415,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36433,
+    "neighbor_name": "GEDİKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36451,
+    "neighbor_name": "GÖKÇEYOL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36456,
+    "neighbor_name": "GÖKGÖZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36397,
+    "neighbor_name": "GÖRBEYAZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36403,
+    "neighbor_name": "GÜNERİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36444,
+    "neighbor_name": "HACIBEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36434,
+    "neighbor_name": "HACIMİRZALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36371,
+    "neighbor_name": "HACIUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36452,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36424,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36416,
+    "neighbor_name": "IŞIKKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36457,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36446,
+    "neighbor_name": "İDEMKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36376,
+    "neighbor_name": "KABAKTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36435,
+    "neighbor_name": "KAHVELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36462,
+    "neighbor_name": "KALKUMAÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36398,
+    "neighbor_name": "KAPIKAYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36400,
+    "neighbor_name": "KARABUCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36387,
+    "neighbor_name": "KARACAOĞLAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36417,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36421,
+    "neighbor_name": "KARAHAMZALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36388,
+    "neighbor_name": "KARANEBİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36428,
+    "neighbor_name": "KEMERKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36472,
+    "neighbor_name": "KIBRISLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36377,
+    "neighbor_name": "KIZILLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36463,
+    "neighbor_name": "KIZLARSEKİSİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36404,
+    "neighbor_name": "KÖSELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36389,
+    "neighbor_name": "KUYTUCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36391,
+    "neighbor_name": "KUYUBELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36390,
+    "neighbor_name": "KUYULUK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36464,
+    "neighbor_name": "MAHMUTLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36385,
+    "neighbor_name": "MAHYALAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36405,
+    "neighbor_name": "MARANKEÇİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36449,
+    "neighbor_name": "MİNNETLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36429,
+    "neighbor_name": "ORÇAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36453,
+    "neighbor_name": "ORUÇLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36440,
+    "neighbor_name": "ÖRENDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36375,
+    "neighbor_name": "ÖZBAŞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36465,
+    "neighbor_name": "PEKMEZCİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36372,
+    "neighbor_name": "POSTKABASAKAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36430,
+    "neighbor_name": "SALMANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36427,
+    "neighbor_name": "ŞERİFLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36402,
+    "neighbor_name": "ŞEVKİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36438,
+    "neighbor_name": "TAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36445,
+    "neighbor_name": "TAVŞANTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36425,
+    "neighbor_name": "TEPECİKÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36422,
+    "neighbor_name": "TUFANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36439,
+    "neighbor_name": "TUFANPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36378,
+    "neighbor_name": "TURGUTLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36392,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36458,
+    "neighbor_name": "TÜRKELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36418,
+    "neighbor_name": "VARSAKLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36473,
+    "neighbor_name": "VELİCANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36459,
+    "neighbor_name": "YANALERİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36411,
+    "neighbor_name": "YARIMOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36466,
+    "neighbor_name": "YASSIÇALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36460,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36393,
+    "neighbor_name": "YUKARIKEÇİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36436,
+    "neighbor_name": "YÜKSEKÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 726,
+    "district_name": "KOZAN",
+    "neighbor_id": 36384,
+    "neighbor_name": "ZERDALİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36238,
+    "neighbor_name": "AKÇATEKİR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36230,
+    "neighbor_name": "ALPU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36231,
+    "neighbor_name": "AŞÇIBEKİRLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36232,
+    "neighbor_name": "BELEMEDİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36227,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36236,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36226,
+    "neighbor_name": "DAĞDİBİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36223,
+    "neighbor_name": "ESKİKONACIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36233,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36218,
+    "neighbor_name": "GÖKBEZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36228,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36229,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36224,
+    "neighbor_name": "KAMIŞLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36234,
+    "neighbor_name": "KARAKIŞLAKÇI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36219,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36237,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36235,
+    "neighbor_name": "YAĞLITAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36220,
+    "neighbor_name": "YAZICAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36225,
+    "neighbor_name": "YENİKONACIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36221,
+    "neighbor_name": "YUKARIBELEMEDİK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 722,
+    "district_name": "POZANTI",
+    "neighbor_id": 36222,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35921,
+    "neighbor_name": "AKSAAĞAÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35927,
+    "neighbor_name": "AVCIPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35946,
+    "neighbor_name": "AYVACIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35934,
+    "neighbor_name": "BEYPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35922,
+    "neighbor_name": "CUMHURLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35944,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35936,
+    "neighbor_name": "ÇERALAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35945,
+    "neighbor_name": "ÇORAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35938,
+    "neighbor_name": "DEĞİRMENCİUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35923,
+    "neighbor_name": "EYÜPLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35942,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35924,
+    "neighbor_name": "GÖKMENLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35931,
+    "neighbor_name": "GÜRLEŞEN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35925,
+    "neighbor_name": "HALİLBEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35940,
+    "neighbor_name": "HİMMETLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35937,
+    "neighbor_name": "İSLAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35926,
+    "neighbor_name": "KANDİLLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35941,
+    "neighbor_name": "KAPAKLIKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35948,
+    "neighbor_name": "KARAKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35928,
+    "neighbor_name": "KIZILAĞAÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35929,
+    "neighbor_name": "MAHMUTLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35943,
+    "neighbor_name": "NALTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 50163,
+    "neighbor_name": "NARLIDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35939,
+    "neighbor_name": "TOPALLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35932,
+    "neighbor_name": "TÜLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35933,
+    "neighbor_name": "YARDİBİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35930,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 718,
+    "district_name": "SAİMBEYLİ",
+    "neighbor_id": 35935,
+    "neighbor_name": "YEŞİLBAĞLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36188,
+    "neighbor_name": "ACIDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36183,
+    "neighbor_name": "AFLAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36178,
+    "neighbor_name": "AKKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36171,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36199,
+    "neighbor_name": "AYDINYURDU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36174,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36189,
+    "neighbor_name": "BALCALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36203,
+    "neighbor_name": "BAYRAM HACILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36190,
+    "neighbor_name": "BEYCELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36179,
+    "neighbor_name": "BOYNUYOĞUN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36215,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36184,
+    "neighbor_name": "BURUK CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36216,
+    "neighbor_name": "BÜYÜK BAKLALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36162,
+    "neighbor_name": "CERENLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36208,
+    "neighbor_name": "CİHADİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36181,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36182,
+    "neighbor_name": "ÇARKIPARE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36170,
+    "neighbor_name": "ÇAYLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36175,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36191,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36161,
+    "neighbor_name": "ÇİRİŞGEDİĞİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36151,
+    "neighbor_name": "DAĞCI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36172,
+    "neighbor_name": "DUTLUCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36204,
+    "neighbor_name": "EĞECİUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 50167,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36158,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36217,
+    "neighbor_name": "GÖKBUKET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36163,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36180,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36200,
+    "neighbor_name": "HAKKIBEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36173,
+    "neighbor_name": "HASANBEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36159,
+    "neighbor_name": "HOCALLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36166,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36165,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36193,
+    "neighbor_name": "KARAÖMERLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36186,
+    "neighbor_name": "KARAYUSUFLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36194,
+    "neighbor_name": "KARGAKEKEÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36212,
+    "neighbor_name": "KARLIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36209,
+    "neighbor_name": "KAŞOBASI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36152,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36160,
+    "neighbor_name": "KEPEZTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36210,
+    "neighbor_name": "KILBAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36164,
+    "neighbor_name": "KILIÇLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36187,
+    "neighbor_name": "KIZILKAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36177,
+    "neighbor_name": "KÖSEFAKILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36154,
+    "neighbor_name": "KÜÇÜKBAKLALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36167,
+    "neighbor_name": "MALTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36213,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36153,
+    "neighbor_name": "MENEKŞE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36202,
+    "neighbor_name": "MUSTAFALAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36155,
+    "neighbor_name": "MÜMİNLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36201,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36168,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36195,
+    "neighbor_name": "REMZİ OĞUZ ARIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36196,
+    "neighbor_name": "SARIÇAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36197,
+    "neighbor_name": "SOFUDEDE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 50158,
+    "neighbor_name": "SULUCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36157,
+    "neighbor_name": "ŞAHİNTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36169,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36192,
+    "neighbor_name": "ÜNLÜCE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36214,
+    "neighbor_name": "YAĞIZLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36206,
+    "neighbor_name": "YARIMCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36205,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36211,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36198,
+    "neighbor_name": "YENİYAYLA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36185,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36207,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 721,
+    "district_name": "SARIÇAM",
+    "neighbor_id": 36156,
+    "neighbor_name": "YÜREKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36015,
+    "neighbor_name": "CEMALPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35962,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36006,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36032,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36026,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35966,
+    "neighbor_name": "REŞATBEY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36027,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35998,
+    "neighbor_name": "YENİBARAJ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36030,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36042,
+    "neighbor_name": "ZİYAPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35980,
+    "neighbor_name": "AKKAPI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36043,
+    "neighbor_name": "ALİDEDE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35995,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35963,
+    "neighbor_name": "BEŞOCAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36038,
+    "neighbor_name": "BEY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35987,
+    "neighbor_name": "CAMUZCU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35956,
+    "neighbor_name": "ÇAPUTÇU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36020,
+    "neighbor_name": "DAĞLIOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36044,
+    "neighbor_name": "DERVİŞLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36013,
+    "neighbor_name": "DÖRTAĞAÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36008,
+    "neighbor_name": "GÜLBAHÇESİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35989,
+    "neighbor_name": "HADIRLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35990,
+    "neighbor_name": "HANEDAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35969,
+    "neighbor_name": "HAVUZLUBAHÇE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36040,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36022,
+    "neighbor_name": "KARASOKU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36023,
+    "neighbor_name": "KARAYUSUFLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35992,
+    "neighbor_name": "KAYALIBAĞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36007,
+    "neighbor_name": "KAYIŞLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35993,
+    "neighbor_name": "KOCAVEZİR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36016,
+    "neighbor_name": "KOYUNCU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36017,
+    "neighbor_name": "KÖYLÜOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36024,
+    "neighbor_name": "KURUKÖPRÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35960,
+    "neighbor_name": "MESTANZADE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35983,
+    "neighbor_name": "MIDIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35977,
+    "neighbor_name": "MİRZAÇELEBİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36025,
+    "neighbor_name": "MÜRSELOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35984,
+    "neighbor_name": "SALMANBEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36009,
+    "neighbor_name": "SARIYAKUP MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36034,
+    "neighbor_name": "SERİNEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35985,
+    "neighbor_name": "SUCUZADE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36031,
+    "neighbor_name": "ŞEHİTDURAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35973,
+    "neighbor_name": "TEPEBAĞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35970,
+    "neighbor_name": "TÜRKOCAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36010,
+    "neighbor_name": "ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36041,
+    "neighbor_name": "YALMANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35949,
+    "neighbor_name": "YENİBEY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36012,
+    "neighbor_name": "2000 EVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35994,
+    "neighbor_name": "AHMET REMZİ YÜREĞİR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35958,
+    "neighbor_name": "BAHÇEŞEHİR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36029,
+    "neighbor_name": "BÜYÜKDİKİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35968,
+    "neighbor_name": "DENİZLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35988,
+    "neighbor_name": "DÖŞEME MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35975,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35953,
+    "neighbor_name": "GÜRSELPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36002,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35965,
+    "neighbor_name": "KARAKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36004,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35972,
+    "neighbor_name": "KOZA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35954,
+    "neighbor_name": "KUYUMCULAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35959,
+    "neighbor_name": "KÜÇÜKDİKİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35999,
+    "neighbor_name": "MEKAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35951,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36019,
+    "neighbor_name": "NARLICA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35978,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36000,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35997,
+    "neighbor_name": "SARIHUĞLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36035,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36005,
+    "neighbor_name": "TELLİDERE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35982,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35955,
+    "neighbor_name": "ZEYTİNLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35957,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35986,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36028,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35981,
+    "neighbor_name": "BÜYÜKÇILDIRIM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36039,
+    "neighbor_name": "DEMETEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35974,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35950,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36021,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35964,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35952,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36003,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35991,
+    "neighbor_name": "HURMALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35996,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35976,
+    "neighbor_name": "KÜÇÜKÇILDIRIM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36018,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35961,
+    "neighbor_name": "ONUR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36014,
+    "neighbor_name": "OVA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36033,
+    "neighbor_name": "SARIHAMZALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35967,
+    "neighbor_name": "ŞAKİRPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35979,
+    "neighbor_name": "UÇAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36001,
+    "neighbor_name": "YENİDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 35971,
+    "neighbor_name": "YEŞİLEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36011,
+    "neighbor_name": "YEŞİLOBA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36036,
+    "neighbor_name": "YEŞİLYUVA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 719,
+    "district_name": "SEYHAN",
+    "neighbor_id": 36037,
+    "neighbor_name": "YOLGEÇEN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36492,
+    "neighbor_name": "AKÇAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36506,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36478,
+    "neighbor_name": "AYVAT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36484,
+    "neighbor_name": "BOLATPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36481,
+    "neighbor_name": "BOZGÜNEY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36477,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36502,
+    "neighbor_name": "ÇATALÇAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36489,
+    "neighbor_name": "ÇUKURKIŞLA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36503,
+    "neighbor_name": "DAMLALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36479,
+    "neighbor_name": "DEMİROLUK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36498,
+    "neighbor_name": "DOĞANBEYLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36493,
+    "neighbor_name": "DOĞANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36485,
+    "neighbor_name": "ELEMANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36499,
+    "neighbor_name": "EVCİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36474,
+    "neighbor_name": "FATMAKUYU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36482,
+    "neighbor_name": "GÜZELİM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36486,
+    "neighbor_name": "HANYERİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36491,
+    "neighbor_name": "İĞDEBEL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36490,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36475,
+    "neighbor_name": "KARSAVRAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36476,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36494,
+    "neighbor_name": "KAYARCIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36480,
+    "neighbor_name": "KİRAZLIYURT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36500,
+    "neighbor_name": "KOCCAĞIZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36501,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36495,
+    "neighbor_name": "PEKMEZLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36504,
+    "neighbor_name": "PINARLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36497,
+    "neighbor_name": "ŞAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36496,
+    "neighbor_name": "TAŞPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36487,
+    "neighbor_name": "TOZLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36505,
+    "neighbor_name": "YAMANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36488,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 727,
+    "district_name": "TUFANBEYLİ",
+    "neighbor_id": 36483,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36526,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36527,
+    "neighbor_name": "AKYUVA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36515,
+    "neighbor_name": "ASMALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36528,
+    "neighbor_name": "AYAS MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36507,
+    "neighbor_name": "AYVALIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36529,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36521,
+    "neighbor_name": "DEVECİUŞAĞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36508,
+    "neighbor_name": "DEVRİŞİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36516,
+    "neighbor_name": "GÖLOVASI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36530,
+    "neighbor_name": "HAMZALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36517,
+    "neighbor_name": "HAYLAZLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36518,
+    "neighbor_name": "KALDIRIM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36509,
+    "neighbor_name": "KALEMLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36522,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36519,
+    "neighbor_name": "KESMEBURUN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36510,
+    "neighbor_name": "KIRMIZIDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36523,
+    "neighbor_name": "KUZUPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36511,
+    "neighbor_name": "NARLIÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36525,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36512,
+    "neighbor_name": "SUGÖZÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36520,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36524,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36513,
+    "neighbor_name": "YUMURTALIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 728,
+    "district_name": "YUMURTALIK",
+    "neighbor_id": 36514,
+    "neighbor_name": "ZEYTİNBELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36098,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36082,
+    "neighbor_name": "ABDİOĞLU CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36058,
+    "neighbor_name": "AĞZIBÜYÜK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36075,
+    "neighbor_name": "AKDAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36131,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36083,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36050,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36061,
+    "neighbor_name": "ALİHOCALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36105,
+    "neighbor_name": "ANADOLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36069,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36056,
+    "neighbor_name": "AYDINCIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36108,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36064,
+    "neighbor_name": "BAŞAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36099,
+    "neighbor_name": "BELÖREN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36070,
+    "neighbor_name": "BEYKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36077,
+    "neighbor_name": "BÜYÜKKAPILI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36090,
+    "neighbor_name": "CIRIK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36100,
+    "neighbor_name": "CİNE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36084,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36068,
+    "neighbor_name": "ÇAĞIRKANLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36150,
+    "neighbor_name": "ÇATALPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36142,
+    "neighbor_name": "ÇELEMLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36089,
+    "neighbor_name": "ÇOTLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36146,
+    "neighbor_name": "DANIŞMENT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36110,
+    "neighbor_name": "DEDE KORKUT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36078,
+    "neighbor_name": "DENİZKUYUSU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36118,
+    "neighbor_name": "DOĞANKENT BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36052,
+    "neighbor_name": "DOĞANKENT CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36085,
+    "neighbor_name": "DOĞANKENT KIŞLA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36119,
+    "neighbor_name": "DÜZCE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36135,
+    "neighbor_name": "EĞRİAĞAÇ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36045,
+    "neighbor_name": "ESENLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36139,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36076,
+    "neighbor_name": "GEÇİTLİ CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36053,
+    "neighbor_name": "GÖKÇELİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36120,
+    "neighbor_name": "GÜMÜŞYAZI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36112,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36086,
+    "neighbor_name": "GÜVELOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36087,
+    "neighbor_name": "GÜZELEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36097,
+    "neighbor_name": "HACIALİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36059,
+    "neighbor_name": "HAVRANİYE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36101,
+    "neighbor_name": "HAVUTLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36072,
+    "neighbor_name": "HAYDAROĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36088,
+    "neighbor_name": "HEREKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36062,
+    "neighbor_name": "IRMAKBAŞI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36057,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36113,
+    "neighbor_name": "KAMIŞLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36132,
+    "neighbor_name": "KARAAHMETLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36073,
+    "neighbor_name": "KAŞLICA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36128,
+    "neighbor_name": "KAYARLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36092,
+    "neighbor_name": "KOZA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36122,
+    "neighbor_name": "KÖKLÜCE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36066,
+    "neighbor_name": "KÖPRÜGÖZÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36148,
+    "neighbor_name": "KÜTÜKLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36093,
+    "neighbor_name": "LEVENT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36109,
+    "neighbor_name": "ÖZLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36055,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36079,
+    "neighbor_name": "PEKMEZLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36129,
+    "neighbor_name": "SAĞDIÇLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36080,
+    "neighbor_name": "SAKIZLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36063,
+    "neighbor_name": "SAZAK MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36124,
+    "neighbor_name": "SEYHAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36047,
+    "neighbor_name": "SİNANPAŞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36074,
+    "neighbor_name": "SOLAKLI CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36094,
+    "neighbor_name": "SOLAKLI HÜRRİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36117,
+    "neighbor_name": "ŞAHİNAĞA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36137,
+    "neighbor_name": "ŞEYHMURAT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36130,
+    "neighbor_name": "TAŞÇI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36114,
+    "neighbor_name": "VAYVAYLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36060,
+    "neighbor_name": "YAHŞİLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36149,
+    "neighbor_name": "YALNIZCA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36116,
+    "neighbor_name": "YAMAÇLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36127,
+    "neighbor_name": "YAVUZLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36147,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36081,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36095,
+    "neighbor_name": "YERDELEN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36096,
+    "neighbor_name": "YEŞİL BAĞLAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36071,
+    "neighbor_name": "YUKARIÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36121,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36067,
+    "neighbor_name": "YUNUSOĞLU CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36141,
+    "neighbor_name": "YUNUSOĞLU HÜRRİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36048,
+    "neighbor_name": "ZAĞARLI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 50154,
+    "neighbor_name": "AKARCALI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36144,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36145,
+    "neighbor_name": "CAMİLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36134,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36065,
+    "neighbor_name": "DADALOĞLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36138,
+    "neighbor_name": "DEDEPINARI MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36051,
+    "neighbor_name": "DERVİŞLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36125,
+    "neighbor_name": "ESKİ MİSİS MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 49795,
+    "neighbor_name": "GÜZEL CUMHURİYET MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36140,
+    "neighbor_name": "KARACAOĞLAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36111,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36133,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36123,
+    "neighbor_name": "KİREMİTHANE MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36054,
+    "neighbor_name": "KÖPRÜLÜ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36106,
+    "neighbor_name": "MUTLU MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36103,
+    "neighbor_name": "ÖZGÜR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36104,
+    "neighbor_name": "P.T.T MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36126,
+    "neighbor_name": "SARIÇAM MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36046,
+    "neighbor_name": "SELAHATTİN EYYUBİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36115,
+    "neighbor_name": "SERİNEVLER MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36049,
+    "neighbor_name": "ŞEHİT ERKUT AKBAY MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36136,
+    "neighbor_name": "TAHSİLLİ MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36102,
+    "neighbor_name": "ULUBATLI HASAN MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36091,
+    "neighbor_name": "YAKAPINAR MAH."
+  },
+  {
+    "city_id": 57,
+    "city_name": "ADANA",
+    "district_id": 720,
+    "district_name": "YÜREĞİR",
+    "neighbor_id": 36143,
+    "neighbor_name": "YENİDOĞAN MAH."
+  }
+]
