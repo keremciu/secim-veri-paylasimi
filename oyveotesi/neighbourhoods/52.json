@@ -1,0 +1,7074 @@
+[
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33747,
+    "neighbor_name": "AYHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33724,
+    "neighbor_name": "CENGİZHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33743,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33712,
+    "neighbor_name": "DENİZHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33795,
+    "neighbor_name": "GÜNHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33770,
+    "neighbor_name": "ÖZHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33793,
+    "neighbor_name": "YILDIZHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33711,
+    "neighbor_name": "AKÇAKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33757,
+    "neighbor_name": "AKÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33755,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33798,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33714,
+    "neighbor_name": "ALACAHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33727,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33753,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33762,
+    "neighbor_name": "BALÇIKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33777,
+    "neighbor_name": "BELPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33735,
+    "neighbor_name": "BEŞİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33766,
+    "neighbor_name": "BOĞAZİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33700,
+    "neighbor_name": "BOLATÇIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33774,
+    "neighbor_name": "BOZDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33786,
+    "neighbor_name": "BÜYÜKCAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33756,
+    "neighbor_name": "BÜYÜKDONA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33748,
+    "neighbor_name": "BÜYÜKHIRKA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33730,
+    "neighbor_name": "BÜYÜKKEŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33771,
+    "neighbor_name": "BÜYÜKSÖĞÜTÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33703,
+    "neighbor_name": "ÇAL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33728,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33694,
+    "neighbor_name": "ÇATALBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33794,
+    "neighbor_name": "ÇATALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33733,
+    "neighbor_name": "ÇELEBİBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33759,
+    "neighbor_name": "ÇETEDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33739,
+    "neighbor_name": "ÇEVRELİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33729,
+    "neighbor_name": "ÇIRÇIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33769,
+    "neighbor_name": "ÇİKHASAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33796,
+    "neighbor_name": "ÇOPRAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33695,
+    "neighbor_name": "ÇÖPLÜAVUTMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33713,
+    "neighbor_name": "ÇÖPLÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33763,
+    "neighbor_name": "DEDEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33764,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33791,
+    "neighbor_name": "DEĞİRMENÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33707,
+    "neighbor_name": "DEREYAZICI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33799,
+    "neighbor_name": "DUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33784,
+    "neighbor_name": "EREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33744,
+    "neighbor_name": "ESKİYAPAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33749,
+    "neighbor_name": "EVCİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33719,
+    "neighbor_name": "FAKILAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33709,
+    "neighbor_name": "GAZİPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33787,
+    "neighbor_name": "GERDEKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33775,
+    "neighbor_name": "GEVEN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33725,
+    "neighbor_name": "GÖKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33698,
+    "neighbor_name": "GÜLDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33701,
+    "neighbor_name": "GÜLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33731,
+    "neighbor_name": "HARHAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33761,
+    "neighbor_name": "HAYDAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33780,
+    "neighbor_name": "İBRAHİM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33760,
+    "neighbor_name": "İMAT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33737,
+    "neighbor_name": "İSAHACI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33767,
+    "neighbor_name": "İSMAİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33715,
+    "neighbor_name": "KALECİKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33738,
+    "neighbor_name": "KALINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33788,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33754,
+    "neighbor_name": "KARAÇAL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33741,
+    "neighbor_name": "KARAMAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33716,
+    "neighbor_name": "KARATEPE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33696,
+    "neighbor_name": "KARGIN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33772,
+    "neighbor_name": "KARNIKARA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33697,
+    "neighbor_name": "KAYABÜVET KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33717,
+    "neighbor_name": "KICILI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33800,
+    "neighbor_name": "KILAVUZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33778,
+    "neighbor_name": "KIZILLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33726,
+    "neighbor_name": "KIZILYAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33745,
+    "neighbor_name": "KIZKARACA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33792,
+    "neighbor_name": "KİLLİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33750,
+    "neighbor_name": "KOÇHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33789,
+    "neighbor_name": "KOYUNOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33718,
+    "neighbor_name": "KUYLUŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33781,
+    "neighbor_name": "KUYUMCUSARAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33708,
+    "neighbor_name": "KUZKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33790,
+    "neighbor_name": "KÜÇÜKCAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33736,
+    "neighbor_name": "KÜÇÜKDONA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33797,
+    "neighbor_name": "KÜÇÜKHIRKA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33722,
+    "neighbor_name": "KÜÇÜKKEŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33758,
+    "neighbor_name": "KÜLAH KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33779,
+    "neighbor_name": "KÜRE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33702,
+    "neighbor_name": "KÜRKÇÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33720,
+    "neighbor_name": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33710,
+    "neighbor_name": "MAZIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33782,
+    "neighbor_name": "MİYANESULTAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33704,
+    "neighbor_name": "ONBAŞILAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33742,
+    "neighbor_name": "ÖRÜKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33785,
+    "neighbor_name": "PERÇEM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33721,
+    "neighbor_name": "SANCI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33773,
+    "neighbor_name": "SARISÜLEYMAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33699,
+    "neighbor_name": "SEYİTNİZAM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33705,
+    "neighbor_name": "SİNCAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33765,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33734,
+    "neighbor_name": "SULTAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33751,
+    "neighbor_name": "SULUDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33740,
+    "neighbor_name": "TAHİRABAT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33752,
+    "neighbor_name": "TEVFİKİYE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33723,
+    "neighbor_name": "TUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33776,
+    "neighbor_name": "ÜNALAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33768,
+    "neighbor_name": "YATANKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33746,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33732,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33706,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 679,
+    "district_name": "ALACA",
+    "neighbor_id": 33783,
+    "neighbor_name": "YÜKSEKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34331,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34303,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34338,
+    "neighbor_name": "TEPEBAYAT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34329,
+    "neighbor_name": "YATUKCU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34306,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34325,
+    "neighbor_name": "AHACIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34328,
+    "neighbor_name": "AKSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34307,
+    "neighbor_name": "AŞAĞI EMİRHALİL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34302,
+    "neighbor_name": "AYVALICA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34342,
+    "neighbor_name": "BARAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34334,
+    "neighbor_name": "BAYAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34326,
+    "neighbor_name": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34335,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34310,
+    "neighbor_name": "ÇAMLIGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34318,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34341,
+    "neighbor_name": "ÇERKEŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34327,
+    "neighbor_name": "ÇUKURÖZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34330,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34343,
+    "neighbor_name": "DEREKUTUĞUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34322,
+    "neighbor_name": "DORUKSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34308,
+    "neighbor_name": "EMİRHALİL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34336,
+    "neighbor_name": "EMİRŞAH KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34311,
+    "neighbor_name": "ESKİALİBEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34337,
+    "neighbor_name": "EVCİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34312,
+    "neighbor_name": "FALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34332,
+    "neighbor_name": "HACIBAYRAM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34301,
+    "neighbor_name": "İLEĞİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34321,
+    "neighbor_name": "İSHAKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34319,
+    "neighbor_name": "KALINPELİT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34323,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34313,
+    "neighbor_name": "KÖPÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34320,
+    "neighbor_name": "KUBBEDİN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34304,
+    "neighbor_name": "KUNDUZLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34300,
+    "neighbor_name": "KURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 50479,
+    "neighbor_name": "LAPA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34309,
+    "neighbor_name": "PANCARLIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34315,
+    "neighbor_name": "SAĞPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34314,
+    "neighbor_name": "SARAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34305,
+    "neighbor_name": "TEPEKUTUĞUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34316,
+    "neighbor_name": "TEVEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34317,
+    "neighbor_name": "TOYHANE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34333,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34339,
+    "neighbor_name": "YENİŞIHLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34324,
+    "neighbor_name": "YEŞİLÇAT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 685,
+    "district_name": "BAYAT",
+    "neighbor_id": 34340,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33818,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33811,
+    "neighbor_name": "HATTUSAS MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33808,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33804,
+    "neighbor_name": "ÇARŞICUMA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33816,
+    "neighbor_name": "EMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33806,
+    "neighbor_name": "EVCİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33807,
+    "neighbor_name": "GÖLPINARLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33812,
+    "neighbor_name": "KADILITÜRK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33809,
+    "neighbor_name": "KARAKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33802,
+    "neighbor_name": "KAYMAZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33805,
+    "neighbor_name": "ÖRENKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33813,
+    "neighbor_name": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33803,
+    "neighbor_name": "YANICAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33810,
+    "neighbor_name": "YAZIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33814,
+    "neighbor_name": "YEKBAS KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33815,
+    "neighbor_name": "YENİKADILI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 680,
+    "district_name": "BOĞAZKALE",
+    "neighbor_id": 33817,
+    "neighbor_name": "YUKARIFINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34268,
+    "neighbor_name": "AK KENT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34122,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 50316,
+    "neighbor_name": "BAYAT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34287,
+    "neighbor_name": "BUHARAEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34299,
+    "neighbor_name": "ÇEPNİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34186,
+    "neighbor_name": "ÇÖPLÜ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34226,
+    "neighbor_name": "GÜLABİBEY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34100,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34273,
+    "neighbor_name": "KARAKEÇİLİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34106,
+    "neighbor_name": "KUNDUZHAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34181,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34142,
+    "neighbor_name": "ULUKAVAK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34119,
+    "neighbor_name": "ÜÇTUTLAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34228,
+    "neighbor_name": "YAVRUTURNA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34158,
+    "neighbor_name": "YENİYOL MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34247,
+    "neighbor_name": "DÜVENCİ-ATAKÖY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34280,
+    "neighbor_name": "DÜVENCİ-FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34296,
+    "neighbor_name": "DÜVENCİ-GEDİKBEKİR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34179,
+    "neighbor_name": "DÜVENCİ-İKİPINAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34178,
+    "neighbor_name": "DÜVENCİ-KIŞLADERESİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34096,
+    "neighbor_name": "DÜVENCİ-KULTAK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34187,
+    "neighbor_name": "DÜVENCİ-MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34248,
+    "neighbor_name": "DÜVENCİ-YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34138,
+    "neighbor_name": "ABDALATA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34124,
+    "neighbor_name": "ACIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34201,
+    "neighbor_name": "AHİİLYAS KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34213,
+    "neighbor_name": "AHMEDİYE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34154,
+    "neighbor_name": "AHMETOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34274,
+    "neighbor_name": "AKÇAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34177,
+    "neighbor_name": "AKSUNGUR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34103,
+    "neighbor_name": "AKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34099,
+    "neighbor_name": "ALTINBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34198,
+    "neighbor_name": "ARPALIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34164,
+    "neighbor_name": "ARPAÖZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34091,
+    "neighbor_name": "ARSLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34114,
+    "neighbor_name": "AŞAĞISARAYLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34148,
+    "neighbor_name": "ATÇALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34168,
+    "neighbor_name": "AYAZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34257,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34128,
+    "neighbor_name": "BABAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34139,
+    "neighbor_name": "BALIMSULTAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34120,
+    "neighbor_name": "BALIYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34149,
+    "neighbor_name": "BEKTAŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34175,
+    "neighbor_name": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34275,
+    "neighbor_name": "BOĞABAĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34262,
+    "neighbor_name": "BOĞACIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34252,
+    "neighbor_name": "BOĞAZÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34231,
+    "neighbor_name": "BOZBOĞA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34286,
+    "neighbor_name": "BUDAKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34240,
+    "neighbor_name": "BURUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34079,
+    "neighbor_name": "BÜĞDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34085,
+    "neighbor_name": "BÜĞET KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34263,
+    "neighbor_name": "BÜĞRÜOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34205,
+    "neighbor_name": "BÜYÜKDİVAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34279,
+    "neighbor_name": "BÜYÜKGÜLÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34220,
+    "neighbor_name": "CELİLKIRI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34242,
+    "neighbor_name": "CERİT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34159,
+    "neighbor_name": "ÇAĞŞAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34170,
+    "neighbor_name": "ÇAKIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34251,
+    "neighbor_name": "ÇALICA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34210,
+    "neighbor_name": "ÇALKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34223,
+    "neighbor_name": "ÇALTICAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34295,
+    "neighbor_name": "ÇALYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34111,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34121,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34197,
+    "neighbor_name": "ÇAYHATAP KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34241,
+    "neighbor_name": "ÇEŞMEÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34219,
+    "neighbor_name": "ÇIKRIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34212,
+    "neighbor_name": "ÇOBANDİVAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34127,
+    "neighbor_name": "ÇOMARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34116,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34161,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34199,
+    "neighbor_name": "DAĞKARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34183,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34271,
+    "neighbor_name": "DELİBEKİROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34082,
+    "neighbor_name": "DELİLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34184,
+    "neighbor_name": "DENİZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34089,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34253,
+    "neighbor_name": "DUTÇAKALLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34206,
+    "neighbor_name": "DUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34254,
+    "neighbor_name": "DÜDÜKLÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34115,
+    "neighbor_name": "ELİCEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34136,
+    "neighbor_name": "ELKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34104,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34171,
+    "neighbor_name": "ERDEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34188,
+    "neighbor_name": "ERTUĞRUL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34234,
+    "neighbor_name": "ESENÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34145,
+    "neighbor_name": "ESKİCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34117,
+    "neighbor_name": "ESKİEKİN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34097,
+    "neighbor_name": "ESKİKARADONA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34225,
+    "neighbor_name": "ESKİKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34130,
+    "neighbor_name": "ESKİÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34214,
+    "neighbor_name": "EVCİKUZKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34182,
+    "neighbor_name": "EVCİORTAKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34086,
+    "neighbor_name": "EVCİYENİKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34264,
+    "neighbor_name": "EYERCİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34293,
+    "neighbor_name": "EYMİR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34155,
+    "neighbor_name": "FERUZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34207,
+    "neighbor_name": "GEMET KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34294,
+    "neighbor_name": "GÖCENOVACIĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34080,
+    "neighbor_name": "GÖKÇEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34160,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34288,
+    "neighbor_name": "GÖKKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34140,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34238,
+    "neighbor_name": "GÜVEÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34281,
+    "neighbor_name": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34232,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34221,
+    "neighbor_name": "HACIAHMETDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34235,
+    "neighbor_name": "HACIBEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34098,
+    "neighbor_name": "HACIMUSA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34243,
+    "neighbor_name": "HACIPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34258,
+    "neighbor_name": "HAMAMLIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34185,
+    "neighbor_name": "HAMDİKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34233,
+    "neighbor_name": "HANKOZLUSU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34180,
+    "neighbor_name": "HARMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34244,
+    "neighbor_name": "HIMIROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34276,
+    "neighbor_name": "HIZIRDEDE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34193,
+    "neighbor_name": "İĞDELİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34084,
+    "neighbor_name": "İNALÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34147,
+    "neighbor_name": "İSMAİLKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34215,
+    "neighbor_name": "KADIDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34092,
+    "neighbor_name": "KADIKIRI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34272,
+    "neighbor_name": "KALEHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34245,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34289,
+    "neighbor_name": "KARABAYIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34150,
+    "neighbor_name": "KARABÜRÇEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34131,
+    "neighbor_name": "KARACA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34282,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34216,
+    "neighbor_name": "KARADONA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34194,
+    "neighbor_name": "KARAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34259,
+    "neighbor_name": "KARAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34260,
+    "neighbor_name": "KARAKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34132,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34265,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34165,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34208,
+    "neighbor_name": "KAZIKLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34239,
+    "neighbor_name": "KERTME KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34195,
+    "neighbor_name": "KILIÇÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34133,
+    "neighbor_name": "KINIKDELİLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34105,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34156,
+    "neighbor_name": "KIRKDİLİM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34093,
+    "neighbor_name": "KIZILPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34151,
+    "neighbor_name": "KİRANLIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34094,
+    "neighbor_name": "KİRAZLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34190,
+    "neighbor_name": "KİREÇOCAĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34236,
+    "neighbor_name": "KONAKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34137,
+    "neighbor_name": "KOPARAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34217,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34255,
+    "neighbor_name": "KÖPRÜALAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34125,
+    "neighbor_name": "KUMÇELTİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34196,
+    "neighbor_name": "KURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34143,
+    "neighbor_name": "KUŞSARAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34202,
+    "neighbor_name": "KUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34166,
+    "neighbor_name": "KÜÇÜKDÜVENCİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34172,
+    "neighbor_name": "KÜÇÜKGÜLÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34189,
+    "neighbor_name": "KÜÇÜKPALABIYIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34269,
+    "neighbor_name": "LALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34266,
+    "neighbor_name": "MECİDİYEKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34297,
+    "neighbor_name": "MİSLEROVACIĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34203,
+    "neighbor_name": "MOLLAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34237,
+    "neighbor_name": "MORSÜMBÜL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34167,
+    "neighbor_name": "MUSTAFAÇELEBİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34176,
+    "neighbor_name": "MÜHÜRLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34152,
+    "neighbor_name": "NARLIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34246,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34081,
+    "neighbor_name": "OVASARAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34146,
+    "neighbor_name": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34135,
+    "neighbor_name": "ÖKSÜZLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34229,
+    "neighbor_name": "ÖMERBEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34129,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34107,
+    "neighbor_name": "PALABIYIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34204,
+    "neighbor_name": "PANCARLIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34283,
+    "neighbor_name": "PAŞA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34126,
+    "neighbor_name": "PEMBECİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34173,
+    "neighbor_name": "PINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34134,
+    "neighbor_name": "PINARÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34153,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34284,
+    "neighbor_name": "SAPA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34227,
+    "neighbor_name": "SARAYLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34169,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34101,
+    "neighbor_name": "SARILIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34191,
+    "neighbor_name": "SARIMBEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34270,
+    "neighbor_name": "SARIŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34108,
+    "neighbor_name": "SARMAŞA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34285,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34218,
+    "neighbor_name": "SAZDEĞİRMENİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34157,
+    "neighbor_name": "SERBAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34277,
+    "neighbor_name": "SERPİN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34222,
+    "neighbor_name": "SEVİNDİKALANI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34090,
+    "neighbor_name": "SEYDİMÇAKALLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34249,
+    "neighbor_name": "SEYDİM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34200,
+    "neighbor_name": "SEYFE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34290,
+    "neighbor_name": "SIRIKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34291,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34224,
+    "neighbor_name": "ŞAHİNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34162,
+    "neighbor_name": "ŞANLIOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34163,
+    "neighbor_name": "ŞEKERBEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34113,
+    "neighbor_name": "ŞENDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34230,
+    "neighbor_name": "ŞEYHHAMZA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34292,
+    "neighbor_name": "ŞEYHMUSTAFA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34083,
+    "neighbor_name": "TARHANKOZLUSU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34192,
+    "neighbor_name": "TARHAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34174,
+    "neighbor_name": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34102,
+    "neighbor_name": "TATAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34109,
+    "neighbor_name": "TESLİM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34144,
+    "neighbor_name": "TOLAMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34261,
+    "neighbor_name": "TOZLUBURUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34110,
+    "neighbor_name": "TURGUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34141,
+    "neighbor_name": "TÜRKAYŞE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34278,
+    "neighbor_name": "TÜRKLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34298,
+    "neighbor_name": "UĞRAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34112,
+    "neighbor_name": "ÜÇKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34211,
+    "neighbor_name": "ÜLKENPINARI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34087,
+    "neighbor_name": "ÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34256,
+    "neighbor_name": "YAKUPARPA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34095,
+    "neighbor_name": "YAYDİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34118,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34267,
+    "neighbor_name": "YENİHAYAT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34250,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34209,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 684,
+    "district_name": "ÇORUM MERKEZ",
+    "neighbor_id": 34123,
+    "neighbor_name": "YOĞUNPELİT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34346,
+    "neighbor_name": "ÇATAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34349,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34350,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 50353,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34352,
+    "neighbor_name": "OKUL MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34345,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34354,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34347,
+    "neighbor_name": "ALPAGUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34348,
+    "neighbor_name": "AYVAKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34355,
+    "neighbor_name": "BERKKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34361,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34358,
+    "neighbor_name": "DİKENLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34359,
+    "neighbor_name": "KİRENCİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34356,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34344,
+    "neighbor_name": "MEHMETDEDEOBRUĞU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34351,
+    "neighbor_name": "MEHMETDEDETEKKESİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34353,
+    "neighbor_name": "TUTUŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 686,
+    "district_name": "DODURGA",
+    "neighbor_id": 34360,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34396,
+    "neighbor_name": "BAHABEY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34403,
+    "neighbor_name": "BÜYÜKTAŞ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34416,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34427,
+    "neighbor_name": "EKİZOĞLU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34400,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34423,
+    "neighbor_name": "HACIPİRİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34430,
+    "neighbor_name": "KALEBOĞAZI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34391,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34419,
+    "neighbor_name": "MUTAFLAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34381,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34390,
+    "neighbor_name": "TABAKHANE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34415,
+    "neighbor_name": "ULAŞTEPE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34440,
+    "neighbor_name": "ULUDERE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34451,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34443,
+    "neighbor_name": "AHLATCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34407,
+    "neighbor_name": "AHMETCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34408,
+    "neighbor_name": "AKCASU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34382,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34395,
+    "neighbor_name": "ALUÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34437,
+    "neighbor_name": "ASARCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34387,
+    "neighbor_name": "AŞAĞIÖRENSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34421,
+    "neighbor_name": "AŞAĞIŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34383,
+    "neighbor_name": "AVHATYAKA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34434,
+    "neighbor_name": "BAŞMAKCI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34444,
+    "neighbor_name": "BEYOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34393,
+    "neighbor_name": "ÇATKARA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34447,
+    "neighbor_name": "ÇAVUŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34394,
+    "neighbor_name": "ÇETMİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34410,
+    "neighbor_name": "ÇOMU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34442,
+    "neighbor_name": "ÇUKURKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34455,
+    "neighbor_name": "DAĞKIYISI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34426,
+    "neighbor_name": "DEREKARGIN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34456,
+    "neighbor_name": "DERESEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34438,
+    "neighbor_name": "DOĞANGİR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34409,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34422,
+    "neighbor_name": "ESKİKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34397,
+    "neighbor_name": "GÖL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34439,
+    "neighbor_name": "GÜNEYALUÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34404,
+    "neighbor_name": "HACIHALİL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34413,
+    "neighbor_name": "HALLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34414,
+    "neighbor_name": "HARUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34386,
+    "neighbor_name": "İBİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34454,
+    "neighbor_name": "İKİKİSE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34412,
+    "neighbor_name": "İKİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34384,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34457,
+    "neighbor_name": "KARABURUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34388,
+    "neighbor_name": "KARAÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34424,
+    "neighbor_name": "KARAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34401,
+    "neighbor_name": "KARLIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34417,
+    "neighbor_name": "KARMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34431,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34458,
+    "neighbor_name": "KAYAAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34418,
+    "neighbor_name": "KILIÇDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34445,
+    "neighbor_name": "KIZILCABAYIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34452,
+    "neighbor_name": "KURUSARAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34448,
+    "neighbor_name": "KUTLUÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34389,
+    "neighbor_name": "KUZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34398,
+    "neighbor_name": "KUZULUK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34446,
+    "neighbor_name": "MUSULAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34385,
+    "neighbor_name": "ONAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34411,
+    "neighbor_name": "ÖRÜBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34453,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34402,
+    "neighbor_name": "SARIKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34435,
+    "neighbor_name": "SEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34420,
+    "neighbor_name": "SEYİRÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34429,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34428,
+    "neighbor_name": "SORKUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34392,
+    "neighbor_name": "SUHİLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34399,
+    "neighbor_name": "ŞEHİRKURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34406,
+    "neighbor_name": "ŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34450,
+    "neighbor_name": "YALAKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34449,
+    "neighbor_name": "YALAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34405,
+    "neighbor_name": "YANOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34432,
+    "neighbor_name": "YAVU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34433,
+    "neighbor_name": "YAYLACIKSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34441,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34436,
+    "neighbor_name": "YERLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 688,
+    "district_name": "İSKİLİP",
+    "neighbor_id": 34425,
+    "neighbor_name": "YUKARIÖRENSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34514,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34472,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34459,
+    "neighbor_name": "İMAMBEY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34500,
+    "neighbor_name": "MİHRİHATUN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34507,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34481,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34497,
+    "neighbor_name": "ABDULLAH KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34476,
+    "neighbor_name": "AKÇATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34460,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34469,
+    "neighbor_name": "AKKİSE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34510,
+    "neighbor_name": "ALİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34511,
+    "neighbor_name": "ARIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34483,
+    "neighbor_name": "AVŞAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34498,
+    "neighbor_name": "BADEMCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34487,
+    "neighbor_name": "BAĞÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34465,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34489,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34466,
+    "neighbor_name": "BEYGİRCİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34467,
+    "neighbor_name": "BOZARMUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34461,
+    "neighbor_name": "CİHADİYE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34504,
+    "neighbor_name": "ÇAKIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34522,
+    "neighbor_name": "ÇAL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34482,
+    "neighbor_name": "ÇELTİKÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34503,
+    "neighbor_name": "ÇETMİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34475,
+    "neighbor_name": "ÇOBANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34496,
+    "neighbor_name": "ÇOBANLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34471,
+    "neighbor_name": "ÇUKURALUÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34515,
+    "neighbor_name": "DEMİRÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34505,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34473,
+    "neighbor_name": "GÖKBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34519,
+    "neighbor_name": "GÖKÇEDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34513,
+    "neighbor_name": "GÖLETDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34512,
+    "neighbor_name": "GÖLET KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34493,
+    "neighbor_name": "GÖL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34462,
+    "neighbor_name": "GÜMÜŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34468,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34499,
+    "neighbor_name": "GÜNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34474,
+    "neighbor_name": "HACIHAMZA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34477,
+    "neighbor_name": "HACIVELİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34506,
+    "neighbor_name": "HALILAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34518,
+    "neighbor_name": "İNCEÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34479,
+    "neighbor_name": "KABAKCI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34490,
+    "neighbor_name": "KARABOYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34520,
+    "neighbor_name": "KARACAOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34488,
+    "neighbor_name": "KARAKİSE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34516,
+    "neighbor_name": "KARAOSMANLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34494,
+    "neighbor_name": "KARAPÜRÇEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34463,
+    "neighbor_name": "KAVAKÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34491,
+    "neighbor_name": "KOYUNKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34501,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34495,
+    "neighbor_name": "MAKSUTLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34464,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34502,
+    "neighbor_name": "PELİTCİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34509,
+    "neighbor_name": "PELİTÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34517,
+    "neighbor_name": "SARAÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34470,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34480,
+    "neighbor_name": "SEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34485,
+    "neighbor_name": "SİNANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34484,
+    "neighbor_name": "SÜNLÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34486,
+    "neighbor_name": "TEPELİCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34508,
+    "neighbor_name": "UĞUZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34492,
+    "neighbor_name": "UZUNYURT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34478,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 689,
+    "district_name": "KARGI",
+    "neighbor_id": 34521,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34539,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34534,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34530,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34537,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34526,
+    "neighbor_name": "ÇAMLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34533,
+    "neighbor_name": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34531,
+    "neighbor_name": "GÖKÇEKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34527,
+    "neighbor_name": "GÖKGÖZLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34532,
+    "neighbor_name": "GÖZÜBÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34538,
+    "neighbor_name": "İKİZCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34528,
+    "neighbor_name": "KARASOKU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34523,
+    "neighbor_name": "KAVAKLIÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34535,
+    "neighbor_name": "KUYUMCU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34524,
+    "neighbor_name": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34529,
+    "neighbor_name": "NARLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34525,
+    "neighbor_name": "SITMA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 690,
+    "district_name": "LAÇİN",
+    "neighbor_id": 34536,
+    "neighbor_name": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33849,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33851,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33845,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33864,
+    "neighbor_name": "HIDIRLIK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33874,
+    "neighbor_name": "MESCİT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33848,
+    "neighbor_name": "SARIDEDE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33860,
+    "neighbor_name": "ŞEHLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33822,
+    "neighbor_name": "TUTLUK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33871,
+    "neighbor_name": "AĞCAKOYUN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33832,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33844,
+    "neighbor_name": "ALANCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33840,
+    "neighbor_name": "ALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33878,
+    "neighbor_name": "AŞAĞIKÖRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33837,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33850,
+    "neighbor_name": "BEKİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33833,
+    "neighbor_name": "BEYÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33824,
+    "neighbor_name": "BOĞAZKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33861,
+    "neighbor_name": "BOYACI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33852,
+    "neighbor_name": "BÜKSE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33823,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33842,
+    "neighbor_name": "ÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33825,
+    "neighbor_name": "DAĞSARAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33826,
+    "neighbor_name": "DEVLETOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33853,
+    "neighbor_name": "DOĞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33875,
+    "neighbor_name": "ELMAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33863,
+    "neighbor_name": "ELVANÇELEBİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33876,
+    "neighbor_name": "EMİRBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33877,
+    "neighbor_name": "FAKIAHMET KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33868,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33834,
+    "neighbor_name": "FİGANİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33879,
+    "neighbor_name": "GEYKOCA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33869,
+    "neighbor_name": "GÖKÇEBEL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33819,
+    "neighbor_name": "GÜNGÖRMEZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33862,
+    "neighbor_name": "HİSARKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33838,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33867,
+    "neighbor_name": "İBEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33872,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33843,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33854,
+    "neighbor_name": "KARACUMA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33847,
+    "neighbor_name": "KARGI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33841,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33873,
+    "neighbor_name": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33870,
+    "neighbor_name": "KONAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33827,
+    "neighbor_name": "KOYUNAĞILI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33828,
+    "neighbor_name": "KOZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33866,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33856,
+    "neighbor_name": "KÖRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33880,
+    "neighbor_name": "KÖSEEYÜP KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33855,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33865,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33839,
+    "neighbor_name": "SARIHASAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33829,
+    "neighbor_name": "SIRÇALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33857,
+    "neighbor_name": "SORKOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33858,
+    "neighbor_name": "SÖĞÜTÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33830,
+    "neighbor_name": "SÖĞÜTYOLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33846,
+    "neighbor_name": "SÜLÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33831,
+    "neighbor_name": "TANRIVERMİŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33820,
+    "neighbor_name": "TERKEN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33821,
+    "neighbor_name": "TOTALİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33836,
+    "neighbor_name": "VAKIFLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33835,
+    "neighbor_name": "YEDİGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 681,
+    "district_name": "MECİTÖZÜ",
+    "neighbor_id": 33859,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34565,
+    "neighbor_name": "ASARÇAY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34566,
+    "neighbor_name": "BİRTATLI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34570,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34571,
+    "neighbor_name": "ÇEŞME MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34574,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34569,
+    "neighbor_name": "KARADONLU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34576,
+    "neighbor_name": "KIZILCAPELİT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34572,
+    "neighbor_name": "AĞAÇÇAMI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34567,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34568,
+    "neighbor_name": "DERİNÖZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34573,
+    "neighbor_name": "ERENLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34575,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 692,
+    "district_name": "OĞUZLAR",
+    "neighbor_id": 34577,
+    "neighbor_name": "ŞAPHANE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34377,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34362,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34371,
+    "neighbor_name": "SUYOLU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34380,
+    "neighbor_name": "AŞTAVUL-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34376,
+    "neighbor_name": "AŞTAVUL-ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34366,
+    "neighbor_name": "ASAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34373,
+    "neighbor_name": "BÜYÜKKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34367,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34368,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34363,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34374,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34378,
+    "neighbor_name": "KARAHACİP KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34369,
+    "neighbor_name": "KAVAKALAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34364,
+    "neighbor_name": "KIZILHAMZA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34365,
+    "neighbor_name": "ORUÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34370,
+    "neighbor_name": "SALBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34375,
+    "neighbor_name": "SENEMOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34372,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 687,
+    "district_name": "ORTAKÖY",
+    "neighbor_id": 34379,
+    "neighbor_name": "YUKARI KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33886,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33917,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33914,
+    "neighbor_name": "ÇİFTLİKLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33882,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33919,
+    "neighbor_name": "EYMİR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33897,
+    "neighbor_name": "GEMİCİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33936,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33896,
+    "neighbor_name": "GÜRLEYİK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33949,
+    "neighbor_name": "HIDIRLIK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33951,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33921,
+    "neighbor_name": "KIZILIRMAK MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33890,
+    "neighbor_name": "KOYUNBABA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33939,
+    "neighbor_name": "ŞENYURT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33938,
+    "neighbor_name": "TEMENÇE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33953,
+    "neighbor_name": "ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33932,
+    "neighbor_name": "YAZI MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33909,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33918,
+    "neighbor_name": "YEŞİLÇATMA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33893,
+    "neighbor_name": "AĞIROĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33940,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33901,
+    "neighbor_name": "ALİBEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33911,
+    "neighbor_name": "ARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33925,
+    "neighbor_name": "AŞAĞIZEYTİN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33948,
+    "neighbor_name": "AŞIKBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33906,
+    "neighbor_name": "AVLAĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33902,
+    "neighbor_name": "AYDIN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33894,
+    "neighbor_name": "BALDIRAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33895,
+    "neighbor_name": "BALTACIMEHMETPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33903,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33944,
+    "neighbor_name": "BELKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33891,
+    "neighbor_name": "ÇAMPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33899,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33900,
+    "neighbor_name": "ÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33887,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33912,
+    "neighbor_name": "DELLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33926,
+    "neighbor_name": "DOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33904,
+    "neighbor_name": "DURUCASU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33941,
+    "neighbor_name": "EVLİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33942,
+    "neighbor_name": "FINDICAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33933,
+    "neighbor_name": "FINDIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33943,
+    "neighbor_name": "GECEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33937,
+    "neighbor_name": "GİRİNOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33883,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33920,
+    "neighbor_name": "GÜNEŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33931,
+    "neighbor_name": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33945,
+    "neighbor_name": "HANEFİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33905,
+    "neighbor_name": "İNAL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33892,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33884,
+    "neighbor_name": "KAMİL KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33928,
+    "neighbor_name": "KARAÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33950,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33927,
+    "neighbor_name": "KARALARGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33913,
+    "neighbor_name": "KARGI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33946,
+    "neighbor_name": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33888,
+    "neighbor_name": "KONACA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33923,
+    "neighbor_name": "KUMBABA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33915,
+    "neighbor_name": "KUZHAYAT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33947,
+    "neighbor_name": "KUZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33934,
+    "neighbor_name": "OVACIKSUYU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33910,
+    "neighbor_name": "ÖBEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33916,
+    "neighbor_name": "PELİTÇİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33929,
+    "neighbor_name": "SARIALAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33885,
+    "neighbor_name": "SARPUNKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33898,
+    "neighbor_name": "SEKİBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33935,
+    "neighbor_name": "SEKİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33952,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33930,
+    "neighbor_name": "TEKMEN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33924,
+    "neighbor_name": "TEPEYOLALTI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33889,
+    "neighbor_name": "UMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33908,
+    "neighbor_name": "YAĞSİYAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33907,
+    "neighbor_name": "YAYLABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33922,
+    "neighbor_name": "YENİDANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 682,
+    "district_name": "OSMANCIK",
+    "neighbor_id": 33881,
+    "neighbor_name": "YUKARIZEYTİN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33979,
+    "neighbor_name": "AKÇAKENT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34020,
+    "neighbor_name": "AKÇAY MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34008,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34053,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 49881,
+    "neighbor_name": "CEVHERİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33960,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33987,
+    "neighbor_name": "FEVZİ PAŞA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33954,
+    "neighbor_name": "GÜRPINAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33998,
+    "neighbor_name": "HACETTEPE MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34037,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34017,
+    "neighbor_name": "ÖRNEKEVLER MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34066,
+    "neighbor_name": "SUNGUROĞLU MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33964,
+    "neighbor_name": "ŞEKERPINAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34004,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33989,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33961,
+    "neighbor_name": "YENİHAYAT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34019,
+    "neighbor_name": "AKÇAKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33975,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33974,
+    "neighbor_name": "AKDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33991,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34031,
+    "neighbor_name": "ALEMBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34024,
+    "neighbor_name": "ARABAÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33996,
+    "neighbor_name": "ARICI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33965,
+    "neighbor_name": "ARİFEGAZİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33984,
+    "neighbor_name": "ASAYİŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34065,
+    "neighbor_name": "AŞAĞIBEŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34007,
+    "neighbor_name": "AŞAĞIFINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33982,
+    "neighbor_name": "AYAĞIBÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34021,
+    "neighbor_name": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34027,
+    "neighbor_name": "BAĞCILI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34028,
+    "neighbor_name": "BAĞDATLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34013,
+    "neighbor_name": "BAHŞILI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33992,
+    "neighbor_name": "BALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33981,
+    "neighbor_name": "BEŞDAM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33972,
+    "neighbor_name": "BEŞKIZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33980,
+    "neighbor_name": "BEYLİCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33993,
+    "neighbor_name": "BEYYURDU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34040,
+    "neighbor_name": "BOZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34072,
+    "neighbor_name": "BOZYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33958,
+    "neighbor_name": "BUNALAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34076,
+    "neighbor_name": "BÜYÜKİNCESU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34045,
+    "neighbor_name": "BÜYÜKPOLATLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34056,
+    "neighbor_name": "ÇADIRHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34075,
+    "neighbor_name": "ÇAMOLUK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33971,
+    "neighbor_name": "ÇAVUŞÇU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33963,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34000,
+    "neighbor_name": "ÇAYAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34001,
+    "neighbor_name": "ÇAYYAKA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33957,
+    "neighbor_name": "ÇİÇEKLİKELLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34022,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34039,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33968,
+    "neighbor_name": "ÇİNGİLLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33990,
+    "neighbor_name": "ÇUKURLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33973,
+    "neighbor_name": "ÇULHALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34014,
+    "neighbor_name": "DAYINCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33959,
+    "neighbor_name": "DEMİRŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34054,
+    "neighbor_name": "DENİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34059,
+    "neighbor_name": "DEREKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33969,
+    "neighbor_name": "DERTLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34009,
+    "neighbor_name": "EKMEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34032,
+    "neighbor_name": "EŞME KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34060,
+    "neighbor_name": "GAFURLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33999,
+    "neighbor_name": "GÖKÇAM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34046,
+    "neighbor_name": "GÖKÇEKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33966,
+    "neighbor_name": "GÖLLER KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34070,
+    "neighbor_name": "GÜLDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34067,
+    "neighbor_name": "GÜLOLUK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33997,
+    "neighbor_name": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34073,
+    "neighbor_name": "HACIOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33977,
+    "neighbor_name": "HİLALLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34064,
+    "neighbor_name": "İKİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34018,
+    "neighbor_name": "İMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34012,
+    "neighbor_name": "İNEGAZİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33967,
+    "neighbor_name": "KALEDERE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34061,
+    "neighbor_name": "KALENDEROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34055,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34035,
+    "neighbor_name": "KARACABEY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34047,
+    "neighbor_name": "KARAÇAY KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34041,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33955,
+    "neighbor_name": "KARAKOCALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34002,
+    "neighbor_name": "KARAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34048,
+    "neighbor_name": "KAVŞUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33994,
+    "neighbor_name": "KEMALLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34015,
+    "neighbor_name": "KERTME KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34016,
+    "neighbor_name": "KIRANKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34074,
+    "neighbor_name": "KIŞLAKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33970,
+    "neighbor_name": "KIZILCAKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34057,
+    "neighbor_name": "KÖRKÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34049,
+    "neighbor_name": "KULA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33995,
+    "neighbor_name": "KURBAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34033,
+    "neighbor_name": "KUŞÇALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34025,
+    "neighbor_name": "KUZUCAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34003,
+    "neighbor_name": "KÜÇÜKİNCESU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34062,
+    "neighbor_name": "KÜÇÜKPOLATLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33985,
+    "neighbor_name": "MAHMATLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34050,
+    "neighbor_name": "MEHMETALİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34010,
+    "neighbor_name": "MEHMETBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34071,
+    "neighbor_name": "MURATKOLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34077,
+    "neighbor_name": "OĞLAKÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34042,
+    "neighbor_name": "ORTAKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34036,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34063,
+    "neighbor_name": "OYACA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34051,
+    "neighbor_name": "SALMANKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34043,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34026,
+    "neighbor_name": "SARICALAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34078,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34034,
+    "neighbor_name": "ŞEKERHACILI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34068,
+    "neighbor_name": "TATLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33988,
+    "neighbor_name": "TERZİLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34029,
+    "neighbor_name": "TİRKEŞ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34052,
+    "neighbor_name": "TOKULLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34058,
+    "neighbor_name": "TOPUZ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33978,
+    "neighbor_name": "TUĞCU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34038,
+    "neighbor_name": "TUĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33986,
+    "neighbor_name": "TURGUTLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34005,
+    "neighbor_name": "TÜRKHACILARHANI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34023,
+    "neighbor_name": "ÜÇOLUK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34030,
+    "neighbor_name": "YARIMSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33976,
+    "neighbor_name": "YENİHACILARHANI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34011,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33983,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34044,
+    "neighbor_name": "YİRCE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 34006,
+    "neighbor_name": "YORGALI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33956,
+    "neighbor_name": "YÖRÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 683,
+    "district_name": "SUNGURLU",
+    "neighbor_id": 33962,
+    "neighbor_name": "YUKARIBEŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34543,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34558,
+    "neighbor_name": "TUTPINAR MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34551,
+    "neighbor_name": "YENİCAMİİ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34562,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34563,
+    "neighbor_name": "YÜZGEÇ MAH."
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34540,
+    "neighbor_name": "ANBARCI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34541,
+    "neighbor_name": "AŞILIARMUT KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34553,
+    "neighbor_name": "BELKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34559,
+    "neighbor_name": "BOZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34554,
+    "neighbor_name": "BÜYÜKERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34555,
+    "neighbor_name": "DAĞÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34560,
+    "neighbor_name": "ESKİÇELTEK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34556,
+    "neighbor_name": "GÖKÇEAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34542,
+    "neighbor_name": "KARAEVLİYA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34561,
+    "neighbor_name": "KARAKISIK KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34544,
+    "neighbor_name": "KIRKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34545,
+    "neighbor_name": "KIZAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34547,
+    "neighbor_name": "KÖPEÇ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34548,
+    "neighbor_name": "KÜÇÜKERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34546,
+    "neighbor_name": "RESULOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34549,
+    "neighbor_name": "SAZKÖY"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34557,
+    "neighbor_name": "TORUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34564,
+    "neighbor_name": "ÜÇDAM KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34550,
+    "neighbor_name": "YARIMCA KÖYÜ"
+  },
+  {
+    "city_id": 52,
+    "city_name": "ÇORUM",
+    "district_id": 691,
+    "district_name": "UĞURLUDAĞ",
+    "neighbor_id": 34552,
+    "neighbor_name": "YENİYAPAN KÖYÜ"
+  }
+]

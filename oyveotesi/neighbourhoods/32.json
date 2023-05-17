@@ -1,0 +1,754 @@
+[
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20739,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20748,
+    "neighbor_name": "HERSEK MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20749,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20742,
+    "neighbor_name": "KAYTAZDERE-MERKEZ MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20750,
+    "neighbor_name": "SUBAŞI-ALTINKENT MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20737,
+    "neighbor_name": "SUBAŞI-DENİZGÖREN MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20738,
+    "neighbor_name": "SUBAŞI-MERKEZ MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20751,
+    "neighbor_name": "TAVŞANLI-FATİH MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20745,
+    "neighbor_name": "TAVŞANLI-ŞEHİTLİK MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20733,
+    "neighbor_name": "AHMEDİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20747,
+    "neighbor_name": "AKTOPRAK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20732,
+    "neighbor_name": "ÇAVUŞÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20746,
+    "neighbor_name": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20740,
+    "neighbor_name": "FEVZİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20744,
+    "neighbor_name": "GEYİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20734,
+    "neighbor_name": "HAVUZDERE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20741,
+    "neighbor_name": "KARADERE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20743,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20735,
+    "neighbor_name": "SERMAYECİK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20736,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 422,
+    "district_name": "ALTINOVA",
+    "neighbor_id": 20752,
+    "neighbor_name": "TOKMAK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20760,
+    "neighbor_name": "50. YIL MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20753,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20757,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20754,
+    "neighbor_name": "FISTIKLI KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20755,
+    "neighbor_name": "HAYRİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20756,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20758,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 423,
+    "district_name": "ARMUTLU",
+    "neighbor_id": 20759,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20715,
+    "neighbor_name": "500 EVLER MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20727,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20719,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20720,
+    "neighbor_name": "SAHİL MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20721,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20717,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20731,
+    "neighbor_name": "TAŞKÖPRÜ-TAŞKÖPRÜ MERKEZ MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20718,
+    "neighbor_name": "TAŞKÖPRÜ-TAŞKÖPRÜ YENİ MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20723,
+    "neighbor_name": "BURHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20722,
+    "neighbor_name": "ÇUKURKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20729,
+    "neighbor_name": "DENİZÇALI KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20730,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20724,
+    "neighbor_name": "GACIK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20728,
+    "neighbor_name": "İLYASKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20716,
+    "neighbor_name": "KABAKLI KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20725,
+    "neighbor_name": "KILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 421,
+    "district_name": "ÇİFTLİKKÖY",
+    "neighbor_id": 20726,
+    "neighbor_name": "LALEDERE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20705,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20698,
+    "neighbor_name": "HARMANLAR MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20699,
+    "neighbor_name": "HASANBABA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20707,
+    "neighbor_name": "KARPUZDERE MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20710,
+    "neighbor_name": "TAŞLİMAN MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20706,
+    "neighbor_name": "ESENKÖY-ALİYE HANIM MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20712,
+    "neighbor_name": "ESENKÖY-LİMAN MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20714,
+    "neighbor_name": "KORU-ATAKENT MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20709,
+    "neighbor_name": "KORU-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20700,
+    "neighbor_name": "KORU-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20703,
+    "neighbor_name": "TEŞVİKİYE-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20701,
+    "neighbor_name": "TEŞVİKİYE-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20704,
+    "neighbor_name": "TEŞVİKİYE-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20702,
+    "neighbor_name": "ÇALICA KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20713,
+    "neighbor_name": "KOCADERE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20708,
+    "neighbor_name": "ORTABURUN KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 420,
+    "district_name": "ÇINARCIK",
+    "neighbor_id": 20711,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 418,
+    "district_name": "TERMAL",
+    "neighbor_id": 20669,
+    "neighbor_name": "GÖKÇEDERE MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 418,
+    "district_name": "TERMAL",
+    "neighbor_id": 20671,
+    "neighbor_name": "ÜVEZPINAR MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 418,
+    "district_name": "TERMAL",
+    "neighbor_id": 20668,
+    "neighbor_name": "AKKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 418,
+    "district_name": "TERMAL",
+    "neighbor_id": 20670,
+    "neighbor_name": "YENİMAHALLE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20693,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20673,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20672,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20694,
+    "neighbor_name": "BAYRAKTEPE MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20679,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20681,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20674,
+    "neighbor_name": "GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20686,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20697,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20691,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20684,
+    "neighbor_name": "PAŞAKENT MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20675,
+    "neighbor_name": "RÜSTEM PAŞA MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 50926,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20676,
+    "neighbor_name": "SÜLEYMAN BEY MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20682,
+    "neighbor_name": "KADIKÖY-MERKEZ MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20688,
+    "neighbor_name": "KADIKÖY-ÖZDEN MAH."
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20680,
+    "neighbor_name": "ELMALIK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20695,
+    "neighbor_name": "ESADİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20687,
+    "neighbor_name": "GÜNEYKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20696,
+    "neighbor_name": "HACIMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20689,
+    "neighbor_name": "KAZIMİYE KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20683,
+    "neighbor_name": "KİRAZLI KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20690,
+    "neighbor_name": "KURTKÖY"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20677,
+    "neighbor_name": "SAFRAN KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20692,
+    "neighbor_name": "SAMANLI KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20678,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 32,
+    "city_name": "YALOVA",
+    "district_id": 419,
+    "district_name": "YALOVA MERKEZ",
+    "neighbor_id": 20685,
+    "neighbor_name": "SUGÖREN KÖYÜ"
+  }
+]

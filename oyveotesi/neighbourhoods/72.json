@@ -1,0 +1,3370 @@
+[
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44404,
+    "neighbor_name": "AKÇAŞAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44405,
+    "neighbor_name": "BAHÇELİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44409,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44393,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44412,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44396,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44397,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44410,
+    "neighbor_name": "PAZARCIK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44411,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44399,
+    "neighbor_name": "ELDERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44400,
+    "neighbor_name": "ELECİK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44401,
+    "neighbor_name": "KARACAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44394,
+    "neighbor_name": "KARAĞI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44402,
+    "neighbor_name": "KATİP KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44395,
+    "neighbor_name": "KOÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44403,
+    "neighbor_name": "KÖSRE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44406,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44398,
+    "neighbor_name": "TERZİLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44407,
+    "neighbor_name": "YAKAAFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44391,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44392,
+    "neighbor_name": "YILANLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 871,
+    "district_name": "AKSU",
+    "neighbor_id": 44408,
+    "neighbor_name": "YUKARIYAYLABEL KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44624,
+    "neighbor_name": "ALTUNBA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44615,
+    "neighbor_name": "ÇEŞME MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44619,
+    "neighbor_name": "GEZİRLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44625,
+    "neighbor_name": "MÜFTÜ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44621,
+    "neighbor_name": "ONAÇ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44622,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44618,
+    "neighbor_name": "SİNAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44617,
+    "neighbor_name": "SÖKMEN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44614,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44612,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44613,
+    "neighbor_name": "HARMANÖREN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44623,
+    "neighbor_name": "İSLAMKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44620,
+    "neighbor_name": "KAPICAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 878,
+    "district_name": "ATABEY",
+    "neighbor_id": 44616,
+    "neighbor_name": "PEMBELİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44417,
+    "neighbor_name": "AĞA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44466,
+    "neighbor_name": "ALTINKUM MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44424,
+    "neighbor_name": "BAĞBUYAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44439,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44453,
+    "neighbor_name": "CAMİİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44461,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44448,
+    "neighbor_name": "HACIŞEYH MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44468,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44430,
+    "neighbor_name": "İMARET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44442,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44469,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44449,
+    "neighbor_name": "KATİP MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44440,
+    "neighbor_name": "KIZILÇUBUK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44455,
+    "neighbor_name": "KONYA BUCAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44427,
+    "neighbor_name": "KUBBELİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44444,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44464,
+    "neighbor_name": "PINAR PAZARI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44458,
+    "neighbor_name": "POYRAZ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44459,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44465,
+    "neighbor_name": "SEKİBAĞ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44428,
+    "neighbor_name": "SEYDİM MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44422,
+    "neighbor_name": "YAZLA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44452,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44414,
+    "neighbor_name": "YEŞİLADA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44437,
+    "neighbor_name": "SARIİDRİS-AĞA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44462,
+    "neighbor_name": "SARIİDRİS-DERE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44441,
+    "neighbor_name": "SARIİDRİS-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44445,
+    "neighbor_name": "SARIİDRİS-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44421,
+    "neighbor_name": "AĞILKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44457,
+    "neighbor_name": "AKDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44431,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44443,
+    "neighbor_name": "AŞAĞI GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44418,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44425,
+    "neighbor_name": "BAĞICIK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44451,
+    "neighbor_name": "BAĞILLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44460,
+    "neighbor_name": "BAĞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44429,
+    "neighbor_name": "BAKLAN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44435,
+    "neighbor_name": "BALKIRI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44467,
+    "neighbor_name": "BARLA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44447,
+    "neighbor_name": "BEYDERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44416,
+    "neighbor_name": "ÇAY KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44454,
+    "neighbor_name": "EYÜPLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44433,
+    "neighbor_name": "GÖKÇEHÖYÜK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 50505,
+    "neighbor_name": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44434,
+    "neighbor_name": "HAVUTLU KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44436,
+    "neighbor_name": "HAYMANA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44426,
+    "neighbor_name": "KIRINTI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44456,
+    "neighbor_name": "MAHMATLAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44423,
+    "neighbor_name": "PAZARKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44413,
+    "neighbor_name": "SERPİL KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44438,
+    "neighbor_name": "SEVİNÇBEY KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44419,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44446,
+    "neighbor_name": "SORKUNCAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44420,
+    "neighbor_name": "TEPELİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44415,
+    "neighbor_name": "YILGINCAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44463,
+    "neighbor_name": "YUKARI GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 872,
+    "district_name": "EĞİRDİR",
+    "neighbor_id": 44450,
+    "neighbor_name": "YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44477,
+    "neighbor_name": "17 EYLÜL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44489,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44471,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44491,
+    "neighbor_name": "HAYDARPAŞA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44478,
+    "neighbor_name": "KIREVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44474,
+    "neighbor_name": "MERKEZ-HÜSEYİN AVNİ PAŞA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44479,
+    "neighbor_name": "MUHARREM MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44488,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44480,
+    "neighbor_name": "SELÇUK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44470,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44484,
+    "neighbor_name": "AFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44485,
+    "neighbor_name": "AKDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44486,
+    "neighbor_name": "BAĞILLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44490,
+    "neighbor_name": "BALCI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44483,
+    "neighbor_name": "ÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44487,
+    "neighbor_name": "ESİNYURT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44472,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44481,
+    "neighbor_name": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44473,
+    "neighbor_name": "KÖKE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44492,
+    "neighbor_name": "MADENLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44475,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44482,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 873,
+    "district_name": "GELENDOST",
+    "neighbor_id": 44476,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44631,
+    "neighbor_name": "ALACA MESCİT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44632,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44627,
+    "neighbor_name": "GÖLETEVLERİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44628,
+    "neighbor_name": "KASAP MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44640,
+    "neighbor_name": "MUSALLA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44629,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44633,
+    "neighbor_name": "GÜNEYKENT-BALADIZ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44638,
+    "neighbor_name": "GÜNEYKENT-ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44634,
+    "neighbor_name": "GÜNEYKENT-TEKKE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44636,
+    "neighbor_name": "GÜNEYKENT-YENİCE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44626,
+    "neighbor_name": "GÖLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44630,
+    "neighbor_name": "İĞDECİK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44637,
+    "neighbor_name": "KIZILCIK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44639,
+    "neighbor_name": "KOÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 879,
+    "district_name": "GÖNEN",
+    "neighbor_id": 44635,
+    "neighbor_name": "SENİRCE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44705,
+    "neighbor_name": "AKKENT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44658,
+    "neighbor_name": "ANADOLU MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44673,
+    "neighbor_name": "AYAZMANA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44666,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44641,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44679,
+    "neighbor_name": "BATIKENT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44707,
+    "neighbor_name": "BİNBİREVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44710,
+    "neighbor_name": "ÇELEBİLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44665,
+    "neighbor_name": "ÇÜNÜR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44660,
+    "neighbor_name": "DAVRAZ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44691,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44698,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44692,
+    "neighbor_name": "EMRE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44699,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44680,
+    "neighbor_name": "GAZİ KEMAL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44661,
+    "neighbor_name": "GÜLCÜ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44651,
+    "neighbor_name": "GÜLEVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44708,
+    "neighbor_name": "GÜLİSTAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44669,
+    "neighbor_name": "HALIKENT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44644,
+    "neighbor_name": "HALİFE SULTAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44670,
+    "neighbor_name": "HIZIRBEY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44689,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44700,
+    "neighbor_name": "IŞIKKENT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44653,
+    "neighbor_name": "İSKENDER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44675,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44693,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44654,
+    "neighbor_name": "KEÇECİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44701,
+    "neighbor_name": "KEPECİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44694,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44695,
+    "neighbor_name": "KUTLUBEY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44709,
+    "neighbor_name": "MEHMET TÖNGE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44647,
+    "neighbor_name": "MODERN EVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44702,
+    "neighbor_name": "MUZAFFER TÜRKEŞ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44703,
+    "neighbor_name": "PİRİMEHMET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44642,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44649,
+    "neighbor_name": "SERMET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44690,
+    "neighbor_name": "SİDRE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44650,
+    "neighbor_name": "SÜLÜBEY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44683,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44655,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44677,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44687,
+    "neighbor_name": "YEDİŞEHİTLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44704,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44672,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44674,
+    "neighbor_name": "KULEÖNÜ-KEMAL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44663,
+    "neighbor_name": "KULEÖNÜ-OKUL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44646,
+    "neighbor_name": "KULEÖNÜ-YENİCAMİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 49565,
+    "neighbor_name": "SAV-AŞAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 49610,
+    "neighbor_name": "SAV-FATİH MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 49451,
+    "neighbor_name": "SAV-YUKARI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44684,
+    "neighbor_name": "ALİKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44697,
+    "neighbor_name": "BOZANÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44662,
+    "neighbor_name": "BÜYÜKGÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44706,
+    "neighbor_name": "BÜYÜKHACILAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44678,
+    "neighbor_name": "ÇOBANİSA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44657,
+    "neighbor_name": "ÇUKURKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44688,
+    "neighbor_name": "DARIDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44659,
+    "neighbor_name": "DARIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44668,
+    "neighbor_name": "DEREGÜMÜ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44676,
+    "neighbor_name": "DİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44685,
+    "neighbor_name": "GELİNCİK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44681,
+    "neighbor_name": "GÜNEYCE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44686,
+    "neighbor_name": "KADILAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44645,
+    "neighbor_name": "KAYIKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44671,
+    "neighbor_name": "KIŞLAKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44696,
+    "neighbor_name": "KÜÇÜKGÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44652,
+    "neighbor_name": "KÜÇÜKHACILAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44667,
+    "neighbor_name": "KÜÇÜKKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44664,
+    "neighbor_name": "YAKAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 880,
+    "district_name": "ISPARTA MERKEZ",
+    "neighbor_id": 44656,
+    "neighbor_name": "YAZISÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44515,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44502,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44516,
+    "neighbor_name": "HACI KÖYÜ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44520,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44499,
+    "neighbor_name": "KAYA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44512,
+    "neighbor_name": "KÜKÜRT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44507,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44521,
+    "neighbor_name": "TOKİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44500,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44518,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44519,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44504,
+    "neighbor_name": "SENİR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44513,
+    "neighbor_name": "SENİR-KUŞÇULAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44493,
+    "neighbor_name": "SENİR-ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44517,
+    "neighbor_name": "SENİR-TEPECİK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44494,
+    "neighbor_name": "SENİR-YENİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44496,
+    "neighbor_name": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44514,
+    "neighbor_name": "AYDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44508,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44505,
+    "neighbor_name": "GÜLKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44522,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44509,
+    "neighbor_name": "KAPLANLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44503,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44510,
+    "neighbor_name": "KILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44506,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44511,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44501,
+    "neighbor_name": "ÖZBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44497,
+    "neighbor_name": "SARACIK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44495,
+    "neighbor_name": "YENİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 874,
+    "district_name": "KEÇİBORLU",
+    "neighbor_id": 44498,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44364,
+    "neighbor_name": "ALCIKLAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44360,
+    "neighbor_name": "ASILKALE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44361,
+    "neighbor_name": "AŞAĞIKALE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44384,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44375,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44366,
+    "neighbor_name": "KERKÜK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44367,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44356,
+    "neighbor_name": "ULVİKALE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44362,
+    "neighbor_name": "ÇARIKSARAYLAR-BÖLÜKLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44350,
+    "neighbor_name": "ÇARIKSARAYLAR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44351,
+    "neighbor_name": "ÇARIKSARAYLAR-ÇUKUR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44358,
+    "neighbor_name": "ÇARIKSARAYLAR-SUVAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44363,
+    "neighbor_name": "ÇARIKSARAYLAR-ULU MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44390,
+    "neighbor_name": "ÇİÇEKPINAR-AŞAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44381,
+    "neighbor_name": "ÇİÇEKPINAR-ÇÖRDÜK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44359,
+    "neighbor_name": "ÇİÇEKPINAR-ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44349,
+    "neighbor_name": "ARAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44365,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44383,
+    "neighbor_name": "ASLANDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44353,
+    "neighbor_name": "AŞAĞIDİNEK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44354,
+    "neighbor_name": "BAŞDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44374,
+    "neighbor_name": "BELCEĞİZ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44370,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44387,
+    "neighbor_name": "ÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44373,
+    "neighbor_name": "ÇAVUNDUR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44380,
+    "neighbor_name": "ÇELTEK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44388,
+    "neighbor_name": "FAKILAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 49872,
+    "neighbor_name": "FELE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44371,
+    "neighbor_name": "GEDİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44355,
+    "neighbor_name": "GÖKSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44376,
+    "neighbor_name": "KARAYAKA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44385,
+    "neighbor_name": "KIYAKDEDE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44377,
+    "neighbor_name": "KÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44378,
+    "neighbor_name": "MURATBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44382,
+    "neighbor_name": "ÖRDEKCİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44352,
+    "neighbor_name": "ÖRENKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44379,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44368,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44386,
+    "neighbor_name": "YAKAEMİR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44389,
+    "neighbor_name": "YENİCEKALE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44369,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 870,
+    "district_name": "ŞARKİKARAAĞAÇ",
+    "neighbor_id": 44357,
+    "neighbor_name": "YUKARIDİNEK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44732,
+    "neighbor_name": "16 HAZİRAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44729,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44724,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44731,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44714,
+    "neighbor_name": "KIBRIS MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44725,
+    "neighbor_name": "SÜLEYMAN DEMİREL MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44717,
+    "neighbor_name": "ŞEHLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44726,
+    "neighbor_name": "TAŞMESCİT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44715,
+    "neighbor_name": "TURGUTLAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44712,
+    "neighbor_name": "BÜYÜKKABACA-CAMİİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44721,
+    "neighbor_name": "BÜYÜKKABACA-DERE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44728,
+    "neighbor_name": "BÜYÜKKABACA-KARŞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44713,
+    "neighbor_name": "BÜYÜKKABACA-ORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44722,
+    "neighbor_name": "BÜYÜKKABACA-SULTAN SÜLEYMAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44719,
+    "neighbor_name": "BÜYÜKKABACA-ZAFER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44718,
+    "neighbor_name": "AKKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44711,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44723,
+    "neighbor_name": "GENÇALİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44730,
+    "neighbor_name": "KARİP KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44720,
+    "neighbor_name": "ORTAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44716,
+    "neighbor_name": "ULUĞBEY KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 881,
+    "district_name": "SENİRKENT",
+    "neighbor_id": 44727,
+    "neighbor_name": "YASSIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44336,
+    "neighbor_name": "BAŞKOZ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44339,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44341,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44346,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44347,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44333,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44325,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44344,
+    "neighbor_name": "AŞAĞIYAYLABEL KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44335,
+    "neighbor_name": "AYVALIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44328,
+    "neighbor_name": "BEKİRAĞALAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44337,
+    "neighbor_name": "BELENCE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44340,
+    "neighbor_name": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44345,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44338,
+    "neighbor_name": "BUCAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44334,
+    "neighbor_name": "ÇANDIR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44348,
+    "neighbor_name": "ÇOBANİSA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44318,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44329,
+    "neighbor_name": "DARIBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44319,
+    "neighbor_name": "GÜLDALLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44312,
+    "neighbor_name": "GÜMÜ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44313,
+    "neighbor_name": "HACIAHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44342,
+    "neighbor_name": "HACIALİLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44321,
+    "neighbor_name": "İBİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44326,
+    "neighbor_name": "İNCEDERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44314,
+    "neighbor_name": "KARADİKEN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44316,
+    "neighbor_name": "KASIMLAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44330,
+    "neighbor_name": "KESME KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44331,
+    "neighbor_name": "KUZCA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44320,
+    "neighbor_name": "MELİKLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44343,
+    "neighbor_name": "MÜEZZİNLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44322,
+    "neighbor_name": "PINARKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44317,
+    "neighbor_name": "SAĞRAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44315,
+    "neighbor_name": "SARAY KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44332,
+    "neighbor_name": "SARIMEHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44327,
+    "neighbor_name": "ŞEHLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44323,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 869,
+    "district_name": "SÜTÇÜLER",
+    "neighbor_id": 44324,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44530,
+    "neighbor_name": "GÜREŞYERİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44531,
+    "neighbor_name": "HAMİDELİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44534,
+    "neighbor_name": "KABAAĞAÇ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44527,
+    "neighbor_name": "KÖSEHASAN MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44523,
+    "neighbor_name": "NAMAZGAH MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44528,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44533,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44524,
+    "neighbor_name": "SERENLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44535,
+    "neighbor_name": "TAŞKÖPRÜ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44536,
+    "neighbor_name": "TOPRAKLIK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44537,
+    "neighbor_name": "ZİNCİRLİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44526,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44529,
+    "neighbor_name": "İLEYDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44525,
+    "neighbor_name": "İNHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 875,
+    "district_name": "ULUBORLU",
+    "neighbor_id": 44532,
+    "neighbor_name": "KÜÇÜKKABACA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44556,
+    "neighbor_name": "ABACILAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44576,
+    "neighbor_name": "AKKÖPRÜ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44599,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44594,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44544,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44605,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44591,
+    "neighbor_name": "DEBBAĞLAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44549,
+    "neighbor_name": "ESKİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44587,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44550,
+    "neighbor_name": "GÖRGÜ BAYRAM MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44571,
+    "neighbor_name": "GÖRGÜ CAMİİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44545,
+    "neighbor_name": "GÖRGÜORTA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44583,
+    "neighbor_name": "KAŞAŞAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44569,
+    "neighbor_name": "KAŞCAMİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44573,
+    "neighbor_name": "KAŞHACIBEY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44546,
+    "neighbor_name": "KAŞYUKARI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44580,
+    "neighbor_name": "KIZILCA MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44600,
+    "neighbor_name": "KUŞKU MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44553,
+    "neighbor_name": "LEBLEBİCİLER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44565,
+    "neighbor_name": "MÜDERRİS MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44588,
+    "neighbor_name": "PAZAR AŞAĞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44604,
+    "neighbor_name": "PAZAR YUKARI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44581,
+    "neighbor_name": "SALUR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44601,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44589,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44597,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44577,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44572,
+    "neighbor_name": "HÜYÜKLÜ-ESKİGEÇİT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44592,
+    "neighbor_name": "HÜYÜKLÜ-MESCİT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44543,
+    "neighbor_name": "HÜYÜKLÜ-NALBANT MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44560,
+    "neighbor_name": "HÜYÜKLÜ-YANARIK MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44561,
+    "neighbor_name": "HÜYÜKLÜ-YENİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44563,
+    "neighbor_name": "AKÇAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44570,
+    "neighbor_name": "ALTIKAPI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44538,
+    "neighbor_name": "AŞAĞIKAŞIKARA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44582,
+    "neighbor_name": "AŞAĞITIRTAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44541,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44578,
+    "neighbor_name": "BAĞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44559,
+    "neighbor_name": "BAĞLARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44579,
+    "neighbor_name": "BAHTİYAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44548,
+    "neighbor_name": "CELEPTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44547,
+    "neighbor_name": "ÇAKIRÇAL KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44558,
+    "neighbor_name": "ÇAMHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44542,
+    "neighbor_name": "ÇETİNCE KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44567,
+    "neighbor_name": "DEDEÇAM KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44590,
+    "neighbor_name": "EĞİRLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44603,
+    "neighbor_name": "EYÜPLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44564,
+    "neighbor_name": "GÖKÇEALİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44595,
+    "neighbor_name": "HİSARARDI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44557,
+    "neighbor_name": "İLEĞİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44551,
+    "neighbor_name": "KIRKBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44584,
+    "neighbor_name": "KORUYAKA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44562,
+    "neighbor_name": "KOZLUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44568,
+    "neighbor_name": "KÖRKÜLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44552,
+    "neighbor_name": "KUMDANLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44606,
+    "neighbor_name": "KURUSARI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44596,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44585,
+    "neighbor_name": "MISIRLI KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44593,
+    "neighbor_name": "ÖZBAYAT KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44540,
+    "neighbor_name": "ÖZGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44539,
+    "neighbor_name": "SAĞIRKÖY"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44554,
+    "neighbor_name": "SÜCÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44586,
+    "neighbor_name": "TAŞEVİ KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44574,
+    "neighbor_name": "TERZİLER KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44555,
+    "neighbor_name": "TOKMACIK KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44566,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44575,
+    "neighbor_name": "YARIKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44602,
+    "neighbor_name": "YUKARIKAŞIKARA KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 876,
+    "district_name": "YALVAÇ",
+    "neighbor_id": 44598,
+    "neighbor_name": "YUKARITIRTAR KÖYÜ"
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 877,
+    "district_name": "YENİŞARBADEMLİ",
+    "neighbor_id": 44609,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 877,
+    "district_name": "YENİŞARBADEMLİ",
+    "neighbor_id": 44610,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 877,
+    "district_name": "YENİŞARBADEMLİ",
+    "neighbor_id": 44611,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 877,
+    "district_name": "YENİŞARBADEMLİ",
+    "neighbor_id": 44607,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 72,
+    "city_name": "ISPARTA",
+    "district_id": 877,
+    "district_name": "YENİŞARBADEMLİ",
+    "neighbor_id": 44608,
+    "neighbor_name": "GÖLKONAK KÖYÜ"
+  }
+]

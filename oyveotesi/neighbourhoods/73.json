@@ -1,0 +1,3386 @@
+[
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44815,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44776,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44839,
+    "neighbor_name": "GÜLLÜOVA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44813,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44845,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44806,
+    "neighbor_name": "MESCİTLİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44842,
+    "neighbor_name": "ŞEHİTLİK MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44807,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44814,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44838,
+    "neighbor_name": "ELMAKAYA-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44766,
+    "neighbor_name": "ELMAKAYA-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44818,
+    "neighbor_name": "ERENTEPE-FATİH MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44801,
+    "neighbor_name": "ERENTEPE-GAZİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44802,
+    "neighbor_name": "ERENTEPE-KALE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44795,
+    "neighbor_name": "RÜSTEMGEDİK-BAĞLAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44779,
+    "neighbor_name": "RÜSTEMGEDİK-HANEDAN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44781,
+    "neighbor_name": "RÜSTEMGEDİK-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44820,
+    "neighbor_name": "RÜSTEMGEDİK-ZAFER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44823,
+    "neighbor_name": "SARIPINAR-ÇİMEN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44799,
+    "neighbor_name": "SARIPINAR-PINAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44767,
+    "neighbor_name": "SARIPINAR-SİNAN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44825,
+    "neighbor_name": "UZGÖRÜR-ABDALBEYAZIT MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44832,
+    "neighbor_name": "UZGÖRÜR-ALAGEZ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44833,
+    "neighbor_name": "UZGÖRÜR-ARI MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44826,
+    "neighbor_name": "UZGÖRÜR-FATİH MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44773,
+    "neighbor_name": "UZGÖRÜR-GAZİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44837,
+    "neighbor_name": "YONCALI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44789,
+    "neighbor_name": "YONCALI-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44821,
+    "neighbor_name": "YONCALI-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44784,
+    "neighbor_name": "ADIVAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44827,
+    "neighbor_name": "AKÇAARMUT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44769,
+    "neighbor_name": "ALTINOLUK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44791,
+    "neighbor_name": "ARAKONAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44834,
+    "neighbor_name": "AŞAĞIBÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44811,
+    "neighbor_name": "BALOTU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44816,
+    "neighbor_name": "BOSTANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44792,
+    "neighbor_name": "BÜNGÜLDEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44770,
+    "neighbor_name": "CANKURTARAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44768,
+    "neighbor_name": "ÇATAKLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44774,
+    "neighbor_name": "ÇAYGELDİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44822,
+    "neighbor_name": "DEĞİRMENSUYU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44771,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44817,
+    "neighbor_name": "DOKUZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44777,
+    "neighbor_name": "ERİCEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44819,
+    "neighbor_name": "ESENLİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44778,
+    "neighbor_name": "ESKİYOL KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44785,
+    "neighbor_name": "GÖLYANI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44786,
+    "neighbor_name": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44803,
+    "neighbor_name": "GÜLÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44843,
+    "neighbor_name": "GÜMÜŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44840,
+    "neighbor_name": "GÜNBATMAZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44793,
+    "neighbor_name": "GÜNDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44787,
+    "neighbor_name": "GÜNYURDU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44788,
+    "neighbor_name": "HAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44804,
+    "neighbor_name": "HOŞGELDİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44780,
+    "neighbor_name": "KARAAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44772,
+    "neighbor_name": "KARABURUN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44805,
+    "neighbor_name": "KIRKGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44809,
+    "neighbor_name": "KOTANLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44841,
+    "neighbor_name": "KOYUNAĞILI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44828,
+    "neighbor_name": "KÖPRÜYOLU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44844,
+    "neighbor_name": "KURGANLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44794,
+    "neighbor_name": "MEŞEİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44846,
+    "neighbor_name": "MOLLADAVUT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44798,
+    "neighbor_name": "MOLLAKENT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44830,
+    "neighbor_name": "OĞLAKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44829,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44835,
+    "neighbor_name": "OLURDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44790,
+    "neighbor_name": "ÖRENKENT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44796,
+    "neighbor_name": "SAMANYOLU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44797,
+    "neighbor_name": "SEÇME KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44831,
+    "neighbor_name": "SIRADERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44824,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44810,
+    "neighbor_name": "SULTANLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44808,
+    "neighbor_name": "ŞATIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44775,
+    "neighbor_name": "ŞEHİTTAHİR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44783,
+    "neighbor_name": "ŞEHİTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44782,
+    "neighbor_name": "ÜÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44812,
+    "neighbor_name": "YAZBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44836,
+    "neighbor_name": "YEMİŞEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 883,
+    "district_name": "BULANIK",
+    "neighbor_id": 44800,
+    "neighbor_name": "YOKUŞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44856,
+    "neighbor_name": "15 TEMMUZ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44860,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44862,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44855,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44869,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44852,
+    "neighbor_name": "SAYANLAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44853,
+    "neighbor_name": "SUNAY MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44875,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44859,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44850,
+    "neighbor_name": "DÜZKIŞLA-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44851,
+    "neighbor_name": "DÜZKIŞLA-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44872,
+    "neighbor_name": "DÜZKIŞLA-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44865,
+    "neighbor_name": "AŞAĞIÜÇDAM KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44864,
+    "neighbor_name": "AZIKLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44867,
+    "neighbor_name": "BÖĞÜRDELEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44861,
+    "neighbor_name": "BÜVETLİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44871,
+    "neighbor_name": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44868,
+    "neighbor_name": "ELMABULAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44873,
+    "neighbor_name": "EŞMEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44857,
+    "neighbor_name": "GÖKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44863,
+    "neighbor_name": "KARAKÜTÜK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44847,
+    "neighbor_name": "KOÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44866,
+    "neighbor_name": "KOĞUKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44848,
+    "neighbor_name": "ORTANCA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44849,
+    "neighbor_name": "OTAÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44874,
+    "neighbor_name": "SARIBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44870,
+    "neighbor_name": "UMURCA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44854,
+    "neighbor_name": "YARKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 884,
+    "district_name": "HASKÖY",
+    "neighbor_id": 44858,
+    "neighbor_name": "YUKARIÜÇDAM KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44890,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 50721,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 50643,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44903,
+    "neighbor_name": "ALTINOVA-AYDINLAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44904,
+    "neighbor_name": "ALTINOVA-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44878,
+    "neighbor_name": "ALTINOVA-MERKEZ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44893,
+    "neighbor_name": "ALTINOVA-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44888,
+    "neighbor_name": "AKYILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44889,
+    "neighbor_name": "ALAZLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44884,
+    "neighbor_name": "BALKIR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44902,
+    "neighbor_name": "ÇALAPLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44906,
+    "neighbor_name": "ÇINARARDI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44881,
+    "neighbor_name": "DEĞİRMİTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44907,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44905,
+    "neighbor_name": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44879,
+    "neighbor_name": "DURUCAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44894,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44897,
+    "neighbor_name": "GÜNEYİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44880,
+    "neighbor_name": "GÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44896,
+    "neighbor_name": "İÇBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44898,
+    "neighbor_name": "KAPILI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44895,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44891,
+    "neighbor_name": "KIRYAKA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44882,
+    "neighbor_name": "KOCATARLA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44885,
+    "neighbor_name": "KONAKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44899,
+    "neighbor_name": "MOLLABABA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44886,
+    "neighbor_name": "OĞULBALI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44887,
+    "neighbor_name": "PINARÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44900,
+    "neighbor_name": "SARMAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44908,
+    "neighbor_name": "SAZLIKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44876,
+    "neighbor_name": "TAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44892,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44883,
+    "neighbor_name": "YEDİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44909,
+    "neighbor_name": "YOLGÖZLER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44877,
+    "neighbor_name": "YÜNÖREN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 44901,
+    "neighbor_name": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 885,
+    "district_name": "KORKUT",
+    "neighbor_id": 51001,
+    "neighbor_name": "DÜZOVA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44967,
+    "neighbor_name": "ADALAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44942,
+    "neighbor_name": "AFŞİN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44955,
+    "neighbor_name": "AKSUNGUR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44949,
+    "neighbor_name": "ALİŞAN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 50905,
+    "neighbor_name": "ALTUNTAŞ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44923,
+    "neighbor_name": "DANIŞMENTGAZİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44918,
+    "neighbor_name": "MENGÜÇGAZİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 50654,
+    "neighbor_name": "MURAT MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44960,
+    "neighbor_name": "SAFTEKİNGAZİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44983,
+    "neighbor_name": "SALTUKGAZİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44941,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44921,
+    "neighbor_name": "ŞEKERBULAK MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44976,
+    "neighbor_name": "KONAKKURAN-ATATÜRK MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44935,
+    "neighbor_name": "KONAKKURAN-MURAT MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 49421,
+    "neighbor_name": "KONAKKURAN-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44913,
+    "neighbor_name": "KONAKKURAN-ZİYARET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44910,
+    "neighbor_name": "ADAKSU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44940,
+    "neighbor_name": "AĞILBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 49978,
+    "neighbor_name": "AKALAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44964,
+    "neighbor_name": "ALİKALKAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44943,
+    "neighbor_name": "ALYAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 49977,
+    "neighbor_name": "ARADERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44922,
+    "neighbor_name": "ARSLANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44965,
+    "neighbor_name": "AŞAĞIKICIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44950,
+    "neighbor_name": "AYNALIHOCA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44944,
+    "neighbor_name": "BAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44936,
+    "neighbor_name": "BALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44974,
+    "neighbor_name": "BEŞÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44916,
+    "neighbor_name": "BEŞDAM KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44961,
+    "neighbor_name": "BEYPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44945,
+    "neighbor_name": "BOSTANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44968,
+    "neighbor_name": "BOYÇAPKIN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44927,
+    "neighbor_name": "ÇAYIRDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44948,
+    "neighbor_name": "ÇİÇEKVEREN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44917,
+    "neighbor_name": "DİRİMPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44911,
+    "neighbor_name": "DOĞANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44957,
+    "neighbor_name": "DOLABAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44980,
+    "neighbor_name": "ERENCE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44934,
+    "neighbor_name": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44929,
+    "neighbor_name": "GÜLKORU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 50040,
+    "neighbor_name": "HANCAĞIZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44971,
+    "neighbor_name": "HASANPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44930,
+    "neighbor_name": "HASRETPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44933,
+    "neighbor_name": "İYİKOMŞU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44937,
+    "neighbor_name": "KARAALİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44946,
+    "neighbor_name": "KARAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44912,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44947,
+    "neighbor_name": "KARAKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44951,
+    "neighbor_name": "KARDEŞLER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44924,
+    "neighbor_name": "KARINCALI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44914,
+    "neighbor_name": "KAZGÖL KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44975,
+    "neighbor_name": "KILIÇÇI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44952,
+    "neighbor_name": "KIZILYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44981,
+    "neighbor_name": "KOÇALİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44982,
+    "neighbor_name": "KULCAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44953,
+    "neighbor_name": "MAĞALCIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44972,
+    "neighbor_name": "MEZRAAKÖY"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44959,
+    "neighbor_name": "MOLLABAKİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 49620,
+    "neighbor_name": "MOLLADERMAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44925,
+    "neighbor_name": "MURATKOLU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44954,
+    "neighbor_name": "NURETTİN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44977,
+    "neighbor_name": "OĞUZHAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44931,
+    "neighbor_name": "OKÇUHAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44928,
+    "neighbor_name": "ÖRENŞAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44938,
+    "neighbor_name": "SARIDAVUT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44919,
+    "neighbor_name": "SELEKUTU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44973,
+    "neighbor_name": "SIRTDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 50730,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44915,
+    "neighbor_name": "TATARGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44978,
+    "neighbor_name": "TATLICA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 49871,
+    "neighbor_name": "TIKIZLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44966,
+    "neighbor_name": "ULUSU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44939,
+    "neighbor_name": "UYANIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44920,
+    "neighbor_name": "YAPRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44963,
+    "neighbor_name": "YARAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44979,
+    "neighbor_name": "YOLGÖZLER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44926,
+    "neighbor_name": "YUKARIKICIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 886,
+    "district_name": "MALAZGİRT",
+    "neighbor_id": 44932,
+    "neighbor_name": "YURTSEVEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45096,
+    "neighbor_name": "15 TEMMUZ MİLLİ İRADE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50641,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44988,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50633,
+    "neighbor_name": "GÜZELTEPE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45044,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45117,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45087,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45075,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45076,
+    "neighbor_name": "MİNARE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45064,
+    "neighbor_name": "MURATPAŞA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44997,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44992,
+    "neighbor_name": "SUNAY MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50679,
+    "neighbor_name": "SÜTLÜCE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45119,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45107,
+    "neighbor_name": "YEŞİLCE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45001,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45040,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45049,
+    "neighbor_name": "KARAAĞAÇLI-BAĞLAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45105,
+    "neighbor_name": "KARAAĞAÇLI-ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44994,
+    "neighbor_name": "KARAAĞAÇLI-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45079,
+    "neighbor_name": "KIRKÖY-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45033,
+    "neighbor_name": "KIRKÖY-DÜZ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45006,
+    "neighbor_name": "KIRKÖY-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45114,
+    "neighbor_name": "KIRKÖY-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45036,
+    "neighbor_name": "KIZILAĞAÇ-FETULLAHAĞA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45069,
+    "neighbor_name": "KIZILAĞAÇ-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44986,
+    "neighbor_name": "KIZILAĞAÇ-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45106,
+    "neighbor_name": "KONUKBEKLER-KÖRPEAĞAÇ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45088,
+    "neighbor_name": "KONUKBEKLER-MİNARE MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45110,
+    "neighbor_name": "KONUKBEKLER-ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45082,
+    "neighbor_name": "KONUKBEKLER-YEROLUK MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45027,
+    "neighbor_name": "SERİNOVA-AYDINGÜN MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45000,
+    "neighbor_name": "SERİNOVA-BAKIRCILAR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45077,
+    "neighbor_name": "SERİNOVA-ÇAĞDAŞ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45099,
+    "neighbor_name": "SERİNOVA-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44990,
+    "neighbor_name": "SERİNOVA-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45070,
+    "neighbor_name": "SUNGU-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45071,
+    "neighbor_name": "SUNGU-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45054,
+    "neighbor_name": "SUNGU-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 49464,
+    "neighbor_name": "SUNGU-ŞEHİT NAİM ÇİFTÇİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 49573,
+    "neighbor_name": "SUNGU-ŞEHİT YÜCEL KURTOĞLU MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45015,
+    "neighbor_name": "YAYGIN-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45052,
+    "neighbor_name": "YAYGIN-DAGARASI MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45100,
+    "neighbor_name": "YAYGIN-KARDESLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45028,
+    "neighbor_name": "YAYGIN-KARSIYAKA MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45016,
+    "neighbor_name": "YAYGIN-MERKEZ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45112,
+    "neighbor_name": "YAYGIN-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45037,
+    "neighbor_name": "YEŞİLOVA-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45017,
+    "neighbor_name": "YEŞİLOVA-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45019,
+    "neighbor_name": "YEŞİLOVA-YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45022,
+    "neighbor_name": "AĞAÇLIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45093,
+    "neighbor_name": "AĞARTI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45005,
+    "neighbor_name": "AĞILLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45084,
+    "neighbor_name": "AKKONAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45048,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45108,
+    "neighbor_name": "ALAGÜN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45074,
+    "neighbor_name": "ALANİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44998,
+    "neighbor_name": "ALİCAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45089,
+    "neighbor_name": "ALİGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44987,
+    "neighbor_name": "ARIKÖY"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45004,
+    "neighbor_name": "ARPAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44993,
+    "neighbor_name": "AŞAĞIYONGALI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45021,
+    "neighbor_name": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45113,
+    "neighbor_name": "BAHÇEKÖY"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50697,
+    "neighbor_name": "BALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45102,
+    "neighbor_name": "BEŞPARMAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45098,
+    "neighbor_name": "BİLEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45097,
+    "neighbor_name": "BOSTANKENT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45035,
+    "neighbor_name": "BOYUNCUK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45056,
+    "neighbor_name": "BOZBULUT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45030,
+    "neighbor_name": "CEVİZLİDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45081,
+    "neighbor_name": "ÇATBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45066,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45095,
+    "neighbor_name": "ÇÖĞÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45003,
+    "neighbor_name": "ÇUKURBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45085,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45090,
+    "neighbor_name": "DEREYURT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45031,
+    "neighbor_name": "DİLİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45103,
+    "neighbor_name": "DONATIM KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45086,
+    "neighbor_name": "DUMLUSU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45091,
+    "neighbor_name": "DURUGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45023,
+    "neighbor_name": "EĞİRMEÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44989,
+    "neighbor_name": "EKİNDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45041,
+    "neighbor_name": "ELÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45109,
+    "neighbor_name": "ERALANI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45042,
+    "neighbor_name": "ERENCİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45094,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45116,
+    "neighbor_name": "GÜDÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45104,
+    "neighbor_name": "GÜMÜŞALİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45068,
+    "neighbor_name": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44984,
+    "neighbor_name": "HARMAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45012,
+    "neighbor_name": "ILICA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45121,
+    "neighbor_name": "İNARDI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45026,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50793,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45032,
+    "neighbor_name": "KARABEY KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44995,
+    "neighbor_name": "KARAKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45024,
+    "neighbor_name": "KARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45013,
+    "neighbor_name": "KARAMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45045,
+    "neighbor_name": "KAYALISU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45038,
+    "neighbor_name": "KAYAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45061,
+    "neighbor_name": "KEÇİDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45078,
+    "neighbor_name": "KEPENEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44999,
+    "neighbor_name": "KIYIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45034,
+    "neighbor_name": "KIYIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44996,
+    "neighbor_name": "KÖŞK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45118,
+    "neighbor_name": "KUMLUCA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45057,
+    "neighbor_name": "KUTLUGÜN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45050,
+    "neighbor_name": "MERCİMEKKALE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45111,
+    "neighbor_name": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45062,
+    "neighbor_name": "MEŞECİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45063,
+    "neighbor_name": "MURATGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45014,
+    "neighbor_name": "NADASLIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45025,
+    "neighbor_name": "ORTAKENT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50642,
+    "neighbor_name": "OYMATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45020,
+    "neighbor_name": "ÖZDİLEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45053,
+    "neighbor_name": "SARIDAL KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45058,
+    "neighbor_name": "SAVAŞÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45092,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44991,
+    "neighbor_name": "SUBOYU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45039,
+    "neighbor_name": "SUDURAĞI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45051,
+    "neighbor_name": "SULUCA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45115,
+    "neighbor_name": "SUVARAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45101,
+    "neighbor_name": "SÜRÜGÜDEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45055,
+    "neighbor_name": "ŞENOBA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45007,
+    "neighbor_name": "TABANLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45059,
+    "neighbor_name": "TANDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45060,
+    "neighbor_name": "TAŞOLUK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45018,
+    "neighbor_name": "TEKYOL KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50687,
+    "neighbor_name": "TOPRAKKALE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45080,
+    "neighbor_name": "TÜTEN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45072,
+    "neighbor_name": "ULUKAYA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45010,
+    "neighbor_name": "ÜÇDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45009,
+    "neighbor_name": "ÜÇEVLER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45047,
+    "neighbor_name": "ÜÇSIRT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 50867,
+    "neighbor_name": "YAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45065,
+    "neighbor_name": "YARPUZLU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45008,
+    "neighbor_name": "YAZLA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45029,
+    "neighbor_name": "YELALAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45120,
+    "neighbor_name": "YONCALIÖZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 44985,
+    "neighbor_name": "YUKARISIZMA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45073,
+    "neighbor_name": "YUKARIYONGALI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45046,
+    "neighbor_name": "YÜCETEPE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 887,
+    "district_name": "MUŞ MERKEZ",
+    "neighbor_id": 45002,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44757,
+    "neighbor_name": "ALAGÖZ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50656,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44737,
+    "neighbor_name": "GÜMGÜM MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44760,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50658,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44749,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44765,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 49742,
+    "neighbor_name": "AĞAÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44758,
+    "neighbor_name": "AĞAÇKORUR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50653,
+    "neighbor_name": "AKÇATEPE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 49418,
+    "neighbor_name": "AŞAĞI ALAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44750,
+    "neighbor_name": "AŞAĞI HACIBEY KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44746,
+    "neighbor_name": "BAĞİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 49686,
+    "neighbor_name": "BALTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44747,
+    "neighbor_name": "BAŞKENT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50670,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50965,
+    "neighbor_name": "BOYLU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44762,
+    "neighbor_name": "BUZLUGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44735,
+    "neighbor_name": "ÇALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44756,
+    "neighbor_name": "ÇAYÇATI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44752,
+    "neighbor_name": "ÇAYLAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44736,
+    "neighbor_name": "DALLIÖZ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50919,
+    "neighbor_name": "DEĞERLİ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50634,
+    "neighbor_name": "DERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44733,
+    "neighbor_name": "DÖNERTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50137,
+    "neighbor_name": "DUTÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50976,
+    "neighbor_name": "ERDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50822,
+    "neighbor_name": "ESENLER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44748,
+    "neighbor_name": "HAKSEVER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50995,
+    "neighbor_name": "HÜSEYİNOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44761,
+    "neighbor_name": "İÇMELER KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 49508,
+    "neighbor_name": "İLBEY KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50719,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44738,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44753,
+    "neighbor_name": "KARAMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50635,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44739,
+    "neighbor_name": "KAYALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50651,
+    "neighbor_name": "KAYALIK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44751,
+    "neighbor_name": "KAYNARCA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44764,
+    "neighbor_name": "KÖPRÜCÜK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44754,
+    "neighbor_name": "KUMLUKIYI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44755,
+    "neighbor_name": "LEYLEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44744,
+    "neighbor_name": "OĞLAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44742,
+    "neighbor_name": "OMCALI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44743,
+    "neighbor_name": "ONPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44740,
+    "neighbor_name": "SAZLICA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44763,
+    "neighbor_name": "TAŞÇI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50761,
+    "neighbor_name": "TAŞDİBEK KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44745,
+    "neighbor_name": "TEPE KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 49808,
+    "neighbor_name": "ULUSIRT KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50657,
+    "neighbor_name": "YAYLA KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50711,
+    "neighbor_name": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 50674,
+    "neighbor_name": "YILANLI KÖYÜ"
+  },
+  {
+    "city_id": 73,
+    "city_name": "MUŞ",
+    "district_id": 882,
+    "district_name": "VARTO",
+    "neighbor_id": 44734,
+    "neighbor_name": "YURTTUTAN KÖYÜ"
+  }
+]

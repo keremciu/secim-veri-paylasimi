@@ -1,0 +1,3130 @@
+[
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 50447,
+    "neighbor_name": "AKÇAKALE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47157,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47138,
+    "neighbor_name": "CANCA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47133,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47115,
+    "neighbor_name": "ESKİBAĞLAR MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47173,
+    "neighbor_name": "HACIEMİN MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47141,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47094,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47116,
+    "neighbor_name": "KARAER MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47119,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47125,
+    "neighbor_name": "OLTANBEY MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47086,
+    "neighbor_name": "ÖZCAN MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47144,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47193,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47122,
+    "neighbor_name": "ARZULARKABAKÖY-EKİNCİLER MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47129,
+    "neighbor_name": "ARZULARKABAKÖY-ESENTEPE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47095,
+    "neighbor_name": "ARZULARKABAKÖY-FATİH MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47181,
+    "neighbor_name": "ARZULARKABAKÖY-GAZİLER MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47170,
+    "neighbor_name": "ARZULARKABAKÖY-MEZİRE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47178,
+    "neighbor_name": "ARZULARKABAKÖY-OSMAN GAZİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47143,
+    "neighbor_name": "AKÇAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47103,
+    "neighbor_name": "AKGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47091,
+    "neighbor_name": "AKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47087,
+    "neighbor_name": "AKOCAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47188,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47092,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47194,
+    "neighbor_name": "AKTUTAN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47189,
+    "neighbor_name": "ALÇAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47184,
+    "neighbor_name": "ALEMDAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47147,
+    "neighbor_name": "ARDUÇ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47148,
+    "neighbor_name": "ARSLANCA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47127,
+    "neighbor_name": "AŞAĞIALIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47161,
+    "neighbor_name": "AŞAĞI YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47156,
+    "neighbor_name": "AVŞARBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47128,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47088,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47182,
+    "neighbor_name": "BANDIRLIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47190,
+    "neighbor_name": "BEŞOBA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47145,
+    "neighbor_name": "BEYÇAM KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47166,
+    "neighbor_name": "BOYLUCA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47096,
+    "neighbor_name": "BUĞALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47101,
+    "neighbor_name": "ÇALIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47112,
+    "neighbor_name": "ÇALTILI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47165,
+    "neighbor_name": "ÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47106,
+    "neighbor_name": "ÇAYIRARDI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47154,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47113,
+    "neighbor_name": "DEMİRKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47183,
+    "neighbor_name": "DEMİRÖREN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47093,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47135,
+    "neighbor_name": "DÖLEK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47179,
+    "neighbor_name": "DÖRTKONAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47134,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47130,
+    "neighbor_name": "DUYMADIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47114,
+    "neighbor_name": "DÜĞÜNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47123,
+    "neighbor_name": "ERDEMLER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47185,
+    "neighbor_name": "ESENLER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47108,
+    "neighbor_name": "ESENYURT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47186,
+    "neighbor_name": "GEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47139,
+    "neighbor_name": "GÖKÇEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47191,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47146,
+    "neighbor_name": "GÖZELER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47140,
+    "neighbor_name": "GÜMÜŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47124,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47150,
+    "neighbor_name": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47187,
+    "neighbor_name": "HARMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47174,
+    "neighbor_name": "HASKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47155,
+    "neighbor_name": "İKİSU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47102,
+    "neighbor_name": "İKİZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47192,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47162,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47176,
+    "neighbor_name": "KALETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47195,
+    "neighbor_name": "KARAMUSTAFA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47167,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47142,
+    "neighbor_name": "KAZANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47158,
+    "neighbor_name": "KEÇİKAYA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47151,
+    "neighbor_name": "KILIÇÖREN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47163,
+    "neighbor_name": "KIRIKLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47175,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47117,
+    "neighbor_name": "KOCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47159,
+    "neighbor_name": "KOCAYOKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47177,
+    "neighbor_name": "KURTOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47109,
+    "neighbor_name": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47120,
+    "neighbor_name": "NAZLIÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47099,
+    "neighbor_name": "OLUCAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47098,
+    "neighbor_name": "ÖRENLER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47107,
+    "neighbor_name": "ÖVÜNDÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47171,
+    "neighbor_name": "PEHLİVANTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47164,
+    "neighbor_name": "PİRAHMET KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47111,
+    "neighbor_name": "SARGINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47084,
+    "neighbor_name": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47168,
+    "neighbor_name": "SÖĞÜTAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47132,
+    "neighbor_name": "SUNGURBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47090,
+    "neighbor_name": "SÜLE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47136,
+    "neighbor_name": "SÜNGÜBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47131,
+    "neighbor_name": "ŞEPHANE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47153,
+    "neighbor_name": "TAMZI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47104,
+    "neighbor_name": "TANDIRLIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47121,
+    "neighbor_name": "TEKKE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47169,
+    "neighbor_name": "ÜÇKOL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47152,
+    "neighbor_name": "YAĞLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47105,
+    "neighbor_name": "YAĞMURDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47172,
+    "neighbor_name": "YAYDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47110,
+    "neighbor_name": "YAYLADERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47180,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47100,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47097,
+    "neighbor_name": "YENİYOL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47137,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47160,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47085,
+    "neighbor_name": "YİTİRMEZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47126,
+    "neighbor_name": "YUKARI ALIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 929,
+    "district_name": "GÜMÜŞHANE MERKEZ",
+    "neighbor_id": 47118,
+    "neighbor_name": "YUKARI YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47200,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47285,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47272,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47263,
+    "neighbor_name": "BÜYÜKCAMİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47286,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47251,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 50467,
+    "neighbor_name": "KARAÇAYIR MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47245,
+    "neighbor_name": "KÜÇÜKCAMİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47217,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47230,
+    "neighbor_name": "DEREDOLU-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47213,
+    "neighbor_name": "DEREDOLU-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47258,
+    "neighbor_name": "DEREDOLU-MAHMATLI MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47206,
+    "neighbor_name": "GÜMÜŞGÖZE-FATİH MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47283,
+    "neighbor_name": "GÜMÜŞGÖZE-GÖZTEPE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47248,
+    "neighbor_name": "GÜMÜŞGÖZE-ÖZYURT MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47292,
+    "neighbor_name": "ÖBEKTAŞ-ESENTEPE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47268,
+    "neighbor_name": "ÖBEKTAŞ-FATİH MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47250,
+    "neighbor_name": "ÖBEKTAŞ-HALKEVİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47278,
+    "neighbor_name": "SÖĞÜTLÜ-MERKEZ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47224,
+    "neighbor_name": "ÜNLÜPINAR-BÜYÜKCAMİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47236,
+    "neighbor_name": "ÜNLÜPINAR-FATİH MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47228,
+    "neighbor_name": "AĞIL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47256,
+    "neighbor_name": "AĞLIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47269,
+    "neighbor_name": "AKDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47247,
+    "neighbor_name": "AKSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47270,
+    "neighbor_name": "ALACAT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47210,
+    "neighbor_name": "AŞAĞIÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47238,
+    "neighbor_name": "AŞUT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47271,
+    "neighbor_name": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47209,
+    "neighbor_name": "AZİZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47252,
+    "neighbor_name": "BABAKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47257,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47282,
+    "neighbor_name": "BALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47211,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47262,
+    "neighbor_name": "BELENLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47229,
+    "neighbor_name": "BEŞDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47196,
+    "neighbor_name": "BEZENDİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47197,
+    "neighbor_name": "BİNDAL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47218,
+    "neighbor_name": "BULAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47264,
+    "neighbor_name": "CEMALLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47223,
+    "neighbor_name": "ÇAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47234,
+    "neighbor_name": "ÇAKIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47267,
+    "neighbor_name": "ÇAMUR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47261,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47227,
+    "neighbor_name": "ÇÖMLECİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47265,
+    "neighbor_name": "DAYISI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47212,
+    "neighbor_name": "DELİLER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47276,
+    "neighbor_name": "DEREYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47239,
+    "neighbor_name": "DEVEKORUSU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47240,
+    "neighbor_name": "DOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47231,
+    "neighbor_name": "DOĞANKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47225,
+    "neighbor_name": "DÖLEK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47253,
+    "neighbor_name": "ELMELİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47205,
+    "neighbor_name": "ESKİKADI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47214,
+    "neighbor_name": "ESKİYOL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47241,
+    "neighbor_name": "EYMÜR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47242,
+    "neighbor_name": "GERDEKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47243,
+    "neighbor_name": "GÖDÜL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47273,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47287,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47201,
+    "neighbor_name": "GÜNBATUR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47288,
+    "neighbor_name": "GÜNEYÇEVİRME KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47202,
+    "neighbor_name": "GÜRLEYİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47259,
+    "neighbor_name": "GÜZYURDU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47274,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47215,
+    "neighbor_name": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47233,
+    "neighbor_name": "KAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47207,
+    "neighbor_name": "KAZANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47255,
+    "neighbor_name": "KILIÇÇI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47254,
+    "neighbor_name": "KILIÇTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47219,
+    "neighbor_name": "KINALITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47249,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47277,
+    "neighbor_name": "KOZOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47220,
+    "neighbor_name": "KÖMÜR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47244,
+    "neighbor_name": "KÖYCÜK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47289,
+    "neighbor_name": "OBALAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47208,
+    "neighbor_name": "ÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47199,
+    "neighbor_name": "ÖRENBEL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47235,
+    "neighbor_name": "ÖZEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47203,
+    "neighbor_name": "SADAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47266,
+    "neighbor_name": "SALÖRDEK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47246,
+    "neighbor_name": "SARIŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47222,
+    "neighbor_name": "SÖKMEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47290,
+    "neighbor_name": "SÜTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47237,
+    "neighbor_name": "ŞEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47291,
+    "neighbor_name": "TÜTENLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47279,
+    "neighbor_name": "UZUNKOL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47280,
+    "neighbor_name": "YARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47284,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47216,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47275,
+    "neighbor_name": "YENİYOL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47198,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47260,
+    "neighbor_name": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47281,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47226,
+    "neighbor_name": "YOLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 930,
+    "district_name": "KELKİT",
+    "neighbor_id": 47204,
+    "neighbor_name": "YUKARIÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47306,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47303,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47298,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47295,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47311,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47301,
+    "neighbor_name": "AKBABA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47293,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47302,
+    "neighbor_name": "BİZGİLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47307,
+    "neighbor_name": "GÖKÇEKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47294,
+    "neighbor_name": "KABAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47304,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47305,
+    "neighbor_name": "OYLUMDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47296,
+    "neighbor_name": "ÖRENŞAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47297,
+    "neighbor_name": "ÖVÜNCE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47300,
+    "neighbor_name": "ÖZBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47308,
+    "neighbor_name": "SALYAZI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47309,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47310,
+    "neighbor_name": "YAYLIM KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 931,
+    "district_name": "KÖSE",
+    "neighbor_id": 47299,
+    "neighbor_name": "YUVACIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47349,
+    "neighbor_name": "AŞAĞI ULUKÖY MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47314,
+    "neighbor_name": "CAMİ YANI MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47318,
+    "neighbor_name": "KÖYİÇİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47334,
+    "neighbor_name": "MELİKLİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47327,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47354,
+    "neighbor_name": "YUKARI ULUKÖY MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47328,
+    "neighbor_name": "ÖZKÜRTÜN-CAYRA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47341,
+    "neighbor_name": "ÖZKÜRTÜN-KARAÇUKUR MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47326,
+    "neighbor_name": "ÖZKÜRTÜN-SÜME MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47335,
+    "neighbor_name": "AKÇAL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47337,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47329,
+    "neighbor_name": "ARAKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47330,
+    "neighbor_name": "ARPACIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47322,
+    "neighbor_name": "AŞAĞIKARADERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47342,
+    "neighbor_name": "BAĞLAMA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47331,
+    "neighbor_name": "BEŞİRKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47338,
+    "neighbor_name": "BEYTARLA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47340,
+    "neighbor_name": "ÇAYIRÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47339,
+    "neighbor_name": "DAMLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47315,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47343,
+    "neighbor_name": "EĞRİGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47323,
+    "neighbor_name": "EKİNCİLER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47332,
+    "neighbor_name": "ELCİĞEZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47350,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47344,
+    "neighbor_name": "GÖNDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47351,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47345,
+    "neighbor_name": "GÜNYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47316,
+    "neighbor_name": "GÜRGENLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47321,
+    "neighbor_name": "KIRGERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 49527,
+    "neighbor_name": "KIZILCADAM KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47333,
+    "neighbor_name": "KIZILOT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47317,
+    "neighbor_name": "KONACIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47324,
+    "neighbor_name": "KUŞLUK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47319,
+    "neighbor_name": "SAPMAZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47336,
+    "neighbor_name": "SARIBABA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47346,
+    "neighbor_name": "SÖĞÜTELİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47348,
+    "neighbor_name": "ŞENDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47325,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47312,
+    "neighbor_name": "TİLKİCEK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47320,
+    "neighbor_name": "ÜÇTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47347,
+    "neighbor_name": "YAYLALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47353,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 932,
+    "district_name": "KÜRTÜN",
+    "neighbor_id": 47313,
+    "neighbor_name": "YUKARIKARADERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 50461,
+    "neighbor_name": "BİLGİLİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47465,
+    "neighbor_name": "ERENKAYA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47469,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47435,
+    "neighbor_name": "KARACA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47409,
+    "neighbor_name": "MERTEKLİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 50507,
+    "neighbor_name": "ÖRENKALE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47444,
+    "neighbor_name": "ŞEHİT HAKAN MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47461,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47419,
+    "neighbor_name": "YEŞİLBÜK-AKYAYLA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47462,
+    "neighbor_name": "YEŞİLBÜK-BEYDERE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47425,
+    "neighbor_name": "YEŞİLBÜK-KONAKLI MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47463,
+    "neighbor_name": "YEŞİLBÜK-YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47454,
+    "neighbor_name": "YEŞİLBÜK-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47438,
+    "neighbor_name": "AKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47458,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47432,
+    "neighbor_name": "AKSARAY KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47405,
+    "neighbor_name": "ALACAHAN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47456,
+    "neighbor_name": "ALIÇ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47433,
+    "neighbor_name": "ARAKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47400,
+    "neighbor_name": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47420,
+    "neighbor_name": "ARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47474,
+    "neighbor_name": "AŞAĞIDURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47416,
+    "neighbor_name": "BABACAN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47413,
+    "neighbor_name": "BABUŞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47426,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47401,
+    "neighbor_name": "BALIKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47468,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47448,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47412,
+    "neighbor_name": "BOĞAZYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47470,
+    "neighbor_name": "BOLLUK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47457,
+    "neighbor_name": "ÇAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47455,
+    "neighbor_name": "ÇAKIRKAYA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47411,
+    "neighbor_name": "ÇALKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47447,
+    "neighbor_name": "ÇAMBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47404,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47442,
+    "neighbor_name": "ÇATMALAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47415,
+    "neighbor_name": "ÇAVLAN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47429,
+    "neighbor_name": "ÇEVREPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47402,
+    "neighbor_name": "DARIBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47414,
+    "neighbor_name": "DİLEKYOLU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47449,
+    "neighbor_name": "DUMANOLUĞU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47431,
+    "neighbor_name": "ELDİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47476,
+    "neighbor_name": "ELMAÇUKURU KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47434,
+    "neighbor_name": "ERİCEK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47406,
+    "neighbor_name": "EVREN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47407,
+    "neighbor_name": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47408,
+    "neighbor_name": "GÜNBATUR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47466,
+    "neighbor_name": "GÜNYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47403,
+    "neighbor_name": "GÜREŞKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47430,
+    "neighbor_name": "İNCEDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47443,
+    "neighbor_name": "İNÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47450,
+    "neighbor_name": "KADIÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47417,
+    "neighbor_name": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47459,
+    "neighbor_name": "KAVAKLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47471,
+    "neighbor_name": "KAVAKPINARI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47472,
+    "neighbor_name": "KAYNAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47445,
+    "neighbor_name": "KIRINTI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47460,
+    "neighbor_name": "KOYUNBABA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47427,
+    "neighbor_name": "KOZAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47446,
+    "neighbor_name": "OZANCA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47451,
+    "neighbor_name": "PAŞAPINARI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47439,
+    "neighbor_name": "PELİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47410,
+    "neighbor_name": "SADIKKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47428,
+    "neighbor_name": "SARICA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47423,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47422,
+    "neighbor_name": "SELLİDERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47467,
+    "neighbor_name": "SEYDİBABA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47418,
+    "neighbor_name": "SİNANLI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47436,
+    "neighbor_name": "SÖĞÜTALAN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47452,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47453,
+    "neighbor_name": "TELME KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47475,
+    "neighbor_name": "TEPEDAM KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47440,
+    "neighbor_name": "YEDİBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47424,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47441,
+    "neighbor_name": "YOLBİLEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47464,
+    "neighbor_name": "YUKARIDURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 934,
+    "district_name": "ŞİRAN",
+    "neighbor_id": 47473,
+    "neighbor_name": "YUKARIKULACA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47360,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47382,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47385,
+    "neighbor_name": "KALEDİBİ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47376,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47392,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47362,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47368,
+    "neighbor_name": "TUFANİYE MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47397,
+    "neighbor_name": "TUĞRULBEY MAH."
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47365,
+    "neighbor_name": "AKSÜT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47389,
+    "neighbor_name": "ALINYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47370,
+    "neighbor_name": "ALTINPINAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47359,
+    "neighbor_name": "ARILI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47355,
+    "neighbor_name": "ARPALI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47393,
+    "neighbor_name": "ATALAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47399,
+    "neighbor_name": "BAHÇELİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47394,
+    "neighbor_name": "BUDAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47383,
+    "neighbor_name": "BÜYÜKÇİT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47366,
+    "neighbor_name": "CEBELİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47378,
+    "neighbor_name": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47395,
+    "neighbor_name": "DEDELİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47377,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47390,
+    "neighbor_name": "GÜLAÇAR KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47356,
+    "neighbor_name": "GÜMÜŞTUĞ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47371,
+    "neighbor_name": "GÜNAY KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47372,
+    "neighbor_name": "GÜVEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47373,
+    "neighbor_name": "GÜZELOLUK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47374,
+    "neighbor_name": "HARMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47357,
+    "neighbor_name": "HEREK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47384,
+    "neighbor_name": "IŞIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47364,
+    "neighbor_name": "İLECİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47388,
+    "neighbor_name": "İNKILAP KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47367,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47379,
+    "neighbor_name": "KİRAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47396,
+    "neighbor_name": "KOCADAL KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47375,
+    "neighbor_name": "KOPUZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47391,
+    "neighbor_name": "KÖSTERE KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47361,
+    "neighbor_name": "KÜÇÜKÇİT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47386,
+    "neighbor_name": "TOKÇAM KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47369,
+    "neighbor_name": "UĞURTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47358,
+    "neighbor_name": "YALINKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47380,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47381,
+    "neighbor_name": "YILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47398,
+    "neighbor_name": "YURT KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47387,
+    "neighbor_name": "YÜCEBELEN KÖYÜ"
+  },
+  {
+    "city_id": 78,
+    "city_name": "GÜMÜŞHANE",
+    "district_id": 933,
+    "district_name": "TORUL",
+    "neighbor_id": 47363,
+    "neighbor_name": "ZİGANA KÖYÜ"
+  }
+]

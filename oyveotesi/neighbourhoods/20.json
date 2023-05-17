@@ -1,0 +1,4466 @@
+[
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12678,
+    "neighbor_name": "BAHAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12658,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12662,
+    "neighbor_name": "BAŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12641,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12663,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12628,
+    "neighbor_name": "ÇİFTEKAVAK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12653,
+    "neighbor_name": "DENİZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12648,
+    "neighbor_name": "DÜZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12630,
+    "neighbor_name": "ELMALIK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12636,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12617,
+    "neighbor_name": "FIRTINA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 50769,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12615,
+    "neighbor_name": "KAHVECİLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12654,
+    "neighbor_name": "KAVAKLIDERE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 50677,
+    "neighbor_name": "KONAKTEPE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12634,
+    "neighbor_name": "KUZEY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12675,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12625,
+    "neighbor_name": "MÜFTÜ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12671,
+    "neighbor_name": "ŞENTEPE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12637,
+    "neighbor_name": "TAŞBAŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12632,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12620,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12677,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12644,
+    "neighbor_name": "TUNCA-ADA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12645,
+    "neighbor_name": "TUNCA-DÜZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12631,
+    "neighbor_name": "TUNCA-ESENTEPE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12627,
+    "neighbor_name": "TUNCA-KONAK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12649,
+    "neighbor_name": "TUNCA-MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12660,
+    "neighbor_name": "TUNCA-ORTA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12650,
+    "neighbor_name": "TUNCA-ŞENYUVA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12647,
+    "neighbor_name": "AKDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12614,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12633,
+    "neighbor_name": "ARICILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12668,
+    "neighbor_name": "ARMAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12672,
+    "neighbor_name": "AŞAĞIDURAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12659,
+    "neighbor_name": "BAYIRCIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12652,
+    "neighbor_name": "BEYAZKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12682,
+    "neighbor_name": "ÇIRAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 49558,
+    "neighbor_name": "DEREMEZRA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12629,
+    "neighbor_name": "DOĞANAY KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12622,
+    "neighbor_name": "DUYGULU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12664,
+    "neighbor_name": "ESKİARMUTLUK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12665,
+    "neighbor_name": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12618,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12642,
+    "neighbor_name": "HOŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12673,
+    "neighbor_name": "KAÇKAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12624,
+    "neighbor_name": "KİRAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12669,
+    "neighbor_name": "KÖPRÜKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12674,
+    "neighbor_name": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12619,
+    "neighbor_name": "KÜÇÜKKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12643,
+    "neighbor_name": "MANGANEZ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12626,
+    "neighbor_name": "ORTAALAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12646,
+    "neighbor_name": "ÖNDER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12638,
+    "neighbor_name": "ÖZGÜR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12666,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12679,
+    "neighbor_name": "PİRİNÇLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12655,
+    "neighbor_name": "SERİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12616,
+    "neighbor_name": "SESLİKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12680,
+    "neighbor_name": "SİNAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12656,
+    "neighbor_name": "ŞEHİTLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12639,
+    "neighbor_name": "ŞENDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12667,
+    "neighbor_name": "ŞENYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12640,
+    "neighbor_name": "ŞENYURT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12676,
+    "neighbor_name": "YAMAÇDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12681,
+    "neighbor_name": "YAVUZ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12670,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12635,
+    "neighbor_name": "YENİYOL KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12661,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12651,
+    "neighbor_name": "YUKARIDURAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12621,
+    "neighbor_name": "YURTSEVER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 264,
+    "district_name": "ARDEŞEN",
+    "neighbor_id": 12657,
+    "neighbor_name": "ZEYTİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12484,
+    "neighbor_name": "AŞAĞIÇAMLICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12506,
+    "neighbor_name": "AŞAĞIŞİMŞİRLİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12500,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12507,
+    "neighbor_name": "KAPLICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12476,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12508,
+    "neighbor_name": "KONAKLAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12491,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12501,
+    "neighbor_name": "SIRT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12490,
+    "neighbor_name": "YAĞMURLU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12481,
+    "neighbor_name": "YUKARIÇAMLICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12499,
+    "neighbor_name": "BEHİCE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12503,
+    "neighbor_name": "BOĞAZİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12502,
+    "neighbor_name": "ÇATKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12498,
+    "neighbor_name": "ÇAYIRDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 50772,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 49789,
+    "neighbor_name": "DİDİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12494,
+    "neighbor_name": "DİKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12495,
+    "neighbor_name": "GÜLLÜKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12485,
+    "neighbor_name": "GÜROLUK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12496,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12486,
+    "neighbor_name": "KOMİLO KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12497,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12488,
+    "neighbor_name": "MEYDANKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12509,
+    "neighbor_name": "MOLLAVEYİS KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12504,
+    "neighbor_name": "ORTAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12477,
+    "neighbor_name": "ORTANKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12492,
+    "neighbor_name": "ORTAYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12478,
+    "neighbor_name": "SIRAKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12493,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12505,
+    "neighbor_name": "ŞENYUVA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12489,
+    "neighbor_name": "TOPLUCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12487,
+    "neighbor_name": "YAYLAKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12479,
+    "neighbor_name": "YAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12480,
+    "neighbor_name": "YOLKIYI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12482,
+    "neighbor_name": "YUKARIŞİMŞİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 261,
+    "district_name": "ÇAMLIHEMŞİN",
+    "neighbor_id": 12483,
+    "neighbor_name": "ZİLKALE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12519,
+    "neighbor_name": "ADALAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12532,
+    "neighbor_name": "BÜYÜKCAFERPAŞA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12548,
+    "neighbor_name": "BÜYÜKTAŞHANE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12539,
+    "neighbor_name": "ÇATAKLIHOCA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12598,
+    "neighbor_name": "ESKİPAZAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12526,
+    "neighbor_name": "HASSADIKLAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12585,
+    "neighbor_name": "KESMETAŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12534,
+    "neighbor_name": "KÜÇÜKCAFERPAŞA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12527,
+    "neighbor_name": "KÜÇÜKTAŞHANE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12592,
+    "neighbor_name": "LİMANKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12531,
+    "neighbor_name": "SABUNCULAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12565,
+    "neighbor_name": "ŞAİRLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12550,
+    "neighbor_name": "TAŞHANE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12544,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12535,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12552,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12553,
+    "neighbor_name": "YENİPAZAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12555,
+    "neighbor_name": "BÜYÜKKÖY-ALTINTAŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12566,
+    "neighbor_name": "BÜYÜKKÖY-ARKADERE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12570,
+    "neighbor_name": "BÜYÜKKÖY-ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12571,
+    "neighbor_name": "BÜYÜKKÖY-ÇAYCILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12521,
+    "neighbor_name": "BÜYÜKKÖY-DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12533,
+    "neighbor_name": "BÜYÜKKÖY-GÜMÜŞTAŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12574,
+    "neighbor_name": "BÜYÜKKÖY-MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12588,
+    "neighbor_name": "BÜYÜKKÖY-SOĞUKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12561,
+    "neighbor_name": "MADENLİ-ALOĞLU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12573,
+    "neighbor_name": "MADENLİ-ÇAMLICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12515,
+    "neighbor_name": "MADENLİ-GÜRÇAM MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12528,
+    "neighbor_name": "MADENLİ-HABİBOĞLU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12536,
+    "neighbor_name": "MADENLİ-KAZANCILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12529,
+    "neighbor_name": "MADENLİ-MADEN MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12516,
+    "neighbor_name": "MADENLİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12537,
+    "neighbor_name": "MADENLİ-TOPKAYA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12514,
+    "neighbor_name": "MADENLİ-YAZICILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12556,
+    "neighbor_name": "MADENLİ-YENİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12578,
+    "neighbor_name": "ABDULLAHHOCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12579,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12524,
+    "neighbor_name": "AŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12547,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12525,
+    "neighbor_name": "BEŞİKÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12520,
+    "neighbor_name": "BEYAZSU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12596,
+    "neighbor_name": "BUZLUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12582,
+    "neighbor_name": "ÇATALDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12523,
+    "neighbor_name": "ÇEŞMELİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12517,
+    "neighbor_name": "ÇINARTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12511,
+    "neighbor_name": "ÇİLİNGİR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12558,
+    "neighbor_name": "ÇUKURLUHOCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12540,
+    "neighbor_name": "DEMİRHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12512,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12575,
+    "neighbor_name": "DÜZGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12549,
+    "neighbor_name": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12597,
+    "neighbor_name": "ERENLER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12543,
+    "neighbor_name": "ESENDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12584,
+    "neighbor_name": "GEMİCİLER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12589,
+    "neighbor_name": "GÜRGENLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12567,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12513,
+    "neighbor_name": "GÜZELTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12568,
+    "neighbor_name": "HAREMTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12583,
+    "neighbor_name": "İNCESIRT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12518,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12541,
+    "neighbor_name": "KAÇKAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12580,
+    "neighbor_name": "KAPTANPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12591,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12590,
+    "neighbor_name": "KEMERKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12576,
+    "neighbor_name": "KESTANELİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12586,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12560,
+    "neighbor_name": "LATİFLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12542,
+    "neighbor_name": "MALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12562,
+    "neighbor_name": "MUSADAĞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12530,
+    "neighbor_name": "ORMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12577,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12559,
+    "neighbor_name": "SARISU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12587,
+    "neighbor_name": "SEFALI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12557,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12593,
+    "neighbor_name": "SESLİDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12581,
+    "neighbor_name": "SIRTKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12595,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12572,
+    "neighbor_name": "UZUNDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12551,
+    "neighbor_name": "YAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12510,
+    "neighbor_name": "YANIKDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12594,
+    "neighbor_name": "YAVUZLAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12522,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12545,
+    "neighbor_name": "YENİHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12554,
+    "neighbor_name": "YENİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12546,
+    "neighbor_name": "YEŞİLIRMAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12563,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12569,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12538,
+    "neighbor_name": "YILDIZELİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 262,
+    "district_name": "ÇAYELİ",
+    "neighbor_id": 12564,
+    "neighbor_name": "ZAFER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12299,
+    "neighbor_name": "ÇALIŞKANLAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12295,
+    "neighbor_name": "ERİKLİMANI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12296,
+    "neighbor_name": "FIÇICILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12292,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12286,
+    "neighbor_name": "SARIYER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12293,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12302,
+    "neighbor_name": "TERSANE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12294,
+    "neighbor_name": "BAHATTİNPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12290,
+    "neighbor_name": "BÜRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12288,
+    "neighbor_name": "ÇAKMAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12303,
+    "neighbor_name": "ÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12289,
+    "neighbor_name": "ÇUKURLU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12300,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12297,
+    "neighbor_name": "KİRAZDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12291,
+    "neighbor_name": "MALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12301,
+    "neighbor_name": "SANDIKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12287,
+    "neighbor_name": "UZUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 257,
+    "district_name": "DEREPAZARI",
+    "neighbor_id": 12298,
+    "neighbor_name": "YANIKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12686,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12697,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12710,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12688,
+    "neighbor_name": "LİMAN MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12689,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12690,
+    "neighbor_name": "SAHİL MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12704,
+    "neighbor_name": "TATLISU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12692,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12711,
+    "neighbor_name": "ARILI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12703,
+    "neighbor_name": "ASLANDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12694,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12709,
+    "neighbor_name": "BEYDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12712,
+    "neighbor_name": "CENNET KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12685,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12693,
+    "neighbor_name": "ÇINARLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12706,
+    "neighbor_name": "DERBENT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12695,
+    "neighbor_name": "DOĞANAY KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12683,
+    "neighbor_name": "DÜZKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12687,
+    "neighbor_name": "GÜRSU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12696,
+    "neighbor_name": "HARA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12698,
+    "neighbor_name": "IHLAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12701,
+    "neighbor_name": "KARAALİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12699,
+    "neighbor_name": "KIYICIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12684,
+    "neighbor_name": "MEYVALI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12702,
+    "neighbor_name": "SAATKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12707,
+    "neighbor_name": "SULAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12713,
+    "neighbor_name": "SÜMER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12708,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12691,
+    "neighbor_name": "YAYLACILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12700,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 265,
+    "district_name": "FINDIKLI",
+    "neighbor_id": 12705,
+    "neighbor_name": "YENİŞEHİTLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12714,
+    "neighbor_name": "ADACAMİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12741,
+    "neighbor_name": "AŞAĞI KİREMİT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 50706,
+    "neighbor_name": "BAŞARAN MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12716,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12717,
+    "neighbor_name": "ESKİCAMİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12727,
+    "neighbor_name": "KÜÇÜKCAMİİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12735,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12736,
+    "neighbor_name": "ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12715,
+    "neighbor_name": "ASMALIIRMAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12718,
+    "neighbor_name": "BALLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12725,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12722,
+    "neighbor_name": "BULUTLU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12738,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12726,
+    "neighbor_name": "DUMANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12720,
+    "neighbor_name": "GÜNELİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12739,
+    "neighbor_name": "GÜRGEN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12724,
+    "neighbor_name": "İSLAHİYE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12734,
+    "neighbor_name": "KIBLEDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12723,
+    "neighbor_name": "KİREMİT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12730,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12731,
+    "neighbor_name": "SELAMET KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12721,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12732,
+    "neighbor_name": "YARIMADA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12728,
+    "neighbor_name": "YENİCAMİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12733,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12740,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12729,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12742,
+    "neighbor_name": "YUKARIİSLAHİYE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 266,
+    "district_name": "GÜNEYSU",
+    "neighbor_id": 12737,
+    "neighbor_name": "YÜKSEKKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12310,
+    "neighbor_name": "BAHAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12308,
+    "neighbor_name": "MUTLU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12313,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12315,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12304,
+    "neighbor_name": "AKYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12311,
+    "neighbor_name": "BİLENKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12309,
+    "neighbor_name": "ÇAMLITEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12305,
+    "neighbor_name": "HİLAL KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12306,
+    "neighbor_name": "KANTARLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12307,
+    "neighbor_name": "LEVENTKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12312,
+    "neighbor_name": "NURLUCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 258,
+    "district_name": "HEMŞİN",
+    "neighbor_id": 12314,
+    "neighbor_name": "YALTKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12283,
+    "neighbor_name": "ÇAĞRANKAYA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12267,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12262,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12270,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12285,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12258,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12277,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12250,
+    "neighbor_name": "AYVALIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12268,
+    "neighbor_name": "BALLIKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12260,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12259,
+    "neighbor_name": "BAYIRKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12275,
+    "neighbor_name": "CEVİZLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12278,
+    "neighbor_name": "ÇAMLIKKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12264,
+    "neighbor_name": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12265,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12254,
+    "neighbor_name": "ÇİFTEKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12279,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12269,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12280,
+    "neighbor_name": "DİKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12255,
+    "neighbor_name": "ESKİCE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12256,
+    "neighbor_name": "GÖLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12281,
+    "neighbor_name": "GÜNEYCE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12271,
+    "neighbor_name": "GÜRDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12261,
+    "neighbor_name": "GÜVENKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12263,
+    "neighbor_name": "IHLAMUR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12284,
+    "neighbor_name": "ILICAKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12282,
+    "neighbor_name": "KAMA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12251,
+    "neighbor_name": "MEŞEKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12272,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12273,
+    "neighbor_name": "RÜZGARLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12274,
+    "neighbor_name": "SİVRİKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12266,
+    "neighbor_name": "ŞİMŞİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12252,
+    "neighbor_name": "TOZKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12257,
+    "neighbor_name": "TULUMPINAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12276,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 256,
+    "district_name": "İKİZDERE",
+    "neighbor_id": 12253,
+    "neighbor_name": "YERELMA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12602,
+    "neighbor_name": "ÇANAKÇEŞME MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12609,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12605,
+    "neighbor_name": "FIÇITAŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12604,
+    "neighbor_name": "HAZAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 50667,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12600,
+    "neighbor_name": "SARAYKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12611,
+    "neighbor_name": "ÜSTÜPİLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12601,
+    "neighbor_name": "YALIKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12613,
+    "neighbor_name": "YAPRAKLAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12608,
+    "neighbor_name": "BÜYÜKÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12606,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12603,
+    "neighbor_name": "DENİZGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12612,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12599,
+    "neighbor_name": "KÖŞKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12607,
+    "neighbor_name": "TAŞHANE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 263,
+    "district_name": "İYİDERE",
+    "neighbor_id": 12610,
+    "neighbor_name": "YAYLACILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12344,
+    "neighbor_name": "ADALAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12345,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12336,
+    "neighbor_name": "AŞAĞI TATLISU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12325,
+    "neighbor_name": "CEVİZLİK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12333,
+    "neighbor_name": "DAĞDİBİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12339,
+    "neighbor_name": "KIZILTOPRAK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12348,
+    "neighbor_name": "KURUKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12317,
+    "neighbor_name": "MEDRESE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12319,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12340,
+    "neighbor_name": "TAŞÇILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12324,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12321,
+    "neighbor_name": "YUKARI TATLISU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12322,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12343,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12326,
+    "neighbor_name": "DÜLGERLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12337,
+    "neighbor_name": "ESENDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12338,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12327,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12316,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12346,
+    "neighbor_name": "HURMALIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12347,
+    "neighbor_name": "HÜSEYİNHOCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12330,
+    "neighbor_name": "İNCİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12323,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12328,
+    "neighbor_name": "ORMANLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12349,
+    "neighbor_name": "PINARKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12341,
+    "neighbor_name": "SEYRANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12318,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12335,
+    "neighbor_name": "ÜNALAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12342,
+    "neighbor_name": "YENİGEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12320,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12331,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12329,
+    "neighbor_name": "YOKUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12332,
+    "neighbor_name": "YOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 259,
+    "district_name": "KALKANDERE",
+    "neighbor_id": 12334,
+    "neighbor_name": "YUMURTATEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12197,
+    "neighbor_name": "BEYAZTAŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12190,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12222,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12228,
+    "neighbor_name": "GÜZELYALI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12235,
+    "neighbor_name": "İKİZTEPE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12218,
+    "neighbor_name": "KİRAZLIK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 49967,
+    "neighbor_name": "KOCAKÖPRÜ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 50750,
+    "neighbor_name": "OCAK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12233,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12248,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12240,
+    "neighbor_name": "YUKARI SOĞUKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12215,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12205,
+    "neighbor_name": "AKBUCAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12242,
+    "neighbor_name": "AKMESCİT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12206,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12219,
+    "neighbor_name": "AKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12212,
+    "neighbor_name": "ALÇILI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12224,
+    "neighbor_name": "BALIKÇI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12225,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12201,
+    "neighbor_name": "BOĞAZLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12220,
+    "neighbor_name": "BUCAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12238,
+    "neighbor_name": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12191,
+    "neighbor_name": "DARILI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12198,
+    "neighbor_name": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12221,
+    "neighbor_name": "DERİNSU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12208,
+    "neighbor_name": "DERNEK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12207,
+    "neighbor_name": "ELMALIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12192,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12216,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12193,
+    "neighbor_name": "HANDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12243,
+    "neighbor_name": "HASKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12229,
+    "neighbor_name": "HİSARLI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12202,
+    "neighbor_name": "IRMAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12194,
+    "neighbor_name": "IRMAKYENİKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12246,
+    "neighbor_name": "KAYAĞANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12236,
+    "neighbor_name": "KESİKKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12232,
+    "neighbor_name": "KUZAYCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12247,
+    "neighbor_name": "MERDİVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12195,
+    "neighbor_name": "ORTAIRMAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12209,
+    "neighbor_name": "ORTAYOL KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12200,
+    "neighbor_name": "ÖRNEK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12210,
+    "neighbor_name": "PAPATYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12196,
+    "neighbor_name": "SAHİLKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12213,
+    "neighbor_name": "SESSİZDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12211,
+    "neighbor_name": "SİVRİKALE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12244,
+    "neighbor_name": "SİVRİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12204,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12199,
+    "neighbor_name": "SUÇATI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12226,
+    "neighbor_name": "SULAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12231,
+    "neighbor_name": "ŞEHİTLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12227,
+    "neighbor_name": "ŞENDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12223,
+    "neighbor_name": "ŞENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12217,
+    "neighbor_name": "TEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12234,
+    "neighbor_name": "TOPLUCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12249,
+    "neighbor_name": "TÜTÜNCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12230,
+    "neighbor_name": "UĞRAK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12245,
+    "neighbor_name": "YAVUZ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12214,
+    "neighbor_name": "YEMİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12237,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 255,
+    "district_name": "PAZAR",
+    "neighbor_id": 12241,
+    "neighbor_name": "YÜCEHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12360,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12416,
+    "neighbor_name": "ATMEYDANI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12362,
+    "neighbor_name": "BAĞDATLI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12366,
+    "neighbor_name": "BALSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12381,
+    "neighbor_name": "BOĞAZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12393,
+    "neighbor_name": "BOZKALE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12459,
+    "neighbor_name": "CAMİÖNÜ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 50678,
+    "neighbor_name": "CANPOLAT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12442,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12427,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12429,
+    "neighbor_name": "ÇİFTEKAVAK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12367,
+    "neighbor_name": "ÇORAPÇILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12363,
+    "neighbor_name": "DAĞINIKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12354,
+    "neighbor_name": "DAĞSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12375,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12423,
+    "neighbor_name": "DEREÜSTÜ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12376,
+    "neighbor_name": "EKMEKÇİLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12405,
+    "neighbor_name": "EKREM ORHON MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12449,
+    "neighbor_name": "EMİNETTİN MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12411,
+    "neighbor_name": "ENGİNDERE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12444,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12417,
+    "neighbor_name": "FENER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12390,
+    "neighbor_name": "GÜLBAHAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12456,
+    "neighbor_name": "HALATÇILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12357,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12475,
+    "neighbor_name": "HAMZABEY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12358,
+    "neighbor_name": "HAYRAT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12471,
+    "neighbor_name": "İSLAMPAŞA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12352,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12472,
+    "neighbor_name": "KANBURSIRT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12450,
+    "neighbor_name": "KAPLICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12371,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12468,
+    "neighbor_name": "MERMERDELEN MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12391,
+    "neighbor_name": "MEZRA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12388,
+    "neighbor_name": "MÜFTÜ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12473,
+    "neighbor_name": "PAŞAKUYU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12372,
+    "neighbor_name": "PEHLİVAN MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12446,
+    "neighbor_name": "PEHLİVANTAŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12425,
+    "neighbor_name": "PİLAVDAĞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12419,
+    "neighbor_name": "PİRİÇELEBİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12359,
+    "neighbor_name": "PORTAKALLIK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12454,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12435,
+    "neighbor_name": "TAŞLIDERE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12448,
+    "neighbor_name": "TOPHANE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12397,
+    "neighbor_name": "YAĞLITAŞ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12365,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12399,
+    "neighbor_name": "KENDİRLİ-ASMALIK MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12370,
+    "neighbor_name": "KENDİRLİ-DÜZ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12461,
+    "neighbor_name": "KENDİRLİ-HALASLAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12434,
+    "neighbor_name": "KENDİRLİ-ORTA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12443,
+    "neighbor_name": "KENDİRLİ-SIRT MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12368,
+    "neighbor_name": "MURADİYE-KÖMÜRCÜLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12382,
+    "neighbor_name": "MURADİYE-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12439,
+    "neighbor_name": "MURADİYE-MESUDİYE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12407,
+    "neighbor_name": "MURADİYE-ORTA MURADİYE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12350,
+    "neighbor_name": "MURADİYE-SOĞUKSU MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12438,
+    "neighbor_name": "MURADİYE-YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12379,
+    "neighbor_name": "SALARHA-GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12426,
+    "neighbor_name": "SALARHA-GÜNEŞTEPE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12474,
+    "neighbor_name": "SALARHA-KASARCILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12384,
+    "neighbor_name": "SALARHA-KİREÇHANE MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12430,
+    "neighbor_name": "SALARHA-KOKULUKAYA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12408,
+    "neighbor_name": "SALARHA-MÜDERRİSLER MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12395,
+    "neighbor_name": "SALARHA-SIRT KASARCILAR MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12441,
+    "neighbor_name": "SALARHA-ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12392,
+    "neighbor_name": "SALARHA-YEŞİLILICA MAH."
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12351,
+    "neighbor_name": "AKARSU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12389,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12465,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12404,
+    "neighbor_name": "AMBARLIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12400,
+    "neighbor_name": "AYANE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12385,
+    "neighbor_name": "AZAKLIHOCA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12412,
+    "neighbor_name": "BALIKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12428,
+    "neighbor_name": "BEŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12422,
+    "neighbor_name": "BILDIRCINKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12387,
+    "neighbor_name": "BOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12355,
+    "neighbor_name": "CAMİDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12369,
+    "neighbor_name": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12353,
+    "neighbor_name": "ÇAYCILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12361,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12413,
+    "neighbor_name": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12460,
+    "neighbor_name": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12424,
+    "neighbor_name": "DÜZKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12356,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12467,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12418,
+    "neighbor_name": "GÖLGELİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12453,
+    "neighbor_name": "GÜZELKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12386,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12451,
+    "neighbor_name": "KARASU KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12377,
+    "neighbor_name": "KARAYEMİŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12378,
+    "neighbor_name": "KETENLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12394,
+    "neighbor_name": "KIRKLARTEPESİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12401,
+    "neighbor_name": "KOCATEPE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12431,
+    "neighbor_name": "KÖPRÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12406,
+    "neighbor_name": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12445,
+    "neighbor_name": "KÜÇÜKÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12432,
+    "neighbor_name": "KÜÇÜKKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12414,
+    "neighbor_name": "MELEK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12402,
+    "neighbor_name": "ORTAPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12437,
+    "neighbor_name": "ÖRNEK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12462,
+    "neighbor_name": "PAZARKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12383,
+    "neighbor_name": "PEKMEZLİ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12440,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12420,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12447,
+    "neighbor_name": "SOĞUKÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12452,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12364,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12458,
+    "neighbor_name": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12463,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12466,
+    "neighbor_name": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12396,
+    "neighbor_name": "TEKKE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12373,
+    "neighbor_name": "TOPKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12464,
+    "neighbor_name": "TUĞLALI KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12469,
+    "neighbor_name": "UZUNKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12410,
+    "neighbor_name": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12380,
+    "neighbor_name": "VELİKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12455,
+    "neighbor_name": "YEMİŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12436,
+    "neighbor_name": "YENİDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12403,
+    "neighbor_name": "YENİGÜZELKÖY"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12470,
+    "neighbor_name": "YENİKALE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12421,
+    "neighbor_name": "YENİKASARCILAR KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12374,
+    "neighbor_name": "YENİSELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12415,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12433,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12457,
+    "neighbor_name": "YOLVEREN KÖYÜ"
+  },
+  {
+    "city_id": 20,
+    "city_name": "RİZE",
+    "district_id": 260,
+    "district_name": "RİZE MERKEZ",
+    "neighbor_id": 12409,
+    "neighbor_name": "ZİNCİRLİKÖPRÜ KÖYÜ"
+  }
+]

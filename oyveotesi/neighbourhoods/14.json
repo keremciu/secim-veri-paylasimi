@@ -1,0 +1,5730 @@
+[
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8356,
+    "neighbor_name": "AFŞİNBEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8340,
+    "neighbor_name": "AĞCAŞAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8326,
+    "neighbor_name": "ALEMDAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8363,
+    "neighbor_name": "ALİMPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8352,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8333,
+    "neighbor_name": "ALTAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8369,
+    "neighbor_name": "ALTINELMA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8353,
+    "neighbor_name": "ANZOREY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8370,
+    "neighbor_name": "ARITAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8364,
+    "neighbor_name": "ARMUTALAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8346,
+    "neighbor_name": "BAKRAÇ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8347,
+    "neighbor_name": "BAŞÜSTÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8377,
+    "neighbor_name": "BERÇENEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8327,
+    "neighbor_name": "BEYCEĞİZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8318,
+    "neighbor_name": "BİNBOĞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8373,
+    "neighbor_name": "BÜGET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8348,
+    "neighbor_name": "BÜYÜKSEVİN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8334,
+    "neighbor_name": "BÜYÜKTATLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8345,
+    "neighbor_name": "ÇAĞILHAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8362,
+    "neighbor_name": "ÇOBANBEYLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8371,
+    "neighbor_name": "ÇOĞULHAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8380,
+    "neighbor_name": "ÇOMUDÜZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8381,
+    "neighbor_name": "ÇUKURPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8328,
+    "neighbor_name": "DEDEBABA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8358,
+    "neighbor_name": "DEVEBOYNU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8341,
+    "neighbor_name": "DOKUZTAY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8382,
+    "neighbor_name": "EFSUS TURAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8343,
+    "neighbor_name": "EMİRİLYAS MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8320,
+    "neighbor_name": "EMİRLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8330,
+    "neighbor_name": "ERÇENE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8322,
+    "neighbor_name": "ESENCE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8321,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8360,
+    "neighbor_name": "GERGER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8357,
+    "neighbor_name": "GÖZPINARI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8378,
+    "neighbor_name": "HATİCEPINARI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8365,
+    "neighbor_name": "HURMAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8323,
+    "neighbor_name": "HÜYÜKLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8372,
+    "neighbor_name": "İĞDEMLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8339,
+    "neighbor_name": "İNCİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8351,
+    "neighbor_name": "İNCİRLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8335,
+    "neighbor_name": "KABAAĞAÇ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8336,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8349,
+    "neighbor_name": "KANGAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8344,
+    "neighbor_name": "KARAGÖZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8337,
+    "neighbor_name": "KAŞANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8374,
+    "neighbor_name": "KOÇOVASI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8375,
+    "neighbor_name": "KÖTÜRE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8361,
+    "neighbor_name": "KUŞKAYASI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 49973,
+    "neighbor_name": "MARABUZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 49530,
+    "neighbor_name": "MEHRE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8376,
+    "neighbor_name": "NADIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8338,
+    "neighbor_name": "OĞLAKKAYASI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8368,
+    "neighbor_name": "ÖRDEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8354,
+    "neighbor_name": "ÖRENDERESİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8355,
+    "neighbor_name": "ÖRENLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8324,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8325,
+    "neighbor_name": "SOĞUCAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8331,
+    "neighbor_name": "SÖĞÜTDERESİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8329,
+    "neighbor_name": "TANIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8350,
+    "neighbor_name": "TATLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8383,
+    "neighbor_name": "TOPAKTAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8366,
+    "neighbor_name": "TÜRKÇAYIRI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8379,
+    "neighbor_name": "TÜRKSEVİN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8319,
+    "neighbor_name": "YAZIDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8367,
+    "neighbor_name": "YAZIKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 178,
+    "district_name": "AFŞİN",
+    "neighbor_id": 8332,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8545,
+    "neighbor_name": "AKÇAKOYUNLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8569,
+    "neighbor_name": "AKGÜMÜŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8543,
+    "neighbor_name": "AKİFİYE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8534,
+    "neighbor_name": "ALAMEŞE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8557,
+    "neighbor_name": "ALANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8544,
+    "neighbor_name": "ALINOLUK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8570,
+    "neighbor_name": "ALTINBOĞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8577,
+    "neighbor_name": "ALTINYAYLA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8531,
+    "neighbor_name": "ANACIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8584,
+    "neighbor_name": "ARIKLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8535,
+    "neighbor_name": "BAŞDOĞAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8538,
+    "neighbor_name": "BEKTAŞLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8550,
+    "neighbor_name": "BEŞBUCAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8580,
+    "neighbor_name": "BOĞAZÖREN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8563,
+    "neighbor_name": "BOSTANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8564,
+    "neighbor_name": "BOYNUYOĞUNLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8571,
+    "neighbor_name": "BOZTOPRAKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8539,
+    "neighbor_name": "BULGURKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8540,
+    "neighbor_name": "CAMBAZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8558,
+    "neighbor_name": "CAMUZLUK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8579,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8583,
+    "neighbor_name": "ÇİĞŞAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8542,
+    "neighbor_name": "ÇOKAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8572,
+    "neighbor_name": "ÇUHADARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8554,
+    "neighbor_name": "DARIOVASI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8585,
+    "neighbor_name": "EFİRAĞIZLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8532,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8578,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8581,
+    "neighbor_name": "GEBEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8565,
+    "neighbor_name": "GÖKAHMETLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8548,
+    "neighbor_name": "GÖKÇELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8536,
+    "neighbor_name": "GÖKGEDİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8566,
+    "neighbor_name": "HACIVELİUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8560,
+    "neighbor_name": "KABAAĞAÇ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8537,
+    "neighbor_name": "KABAKLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8549,
+    "neighbor_name": "KALEBOYNU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8567,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8573,
+    "neighbor_name": "KARGAÇAYIRI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8546,
+    "neighbor_name": "KIYIKÇI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8529,
+    "neighbor_name": "KIZIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8561,
+    "neighbor_name": "KÖKLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8562,
+    "neighbor_name": "KÖLELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8551,
+    "neighbor_name": "KUMARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8574,
+    "neighbor_name": "KUZGUN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8547,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8555,
+    "neighbor_name": "OSMANCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8533,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8552,
+    "neighbor_name": "RİFATİYE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8541,
+    "neighbor_name": "SUMAKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8530,
+    "neighbor_name": "TATARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8575,
+    "neighbor_name": "TORUN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8559,
+    "neighbor_name": "TUFAN PAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8553,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8568,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8576,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8582,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 181,
+    "district_name": "ANDIRIN",
+    "neighbor_id": 8556,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 8996,
+    "neighbor_name": "AKDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9007,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 50521,
+    "neighbor_name": "BAYIRLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 8997,
+    "neighbor_name": "BOYLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9002,
+    "neighbor_name": "BOZLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 8998,
+    "neighbor_name": "BÖLÜKDAMLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 8999,
+    "neighbor_name": "EMİRUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9000,
+    "neighbor_name": "ENGİZEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9008,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 49775,
+    "neighbor_name": "HELETE CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 49569,
+    "neighbor_name": "HELETE KARADAĞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 49526,
+    "neighbor_name": "HELETE YEŞİLOBA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9011,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9003,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9010,
+    "neighbor_name": "KÜÇÜKCERİT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9005,
+    "neighbor_name": "KÜÇÜKÜNGÜT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9001,
+    "neighbor_name": "ORUÇPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9006,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 188,
+    "district_name": "ÇAĞLAYANCERİT",
+    "neighbor_id": 9004,
+    "neighbor_name": "ZEYNEPUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8659,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8595,
+    "neighbor_name": "BAHÇELİ EVLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8635,
+    "neighbor_name": "BAYAZITLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8660,
+    "neighbor_name": "DİVANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8673,
+    "neighbor_name": "DULKADİROĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8628,
+    "neighbor_name": "DURAKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8605,
+    "neighbor_name": "EGEMENLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8678,
+    "neighbor_name": "EKMEKÇİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8679,
+    "neighbor_name": "FEVZİ PAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8674,
+    "neighbor_name": "GAZİ PAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8645,
+    "neighbor_name": "İSA DİVANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8593,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8685,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8641,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8629,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8626,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8620,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8680,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8663,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8667,
+    "neighbor_name": "SENEM AYŞE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8644,
+    "neighbor_name": "SÜTÇÜ İMAM MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8669,
+    "neighbor_name": "ŞEYH ADİL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8613,
+    "neighbor_name": "ŞEYH ŞAMİL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8676,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8611,
+    "neighbor_name": "YENİ ŞEHİR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8670,
+    "neighbor_name": "ABBASLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8601,
+    "neighbor_name": "AĞABEYLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8604,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8658,
+    "neighbor_name": "AKYAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8633,
+    "neighbor_name": "ALİBEYUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8683,
+    "neighbor_name": "ARSLANBEY ÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8630,
+    "neighbor_name": "ASLAN BEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8600,
+    "neighbor_name": "AYAKLICAOLUK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8586,
+    "neighbor_name": "BAHÇELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8634,
+    "neighbor_name": "BALLICA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8671,
+    "neighbor_name": "BAŞDEVRİŞLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8596,
+    "neighbor_name": "BAYDEMİRLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8627,
+    "neighbor_name": "BEŞENLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8652,
+    "neighbor_name": "BOYALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8653,
+    "neighbor_name": "BUDAKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8672,
+    "neighbor_name": "BULANIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8650,
+    "neighbor_name": "ÇATMAYAYLA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8681,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8598,
+    "neighbor_name": "ÇİĞLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8682,
+    "neighbor_name": "ÇOBANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8592,
+    "neighbor_name": "ÇOKYAŞAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 49728,
+    "neighbor_name": "DELİLKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8677,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8636,
+    "neighbor_name": "DENİZLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8587,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8602,
+    "neighbor_name": "DERELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8637,
+    "neighbor_name": "DOĞANLIKARAHASAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8684,
+    "neighbor_name": "DOĞU KENT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8646,
+    "neighbor_name": "EKBEROĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8666,
+    "neighbor_name": "ELMALAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8647,
+    "neighbor_name": "ERKENEZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8614,
+    "neighbor_name": "ESKİNARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8623,
+    "neighbor_name": "EYÜP SULTAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8615,
+    "neighbor_name": "GAFFARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8624,
+    "neighbor_name": "GENÇ OSMAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8638,
+    "neighbor_name": "GÖLLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8588,
+    "neighbor_name": "GÜNEŞEVLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8639,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8606,
+    "neighbor_name": "HACIEYÜPLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8640,
+    "neighbor_name": "HALKAÇAYIRI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8594,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8607,
+    "neighbor_name": "KABASAKAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8625,
+    "neighbor_name": "KANUNİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8616,
+    "neighbor_name": "KAPIÇAM MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8661,
+    "neighbor_name": "KARACASU FERHUŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8608,
+    "neighbor_name": "KARACASU KARAZİYARET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8654,
+    "neighbor_name": "KARACASU KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8609,
+    "neighbor_name": "KARACASU KIRIM MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8648,
+    "neighbor_name": "KARACASU MAMARAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8589,
+    "neighbor_name": "KARAMANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 50528,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8617,
+    "neighbor_name": "KARTAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8618,
+    "neighbor_name": "KAZANLIPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8603,
+    "neighbor_name": "KEMALLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8590,
+    "neighbor_name": "KILAĞLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8675,
+    "neighbor_name": "KOCOLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8597,
+    "neighbor_name": "KOZLUDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8619,
+    "neighbor_name": "KUZUCAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8610,
+    "neighbor_name": "KÜÇÜKNACAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8649,
+    "neighbor_name": "KÜPELİKIZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8642,
+    "neighbor_name": "MAKSUTUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8591,
+    "neighbor_name": "NAVRUZLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8643,
+    "neighbor_name": "OSMANBEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8599,
+    "neighbor_name": "ÖKSÜZLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8662,
+    "neighbor_name": "PEYNİRDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8631,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8686,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8622,
+    "neighbor_name": "SİVRİCEHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8621,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8655,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8651,
+    "neighbor_name": "ŞEREFOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8668,
+    "neighbor_name": "TEVEKKELLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8656,
+    "neighbor_name": "ULUTAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8664,
+    "neighbor_name": "YAHYA KEMAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8632,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 50523,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8665,
+    "neighbor_name": "YENİPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8612,
+    "neighbor_name": "YENİYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8657,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 182,
+    "district_name": "DULKADİROĞLU",
+    "neighbor_id": 8687,
+    "neighbor_name": "YUSUFHACILI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8694,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8700,
+    "neighbor_name": "ALİŞAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8699,
+    "neighbor_name": "ALTUNYAPRAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8695,
+    "neighbor_name": "ANBAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8689,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8693,
+    "neighbor_name": "ÇİFTLİKKALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8698,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8704,
+    "neighbor_name": "DEMİRLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8701,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8696,
+    "neighbor_name": "GÖZPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8708,
+    "neighbor_name": "İÇMELER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8705,
+    "neighbor_name": "KABAKTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8690,
+    "neighbor_name": "KANDİL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8691,
+    "neighbor_name": "KÜRTÜL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8706,
+    "neighbor_name": "MAARİF MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8707,
+    "neighbor_name": "ORTAÖREN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8688,
+    "neighbor_name": "ÖZTÜRK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8697,
+    "neighbor_name": "SOYSALLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8692,
+    "neighbor_name": "TÜRKELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8702,
+    "neighbor_name": "TÜRKMENLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 183,
+    "district_name": "EKİNÖZÜ",
+    "neighbor_id": 8703,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8739,
+    "neighbor_name": "AĞLICA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8795,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8768,
+    "neighbor_name": "AKBAYIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8738,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8758,
+    "neighbor_name": "AKSAKAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8796,
+    "neighbor_name": "ALEMBEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8797,
+    "neighbor_name": "ALKAYAOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8750,
+    "neighbor_name": "ARMUTALAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8733,
+    "neighbor_name": "ATMALIKAŞANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8782,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8734,
+    "neighbor_name": "BAKIŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8717,
+    "neighbor_name": "BALIKÇIL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8759,
+    "neighbor_name": "BATTALGAZİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8790,
+    "neighbor_name": "BEŞTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8714,
+    "neighbor_name": "BEYYURDU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8763,
+    "neighbor_name": "BÜYÜKYAPALAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8751,
+    "neighbor_name": "CEYHAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8766,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8719,
+    "neighbor_name": "ÇALIŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8711,
+    "neighbor_name": "ÇATOVA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8728,
+    "neighbor_name": "ÇITLIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8781,
+    "neighbor_name": "ÇİÇEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8743,
+    "neighbor_name": "DEMİRCİLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8744,
+    "neighbor_name": "DERVİŞÇİMLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8775,
+    "neighbor_name": "DOĞAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8769,
+    "neighbor_name": "ELDELEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8752,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8787,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8745,
+    "neighbor_name": "EVCİHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8776,
+    "neighbor_name": "FAKIOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 50701,
+    "neighbor_name": "GEÇİT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8718,
+    "neighbor_name": "GÖKÇEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8783,
+    "neighbor_name": "GÜBLÜCE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8777,
+    "neighbor_name": "GÜCÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8791,
+    "neighbor_name": "GÜMÜŞDÖVEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8740,
+    "neighbor_name": "GÜNALTI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8754,
+    "neighbor_name": "GÜNDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8746,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8735,
+    "neighbor_name": "GÜVERCİNLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8715,
+    "neighbor_name": "HACIHASANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8725,
+    "neighbor_name": "HASANALİLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8747,
+    "neighbor_name": "HASANKENDİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8736,
+    "neighbor_name": "HORHOR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8784,
+    "neighbor_name": "IZGIN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8713,
+    "neighbor_name": "İĞDE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8729,
+    "neighbor_name": "İKİZPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8712,
+    "neighbor_name": "İNCECİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8726,
+    "neighbor_name": "KALAYCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8727,
+    "neighbor_name": "KALEALTI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8716,
+    "neighbor_name": "KANGAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8792,
+    "neighbor_name": "KANTARMA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8770,
+    "neighbor_name": "KARAELBİSTAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8720,
+    "neighbor_name": "KARAHASANUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8764,
+    "neighbor_name": "KARAHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8765,
+    "neighbor_name": "KARAMAĞARA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8755,
+    "neighbor_name": "KAVAKTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8748,
+    "neighbor_name": "KAYAGEÇİT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8793,
+    "neighbor_name": "KEÇEMAĞARA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8788,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8721,
+    "neighbor_name": "KIZILCAOBA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8761,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8722,
+    "neighbor_name": "KÖRÜCEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8760,
+    "neighbor_name": "KÖSEYAHYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8723,
+    "neighbor_name": "KÖŞK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8771,
+    "neighbor_name": "KÜÇÜKYAPALAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8757,
+    "neighbor_name": "KÜMBET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8794,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8709,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8774,
+    "neighbor_name": "ÖZBEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8778,
+    "neighbor_name": "ÖZCANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8724,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8756,
+    "neighbor_name": "SARIYATAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8779,
+    "neighbor_name": "SEVDİLLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8741,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8749,
+    "neighbor_name": "SÜNNET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8730,
+    "neighbor_name": "TAPKIRANKALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8767,
+    "neighbor_name": "TAPKIRAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8789,
+    "neighbor_name": "TAŞBURUN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8785,
+    "neighbor_name": "TEPEBAŞI (GÜCÜK) MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8731,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8798,
+    "neighbor_name": "TOPALLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8762,
+    "neighbor_name": "TOPRAKHİSAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8742,
+    "neighbor_name": "TÜRKÖREN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8799,
+    "neighbor_name": "UNCULAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8800,
+    "neighbor_name": "UZUNPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8710,
+    "neighbor_name": "YALAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8786,
+    "neighbor_name": "YALINTAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8772,
+    "neighbor_name": "YAPILI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8732,
+    "neighbor_name": "YAPILIPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8780,
+    "neighbor_name": "YAPRAKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8753,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8737,
+    "neighbor_name": "YOĞUNSÖĞÜT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 184,
+    "district_name": "ELBİSTAN",
+    "neighbor_id": 8773,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8424,
+    "neighbor_name": "ACIELMA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8411,
+    "neighbor_name": "AHMETCİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8394,
+    "neighbor_name": "ALIÇLIBUCAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8412,
+    "neighbor_name": "ALTINOBA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 50134,
+    "neighbor_name": "APIKLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8416,
+    "neighbor_name": "ASLANBEYÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 50522,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 50078,
+    "neighbor_name": "BERİT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 50671,
+    "neighbor_name": "BOZARMUT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8435,
+    "neighbor_name": "BOZHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8390,
+    "neighbor_name": "BÜYÜKÇAMURLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8389,
+    "neighbor_name": "BÜYÜKKIZILCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8391,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8432,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8393,
+    "neighbor_name": "ÇAMDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8388,
+    "neighbor_name": "ÇARDAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8403,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8395,
+    "neighbor_name": "DOĞANKONAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8436,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8429,
+    "neighbor_name": "ERİCEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8437,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8433,
+    "neighbor_name": "FINDIKLIKOYAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8425,
+    "neighbor_name": "FINDIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8438,
+    "neighbor_name": "GÖLPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8396,
+    "neighbor_name": "GÖYNÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8397,
+    "neighbor_name": "GÜCÜKSU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 49431,
+    "neighbor_name": "GÜLDAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 50525,
+    "neighbor_name": "GÜLLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8443,
+    "neighbor_name": "HACIKODAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8444,
+    "neighbor_name": "HACIMİRZA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8384,
+    "neighbor_name": "HACIÖMER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8408,
+    "neighbor_name": "HARBİYE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8445,
+    "neighbor_name": "HUĞTAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8427,
+    "neighbor_name": "KALEBOYNU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8426,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8398,
+    "neighbor_name": "KAMIŞCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8392,
+    "neighbor_name": "KANLIKAVAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8448,
+    "neighbor_name": "KARAAHMET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8405,
+    "neighbor_name": "KARAÖMER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8404,
+    "neighbor_name": "KARATUT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8417,
+    "neighbor_name": "KAVŞUT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8418,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8413,
+    "neighbor_name": "KAZANDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8385,
+    "neighbor_name": "KEKLİKOLUK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8399,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8407,
+    "neighbor_name": "KINIKKOZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8400,
+    "neighbor_name": "KIZILÖZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8449,
+    "neighbor_name": "KİREÇ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8406,
+    "neighbor_name": "KORKMAZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8401,
+    "neighbor_name": "KÖMÜR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8419,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8439,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8386,
+    "neighbor_name": "KÜÇÜKÇAMURLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8450,
+    "neighbor_name": "MAHMUTBEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8428,
+    "neighbor_name": "MEHMETBEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8409,
+    "neighbor_name": "MÜRSEL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8414,
+    "neighbor_name": "ORTATEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8440,
+    "neighbor_name": "PAYAMBURNU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8410,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8420,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8434,
+    "neighbor_name": "SIRMALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8451,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8446,
+    "neighbor_name": "TAHİRBEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8430,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8447,
+    "neighbor_name": "TEMÜRAĞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8421,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8422,
+    "neighbor_name": "TOMBAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8441,
+    "neighbor_name": "YAĞMURLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8387,
+    "neighbor_name": "YANTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8431,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8423,
+    "neighbor_name": "YENİYAPAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8415,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8402,
+    "neighbor_name": "YİRİCEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 179,
+    "district_name": "GÖKSUN",
+    "neighbor_id": 8442,
+    "neighbor_name": "YOĞUNOLUK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8807,
+    "neighbor_name": "AĞCAŞAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8815,
+    "neighbor_name": "ALÇİÇEK DEĞİRMENKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8810,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8811,
+    "neighbor_name": "BİÇİN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8808,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 50524,
+    "neighbor_name": "GÜRSEL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8809,
+    "neighbor_name": "HÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8801,
+    "neighbor_name": "KARAÇAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8802,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8803,
+    "neighbor_name": "KIYILAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8812,
+    "neighbor_name": "KULLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8813,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8814,
+    "neighbor_name": "SEYİTALİLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8804,
+    "neighbor_name": "TATLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8805,
+    "neighbor_name": "UMUTLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 185,
+    "district_name": "NURHAK",
+    "neighbor_id": 8806,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8873,
+    "neighbor_name": "ABDÜLHAMİD HAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8939,
+    "neighbor_name": "AĞCALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8917,
+    "neighbor_name": "AKÇAKOYUNLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8859,
+    "neighbor_name": "AKİF İNAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8831,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8870,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8914,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8909,
+    "neighbor_name": "ERTUĞRUL GAZİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8910,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8862,
+    "neighbor_name": "GAYBERLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8838,
+    "neighbor_name": "HACI BAYRAM VELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8833,
+    "neighbor_name": "HAYRULLAH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8895,
+    "neighbor_name": "KARACAOĞLAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8931,
+    "neighbor_name": "KARAMANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8850,
+    "neighbor_name": "MAĞRALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8904,
+    "neighbor_name": "MALİK EJDER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8948,
+    "neighbor_name": "MERCİMEKTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8844,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8872,
+    "neighbor_name": "MOLLA GÜRANİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8858,
+    "neighbor_name": "NECİP FAZIL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8819,
+    "neighbor_name": "ORUÇ REİS MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8905,
+    "neighbor_name": "OSMAN GAZİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8943,
+    "neighbor_name": "PİRİ REİS MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8860,
+    "neighbor_name": "SAÇAKLIZADE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8897,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8855,
+    "neighbor_name": "SERİNTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8853,
+    "neighbor_name": "ŞAZİ BEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8913,
+    "neighbor_name": "ŞEHİT EVLİYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8919,
+    "neighbor_name": "TAVŞAN TEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8875,
+    "neighbor_name": "VADİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8821,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8869,
+    "neighbor_name": "YUSUFLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8898,
+    "neighbor_name": "YÜRÜKSELİM MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8830,
+    "neighbor_name": "5 NİSAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8888,
+    "neighbor_name": "ALTINOVA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8824,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8836,
+    "neighbor_name": "AVGASIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8938,
+    "neighbor_name": "AVŞAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8889,
+    "neighbor_name": "AYŞEPINARI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8883,
+    "neighbor_name": "BEŞBAĞLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8907,
+    "neighbor_name": "BEŞEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8930,
+    "neighbor_name": "BİN EVLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8854,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8828,
+    "neighbor_name": "BULUTOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8825,
+    "neighbor_name": "BÜYÜKSIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8846,
+    "neighbor_name": "CEYHAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8949,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8950,
+    "neighbor_name": "CÜCELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8822,
+    "neighbor_name": "ÇAĞIRKAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8823,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8928,
+    "neighbor_name": "ÇAKIRDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8835,
+    "neighbor_name": "ÇAKIRLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8876,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8886,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8867,
+    "neighbor_name": "ÇEVREPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8865,
+    "neighbor_name": "ÇOKRAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8929,
+    "neighbor_name": "ÇUKURHİSAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8879,
+    "neighbor_name": "DADAĞLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8837,
+    "neighbor_name": "DEMREK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8908,
+    "neighbor_name": "DEREBOĞAZI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8832,
+    "neighbor_name": "DÖNGELE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8902,
+    "neighbor_name": "DÖNGEL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8829,
+    "neighbor_name": "DÖNÜKLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8921,
+    "neighbor_name": "FATMALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8884,
+    "neighbor_name": "GEDEMEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8946,
+    "neighbor_name": "GÖLPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8826,
+    "neighbor_name": "HACIAĞLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8940,
+    "neighbor_name": "HACIBUDAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8893,
+    "neighbor_name": "HACIİBRAHİMUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8947,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8839,
+    "neighbor_name": "HACIMUSTAFA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8857,
+    "neighbor_name": "HACININOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8922,
+    "neighbor_name": "HARTLAP MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8842,
+    "neighbor_name": "HASANCIKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8923,
+    "neighbor_name": "HAYDAR BEY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8816,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8827,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8937,
+    "neighbor_name": "İSMAİLLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8878,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8817,
+    "neighbor_name": "KALAKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8863,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8890,
+    "neighbor_name": "KAPIKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8868,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8932,
+    "neighbor_name": "KAVLAKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8871,
+    "neighbor_name": "KAYNAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8924,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8848,
+    "neighbor_name": "KERİMLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8847,
+    "neighbor_name": "KERTMEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8818,
+    "neighbor_name": "KILAVUZLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8903,
+    "neighbor_name": "KISIKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8834,
+    "neighbor_name": "KIZILDAMLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8864,
+    "neighbor_name": "KIZILSEKİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8941,
+    "neighbor_name": "KOZCAĞIZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8843,
+    "neighbor_name": "KÖSELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8891,
+    "neighbor_name": "KÖŞÜRGE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8911,
+    "neighbor_name": "KUMARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8849,
+    "neighbor_name": "KUMAŞIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8880,
+    "neighbor_name": "KURTLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8885,
+    "neighbor_name": "KURUCAOVA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8951,
+    "neighbor_name": "KÜÇÜKSIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8942,
+    "neighbor_name": "KÜMPERLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8918,
+    "neighbor_name": "KÜRTÜL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8915,
+    "neighbor_name": "MAARİF MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8925,
+    "neighbor_name": "MAKSUTLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8899,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8881,
+    "neighbor_name": "MURATLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8933,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8866,
+    "neighbor_name": "ÖNSEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8887,
+    "neighbor_name": "ÖŞLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8856,
+    "neighbor_name": "ÖZTÜRK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8912,
+    "neighbor_name": "PAYAMLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8900,
+    "neighbor_name": "RAHMACILAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8935,
+    "neighbor_name": "REYHANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8851,
+    "neighbor_name": "SADIKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8852,
+    "neighbor_name": "SARIÇUKUR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8874,
+    "neighbor_name": "SARIGÜZEL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8894,
+    "neighbor_name": "SARIMOLLALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8896,
+    "neighbor_name": "SAYGILI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8901,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8845,
+    "neighbor_name": "SUÇATI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8934,
+    "neighbor_name": "SULUYAYLA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8882,
+    "neighbor_name": "SÜLEYMANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8944,
+    "neighbor_name": "SÜLEYMANŞAH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8916,
+    "neighbor_name": "ŞAHİNKAYASI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8841,
+    "neighbor_name": "ŞEHİT ABDULLAH ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8892,
+    "neighbor_name": "TEKEREK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8926,
+    "neighbor_name": "TEKİR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8840,
+    "neighbor_name": "TOPÇALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8877,
+    "neighbor_name": "ÜNGÜT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8927,
+    "neighbor_name": "YAMAÇTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8936,
+    "neighbor_name": "YENİCEKALE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8861,
+    "neighbor_name": "YENİDEMİR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8820,
+    "neighbor_name": "YENİYAPAN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 50526,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8945,
+    "neighbor_name": "YİRMİİKİGÜN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8920,
+    "neighbor_name": "YOLYANI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 186,
+    "district_name": "ONİKİŞUBAT",
+    "neighbor_id": 8906,
+    "neighbor_name": "ZEYTİNDERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 50534,
+    "neighbor_name": "15 TEMMUZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8524,
+    "neighbor_name": "AHMET BOZDAĞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8505,
+    "neighbor_name": "AKCAKOYUNLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8518,
+    "neighbor_name": "AKÇALAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8506,
+    "neighbor_name": "AKDEMİR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8507,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8463,
+    "neighbor_name": "AŞAĞIMÜLK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8477,
+    "neighbor_name": "BAĞDINISAĞIR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8519,
+    "neighbor_name": "BEŞÇEŞME MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8508,
+    "neighbor_name": "BÖLÜKÇAM MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49822,
+    "neighbor_name": "BÜYÜKNACAR FATİH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 50140,
+    "neighbor_name": "BÜYÜKNACAR KOCADERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49536,
+    "neighbor_name": "BÜYÜKNACAR MERKEZ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8520,
+    "neighbor_name": "CENGİZ TOPEL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8513,
+    "neighbor_name": "CİMİKANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8494,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8501,
+    "neighbor_name": "ÇAMLITEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8511,
+    "neighbor_name": "ÇİÇEKALANI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8454,
+    "neighbor_name": "ÇİÇEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8476,
+    "neighbor_name": "ÇİĞDEMTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8502,
+    "neighbor_name": "ÇÖÇELLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8509,
+    "neighbor_name": "DAMLATAŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8489,
+    "neighbor_name": "DEDEPAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8478,
+    "neighbor_name": "EĞLEN MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8490,
+    "neighbor_name": "EĞRİCE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8483,
+    "neighbor_name": "EMİROĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49624,
+    "neighbor_name": "EVRİ PINARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 50108,
+    "neighbor_name": "EVRİ TAŞBİÇME MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8452,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8495,
+    "neighbor_name": "GANİDAĞIKETİLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8457,
+    "neighbor_name": "GÖÇER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8464,
+    "neighbor_name": "GÖYNÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8521,
+    "neighbor_name": "HANOBASI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8496,
+    "neighbor_name": "HARMANCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8474,
+    "neighbor_name": "HASANKOCA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8462,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8528,
+    "neighbor_name": "İNCİRLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8522,
+    "neighbor_name": "KADINCIK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8469,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8470,
+    "neighbor_name": "KARABIYIKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8471,
+    "neighbor_name": "KARAÇAY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8510,
+    "neighbor_name": "KARAGÖL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8497,
+    "neighbor_name": "KARAHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49936,
+    "neighbor_name": "KELEŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8479,
+    "neighbor_name": "KIZKAPANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8503,
+    "neighbor_name": "KİZİRLİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8455,
+    "neighbor_name": "KUZEYKENT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8523,
+    "neighbor_name": "MEHMET EMİN ARIKOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8458,
+    "neighbor_name": "MEMİŞKAHYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8491,
+    "neighbor_name": "MEMİŞ ÖZDAL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8514,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8517,
+    "neighbor_name": "MEZERE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8485,
+    "neighbor_name": "MUSOLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49678,
+    "neighbor_name": "NARLI BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49771,
+    "neighbor_name": "NARLI CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49958,
+    "neighbor_name": "NARLI İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8486,
+    "neighbor_name": "NEFSİDOĞANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8472,
+    "neighbor_name": "OSMANDEDE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8459,
+    "neighbor_name": "ÖRDEKDEDE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8465,
+    "neighbor_name": "SADAKALAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8466,
+    "neighbor_name": "SAKARKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8473,
+    "neighbor_name": "SALLIUŞAĞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8456,
+    "neighbor_name": "SALMANIPAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8499,
+    "neighbor_name": "SALMANLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8525,
+    "neighbor_name": "SARIERİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8480,
+    "neighbor_name": "SARIL MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8515,
+    "neighbor_name": "SOKU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8500,
+    "neighbor_name": "SULTANLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8512,
+    "neighbor_name": "ŞAHİNTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8488,
+    "neighbor_name": "ŞEHİT NURETTİN ADEMOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8481,
+    "neighbor_name": "TAŞDEMİR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8467,
+    "neighbor_name": "TETİRLİK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8526,
+    "neighbor_name": "TİLKİLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8482,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8493,
+    "neighbor_name": "UFACIKLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8475,
+    "neighbor_name": "ULUBAHÇE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8487,
+    "neighbor_name": "YARBAŞI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8516,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8492,
+    "neighbor_name": "YİĞİTLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8527,
+    "neighbor_name": "YOLBOYU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8468,
+    "neighbor_name": "YUKARIHÖCÜKLÜ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 8504,
+    "neighbor_name": "YUKARIMÜLK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 49800,
+    "neighbor_name": "YUMAKLICERİT BAĞLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 180,
+    "district_name": "PAZARCIK",
+    "neighbor_id": 50046,
+    "neighbor_name": "YUMAKLICERİT CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8991,
+    "neighbor_name": "AKÇALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8981,
+    "neighbor_name": "AVŞARLI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8954,
+    "neighbor_name": "AYDINKAVAK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8986,
+    "neighbor_name": "BAYRAMGAZİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8987,
+    "neighbor_name": "BEYOĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8972,
+    "neighbor_name": "CECELİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8961,
+    "neighbor_name": "CENNETPINARI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8992,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8983,
+    "neighbor_name": "ÇAKALLIÇULLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8957,
+    "neighbor_name": "ÇAKALLIHASANAĞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8976,
+    "neighbor_name": "ÇAKIROĞLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8970,
+    "neighbor_name": "ÇOBANTEPE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8993,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8966,
+    "neighbor_name": "DOLUCA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8962,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8955,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8994,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8967,
+    "neighbor_name": "GÜLLÜHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8995,
+    "neighbor_name": "HACIBEBEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8963,
+    "neighbor_name": "HOPURLU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8958,
+    "neighbor_name": "İMALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8952,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8964,
+    "neighbor_name": "KADIOĞLUÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8977,
+    "neighbor_name": "KALEDİBİ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8988,
+    "neighbor_name": "KELİBİŞLER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8978,
+    "neighbor_name": "KILILI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8982,
+    "neighbor_name": "KIRMAKAYA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8965,
+    "neighbor_name": "KIZILENİŞ MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8968,
+    "neighbor_name": "KUMÇATI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8989,
+    "neighbor_name": "KUYUMCULAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8979,
+    "neighbor_name": "KÜÇÜKİMALI MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8956,
+    "neighbor_name": "MİNEHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8971,
+    "neighbor_name": "ÖNSENHOPURU MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8960,
+    "neighbor_name": "ÖZBEK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8990,
+    "neighbor_name": "PINARHÜYÜK MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8953,
+    "neighbor_name": "ŞEKEROBA MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8959,
+    "neighbor_name": "TAHTALIDEDELER MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8984,
+    "neighbor_name": "UZUNSÖĞÜT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8973,
+    "neighbor_name": "YAVUZLAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8974,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8975,
+    "neighbor_name": "YENİPINAR MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8980,
+    "neighbor_name": "YEŞİLYÖRE MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8969,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 14,
+    "city_name": "KAHRAMANMARAŞ",
+    "district_id": 187,
+    "district_name": "TÜRKOĞLU",
+    "neighbor_id": 8985,
+    "neighbor_name": "YOLDERESİ MAH."
+  }
+]

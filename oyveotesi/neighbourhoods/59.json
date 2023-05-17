@@ -1,0 +1,3778 @@
+[
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37627,
+    "neighbor_name": "AKSIĞIN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37655,
+    "neighbor_name": "ALTINKENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37623,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37637,
+    "neighbor_name": "AYDINKENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37632,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37633,
+    "neighbor_name": "CAMİDÜZÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37647,
+    "neighbor_name": "DAMLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37648,
+    "neighbor_name": "DOĞANTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37643,
+    "neighbor_name": "DÖNGEL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37649,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37650,
+    "neighbor_name": "HAVUZLUBAHÇE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37634,
+    "neighbor_name": "KARADENİZLİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37635,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37651,
+    "neighbor_name": "KAZANDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37638,
+    "neighbor_name": "KILIÇARSLAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37639,
+    "neighbor_name": "KÖRFEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37628,
+    "neighbor_name": "KULLAR TEPECİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37629,
+    "neighbor_name": "KULLAR YAKACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37636,
+    "neighbor_name": "MAHMUTPAŞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37652,
+    "neighbor_name": "MEHMETAĞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37624,
+    "neighbor_name": "MERKEZ-TEPECİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37640,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37653,
+    "neighbor_name": "PAŞADAĞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37644,
+    "neighbor_name": "SAHİL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37625,
+    "neighbor_name": "SEPETLİPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37654,
+    "neighbor_name": "SERDAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37642,
+    "neighbor_name": "SERİNDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37641,
+    "neighbor_name": "SERVETİYE CAMİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37626,
+    "neighbor_name": "SERVETİYE KARŞI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37621,
+    "neighbor_name": "SEYMEN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37646,
+    "neighbor_name": "ŞEHİTEKREM MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37630,
+    "neighbor_name": "VEZİRÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37657,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37645,
+    "neighbor_name": "YENİKÖY MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37656,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37622,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 745,
+    "district_name": "BAŞİSKELE",
+    "neighbor_id": 37631,
+    "neighbor_name": "YUVACIK YAKACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37728,
+    "neighbor_name": "AKSE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37732,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37729,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37730,
+    "neighbor_name": "ÇAYIROVA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37733,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37731,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37726,
+    "neighbor_name": "ÖZGÜRLÜK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37727,
+    "neighbor_name": "ŞEKERPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 749,
+    "district_name": "ÇAYIROVA",
+    "neighbor_id": 37725,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37660,
+    "neighbor_name": "ABDİ İPEKÇİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37658,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37664,
+    "neighbor_name": "BAYRAMOĞLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37661,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37667,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37665,
+    "neighbor_name": "FEVZİÇAKMAK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37662,
+    "neighbor_name": "KAZIMKARABEKİR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37666,
+    "neighbor_name": "NENEHATUN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37668,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37669,
+    "neighbor_name": "PİRİ REİS MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37663,
+    "neighbor_name": "SIRASÖĞÜTLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37659,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37670,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 746,
+    "district_name": "DARICA",
+    "neighbor_id": 37671,
+    "neighbor_name": "ZİNCİRLİKUYU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37684,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37685,
+    "neighbor_name": "ÇENEDAĞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37677,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37674,
+    "neighbor_name": "DENİZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37675,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37687,
+    "neighbor_name": "FATİH SULTAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37688,
+    "neighbor_name": "GEREDELİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37686,
+    "neighbor_name": "İBNİSİNA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37672,
+    "neighbor_name": "KARAGÖLLÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37673,
+    "neighbor_name": "KAŞIKÇI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37681,
+    "neighbor_name": "MERSİNCİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37683,
+    "neighbor_name": "SIRRIPAŞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37682,
+    "neighbor_name": "TAHTALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37678,
+    "neighbor_name": "TERZİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37679,
+    "neighbor_name": "TOYLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37676,
+    "neighbor_name": "YAVUZ SULTAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 747,
+    "district_name": "DERİNCE",
+    "neighbor_id": 37680,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37542,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37553,
+    "neighbor_name": "ÇERKEŞLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37549,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37543,
+    "neighbor_name": "DİLİSKELESİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37544,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37550,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37545,
+    "neighbor_name": "KÖSELER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37546,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37551,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37552,
+    "neighbor_name": "TAVŞANCIL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37547,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 742,
+    "district_name": "DİLOVASI",
+    "neighbor_id": 37548,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37565,
+    "neighbor_name": "ARAPÇEŞME MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37578,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37570,
+    "neighbor_name": "GÜZELLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37566,
+    "neighbor_name": "HACIHALİL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37560,
+    "neighbor_name": "KÖŞKLÜ ÇEŞME MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37575,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37554,
+    "neighbor_name": "MUSTAFAPAŞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37571,
+    "neighbor_name": "OSMAN YILMAZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37577,
+    "neighbor_name": "SULTAN ORHAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37589,
+    "neighbor_name": "TATLIKUYU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37562,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37583,
+    "neighbor_name": "ADEM YAVUZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37564,
+    "neighbor_name": "AHATLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37591,
+    "neighbor_name": "BALÇIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37569,
+    "neighbor_name": "BEYLİKBAĞI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37587,
+    "neighbor_name": "CUMAKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37579,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37557,
+    "neighbor_name": "DENİZLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37588,
+    "neighbor_name": "DURAKLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37558,
+    "neighbor_name": "ELBİZLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37580,
+    "neighbor_name": "ESKİHİSAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37592,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37584,
+    "neighbor_name": "HATİPLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37559,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37593,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37573,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37574,
+    "neighbor_name": "KADILLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37567,
+    "neighbor_name": "KARGALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37568,
+    "neighbor_name": "KİRAZPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37581,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37561,
+    "neighbor_name": "MOLLAFENARİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37585,
+    "neighbor_name": "MUALLİMKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37563,
+    "neighbor_name": "MUDARLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37576,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37555,
+    "neighbor_name": "PELİTLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37586,
+    "neighbor_name": "TAVŞANLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37572,
+    "neighbor_name": "TEPEMANAYIR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37582,
+    "neighbor_name": "ULUS MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37590,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 743,
+    "district_name": "GEBZE",
+    "neighbor_id": 37556,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37870,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37878,
+    "neighbor_name": "AYVAZPINARI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37871,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37841,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37885,
+    "neighbor_name": "DEĞİRMENDERE MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37855,
+    "neighbor_name": "DEĞİRMENDERE YALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37851,
+    "neighbor_name": "DENİZ EVLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37844,
+    "neighbor_name": "DONANMA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37845,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37865,
+    "neighbor_name": "DÜZAĞAÇ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37846,
+    "neighbor_name": "ESKİFERHADİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37863,
+    "neighbor_name": "FERHADİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37866,
+    "neighbor_name": "HALIDERE YALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37867,
+    "neighbor_name": "HALIDERE YENİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37852,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37879,
+    "neighbor_name": "HASANEYN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37853,
+    "neighbor_name": "HİSAREYN MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37874,
+    "neighbor_name": "İCADİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37842,
+    "neighbor_name": "İHSANİYE MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37883,
+    "neighbor_name": "İPEK YOLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37875,
+    "neighbor_name": "İRŞADİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37839,
+    "neighbor_name": "KARAKÖPRÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37856,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37847,
+    "neighbor_name": "KÖRFEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37880,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37881,
+    "neighbor_name": "MAMURİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37857,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37836,
+    "neighbor_name": "MESRURİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37858,
+    "neighbor_name": "NİMETİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37882,
+    "neighbor_name": "NÜZHETİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37864,
+    "neighbor_name": "ÖRCÜN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37837,
+    "neighbor_name": "PANAYIR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37848,
+    "neighbor_name": "PİYALEPAŞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37854,
+    "neighbor_name": "SARAYLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37859,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37840,
+    "neighbor_name": "SİYRETİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37843,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37876,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37877,
+    "neighbor_name": "ŞEVKETİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37884,
+    "neighbor_name": "ŞİRİNKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37838,
+    "neighbor_name": "TOPÇULAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37860,
+    "neighbor_name": "ULAŞLI YALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37849,
+    "neighbor_name": "ULAŞLI YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37869,
+    "neighbor_name": "ÜMMİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37850,
+    "neighbor_name": "YAZLIK MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37872,
+    "neighbor_name": "YAZLIK YENİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37861,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37862,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37868,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 751,
+    "district_name": "GÖLCÜK",
+    "neighbor_id": 37873,
+    "neighbor_name": "YÜZBAŞILAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37814,
+    "neighbor_name": "AKÇAKOCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37794,
+    "neighbor_name": "CEDİT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37760,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37738,
+    "neighbor_name": "ÇUKURBAĞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37795,
+    "neighbor_name": "DOĞAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37783,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37771,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37805,
+    "neighbor_name": "HACIHASAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37761,
+    "neighbor_name": "HACIHIZIR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37817,
+    "neighbor_name": "HATİPKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37797,
+    "neighbor_name": "KARABAŞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37763,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37798,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37747,
+    "neighbor_name": "KOZLUK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37765,
+    "neighbor_name": "KÖRFEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37818,
+    "neighbor_name": "KURUÇEŞME FATİH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37744,
+    "neighbor_name": "ORHAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37739,
+    "neighbor_name": "ÖMERAĞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37834,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37753,
+    "neighbor_name": "SERDAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37759,
+    "neighbor_name": "ŞİRİNTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37835,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37766,
+    "neighbor_name": "TERZİBAYIRI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37767,
+    "neighbor_name": "TOPÇULAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37801,
+    "neighbor_name": "TURGUT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37828,
+    "neighbor_name": "TÜYSÜZLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37820,
+    "neighbor_name": "VELİAHMET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37813,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37790,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37791,
+    "neighbor_name": "ZABITAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37768,
+    "neighbor_name": "28 HAZİRAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37809,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37822,
+    "neighbor_name": "AKMEŞE ATATÜRK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37823,
+    "neighbor_name": "AKMEŞE CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37754,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37830,
+    "neighbor_name": "ALİKAHYA ATATÜRK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37802,
+    "neighbor_name": "ALİKAHYA CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37803,
+    "neighbor_name": "ALİKAHYA FATİH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37815,
+    "neighbor_name": "ALİKAHYA MERKEZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37780,
+    "neighbor_name": "AMBARCI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37824,
+    "neighbor_name": "ARIZLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37773,
+    "neighbor_name": "ARPALIKİHSANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37804,
+    "neighbor_name": "AYAZMA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37787,
+    "neighbor_name": "BAĞLICA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37755,
+    "neighbor_name": "BALÖREN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37831,
+    "neighbor_name": "BAYRAKTAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37816,
+    "neighbor_name": "BEKİRDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37769,
+    "neighbor_name": "BİBEROĞLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37740,
+    "neighbor_name": "BÖĞÜRGEN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37810,
+    "neighbor_name": "BULDUK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37776,
+    "neighbor_name": "ÇAĞIRGAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37829,
+    "neighbor_name": "ÇAVUŞOĞLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37736,
+    "neighbor_name": "ÇAYIRKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37750,
+    "neighbor_name": "ÇUBUKLUBALA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37745,
+    "neighbor_name": "ÇUBUKLUOSMANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37781,
+    "neighbor_name": "DAĞKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37796,
+    "neighbor_name": "DURHASAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37741,
+    "neighbor_name": "DÜĞMECİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37742,
+    "neighbor_name": "EMİRHAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37782,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37825,
+    "neighbor_name": "ESELER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37756,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37746,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37734,
+    "neighbor_name": "GEDİKLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37770,
+    "neighbor_name": "GÖKÇEÖREN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37757,
+    "neighbor_name": "GÜLBAHÇE KADRİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37758,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37788,
+    "neighbor_name": "GÜVERCİNLİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37832,
+    "neighbor_name": "HAKANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37762,
+    "neighbor_name": "HASANCIKLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37772,
+    "neighbor_name": "KABAOĞLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37784,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37833,
+    "neighbor_name": "KARAABDÜLBAKİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37777,
+    "neighbor_name": "KARADENİZLİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37774,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37735,
+    "neighbor_name": "KISALAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37806,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37748,
+    "neighbor_name": "KULFALLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37789,
+    "neighbor_name": "KULMAHMUT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37775,
+    "neighbor_name": "KURTDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37826,
+    "neighbor_name": "M.ALİPAŞA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37778,
+    "neighbor_name": "MALTA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37743,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37779,
+    "neighbor_name": "NEBİHOCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37751,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37811,
+    "neighbor_name": "ORTABURUN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37799,
+    "neighbor_name": "SAPAKPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37752,
+    "neighbor_name": "SARIŞEYH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37800,
+    "neighbor_name": "SEKBANLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37812,
+    "neighbor_name": "SEPETÇİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37785,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37749,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37827,
+    "neighbor_name": "SÜVERLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37808,
+    "neighbor_name": "ŞAHİNLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37819,
+    "neighbor_name": "TAVŞANTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37764,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37821,
+    "neighbor_name": "YAHYAKAPTAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37792,
+    "neighbor_name": "YASSIBAĞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37786,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37737,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37807,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 750,
+    "district_name": "İZMİT",
+    "neighbor_id": 37793,
+    "neighbor_name": "ZEYTİNBURNU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37959,
+    "neighbor_name": "AĞAÇAĞIL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37904,
+    "neighbor_name": "AHMETHACILAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37957,
+    "neighbor_name": "AKBAL MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37937,
+    "neighbor_name": "AKÇABEYLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37951,
+    "neighbor_name": "AKÇAKESE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37958,
+    "neighbor_name": "AKÇAOVA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37914,
+    "neighbor_name": "AKDURAK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37928,
+    "neighbor_name": "AKINCI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 50628,
+    "neighbor_name": "ALAYBEY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37920,
+    "neighbor_name": "ALEFLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37915,
+    "neighbor_name": "ANTAPLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37916,
+    "neighbor_name": "AVDAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37944,
+    "neighbor_name": "AYDINLIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37929,
+    "neighbor_name": "BABAKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37896,
+    "neighbor_name": "BABALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37930,
+    "neighbor_name": "BAĞIRGANLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37945,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37979,
+    "neighbor_name": "BALCI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37934,
+    "neighbor_name": "BALLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37921,
+    "neighbor_name": "BEYCE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37897,
+    "neighbor_name": "BEYLERBEYİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37938,
+    "neighbor_name": "BOLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37939,
+    "neighbor_name": "BOZBURUN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37965,
+    "neighbor_name": "CEBECİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37955,
+    "neighbor_name": "ÇAKIRCAALİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37949,
+    "neighbor_name": "ÇAKMAKLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37911,
+    "neighbor_name": "ÇALCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37912,
+    "neighbor_name": "ÇALKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37895,
+    "neighbor_name": "ÇALYER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37969,
+    "neighbor_name": "ÇAMKONAK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37888,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37913,
+    "neighbor_name": "ÇERÇİLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37980,
+    "neighbor_name": "DALCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37889,
+    "neighbor_name": "DELİVELİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37976,
+    "neighbor_name": "DOĞANCILI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37898,
+    "neighbor_name": "DÖNGELLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37946,
+    "neighbor_name": "DURAKLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37962,
+    "neighbor_name": "EĞERCİLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37971,
+    "neighbor_name": "ELMACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37905,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37906,
+    "neighbor_name": "FERİZLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37952,
+    "neighbor_name": "GEBEŞLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37972,
+    "neighbor_name": "GONCAAYDIN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37917,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37918,
+    "neighbor_name": "HACIMAZLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37966,
+    "neighbor_name": "HACIŞEYH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37899,
+    "neighbor_name": "HEDİYELİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37960,
+    "neighbor_name": "HIDIRLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37948,
+    "neighbor_name": "HÜDAVERDİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37936,
+    "neighbor_name": "İNCECİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37935,
+    "neighbor_name": "KABAAĞAÇ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37961,
+    "neighbor_name": "KANATLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37940,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37931,
+    "neighbor_name": "KARADİVAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37890,
+    "neighbor_name": "KARLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37973,
+    "neighbor_name": "KAYMAZ ERİKLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37891,
+    "neighbor_name": "KAYMAZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37941,
+    "neighbor_name": "KEFKEN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 49950,
+    "neighbor_name": "KERPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37963,
+    "neighbor_name": "KIRKARMUT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37922,
+    "neighbor_name": "KIZILCAPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37907,
+    "neighbor_name": "KOCAKAYMAS MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37908,
+    "neighbor_name": "KUBUZCU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37977,
+    "neighbor_name": "KURTYERİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37974,
+    "neighbor_name": "LOKMANLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37901,
+    "neighbor_name": "MANCARLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37900,
+    "neighbor_name": "MERKEZ ERİKLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37967,
+    "neighbor_name": "MÜLKÜŞEHSUVAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37981,
+    "neighbor_name": "NASUHLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37932,
+    "neighbor_name": "ORHAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37919,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37950,
+    "neighbor_name": "ÖZBEY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37892,
+    "neighbor_name": "PELİTPINARI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37975,
+    "neighbor_name": "PINARDÜZÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37893,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37886,
+    "neighbor_name": "PİRCELER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37978,
+    "neighbor_name": "SAFALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37968,
+    "neighbor_name": "SARIAHMETLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37953,
+    "neighbor_name": "SARICAALİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37923,
+    "neighbor_name": "SARIGAZİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37925,
+    "neighbor_name": "SARNIÇLAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37887,
+    "neighbor_name": "SELAMETLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37902,
+    "neighbor_name": "SELİMKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37964,
+    "neighbor_name": "SEPETÇİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37926,
+    "neighbor_name": "SEYİTALİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37894,
+    "neighbor_name": "SİNANLIBİLALLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37903,
+    "neighbor_name": "SUCUALİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37924,
+    "neighbor_name": "SÜLLÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37970,
+    "neighbor_name": "ŞEREFSUNGUR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37909,
+    "neighbor_name": "TATARAHMET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37942,
+    "neighbor_name": "TEKSEN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37954,
+    "neighbor_name": "TERZİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37910,
+    "neighbor_name": "TOPLUCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37933,
+    "neighbor_name": "ÜĞÜMCE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37927,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 752,
+    "district_name": "KANDIRA",
+    "neighbor_id": 37943,
+    "neighbor_name": "YUSUFÇA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37600,
+    "neighbor_name": "4 TEMMUZ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37602,
+    "neighbor_name": "AKÇAT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37601,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37613,
+    "neighbor_name": "AVCIKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37599,
+    "neighbor_name": "ÇAMÇUKUR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37607,
+    "neighbor_name": "ÇAMDİBİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37614,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37615,
+    "neighbor_name": "EREĞLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37605,
+    "neighbor_name": "FULACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37597,
+    "neighbor_name": "HAYRİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37604,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37610,
+    "neighbor_name": "İNEBEYLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37616,
+    "neighbor_name": "KADRİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37617,
+    "neighbor_name": "KARAAHMETLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37619,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37603,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37620,
+    "neighbor_name": "KIZDERBENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37606,
+    "neighbor_name": "OLUKLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37611,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37594,
+    "neighbor_name": "PAZARKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37608,
+    "neighbor_name": "SAFİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37598,
+    "neighbor_name": "SEMETLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37609,
+    "neighbor_name": "SENAİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37612,
+    "neighbor_name": "SULUDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37618,
+    "neighbor_name": "TAHTALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37595,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 744,
+    "district_name": "KARAMÜRSEL",
+    "neighbor_id": 37596,
+    "neighbor_name": "YALAKDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37994,
+    "neighbor_name": "ACISU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38006,
+    "neighbor_name": "ARSLANBEY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38009,
+    "neighbor_name": "ATAEVLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37987,
+    "neighbor_name": "ATAŞEHİR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37989,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38004,
+    "neighbor_name": "ÇEPNİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38011,
+    "neighbor_name": "DERBENT MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37982,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37990,
+    "neighbor_name": "EMEKEVLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37983,
+    "neighbor_name": "ERTUĞRUL GAZİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38001,
+    "neighbor_name": "EŞMEAHMEDİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37991,
+    "neighbor_name": "EŞME MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38002,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37984,
+    "neighbor_name": "HAVLUBURUN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37993,
+    "neighbor_name": "İBRİKDERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38008,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38012,
+    "neighbor_name": "KARATEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37995,
+    "neighbor_name": "KETENCİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37996,
+    "neighbor_name": "KÖSEKÖY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38010,
+    "neighbor_name": "MAŞUKİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38007,
+    "neighbor_name": "NUSRETİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38013,
+    "neighbor_name": "PAZARÇAYIRI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37997,
+    "neighbor_name": "RAHMİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38003,
+    "neighbor_name": "SARIMEŞE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37998,
+    "neighbor_name": "SERİNLİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37999,
+    "neighbor_name": "SUADİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37992,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38000,
+    "neighbor_name": "ŞEVKATİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 38005,
+    "neighbor_name": "ŞİRİNSULHİYE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37985,
+    "neighbor_name": "UZUNBEY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37988,
+    "neighbor_name": "UZUNÇİFTLİK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 753,
+    "district_name": "KARTEPE",
+    "neighbor_id": 37986,
+    "neighbor_name": "UZUNTARLA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37709,
+    "neighbor_name": "17 AĞUSTOS MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37716,
+    "neighbor_name": "AGAH ATEŞ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37699,
+    "neighbor_name": "ALİHOCALAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37693,
+    "neighbor_name": "ATALAR MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37704,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37694,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37721,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37705,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37720,
+    "neighbor_name": "ÇAMLITEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37703,
+    "neighbor_name": "ÇIRAKLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37722,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37695,
+    "neighbor_name": "DİKENLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37696,
+    "neighbor_name": "ELMACIK MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37723,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37717,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37697,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37718,
+    "neighbor_name": "HACI AKİF MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37689,
+    "neighbor_name": "HACI OSMAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37719,
+    "neighbor_name": "HİMMETLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37711,
+    "neighbor_name": "İLİMTEPE MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37690,
+    "neighbor_name": "KALBURCU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37700,
+    "neighbor_name": "KARAYAKUPLU MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37691,
+    "neighbor_name": "KIŞLADÜZÜ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37702,
+    "neighbor_name": "KİRAZLIYALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37698,
+    "neighbor_name": "KUTLUCA MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37701,
+    "neighbor_name": "KUZEY MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37706,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37712,
+    "neighbor_name": "NAİP MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37713,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37724,
+    "neighbor_name": "SEVİNDİKLİ MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37692,
+    "neighbor_name": "SİPAHİLER MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37714,
+    "neighbor_name": "ŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37715,
+    "neighbor_name": "ŞİRİNYALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37710,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37707,
+    "neighbor_name": "YENİYALI MAH."
+  },
+  {
+    "city_id": 59,
+    "city_name": "KOCAELİ",
+    "district_id": 748,
+    "district_name": "KÖRFEZ",
+    "neighbor_id": 37708,
+    "neighbor_name": "YUKARI HEREKE MAH."
+  }
+]

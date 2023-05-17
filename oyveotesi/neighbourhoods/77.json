@@ -1,0 +1,5258 @@
+[
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46764,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46792,
+    "neighbor_name": "HAMDİBEY MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46741,
+    "neighbor_name": "ÜMMÜHAN MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46772,
+    "neighbor_name": "KÜÇÜKKUYU-GÖKÇETEPE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46748,
+    "neighbor_name": "KÜÇÜKKUYU-MIHLI MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46746,
+    "neighbor_name": "KÜÇÜKKUYU-SAHİL MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46773,
+    "neighbor_name": "ADATEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46757,
+    "neighbor_name": "AHMETÇE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46784,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46774,
+    "neighbor_name": "AKÇİN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46808,
+    "neighbor_name": "ARIKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46795,
+    "neighbor_name": "BABADERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46803,
+    "neighbor_name": "BABAKALE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46753,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46769,
+    "neighbor_name": "BAHARLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46778,
+    "neighbor_name": "BAHÇEDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46770,
+    "neighbor_name": "BALABANLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46742,
+    "neighbor_name": "BEHRAM KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46762,
+    "neighbor_name": "BEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46771,
+    "neighbor_name": "BİLALLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46785,
+    "neighbor_name": "BUDAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46779,
+    "neighbor_name": "BÜYÜKHUSUN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46763,
+    "neighbor_name": "CEMALLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46777,
+    "neighbor_name": "ÇAKMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46768,
+    "neighbor_name": "ÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46751,
+    "neighbor_name": "ÇAMKALABAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46745,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46747,
+    "neighbor_name": "ÇINARPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46791,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46799,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46754,
+    "neighbor_name": "ERECEK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46755,
+    "neighbor_name": "GÜLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46807,
+    "neighbor_name": "GÜZELKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46804,
+    "neighbor_name": "HÜSEYİNFAKI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46810,
+    "neighbor_name": "İLYASFAKI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46805,
+    "neighbor_name": "KAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46756,
+    "neighbor_name": "KEÇİKAYA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46775,
+    "neighbor_name": "KESTANELİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46800,
+    "neighbor_name": "KIRCA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46796,
+    "neighbor_name": "KISACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46786,
+    "neighbor_name": "KOCAKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46758,
+    "neighbor_name": "KORUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46793,
+    "neighbor_name": "KOYUNEVİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46794,
+    "neighbor_name": "KOZLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46788,
+    "neighbor_name": "KÖSEDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46765,
+    "neighbor_name": "KULFAL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46780,
+    "neighbor_name": "KURUOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46787,
+    "neighbor_name": "KÜÇÜKÇETMİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46809,
+    "neighbor_name": "KÜÇÜKHUSUN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46789,
+    "neighbor_name": "MİSVAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46797,
+    "neighbor_name": "NALDÖKEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46801,
+    "neighbor_name": "NUSRATLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46806,
+    "neighbor_name": "PAŞAKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46760,
+    "neighbor_name": "PINARDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46782,
+    "neighbor_name": "SAPANCA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46776,
+    "neighbor_name": "SAZLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46802,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46743,
+    "neighbor_name": "SÜLEYMANKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46761,
+    "neighbor_name": "ŞAPKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46783,
+    "neighbor_name": "TABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46798,
+    "neighbor_name": "TAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46759,
+    "neighbor_name": "TARTIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46749,
+    "neighbor_name": "TAŞAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46752,
+    "neighbor_name": "TAŞBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46766,
+    "neighbor_name": "TUZLA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46790,
+    "neighbor_name": "TUZTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46767,
+    "neighbor_name": "UZUNALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46781,
+    "neighbor_name": "YENİÇAM KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46750,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 923,
+    "district_name": "AYVACIK",
+    "neighbor_id": 46744,
+    "neighbor_name": "YUKARIKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46840,
+    "neighbor_name": "CAMİCEDİT MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46820,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46888,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46836,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46876,
+    "neighbor_name": "AĞAÇKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46815,
+    "neighbor_name": "AHMETÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46816,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46881,
+    "neighbor_name": "ALAKEÇİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46831,
+    "neighbor_name": "ALİKABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46819,
+    "neighbor_name": "AŞAĞIŞAPCI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46826,
+    "neighbor_name": "AŞAĞIŞEVİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46822,
+    "neighbor_name": "BEKİRLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46839,
+    "neighbor_name": "BEŞİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46845,
+    "neighbor_name": "BEZİRGANLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46827,
+    "neighbor_name": "BIYIKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46841,
+    "neighbor_name": "CAZGİRLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46818,
+    "neighbor_name": "ÇALIDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46830,
+    "neighbor_name": "ÇALIOBAAKÇAKIL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46849,
+    "neighbor_name": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46875,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46857,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46862,
+    "neighbor_name": "ÇIRPILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46863,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46858,
+    "neighbor_name": "DAĞAHMETÇE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46877,
+    "neighbor_name": "DAĞOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46886,
+    "neighbor_name": "DALOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46817,
+    "neighbor_name": "DOĞANCI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46887,
+    "neighbor_name": "EVCİLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46853,
+    "neighbor_name": "GEDİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46859,
+    "neighbor_name": "GÖKÇEİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46882,
+    "neighbor_name": "GÜZELTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46878,
+    "neighbor_name": "HACIBEKİRLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46832,
+    "neighbor_name": "HACIDERVİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46864,
+    "neighbor_name": "HACIKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46865,
+    "neighbor_name": "IŞIKELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46811,
+    "neighbor_name": "KARAİBRAHİMLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46834,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46860,
+    "neighbor_name": "KARINCALIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46856,
+    "neighbor_name": "KAYKILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46833,
+    "neighbor_name": "KORUCAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46869,
+    "neighbor_name": "KOŞUBURNUTÜRKMENLERİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46870,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46851,
+    "neighbor_name": "KÖYLÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46850,
+    "neighbor_name": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46872,
+    "neighbor_name": "KUŞÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46835,
+    "neighbor_name": "KUTLUOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46852,
+    "neighbor_name": "KÜLCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46866,
+    "neighbor_name": "MOLLAHASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46883,
+    "neighbor_name": "MURATLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46871,
+    "neighbor_name": "NEBİLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46867,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46855,
+    "neighbor_name": "ÖRENLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46823,
+    "neighbor_name": "PALAMUTOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46846,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46812,
+    "neighbor_name": "PITIRELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46813,
+    "neighbor_name": "SAÇAKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46884,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46885,
+    "neighbor_name": "SARIDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46873,
+    "neighbor_name": "SARIOT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46829,
+    "neighbor_name": "SERHAT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46847,
+    "neighbor_name": "SÖĞÜTGEDİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46821,
+    "neighbor_name": "TOLUKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46874,
+    "neighbor_name": "TONGURLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46868,
+    "neighbor_name": "TÜLÜLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46828,
+    "neighbor_name": "TÜRKMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46814,
+    "neighbor_name": "ÜÇYOL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46843,
+    "neighbor_name": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46837,
+    "neighbor_name": "YAHŞİELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46861,
+    "neighbor_name": "YANIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46879,
+    "neighbor_name": "YASSIBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46854,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46824,
+    "neighbor_name": "YENİCEKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 50313,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46838,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46842,
+    "neighbor_name": "YİĞİTALİLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46844,
+    "neighbor_name": "YUKARIŞAPÇI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46880,
+    "neighbor_name": "YUKARIŞEVİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46825,
+    "neighbor_name": "ZERDALİLİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 924,
+    "district_name": "BAYRAMİÇ",
+    "neighbor_id": 46848,
+    "neighbor_name": "ZEYTİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46466,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46457,
+    "neighbor_name": "ÇAVUŞKÖY MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 50308,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46436,
+    "neighbor_name": "GAZİKEMAL MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46489,
+    "neighbor_name": "HAMDİBEY MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46548,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46533,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46549,
+    "neighbor_name": "ŞİRİNTEPE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46493,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46545,
+    "neighbor_name": "YENİCEKÖY MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46432,
+    "neighbor_name": "GÜMÜŞÇAY-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46437,
+    "neighbor_name": "GÜMÜŞÇAY-İĞDELİK MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46519,
+    "neighbor_name": "KARABİGA-ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46470,
+    "neighbor_name": "KARABİGA-YALI MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46546,
+    "neighbor_name": "KARABİGA-ZEYTİNLİK MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46452,
+    "neighbor_name": "ABDİAĞA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46453,
+    "neighbor_name": "ADLİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46510,
+    "neighbor_name": "AĞAKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46541,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46488,
+    "neighbor_name": "AKKAYRAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46474,
+    "neighbor_name": "AKKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46443,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46501,
+    "neighbor_name": "AKSAZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46505,
+    "neighbor_name": "AKYAPRAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46526,
+    "neighbor_name": "AMBAROBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46516,
+    "neighbor_name": "ARABAALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46461,
+    "neighbor_name": "ARABAKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46528,
+    "neighbor_name": "AŞAĞIDEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46491,
+    "neighbor_name": "AYITDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46527,
+    "neighbor_name": "AZİZİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46506,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46550,
+    "neighbor_name": "BAKACAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46511,
+    "neighbor_name": "BAKACAKLIÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46462,
+    "neighbor_name": "BALIKLIÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46458,
+    "neighbor_name": "BEKİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46534,
+    "neighbor_name": "BEZİRGANLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46512,
+    "neighbor_name": "BOZLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46504,
+    "neighbor_name": "CAMİALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46444,
+    "neighbor_name": "CİHADİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46435,
+    "neighbor_name": "ÇAKIRLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46525,
+    "neighbor_name": "ÇELİKGÜRÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46464,
+    "neighbor_name": "ÇELTİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46523,
+    "neighbor_name": "ÇEŞMEALTI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46502,
+    "neighbor_name": "ÇINARDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46471,
+    "neighbor_name": "ÇINARKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46477,
+    "neighbor_name": "ÇÖMLEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46465,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46542,
+    "neighbor_name": "DEĞİRMENCİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46513,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46431,
+    "neighbor_name": "DİKMEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46551,
+    "neighbor_name": "DOĞANCI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46544,
+    "neighbor_name": "EĞRİDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46517,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46448,
+    "neighbor_name": "EMİRORMAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46543,
+    "neighbor_name": "ESKİBALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46478,
+    "neighbor_name": "EYBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46507,
+    "neighbor_name": "GEMİCİKIRI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46529,
+    "neighbor_name": "GEREDELLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46449,
+    "neighbor_name": "GERLENGEÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46467,
+    "neighbor_name": "GEYİKKIRI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46468,
+    "neighbor_name": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46442,
+    "neighbor_name": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46454,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46455,
+    "neighbor_name": "GÜRÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46463,
+    "neighbor_name": "GÜRGENDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46433,
+    "neighbor_name": "GÜVEMALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46495,
+    "neighbor_name": "HACIHÜSEYİNYAYLASI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46535,
+    "neighbor_name": "HACIKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46520,
+    "neighbor_name": "HACIPEHLİVAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46536,
+    "neighbor_name": "HARMANLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46472,
+    "neighbor_name": "HAVDAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46469,
+    "neighbor_name": "HİSARLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46473,
+    "neighbor_name": "HOŞOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46481,
+    "neighbor_name": "ILICABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46485,
+    "neighbor_name": "IŞIKELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46490,
+    "neighbor_name": "İDRİSKORU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46480,
+    "neighbor_name": "İLYASALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46484,
+    "neighbor_name": "İSKENDER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46552,
+    "neighbor_name": "KAHVETEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46537,
+    "neighbor_name": "KALAFAT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46508,
+    "neighbor_name": "KALDIRIMBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46538,
+    "neighbor_name": "KANİBEY KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46539,
+    "neighbor_name": "KAPANBELEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46521,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46532,
+    "neighbor_name": "KARACAALİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46514,
+    "neighbor_name": "KARAHAMZALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46486,
+    "neighbor_name": "KARAPÜRÇEK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46451,
+    "neighbor_name": "KAŞIKÇIOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46492,
+    "neighbor_name": "KATRANCI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46479,
+    "neighbor_name": "KAYAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46518,
+    "neighbor_name": "KAYNARCA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46434,
+    "neighbor_name": "KAZMALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46438,
+    "neighbor_name": "KEMER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46439,
+    "neighbor_name": "KEPEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46482,
+    "neighbor_name": "KOCAGÜR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46475,
+    "neighbor_name": "KORUOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46445,
+    "neighbor_name": "KOZÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46440,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46496,
+    "neighbor_name": "OTLUKDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46446,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46500,
+    "neighbor_name": "ÖRTÜLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46522,
+    "neighbor_name": "PAŞAÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46459,
+    "neighbor_name": "PEKMEZLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46497,
+    "neighbor_name": "RAMAZANLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46530,
+    "neighbor_name": "SARICA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46531,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46460,
+    "neighbor_name": "SARISIVAT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46515,
+    "neighbor_name": "SARNIÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46547,
+    "neighbor_name": "SAVAŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46456,
+    "neighbor_name": "SAZOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46487,
+    "neighbor_name": "SELVİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46441,
+    "neighbor_name": "SIĞIRCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46476,
+    "neighbor_name": "SİNEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46509,
+    "neighbor_name": "ŞAKİRBEY KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46503,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46483,
+    "neighbor_name": "TOKATKIRI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46494,
+    "neighbor_name": "TÜRKBAKACAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46498,
+    "neighbor_name": "YANIÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46524,
+    "neighbor_name": "YENİÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46447,
+    "neighbor_name": "YENİMAHALLE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46450,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46540,
+    "neighbor_name": "YOLİNDİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 918,
+    "district_name": "BİGA",
+    "neighbor_id": 46499,
+    "neighbor_name": "YUKARIDEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 917,
+    "district_name": "BOZCAADA",
+    "neighbor_id": 46429,
+    "neighbor_name": "ALAYBEY MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 917,
+    "district_name": "BOZCAADA",
+    "neighbor_id": 46430,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46949,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46951,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46891,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46895,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46918,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46954,
+    "neighbor_name": "OSMANEFENDİ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46898,
+    "neighbor_name": "SERAMİK MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46893,
+    "neighbor_name": "TERZİALAN-ÇAKMAKÇAYIR MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46941,
+    "neighbor_name": "TERZİALAN-SÜLE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46953,
+    "neighbor_name": "AHLATLIBURUN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46916,
+    "neighbor_name": "ALİBEYÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46924,
+    "neighbor_name": "ALTIKULAÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46906,
+    "neighbor_name": "ASMALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46958,
+    "neighbor_name": "BAHADIRLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46890,
+    "neighbor_name": "BARDAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46932,
+    "neighbor_name": "BİLALLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46950,
+    "neighbor_name": "BOSTANDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46910,
+    "neighbor_name": "BOZGUÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46959,
+    "neighbor_name": "BÜYÜKPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46917,
+    "neighbor_name": "BÜYÜKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46942,
+    "neighbor_name": "CİCİKLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46931,
+    "neighbor_name": "ÇAKILKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46955,
+    "neighbor_name": "ÇALTIKARA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46923,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46947,
+    "neighbor_name": "ÇEKİÇLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46948,
+    "neighbor_name": "ÇOMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46935,
+    "neighbor_name": "DANAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46925,
+    "neighbor_name": "DERENTİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46920,
+    "neighbor_name": "DEREOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46921,
+    "neighbor_name": "DOĞACA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46952,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46960,
+    "neighbor_name": "DONDURMA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46902,
+    "neighbor_name": "DUMAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46933,
+    "neighbor_name": "DURALİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46907,
+    "neighbor_name": "EMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46911,
+    "neighbor_name": "ESKİYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46936,
+    "neighbor_name": "ETİLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46922,
+    "neighbor_name": "GÖLE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46892,
+    "neighbor_name": "HACIKASIM KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46956,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46928,
+    "neighbor_name": "HALİLAĞA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46961,
+    "neighbor_name": "HELVACI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46943,
+    "neighbor_name": "HURMA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46938,
+    "neighbor_name": "İLYASAĞAÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46944,
+    "neighbor_name": "KADILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46957,
+    "neighbor_name": "KALBURCU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46945,
+    "neighbor_name": "KARADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46939,
+    "neighbor_name": "KARAKADILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46940,
+    "neighbor_name": "KARAKOCA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46903,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46946,
+    "neighbor_name": "KEÇİAĞILI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46929,
+    "neighbor_name": "KIZILELMA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46896,
+    "neighbor_name": "KOCAYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46897,
+    "neighbor_name": "KOYUNYERİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46919,
+    "neighbor_name": "KULFAL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46914,
+    "neighbor_name": "KUMARLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46937,
+    "neighbor_name": "KÜÇÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46908,
+    "neighbor_name": "KÜÇÜKPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46930,
+    "neighbor_name": "MALLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46926,
+    "neighbor_name": "MALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46915,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46912,
+    "neighbor_name": "OZANCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46934,
+    "neighbor_name": "SAMETELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46909,
+    "neighbor_name": "SÖĞÜTALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46901,
+    "neighbor_name": "ŞERBETLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46904,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46899,
+    "neighbor_name": "UZUNALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46900,
+    "neighbor_name": "ÜVEZDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46927,
+    "neighbor_name": "YAYA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46913,
+    "neighbor_name": "YAYKIN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46889,
+    "neighbor_name": "YENİÇERİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46894,
+    "neighbor_name": "YUVALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 925,
+    "district_name": "ÇAN",
+    "neighbor_id": 46905,
+    "neighbor_name": "ZEYBEKÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46991,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46978,
+    "neighbor_name": "CEVAT PAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46963,
+    "neighbor_name": "ESENLER MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46997,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46976,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47021,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46989,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46985,
+    "neighbor_name": "KEPEZ-BOĞAZKENT MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46998,
+    "neighbor_name": "KEPEZ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46968,
+    "neighbor_name": "KEPEZ-HAMİDİYE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46983,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46977,
+    "neighbor_name": "AKÇAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46971,
+    "neighbor_name": "AKÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46966,
+    "neighbor_name": "ALANKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47000,
+    "neighbor_name": "AŞAĞIOKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47008,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47018,
+    "neighbor_name": "BODURLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47014,
+    "neighbor_name": "CİVLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46999,
+    "neighbor_name": "ÇAMYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46995,
+    "neighbor_name": "ÇINARLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47005,
+    "neighbor_name": "ÇIPLAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47017,
+    "neighbor_name": "ÇİFTLİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46962,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47019,
+    "neighbor_name": "DENİZGÖRÜNDÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46972,
+    "neighbor_name": "DÜMREK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47020,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47002,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46973,
+    "neighbor_name": "GÖKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46988,
+    "neighbor_name": "GÜZELYALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47009,
+    "neighbor_name": "HALİLELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46964,
+    "neighbor_name": "HALİLOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46992,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47011,
+    "neighbor_name": "KALABAKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47001,
+    "neighbor_name": "KALAFAT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47007,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46984,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46996,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46993,
+    "neighbor_name": "KAYADERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46967,
+    "neighbor_name": "KEMEL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47010,
+    "neighbor_name": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46986,
+    "neighbor_name": "KIZILKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47022,
+    "neighbor_name": "KİRAZLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47012,
+    "neighbor_name": "KOCALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46979,
+    "neighbor_name": "KUMKALE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46980,
+    "neighbor_name": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47015,
+    "neighbor_name": "MARAŞALFEVZİÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47023,
+    "neighbor_name": "MUSAKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47016,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47003,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47006,
+    "neighbor_name": "ÖZBEK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47013,
+    "neighbor_name": "SALİHLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46969,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46987,
+    "neighbor_name": "SARIBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 47004,
+    "neighbor_name": "SARICAELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46990,
+    "neighbor_name": "SERÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46970,
+    "neighbor_name": "TAŞLITARLA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46981,
+    "neighbor_name": "TERZİLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46974,
+    "neighbor_name": "TEVFİKİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46982,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46975,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46965,
+    "neighbor_name": "YAPILDAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 926,
+    "district_name": "ÇANAKKALE MERKEZ",
+    "neighbor_id": 46994,
+    "neighbor_name": "YUKARIOKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46566,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46554,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46563,
+    "neighbor_name": "ALÇITEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46562,
+    "neighbor_name": "BEHRAMLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46553,
+    "neighbor_name": "BEŞYOL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46559,
+    "neighbor_name": "BİGALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46564,
+    "neighbor_name": "BÜYÜKANAFARTA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46560,
+    "neighbor_name": "KİLİDÜLBAHİR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46555,
+    "neighbor_name": "KOCADERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46556,
+    "neighbor_name": "KUMKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46557,
+    "neighbor_name": "KÜÇÜKANAFARTA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46561,
+    "neighbor_name": "SEDDÜLBAHİR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46558,
+    "neighbor_name": "YALOVA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 919,
+    "district_name": "ECEABAT",
+    "neighbor_id": 46565,
+    "neighbor_name": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46602,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46605,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46591,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46571,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46580,
+    "neighbor_name": "SEFERŞAH MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46595,
+    "neighbor_name": "GEYİKLİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46592,
+    "neighbor_name": "GEYİKLİ-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46584,
+    "neighbor_name": "AKÇAKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46581,
+    "neighbor_name": "AKKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46577,
+    "neighbor_name": "ALADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46617,
+    "neighbor_name": "ALEMŞAH KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46570,
+    "neighbor_name": "ARASANLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46601,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46573,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46578,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46582,
+    "neighbor_name": "BOZALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46614,
+    "neighbor_name": "BOZELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46590,
+    "neighbor_name": "BOZKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46613,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46596,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46597,
+    "neighbor_name": "ÇAMOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46585,
+    "neighbor_name": "ÇARIKSIZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46615,
+    "neighbor_name": "ÇETMİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46616,
+    "neighbor_name": "ÇINARKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46593,
+    "neighbor_name": "DALYAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46606,
+    "neighbor_name": "DERBENTBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46609,
+    "neighbor_name": "GÖKÇEBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46620,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46579,
+    "neighbor_name": "HİSARALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46594,
+    "neighbor_name": "KARADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46583,
+    "neighbor_name": "KARAGÖMLEK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46572,
+    "neighbor_name": "KAYACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46618,
+    "neighbor_name": "KEMALLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46575,
+    "neighbor_name": "KIZILKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46610,
+    "neighbor_name": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46619,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46603,
+    "neighbor_name": "KÖRÜKTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46587,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46574,
+    "neighbor_name": "KUMBURUN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46598,
+    "neighbor_name": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46612,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46621,
+    "neighbor_name": "PAZARKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46607,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46611,
+    "neighbor_name": "SARISÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46567,
+    "neighbor_name": "SARPDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46586,
+    "neighbor_name": "ŞAPKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46569,
+    "neighbor_name": "TAŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46568,
+    "neighbor_name": "TAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46588,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46589,
+    "neighbor_name": "ÜSKÜFÇÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46608,
+    "neighbor_name": "ÜVECİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46622,
+    "neighbor_name": "YAHYAÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46576,
+    "neighbor_name": "YAVAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46599,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46604,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 920,
+    "district_name": "EZİNE",
+    "neighbor_id": 46600,
+    "neighbor_name": "YENİOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46639,
+    "neighbor_name": "ALAEDDİN MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46655,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46652,
+    "neighbor_name": "GAZİ SÜLEYMAN PAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46653,
+    "neighbor_name": "HOCA HAMZA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46625,
+    "neighbor_name": "YAZICIZADE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46641,
+    "neighbor_name": "EVREŞE-ÇEŞME MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46623,
+    "neighbor_name": "EVREŞE-KEŞANOĞLU MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46635,
+    "neighbor_name": "EVREŞE-YENİ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46648,
+    "neighbor_name": "KAVAKKÖY-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46629,
+    "neighbor_name": "KAVAKKÖY-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46650,
+    "neighbor_name": "ADİLHAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46633,
+    "neighbor_name": "BAYIRKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46651,
+    "neighbor_name": "BAYRAMİÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46626,
+    "neighbor_name": "BOLAYIR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46643,
+    "neighbor_name": "BURHANLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46646,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46647,
+    "neighbor_name": "CUMALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46632,
+    "neighbor_name": "ÇOKAL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46634,
+    "neighbor_name": "DEĞİRMENDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46640,
+    "neighbor_name": "DEMİRTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46656,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46642,
+    "neighbor_name": "GÜNEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46657,
+    "neighbor_name": "ILGARDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46644,
+    "neighbor_name": "KALEALTI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46636,
+    "neighbor_name": "KARAİNEBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46658,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46654,
+    "neighbor_name": "KOCAÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46649,
+    "neighbor_name": "KORUKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46630,
+    "neighbor_name": "OCAKLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46637,
+    "neighbor_name": "PAZARLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46624,
+    "neighbor_name": "SÜLEYMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46645,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46628,
+    "neighbor_name": "ŞADILLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46638,
+    "neighbor_name": "TAYFURKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46627,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 921,
+    "district_name": "GELİBOLU",
+    "neighbor_id": 46631,
+    "neighbor_name": "YÜLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47035,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47027,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47026,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47037,
+    "neighbor_name": "KUZULİMANI MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47032,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47029,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47025,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47036,
+    "neighbor_name": "EŞELEK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47030,
+    "neighbor_name": "KALEKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47028,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47024,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47031,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47033,
+    "neighbor_name": "YENİBADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 927,
+    "district_name": "GÖKÇEADA",
+    "neighbor_id": 47034,
+    "neighbor_name": "ZEYTİNLİKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47046,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47074,
+    "neighbor_name": "DALYAN MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47048,
+    "neighbor_name": "GAZİ SÜLEYMAN PAŞA MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47038,
+    "neighbor_name": "ÇARDAK-GAZİYAKUPBEY MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47050,
+    "neighbor_name": "ÇARDAK-TEKKE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47056,
+    "neighbor_name": "UMURBEY-UMURBEY MERKEZ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47058,
+    "neighbor_name": "ADATEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47080,
+    "neighbor_name": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47059,
+    "neighbor_name": "ALPAGUT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47081,
+    "neighbor_name": "BALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47053,
+    "neighbor_name": "BEYBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47073,
+    "neighbor_name": "BEYÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47060,
+    "neighbor_name": "BEYPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47078,
+    "neighbor_name": "ÇAMYURT KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47066,
+    "neighbor_name": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47062,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47040,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47070,
+    "neighbor_name": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47069,
+    "neighbor_name": "DOĞANDERE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47047,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47054,
+    "neighbor_name": "EÇİALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47082,
+    "neighbor_name": "GÖKKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47041,
+    "neighbor_name": "GÜRECİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47049,
+    "neighbor_name": "HACIGELEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47071,
+    "neighbor_name": "HACIÖMERLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47063,
+    "neighbor_name": "HARMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47079,
+    "neighbor_name": "İLYASKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47083,
+    "neighbor_name": "KANGIRLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47072,
+    "neighbor_name": "KARAMUSALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47042,
+    "neighbor_name": "KARAÖMERLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47064,
+    "neighbor_name": "KEMİKLİALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47061,
+    "neighbor_name": "KIRCALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47075,
+    "neighbor_name": "KIZILDAM KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47044,
+    "neighbor_name": "KOCABAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47043,
+    "neighbor_name": "KOCAVELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47055,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47057,
+    "neighbor_name": "NUSRATİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47067,
+    "neighbor_name": "SINDAL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47076,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47068,
+    "neighbor_name": "SULUCA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47039,
+    "neighbor_name": "ŞAHİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47052,
+    "neighbor_name": "ŞEVKETİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47045,
+    "neighbor_name": "TAŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47051,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47065,
+    "neighbor_name": "YAYLALAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 928,
+    "district_name": "LAPSEKİ",
+    "neighbor_id": 47077,
+    "neighbor_name": "YENİCEKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46677,
+    "neighbor_name": "ESKİ YENİCE MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46731,
+    "neighbor_name": "KIŞLALAR MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46703,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46718,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46687,
+    "neighbor_name": "KALKIM-ATATÜRK MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46665,
+    "neighbor_name": "KALKIM-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46728,
+    "neighbor_name": "AHİLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46696,
+    "neighbor_name": "AKÇAKOYUN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46683,
+    "neighbor_name": "AKKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46701,
+    "neighbor_name": "ALANCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46702,
+    "neighbor_name": "ARAOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46673,
+    "neighbor_name": "ARMUTÇUK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46669,
+    "neighbor_name": "AŞAĞIÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46684,
+    "neighbor_name": "AŞAĞIİNOVA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46709,
+    "neighbor_name": "AŞAĞIKARAAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46664,
+    "neighbor_name": "BAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46729,
+    "neighbor_name": "BALLIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46722,
+    "neighbor_name": "BAŞKOZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46670,
+    "neighbor_name": "BAYATLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46723,
+    "neighbor_name": "BEKTEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46737,
+    "neighbor_name": "BOYNANLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46710,
+    "neighbor_name": "CANBAZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46700,
+    "neighbor_name": "ÇAKIR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46690,
+    "neighbor_name": "ÇAKIROBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46739,
+    "neighbor_name": "ÇAL KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46661,
+    "neighbor_name": "ÇAMOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46708,
+    "neighbor_name": "ÇINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46734,
+    "neighbor_name": "ÇINARKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46682,
+    "neighbor_name": "ÇIRPILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46685,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46719,
+    "neighbor_name": "ÇUKUROBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46720,
+    "neighbor_name": "DARIALAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46735,
+    "neighbor_name": "DAVUTKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46715,
+    "neighbor_name": "ENGECİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46736,
+    "neighbor_name": "GÜMÜŞLER KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46678,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46724,
+    "neighbor_name": "GÜZELOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46698,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46691,
+    "neighbor_name": "HACIYUSUFLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46692,
+    "neighbor_name": "HAMDİBEY KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46725,
+    "neighbor_name": "HAYDAROBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46730,
+    "neighbor_name": "HIDIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46697,
+    "neighbor_name": "KABALI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46716,
+    "neighbor_name": "KALABAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46675,
+    "neighbor_name": "KARAAYDIN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46662,
+    "neighbor_name": "KARABEY KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46679,
+    "neighbor_name": "KARADORU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46721,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46688,
+    "neighbor_name": "KARASU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46666,
+    "neighbor_name": "KARGACI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46738,
+    "neighbor_name": "KIRIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46712,
+    "neighbor_name": "KIZILDAM KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46726,
+    "neighbor_name": "KORUKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46659,
+    "neighbor_name": "KOVANCI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46680,
+    "neighbor_name": "KURTLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46663,
+    "neighbor_name": "KUZUPINARI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46713,
+    "neighbor_name": "NAMAZGAH KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46681,
+    "neighbor_name": "NEVRUZ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46717,
+    "neighbor_name": "OĞLANALANI KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46711,
+    "neighbor_name": "ÖĞMEN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46686,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46674,
+    "neighbor_name": "PAZARKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46727,
+    "neighbor_name": "REŞADİYE KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46671,
+    "neighbor_name": "SAMETELİ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46732,
+    "neighbor_name": "SARIÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46672,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46704,
+    "neighbor_name": "SEYVAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46660,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46689,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46705,
+    "neighbor_name": "SUUÇTU KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46693,
+    "neighbor_name": "TABAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46733,
+    "neighbor_name": "TORHASAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46667,
+    "neighbor_name": "UMURLAR KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46740,
+    "neighbor_name": "ÜÇKABAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46694,
+    "neighbor_name": "YAĞDIRAN KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46706,
+    "neighbor_name": "YALIOBA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46668,
+    "neighbor_name": "YARIŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46714,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46699,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46676,
+    "neighbor_name": "YUKARIÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46707,
+    "neighbor_name": "YUKARIİNOVA KÖYÜ"
+  },
+  {
+    "city_id": 77,
+    "city_name": "ÇANAKKALE",
+    "district_id": 922,
+    "district_name": "YENİCE",
+    "neighbor_id": 46695,
+    "neighbor_name": "YUKARIKARAAŞIK KÖYÜ"
+  }
+]

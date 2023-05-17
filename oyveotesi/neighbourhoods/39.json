@@ -1,0 +1,2706 @@
+[
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25039,
+    "neighbor_name": "CEFAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25044,
+    "neighbor_name": "HAVEL MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25058,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25060,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25054,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25038,
+    "neighbor_name": "ATABAĞI-MERKEZ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25063,
+    "neighbor_name": "VEYSELKARANİ-ATATÜRK MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25056,
+    "neighbor_name": "VEYSELKARANİ-ÇAY MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25053,
+    "neighbor_name": "VEYSELKARANİ-ŞEYHOSMAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25030,
+    "neighbor_name": "ADAKALE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25037,
+    "neighbor_name": "ARDIÇDALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25034,
+    "neighbor_name": "ÇAMTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25028,
+    "neighbor_name": "ÇAYKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25055,
+    "neighbor_name": "ÇELİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25029,
+    "neighbor_name": "ÇEVRİMTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25047,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25042,
+    "neighbor_name": "DEDEBAKIRI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25040,
+    "neighbor_name": "DEMİRIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25041,
+    "neighbor_name": "DERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25048,
+    "neighbor_name": "DİLEKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 49939,
+    "neighbor_name": "DOKUZÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25031,
+    "neighbor_name": "ENGİN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25035,
+    "neighbor_name": "GÜMÜŞKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25043,
+    "neighbor_name": "GÜNBULDU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25059,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25050,
+    "neighbor_name": "İKİZLER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25032,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25026,
+    "neighbor_name": "KASIMLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25051,
+    "neighbor_name": "MEŞELİK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25061,
+    "neighbor_name": "NARLIYURT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25045,
+    "neighbor_name": "OBALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25049,
+    "neighbor_name": "ORMANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25062,
+    "neighbor_name": "SARIDANA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25052,
+    "neighbor_name": "SARISALKIM KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25027,
+    "neighbor_name": "TÜTENOCAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25036,
+    "neighbor_name": "ULAŞTI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25057,
+    "neighbor_name": "ÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25033,
+    "neighbor_name": "YARIMCA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 510,
+    "district_name": "BAYKAN",
+    "neighbor_id": 25046,
+    "neighbor_name": "YEŞİLÇEVRE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25065,
+    "neighbor_name": "DİH MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25078,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25083,
+    "neighbor_name": "SARIGÜL MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49827,
+    "neighbor_name": "AKDİKEN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50710,
+    "neighbor_name": "AKMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25070,
+    "neighbor_name": "BAĞGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49549,
+    "neighbor_name": "BALLIKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25082,
+    "neighbor_name": "BAYIRYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50799,
+    "neighbor_name": "BAYRAMLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50743,
+    "neighbor_name": "BİLGİLİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50788,
+    "neighbor_name": "BİNGÖL KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50782,
+    "neighbor_name": "BOZATLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50765,
+    "neighbor_name": "BOZKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50908,
+    "neighbor_name": "BÖLÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50726,
+    "neighbor_name": "BUDAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25076,
+    "neighbor_name": "CİNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50863,
+    "neighbor_name": "ÇELTİKSUYU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25080,
+    "neighbor_name": "ÇETİNKOL KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25068,
+    "neighbor_name": "ÇIRPILI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49873,
+    "neighbor_name": "ÇİMENCİK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25081,
+    "neighbor_name": "ÇİZMELİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49604,
+    "neighbor_name": "DADAKLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25064,
+    "neighbor_name": "DAĞDÖŞÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49759,
+    "neighbor_name": "DALKORUR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50103,
+    "neighbor_name": "DEMİREMEK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25077,
+    "neighbor_name": "DİKBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49673,
+    "neighbor_name": "DÖNERDÖVER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50927,
+    "neighbor_name": "EKİNYOLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25066,
+    "neighbor_name": "ERENKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49908,
+    "neighbor_name": "GEDİKAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49916,
+    "neighbor_name": "GELENKARDEŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49927,
+    "neighbor_name": "GÖLGELİKONAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49917,
+    "neighbor_name": "GÖNÜLALDI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25071,
+    "neighbor_name": "GÖRENDORUK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50983,
+    "neighbor_name": "GÜLBURNU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50011,
+    "neighbor_name": "KARADAYILAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49733,
+    "neighbor_name": "KAŞIKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25079,
+    "neighbor_name": "KAVAKGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25072,
+    "neighbor_name": "KEKLİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50794,
+    "neighbor_name": "KILIÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49816,
+    "neighbor_name": "KUŞDALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25073,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50093,
+    "neighbor_name": "ORTAKLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49991,
+    "neighbor_name": "OYMAKILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50065,
+    "neighbor_name": "ÖZLÜPELİT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50875,
+    "neighbor_name": "PAYAMLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25074,
+    "neighbor_name": "SALKIMBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50893,
+    "neighbor_name": "SAVAŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50110,
+    "neighbor_name": "TÜNEKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49765,
+    "neighbor_name": "UFACA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25069,
+    "neighbor_name": "ÜZÜMLÜK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49505,
+    "neighbor_name": "YANIKSES KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49744,
+    "neighbor_name": "YANILMAZ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49494,
+    "neighbor_name": "YEDİYAPRAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 50722,
+    "neighbor_name": "YELKESEN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 49796,
+    "neighbor_name": "YERLİÇOBAN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25067,
+    "neighbor_name": "YEŞİLÖREN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 511,
+    "district_name": "ERUH",
+    "neighbor_id": 25075,
+    "neighbor_name": "YOKUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25127,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25128,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25129,
+    "neighbor_name": "DİCLE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25130,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25123,
+    "neighbor_name": "GARZAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25115,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25120,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25088,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25098,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25135,
+    "neighbor_name": "TEKEL MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25099,
+    "neighbor_name": "YAYIKDERE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25126,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25117,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25107,
+    "neighbor_name": "KAYABAĞLAR-BAĞLAR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25097,
+    "neighbor_name": "KAYABAĞLAR-ÇEŞME MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25108,
+    "neighbor_name": "KAYABAĞLAR-KAYALI MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50099,
+    "neighbor_name": "AĞAÇLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25101,
+    "neighbor_name": "AKÇAGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50759,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 49781,
+    "neighbor_name": "AKDEM KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25100,
+    "neighbor_name": "AKSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50128,
+    "neighbor_name": "ATALAY KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25132,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25094,
+    "neighbor_name": "AYDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50869,
+    "neighbor_name": "AZIKLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25086,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25095,
+    "neighbor_name": "BALLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25113,
+    "neighbor_name": "BEŞLER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25087,
+    "neighbor_name": "BEYKENT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25119,
+    "neighbor_name": "BOZHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25102,
+    "neighbor_name": "BÖLÜKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25105,
+    "neighbor_name": "ÇAKILLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25112,
+    "neighbor_name": "ÇALIDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25093,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50803,
+    "neighbor_name": "ÇELTİKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 49797,
+    "neighbor_name": "DEMİRKUYU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50734,
+    "neighbor_name": "DERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25114,
+    "neighbor_name": "ERDURAĞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25106,
+    "neighbor_name": "GÖKDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25103,
+    "neighbor_name": "GÖZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25096,
+    "neighbor_name": "GÜRGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50753,
+    "neighbor_name": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25118,
+    "neighbor_name": "İĞDELİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 49970,
+    "neighbor_name": "İNCİRLİK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25124,
+    "neighbor_name": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25125,
+    "neighbor_name": "KARABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50773,
+    "neighbor_name": "KAYALISU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25133,
+    "neighbor_name": "KILIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25090,
+    "neighbor_name": "KONAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25109,
+    "neighbor_name": "SAİPBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25085,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25134,
+    "neighbor_name": "TAŞOLUK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50830,
+    "neighbor_name": "TATLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25116,
+    "neighbor_name": "TEYLAN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25110,
+    "neighbor_name": "TOSUNBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 49658,
+    "neighbor_name": "TOYTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25089,
+    "neighbor_name": "TULUMTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50058,
+    "neighbor_name": "TÜTÜN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25121,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25131,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 49422,
+    "neighbor_name": "YAKITTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25122,
+    "neighbor_name": "YANARSU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25091,
+    "neighbor_name": "YAYIKLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25084,
+    "neighbor_name": "YELLİCE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25111,
+    "neighbor_name": "YENİKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 49519,
+    "neighbor_name": "YEŞİLKONAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25092,
+    "neighbor_name": "YOLDURAĞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 25104,
+    "neighbor_name": "YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 512,
+    "district_name": "KURTALAN",
+    "neighbor_id": 50973,
+    "neighbor_name": "YÜREKVEREN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25163,
+    "neighbor_name": "AYDIN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25171,
+    "neighbor_name": "ŞAKİRAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25172,
+    "neighbor_name": "BEĞENDİK-GAZİ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25141,
+    "neighbor_name": "BEĞENDİK-KALE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 49862,
+    "neighbor_name": "AŞAĞIBALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25148,
+    "neighbor_name": "AYVALIBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25146,
+    "neighbor_name": "BELENOLUK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25165,
+    "neighbor_name": "BENTKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25144,
+    "neighbor_name": "ÇATKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25169,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25170,
+    "neighbor_name": "ÇOBANÖREN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25162,
+    "neighbor_name": "ÇUKURKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25166,
+    "neighbor_name": "DOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25142,
+    "neighbor_name": "DOĞANKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25140,
+    "neighbor_name": "DOLUSALKIM KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25143,
+    "neighbor_name": "DÜĞÜNCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25154,
+    "neighbor_name": "EKİNDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 50129,
+    "neighbor_name": "ERKENT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25149,
+    "neighbor_name": "GÖKBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25157,
+    "neighbor_name": "GÖKÇEKORU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25155,
+    "neighbor_name": "GÖLGELİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25158,
+    "neighbor_name": "GÜLEÇLER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25147,
+    "neighbor_name": "GÜMÜŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25164,
+    "neighbor_name": "KARASUNGUR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25159,
+    "neighbor_name": "KARŞIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 50997,
+    "neighbor_name": "KESKİN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25150,
+    "neighbor_name": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 49560,
+    "neighbor_name": "KOCAÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25167,
+    "neighbor_name": "KÖPRÜÇAY KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25160,
+    "neighbor_name": "NARSUYU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25151,
+    "neighbor_name": "ORMANDALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25136,
+    "neighbor_name": "PALAMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25152,
+    "neighbor_name": "SARIDAM KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 50748,
+    "neighbor_name": "SARIYAPRAK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25168,
+    "neighbor_name": "SÖĞÜTÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25161,
+    "neighbor_name": "TAŞDİBEK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25153,
+    "neighbor_name": "TOSUNTARLA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25156,
+    "neighbor_name": "TUZCULAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25145,
+    "neighbor_name": "ÜÇOYUK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25137,
+    "neighbor_name": "YAPRAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25138,
+    "neighbor_name": "YENİAYDIN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 513,
+    "district_name": "PERVARİ",
+    "neighbor_id": 25139,
+    "neighbor_name": "YUKARIBALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24972,
+    "neighbor_name": "AFETEVLERİ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24962,
+    "neighbor_name": "ALAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24945,
+    "neighbor_name": "ALGÜL MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24938,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24955,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24947,
+    "neighbor_name": "BATI MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24969,
+    "neighbor_name": "CONKBAYIR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24934,
+    "neighbor_name": "ÇAL MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24973,
+    "neighbor_name": "DOĞAN MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24941,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24963,
+    "neighbor_name": "HALENZE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24958,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24951,
+    "neighbor_name": "KARAKOL MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24965,
+    "neighbor_name": "KOOPERATİF MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24952,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24948,
+    "neighbor_name": "TINAZTEPE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24943,
+    "neighbor_name": "ULUS MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24935,
+    "neighbor_name": "ÜLKÜ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24946,
+    "neighbor_name": "VEYSEL KARANİ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24957,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24950,
+    "neighbor_name": "GÖKÇEBAĞ-BAĞLAR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50132,
+    "neighbor_name": "GÖKÇEBAĞ-KOÇPINAR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24942,
+    "neighbor_name": "GÖKÇEBAĞ-YENİ MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24944,
+    "neighbor_name": "AKDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24964,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50774,
+    "neighbor_name": "AKYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24936,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50767,
+    "neighbor_name": "BAYRAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50855,
+    "neighbor_name": "BEŞYOL KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24939,
+    "neighbor_name": "BOSTANCIK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49894,
+    "neighbor_name": "ÇAĞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24956,
+    "neighbor_name": "DEMİRKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24940,
+    "neighbor_name": "DOLUHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24949,
+    "neighbor_name": "EĞLENCE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24937,
+    "neighbor_name": "EKMEKÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49839,
+    "neighbor_name": "İNKAPI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24970,
+    "neighbor_name": "KALENDER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50959,
+    "neighbor_name": "KAVAKÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24966,
+    "neighbor_name": "KAYABOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24959,
+    "neighbor_name": "KEMERLİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24960,
+    "neighbor_name": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50915,
+    "neighbor_name": "KOÇLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50781,
+    "neighbor_name": "KONACIK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50744,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49557,
+    "neighbor_name": "MEŞELİDERE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24961,
+    "neighbor_name": "MEYDANDERE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50732,
+    "neighbor_name": "ORMANARDI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24971,
+    "neighbor_name": "PINARCA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49758,
+    "neighbor_name": "PINAROVA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24967,
+    "neighbor_name": "SAĞIRSU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50041,
+    "neighbor_name": "SAĞLARCA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49638,
+    "neighbor_name": "SARITEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24953,
+    "neighbor_name": "TUZKUYUSU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24954,
+    "neighbor_name": "YAĞMURTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 50715,
+    "neighbor_name": "YAZLICA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 24968,
+    "neighbor_name": "YERLİBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49972,
+    "neighbor_name": "YOKUŞBAĞLARI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 507,
+    "district_name": "SİİRT MERKEZ",
+    "neighbor_id": 49556,
+    "neighbor_name": "ZORKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50841,
+    "neighbor_name": "BAĞCILAR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25015,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50829,
+    "neighbor_name": "KIRTEPE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25017,
+    "neighbor_name": "KÜFRE MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25011,
+    "neighbor_name": "SİT MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25021,
+    "neighbor_name": "ADIGÜZEL KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49709,
+    "neighbor_name": "AKÇAYAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50777,
+    "neighbor_name": "AKGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50890,
+    "neighbor_name": "AKYOKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25022,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49412,
+    "neighbor_name": "BELENÇAY KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24983,
+    "neighbor_name": "BOYLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49662,
+    "neighbor_name": "CEVİZDALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24988,
+    "neighbor_name": "CEVİZLİK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24996,
+    "neighbor_name": "ÇELTİKYOLU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50888,
+    "neighbor_name": "ÇINARLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25023,
+    "neighbor_name": "DALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25002,
+    "neighbor_name": "DAMLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25003,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24997,
+    "neighbor_name": "DERİNÇAY KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49475,
+    "neighbor_name": "DİŞLİNAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49833,
+    "neighbor_name": "DOĞRUCA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24989,
+    "neighbor_name": "DURANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25014,
+    "neighbor_name": "ELMADALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25008,
+    "neighbor_name": "GÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50911,
+    "neighbor_name": "GÜMÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49483,
+    "neighbor_name": "HÜRMÜZ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50731,
+    "neighbor_name": "İKİZLER KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25013,
+    "neighbor_name": "İNCEKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50050,
+    "neighbor_name": "KALKANCIK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24990,
+    "neighbor_name": "KAPILI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24991,
+    "neighbor_name": "KARACA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24992,
+    "neighbor_name": "KASIMLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25016,
+    "neighbor_name": "KAYAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24985,
+    "neighbor_name": "KESMETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50754,
+    "neighbor_name": "KİRAZLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24986,
+    "neighbor_name": "KÖMÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25024,
+    "neighbor_name": "MADENKÖY"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50889,
+    "neighbor_name": "MEŞECİK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25018,
+    "neighbor_name": "NALLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25009,
+    "neighbor_name": "ORMANBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24987,
+    "neighbor_name": "ORMANLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50862,
+    "neighbor_name": "OTLUK KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25004,
+    "neighbor_name": "OYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25007,
+    "neighbor_name": "ÖZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24998,
+    "neighbor_name": "PİRİNÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50724,
+    "neighbor_name": "SARIDANA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25010,
+    "neighbor_name": "SIRÇALI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24993,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24994,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 50728,
+    "neighbor_name": "SULUDERE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24999,
+    "neighbor_name": "SULUYAZI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25005,
+    "neighbor_name": "TAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24984,
+    "neighbor_name": "TAŞYAKA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25000,
+    "neighbor_name": "TATLIPAYAM KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25020,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 49496,
+    "neighbor_name": "YALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 24995,
+    "neighbor_name": "YAMAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25006,
+    "neighbor_name": "YARIMTEPE KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25025,
+    "neighbor_name": "YAYLACI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25019,
+    "neighbor_name": "YAYLADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25001,
+    "neighbor_name": "YEDİKAPI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 509,
+    "district_name": "ŞİRVAN",
+    "neighbor_id": 25012,
+    "neighbor_name": "YOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24979,
+    "neighbor_name": "FAKİRULLAH MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24976,
+    "neighbor_name": "MÜCAHİT MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24980,
+    "neighbor_name": "SAYDANLAR MAH."
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24978,
+    "neighbor_name": "AKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24974,
+    "neighbor_name": "FERSAF KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24975,
+    "neighbor_name": "HATRANT KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24977,
+    "neighbor_name": "İKİZBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24981,
+    "neighbor_name": "SİNEP KÖYÜ"
+  },
+  {
+    "city_id": 39,
+    "city_name": "SİİRT",
+    "district_id": 508,
+    "district_name": "TİLLO",
+    "neighbor_id": 24982,
+    "neighbor_name": "TAŞBALTA KÖYÜ"
+  }
+]

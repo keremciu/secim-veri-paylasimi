@@ -1,0 +1,5554 @@
+[
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 743,
+    "neighbor_name": "AKYAYLA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 733,
+    "neighbor_name": "ALTINDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 744,
+    "neighbor_name": "ALTINTAS MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 49493,
+    "neighbor_name": "ARVAS MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 734,
+    "neighbor_name": "BAĞCILAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 742,
+    "neighbor_name": "CEVİZLİBELEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 746,
+    "neighbor_name": "ÇATBAYIR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 50934,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 747,
+    "neighbor_name": "ÇÖMLEKÇİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 736,
+    "neighbor_name": "ELMAYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 50013,
+    "neighbor_name": "FEKİYE TEYRAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 49414,
+    "neighbor_name": "GÜNEYYAMAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 741,
+    "neighbor_name": "İSLAM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 745,
+    "neighbor_name": "KAŞIKÇILAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 731,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 50914,
+    "neighbor_name": "ŞİŞLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 738,
+    "neighbor_name": "ULUBEYLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 732,
+    "neighbor_name": "ÜNLÜCE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 740,
+    "neighbor_name": "YAŞLIKAVAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 15,
+    "district_name": "BAHÇESARAY",
+    "neighbor_id": 739,
+    "neighbor_name": "YAYLAKONAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49798,
+    "neighbor_name": "AÇIKAĞIL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1066,
+    "neighbor_name": "AKÇALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1046,
+    "neighbor_name": "ALBAYRAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1085,
+    "neighbor_name": "AŞAĞIKÜME MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1089,
+    "neighbor_name": "AŞALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1083,
+    "neighbor_name": "ATLILAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1084,
+    "neighbor_name": "AYDEMİR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1067,
+    "neighbor_name": "AZIKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1042,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49907,
+    "neighbor_name": "BELENCİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1058,
+    "neighbor_name": "BEŞOCAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50061,
+    "neighbor_name": "BİLGEÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1090,
+    "neighbor_name": "BÖĞRÜPEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49479,
+    "neighbor_name": "BÖLEKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1059,
+    "neighbor_name": "BÜKLÜMDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1056,
+    "neighbor_name": "ÇAKIRDOĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1043,
+    "neighbor_name": "ÇALDIRAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1086,
+    "neighbor_name": "DEREİÇİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49537,
+    "neighbor_name": "DERİNGEÇİT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1047,
+    "neighbor_name": "EKECEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50876,
+    "neighbor_name": "EREK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50871,
+    "neighbor_name": "ERKONAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1048,
+    "neighbor_name": "ESENYAMAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1091,
+    "neighbor_name": "EŞMEPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50949,
+    "neighbor_name": "EVBAKAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1068,
+    "neighbor_name": "GEDİKBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49486,
+    "neighbor_name": "GELENLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1052,
+    "neighbor_name": "GÜLEÇLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1075,
+    "neighbor_name": "GÜROLUK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1053,
+    "neighbor_name": "GÜVENDİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1092,
+    "neighbor_name": "HAFİZİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1069,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1060,
+    "neighbor_name": "ILICAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50946,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1061,
+    "neighbor_name": "KAŞKOL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49895,
+    "neighbor_name": "KAVURGALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1076,
+    "neighbor_name": "KEÇİLİOBA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1062,
+    "neighbor_name": "KIZILCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1049,
+    "neighbor_name": "KOCAKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1071,
+    "neighbor_name": "KOÇDAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1070,
+    "neighbor_name": "KONUKSAYAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1077,
+    "neighbor_name": "KOVALIPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1064,
+    "neighbor_name": "KÖPRÜAĞZI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1078,
+    "neighbor_name": "MAHMUTABAT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1087,
+    "neighbor_name": "OĞULVEREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1079,
+    "neighbor_name": "ORTAYAZI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1065,
+    "neighbor_name": "ORTAYOL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1051,
+    "neighbor_name": "ÖMERDAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1044,
+    "neighbor_name": "ÖNCÜLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50945,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1045,
+    "neighbor_name": "ÖRENKALE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50957,
+    "neighbor_name": "ÖRMETAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1057,
+    "neighbor_name": "ÖZPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1072,
+    "neighbor_name": "SAÇAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1063,
+    "neighbor_name": "SALLIDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1080,
+    "neighbor_name": "SAVAŞKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49711,
+    "neighbor_name": "SUALTI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1050,
+    "neighbor_name": "TAHIL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1093,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50847,
+    "neighbor_name": "TINAZLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1073,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1088,
+    "neighbor_name": "YANAL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1074,
+    "neighbor_name": "YAVUZLAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1054,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1081,
+    "neighbor_name": "YOLMAÇAYIR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 49619,
+    "neighbor_name": "YUKARIDALLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1055,
+    "neighbor_name": "YUKARIDARICA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 1082,
+    "neighbor_name": "YUKARIDİKMEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 21,
+    "district_name": "BAŞKALE",
+    "neighbor_id": 50116,
+    "neighbor_name": "YURTTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 608,
+    "neighbor_name": "AKBAŞAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 629,
+    "neighbor_name": "ALAKAYA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 652,
+    "neighbor_name": "ALİKELLE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 618,
+    "neighbor_name": "ALTIYOL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 637,
+    "neighbor_name": "AŞAĞIÇANAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 585,
+    "neighbor_name": "AŞAĞIDİKME MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 630,
+    "neighbor_name": "AŞAĞIGÜLDEREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 636,
+    "neighbor_name": "AŞAĞIKUYUCAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 601,
+    "neighbor_name": "AŞAĞIMUTLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 620,
+    "neighbor_name": "AŞAĞIYANIKTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 646,
+    "neighbor_name": "AVCIBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 649,
+    "neighbor_name": "AYRANCILAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 609,
+    "neighbor_name": "BAŞEĞMEZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 621,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 650,
+    "neighbor_name": "BEYDOĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 615,
+    "neighbor_name": "BEZİRHANE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 586,
+    "neighbor_name": "BUĞULUKAYNAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 594,
+    "neighbor_name": "BURÇAKALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 622,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 593,
+    "neighbor_name": "ÇAYIRKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 599,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 588,
+    "neighbor_name": "DEMİRCİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 651,
+    "neighbor_name": "DİREKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 589,
+    "neighbor_name": "DOYUMALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 602,
+    "neighbor_name": "ERGİNLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 641,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 647,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 642,
+    "neighbor_name": "GÜLYOLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 631,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 603,
+    "neighbor_name": "HANGEDİĞİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 638,
+    "neighbor_name": "HANKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 600,
+    "neighbor_name": "İNCEALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 607,
+    "neighbor_name": "İSMAİLBABA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 595,
+    "neighbor_name": "KALKANDELEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 653,
+    "neighbor_name": "KARADULDA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 587,
+    "neighbor_name": "KAŞIM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 616,
+    "neighbor_name": "KILAVUZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 591,
+    "neighbor_name": "KİLİMLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 632,
+    "neighbor_name": "KOÇOVASI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 604,
+    "neighbor_name": "KURTOĞLAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 590,
+    "neighbor_name": "KUSKUNKIRAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 611,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 623,
+    "neighbor_name": "RECEP TAYYİP ERDOĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 654,
+    "neighbor_name": "SALAHANE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 624,
+    "neighbor_name": "SARIÇİMEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 605,
+    "neighbor_name": "SARIHARMAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 612,
+    "neighbor_name": "SELLİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 596,
+    "neighbor_name": "SERPMETAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 643,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 644,
+    "neighbor_name": "SUNGUR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 49710,
+    "neighbor_name": "ŞEHİT JANDARMA BİNBAŞI KIVANÇ CESUR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 633,
+    "neighbor_name": "TEKİNDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 634,
+    "neighbor_name": "TEMRENLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 614,
+    "neighbor_name": "TOPRAKSEVEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 645,
+    "neighbor_name": "UMUTTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 617,
+    "neighbor_name": "YAĞIBASAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 606,
+    "neighbor_name": "YASSITEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 639,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 628,
+    "neighbor_name": "YAYKILIÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 640,
+    "neighbor_name": "YENİYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 626,
+    "neighbor_name": "YUKARIÇANAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 625,
+    "neighbor_name": "YUKARIDİKME MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 619,
+    "neighbor_name": "YUKARIGÜLDEREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 613,
+    "neighbor_name": "YUKARIKUYUCAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 648,
+    "neighbor_name": "YUKARIMUTLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 597,
+    "neighbor_name": "YUKARISAĞMALLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 598,
+    "neighbor_name": "YUKARIYANIKTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 592,
+    "neighbor_name": "YUVACIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 635,
+    "neighbor_name": "YÜCELEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 12,
+    "district_name": "ÇALDIRAN",
+    "neighbor_id": 627,
+    "neighbor_name": "ZÜLFİBULAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 664,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 667,
+    "neighbor_name": "AĞAÇLIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 665,
+    "neighbor_name": "AKÇABÜK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 659,
+    "neighbor_name": "ALACAYAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 676,
+    "neighbor_name": "AŞAĞINARLICA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 666,
+    "neighbor_name": "ATLIHAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 668,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 677,
+    "neighbor_name": "BİLGİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 655,
+    "neighbor_name": "BOYUNPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 669,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 675,
+    "neighbor_name": "ÇILGA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 49522,
+    "neighbor_name": "DALBASTI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 685,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 682,
+    "neighbor_name": "DOKUZDAM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 678,
+    "neighbor_name": "ELİAÇIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 679,
+    "neighbor_name": "GÖRENTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 671,
+    "neighbor_name": "HACIOSMAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 670,
+    "neighbor_name": "IŞINLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 672,
+    "neighbor_name": "KAÇIT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 660,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 683,
+    "neighbor_name": "KONALGA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 661,
+    "neighbor_name": "KORULU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 680,
+    "neighbor_name": "NARLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 656,
+    "neighbor_name": "ONAĞIL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 684,
+    "neighbor_name": "ÖVECEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 662,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 657,
+    "neighbor_name": "SIRMALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 673,
+    "neighbor_name": "SÖZVEREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 50947,
+    "neighbor_name": "SUGELDİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 681,
+    "neighbor_name": "TEKNECİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 674,
+    "neighbor_name": "TOYGA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 663,
+    "neighbor_name": "UZUNTEKNE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 13,
+    "district_name": "ÇATAK",
+    "neighbor_id": 658,
+    "neighbor_name": "YUKARINARLICA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1094,
+    "neighbor_name": "AKIN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1095,
+    "neighbor_name": "ANDAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1098,
+    "neighbor_name": "AYAZPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1116,
+    "neighbor_name": "BAKACIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 50912,
+    "neighbor_name": "BAKIMLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1120,
+    "neighbor_name": "ÇAYIRBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1104,
+    "neighbor_name": "DİLKAYA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1096,
+    "neighbor_name": "DOĞANLAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1117,
+    "neighbor_name": "DÖNEMEÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1099,
+    "neighbor_name": "ELMALIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1100,
+    "neighbor_name": "EMİNPAŞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1115,
+    "neighbor_name": "ENGİNSU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1107,
+    "neighbor_name": "ERDEMKENT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1118,
+    "neighbor_name": "ERENKENT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1109,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1105,
+    "neighbor_name": "ESKİ CAMİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 50845,
+    "neighbor_name": "GÖLKAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1097,
+    "neighbor_name": "KAVURMA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 50961,
+    "neighbor_name": "KIYICAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1119,
+    "neighbor_name": "KÖKLÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1111,
+    "neighbor_name": "KÖPRÜLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1102,
+    "neighbor_name": "KÖŞKKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1110,
+    "neighbor_name": "KURUBAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1108,
+    "neighbor_name": "MÜLK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 50851,
+    "neighbor_name": "SELAHATTİN EYYUBİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1103,
+    "neighbor_name": "SÜPHAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1114,
+    "neighbor_name": "ŞABANİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1112,
+    "neighbor_name": "TAŞKONAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1106,
+    "neighbor_name": "YENİ CAMİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 22,
+    "district_name": "EDREMİT",
+    "neighbor_id": 1113,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49497,
+    "neighbor_name": "ABDALMEZRASI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 861,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 872,
+    "neighbor_name": "AĞAÇÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 819,
+    "neighbor_name": "AĞIRKAYA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 849,
+    "neighbor_name": "AKBAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 871,
+    "neighbor_name": "AKÇAYUVA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50948,
+    "neighbor_name": "AKSAKAL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 850,
+    "neighbor_name": "ALKANAT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 820,
+    "neighbor_name": "AŞAĞIAKÇAGEDİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50142,
+    "neighbor_name": "AŞAĞIÇÖKEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 885,
+    "neighbor_name": "AŞAĞIGÖZE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 865,
+    "neighbor_name": "AŞAĞIIŞIKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 843,
+    "neighbor_name": "AŞAĞIKOZLUCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 855,
+    "neighbor_name": "BAYRAMLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 810,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 839,
+    "neighbor_name": "BOZYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 827,
+    "neighbor_name": "BUCAKÖNÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49703,
+    "neighbor_name": "BULAMAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 873,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 884,
+    "neighbor_name": "ÇAKIRBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 864,
+    "neighbor_name": "ÇATAKDİBİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 838,
+    "neighbor_name": "ÇATALTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 848,
+    "neighbor_name": "ÇELEBİBAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 826,
+    "neighbor_name": "ÇETİNTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 880,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 818,
+    "neighbor_name": "ÇİMEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 817,
+    "neighbor_name": "ÇOBANDÜZÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 842,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 866,
+    "neighbor_name": "DELİÇAY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49779,
+    "neighbor_name": "DEREKENT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 881,
+    "neighbor_name": "DERİMEVİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 840,
+    "neighbor_name": "DİNLENCE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 833,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 856,
+    "neighbor_name": "DOLUCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 828,
+    "neighbor_name": "DURACAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49419,
+    "neighbor_name": "DÜVENCİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 802,
+    "neighbor_name": "EKİCİLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 821,
+    "neighbor_name": "ERGÜCÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 851,
+    "neighbor_name": "EVBEYLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 834,
+    "neighbor_name": "GEDİKDİBİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 882,
+    "neighbor_name": "GERGİLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50936,
+    "neighbor_name": "GÖKOĞLAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 811,
+    "neighbor_name": "GÖLAĞZI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 829,
+    "neighbor_name": "GÖRÜŞLÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 844,
+    "neighbor_name": "GÖZÜTOK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 835,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 862,
+    "neighbor_name": "GÜMÜŞOLUK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 822,
+    "neighbor_name": "HACIKAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 877,
+    "neighbor_name": "HASANABDAL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 803,
+    "neighbor_name": "HAYDARBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 830,
+    "neighbor_name": "HOCAALİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49821,
+    "neighbor_name": "İKİZÇALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49639,
+    "neighbor_name": "İŞBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 857,
+    "neighbor_name": "KADİRASKER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 858,
+    "neighbor_name": "KARATAVUK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 859,
+    "neighbor_name": "KARDOĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 804,
+    "neighbor_name": "KARLIYAYLA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 805,
+    "neighbor_name": "KASIMBAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49674,
+    "neighbor_name": "KAYABOYUN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 845,
+    "neighbor_name": "KEKİKSIRTI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 883,
+    "neighbor_name": "KEKLİKOVA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 836,
+    "neighbor_name": "KIRKDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 874,
+    "neighbor_name": "KIRKPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 823,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50943,
+    "neighbor_name": "KIZILÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 886,
+    "neighbor_name": "KOCAPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 846,
+    "neighbor_name": "KOÇKÖPRÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 49448,
+    "neighbor_name": "KÖYCÜK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 806,
+    "neighbor_name": "LATİFİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 847,
+    "neighbor_name": "MAĞARA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 852,
+    "neighbor_name": "NİŞANCI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 878,
+    "neighbor_name": "ORTAYAYLA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 887,
+    "neighbor_name": "OYALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 854,
+    "neighbor_name": "ÖRENE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 812,
+    "neighbor_name": "PAYKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 813,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50084,
+    "neighbor_name": "SABANBÜKEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 875,
+    "neighbor_name": "SAHİL KENT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 867,
+    "neighbor_name": "SALİHİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 888,
+    "neighbor_name": "SALMANAĞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 876,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 816,
+    "neighbor_name": "ŞEHİRPAZAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50980,
+    "neighbor_name": "ŞEREFLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 868,
+    "neighbor_name": "TAŞEVLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 869,
+    "neighbor_name": "TAŞKAPI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 879,
+    "neighbor_name": "TAŞLIÇAY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 814,
+    "neighbor_name": "TEKEVLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 831,
+    "neighbor_name": "TEKLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 815,
+    "neighbor_name": "TOPRAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 860,
+    "neighbor_name": "ULUPAMİR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 870,
+    "neighbor_name": "UNCULAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 863,
+    "neighbor_name": "VANYOLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 807,
+    "neighbor_name": "YALINDAM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 832,
+    "neighbor_name": "YANKITEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 837,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 853,
+    "neighbor_name": "YETİŞEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 841,
+    "neighbor_name": "YILANLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 824,
+    "neighbor_name": "YOLDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 809,
+    "neighbor_name": "YÖRELİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 808,
+    "neighbor_name": "YUKARIAKÇAGEDİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 825,
+    "neighbor_name": "YUKARIIŞIKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 17,
+    "district_name": "ERCİŞ",
+    "neighbor_id": 50910,
+    "neighbor_name": "YÜNÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 918,
+    "neighbor_name": "ABALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 889,
+    "neighbor_name": "ALADÜZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 890,
+    "neighbor_name": "ALTINSAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 901,
+    "neighbor_name": "ANAKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 891,
+    "neighbor_name": "ATALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 910,
+    "neighbor_name": "AYDINOCAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 898,
+    "neighbor_name": "BAĞLAMA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 902,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 50118,
+    "neighbor_name": "BARIŞIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 922,
+    "neighbor_name": "DAĞYÖRE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 50971,
+    "neighbor_name": "DALDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 923,
+    "neighbor_name": "DEĞİRMİTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 50884,
+    "neighbor_name": "DEREAĞZI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 894,
+    "neighbor_name": "DİLMETAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 919,
+    "neighbor_name": "DOKUZAĞAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 899,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 895,
+    "neighbor_name": "GÖRÜNDÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 911,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 49928,
+    "neighbor_name": "GÜZELKONAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 912,
+    "neighbor_name": "HASBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 913,
+    "neighbor_name": "HİŞET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 908,
+    "neighbor_name": "İKİZLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 909,
+    "neighbor_name": "İNKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 914,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 896,
+    "neighbor_name": "KAYALAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 903,
+    "neighbor_name": "KAZANÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 920,
+    "neighbor_name": "KIZILTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 915,
+    "neighbor_name": "KOÇAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 906,
+    "neighbor_name": "KURULTU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 916,
+    "neighbor_name": "KUŞLUK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 904,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 900,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 917,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 892,
+    "neighbor_name": "TİMAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 924,
+    "neighbor_name": "TÖRELİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 897,
+    "neighbor_name": "UĞURVEREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 49832,
+    "neighbor_name": "UYSAL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 49663,
+    "neighbor_name": "YANIKÇAY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 921,
+    "neighbor_name": "YEMİŞLİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 905,
+    "neighbor_name": "YOLDÖNDÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 18,
+    "district_name": "GEVAŞ",
+    "neighbor_id": 907,
+    "neighbor_name": "YUVA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 798,
+    "neighbor_name": "AKBULUT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49743,
+    "neighbor_name": "AKDOĞU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 753,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 754,
+    "neighbor_name": "ALNIAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 784,
+    "neighbor_name": "ARINDI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 794,
+    "neighbor_name": "AŞAĞIKAYMAZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 748,
+    "neighbor_name": "BAĞRIYANIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50940,
+    "neighbor_name": "BEŞBUDAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 777,
+    "neighbor_name": "BOZYİĞİT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 768,
+    "neighbor_name": "BÖLMEÇALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49429,
+    "neighbor_name": "BÜKEÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 778,
+    "neighbor_name": "CEVİZALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 790,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 776,
+    "neighbor_name": "ÇAKINLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 781,
+    "neighbor_name": "ÇATAKDİBİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 782,
+    "neighbor_name": "ÇAVUŞTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 771,
+    "neighbor_name": "ÇEPKENLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 760,
+    "neighbor_name": "ÇÖREKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50014,
+    "neighbor_name": "DAĞSEVEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 772,
+    "neighbor_name": "DEĞİRMENDÜZÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50993,
+    "neighbor_name": "DİKBIYIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50906,
+    "neighbor_name": "DOLAYLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49986,
+    "neighbor_name": "DOLUÇIKIN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 774,
+    "neighbor_name": "ELAÇMAZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50039,
+    "neighbor_name": "ERKALDI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49984,
+    "neighbor_name": "GEÇERLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49904,
+    "neighbor_name": "GEZİYURT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50892,
+    "neighbor_name": "GİYİMLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 755,
+    "neighbor_name": "GÖLARDI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 799,
+    "neighbor_name": "GÜLEÇLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 795,
+    "neighbor_name": "GÜNBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 757,
+    "neighbor_name": "HACIKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50150,
+    "neighbor_name": "HOŞAB MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 779,
+    "neighbor_name": "IŞIKPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50929,
+    "neighbor_name": "KALKANLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49951,
+    "neighbor_name": "KAPÇIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50899,
+    "neighbor_name": "KARAKOÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50907,
+    "neighbor_name": "KILIÇTUTAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 775,
+    "neighbor_name": "KIRKGEÇİT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 750,
+    "neighbor_name": "KOÇGÜDEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 792,
+    "neighbor_name": "KOYUNYATAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 763,
+    "neighbor_name": "KUŞDAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 793,
+    "neighbor_name": "MOLLAHÜSEYİN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49751,
+    "neighbor_name": "MURATALDI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 766,
+    "neighbor_name": "OĞULDAMI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 765,
+    "neighbor_name": "ONGUN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 785,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 751,
+    "neighbor_name": "OTBİÇER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50883,
+    "neighbor_name": "ÖRMELİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 764,
+    "neighbor_name": "ÖVEÇLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 783,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 756,
+    "neighbor_name": "PARMAKKAPI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 773,
+    "neighbor_name": "SAKALAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 759,
+    "neighbor_name": "SAPAKONAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 749,
+    "neighbor_name": "SAVACIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 752,
+    "neighbor_name": "SEVİNDİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49753,
+    "neighbor_name": "SICAKSU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50969,
+    "neighbor_name": "SÜTLÜCE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 800,
+    "neighbor_name": "TAŞDÖNDÜREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49835,
+    "neighbor_name": "TAŞLIYAZI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49909,
+    "neighbor_name": "TEPEGÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 769,
+    "neighbor_name": "TOPÇUDEĞİRMENİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 796,
+    "neighbor_name": "TOPSAKAL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49571,
+    "neighbor_name": "TOPYILDIZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 787,
+    "neighbor_name": "TUTAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 788,
+    "neighbor_name": "TUTMAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50986,
+    "neighbor_name": "UMUT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 801,
+    "neighbor_name": "UZUNGEDİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 761,
+    "neighbor_name": "ÜÇDOĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 786,
+    "neighbor_name": "ÜÇGEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 780,
+    "neighbor_name": "YALINCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 767,
+    "neighbor_name": "YARAMIŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 791,
+    "neighbor_name": "YATAĞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49702,
+    "neighbor_name": "YEDİSALKIM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 789,
+    "neighbor_name": "YOLAŞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 770,
+    "neighbor_name": "YOLDÜŞTÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 797,
+    "neighbor_name": "YUKARIKAYMAZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 50900,
+    "neighbor_name": "YURTBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 16,
+    "district_name": "GÜRPINAR",
+    "neighbor_id": 49701,
+    "neighbor_name": "ZERNEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1002,
+    "neighbor_name": "AĞZIKARA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1001,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1031,
+    "neighbor_name": "ARITOPRAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1008,
+    "neighbor_name": "AŞAĞIÇİTLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 993,
+    "neighbor_name": "AŞAĞIGÖLALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1040,
+    "neighbor_name": "BAKLATEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1009,
+    "neighbor_name": "BAKRAÇLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1003,
+    "neighbor_name": "BEŞÇATAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1023,
+    "neighbor_name": "BOSTANİÇİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1034,
+    "neighbor_name": "ÇALIMLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1035,
+    "neighbor_name": "DEĞİRMENARKI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 995,
+    "neighbor_name": "DEĞİRMENKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 994,
+    "neighbor_name": "DEREÜSTÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1014,
+    "neighbor_name": "DİBEKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1025,
+    "neighbor_name": "ERÇEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1015,
+    "neighbor_name": "ESENLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 997,
+    "neighbor_name": "GÖVELEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1010,
+    "neighbor_name": "HACIBEKİR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1036,
+    "neighbor_name": "ILIKAYNAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1032,
+    "neighbor_name": "IRGAT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1006,
+    "neighbor_name": "KARAGÜNDÜZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 999,
+    "neighbor_name": "KARAKOÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1033,
+    "neighbor_name": "KARPUZALANI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1007,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1016,
+    "neighbor_name": "KAVUNCU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1026,
+    "neighbor_name": "KAYMAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1027,
+    "neighbor_name": "KEVENLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1000,
+    "neighbor_name": "KIRATLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1011,
+    "neighbor_name": "KÖŞEBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1028,
+    "neighbor_name": "ORTANCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1004,
+    "neighbor_name": "SARMAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1022,
+    "neighbor_name": "SEYİT FEHİM ARVASİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1019,
+    "neighbor_name": "YALINAĞAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1005,
+    "neighbor_name": "YATIKSIRT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1012,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1030,
+    "neighbor_name": "YUKARIGÖLALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 992,
+    "neighbor_name": "YUKARIGÜNEYCE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1017,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1039,
+    "neighbor_name": "BAHÇIVAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1024,
+    "neighbor_name": "BUZHANE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1041,
+    "neighbor_name": "CEVDET PAŞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 996,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1020,
+    "neighbor_name": "HAFİZİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1021,
+    "neighbor_name": "HALİLAĞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 998,
+    "neighbor_name": "HATUNİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1018,
+    "neighbor_name": "SELİMBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1037,
+    "neighbor_name": "SERHAT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1013,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1029,
+    "neighbor_name": "VALİ MİTHAT BEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 20,
+    "district_name": "İPEKYOLU",
+    "neighbor_id": 1038,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 523,
+    "neighbor_name": "AÇIKYOL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 533,
+    "neighbor_name": "ADAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 522,
+    "neighbor_name": "AKBULAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 50117,
+    "neighbor_name": "AKÇAÇAY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 558,
+    "neighbor_name": "ALKASNAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 524,
+    "neighbor_name": "AŞAĞIARGIT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 525,
+    "neighbor_name": "BABACAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 534,
+    "neighbor_name": "BALAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 551,
+    "neighbor_name": "BEŞPARMAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 540,
+    "neighbor_name": "BEYDAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 527,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 528,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 547,
+    "neighbor_name": "DAĞÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 541,
+    "neighbor_name": "DEVETAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 559,
+    "neighbor_name": "DOĞANGÜN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 526,
+    "neighbor_name": "DÜRÜKKAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 49413,
+    "neighbor_name": "ERİŞEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 552,
+    "neighbor_name": "ESENKOÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 514,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 515,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 553,
+    "neighbor_name": "GÖNDERME MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 548,
+    "neighbor_name": "GÖRECEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 529,
+    "neighbor_name": "GÜLLÜÇİMEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 535,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 516,
+    "neighbor_name": "GÜMÜŞTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 549,
+    "neighbor_name": "KANDAHAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 542,
+    "neighbor_name": "KARAHAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 554,
+    "neighbor_name": "KARAOĞLAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 555,
+    "neighbor_name": "KEÇİKIRAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 543,
+    "neighbor_name": "KEMERKÖPRÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 556,
+    "neighbor_name": "KOCASABAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 544,
+    "neighbor_name": "KÖŞK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 557,
+    "neighbor_name": "KUŞÇU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 530,
+    "neighbor_name": "OTLAKBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 531,
+    "neighbor_name": "OVAPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 517,
+    "neighbor_name": "SARIMEMET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 518,
+    "neighbor_name": "SÜRÜYOLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 521,
+    "neighbor_name": "ŞEHİTMEHMETBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 532,
+    "neighbor_name": "TANSU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 545,
+    "neighbor_name": "TOPUZARPA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 536,
+    "neighbor_name": "ULUŞAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 520,
+    "neighbor_name": "ÜNSELİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 519,
+    "neighbor_name": "YAKINCAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 550,
+    "neighbor_name": "YALINDÜZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 537,
+    "neighbor_name": "YAVUZSELİM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 538,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 546,
+    "neighbor_name": "YUKARIARGIT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 10,
+    "district_name": "MURADİYE",
+    "neighbor_id": 539,
+    "neighbor_name": "YUMAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 702,
+    "neighbor_name": "AKSORGUÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 716,
+    "neighbor_name": "ALTINBOĞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 710,
+    "neighbor_name": "AŞAĞIAKÇAGÜL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 692,
+    "neighbor_name": "AŞAĞIBALÇIKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 723,
+    "neighbor_name": "AŞAĞIKOÇKIRAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 698,
+    "neighbor_name": "AŞAĞIMOLLAHASAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 686,
+    "neighbor_name": "AŞAĞITULGALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 697,
+    "neighbor_name": "AŞAĞIYORGANLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 694,
+    "neighbor_name": "BAĞRIAÇIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 49627,
+    "neighbor_name": "BODURAĞAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 730,
+    "neighbor_name": "BOĞAZKESEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 717,
+    "neighbor_name": "BOYALDI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 711,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 722,
+    "neighbor_name": "ÇAMURLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 715,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 690,
+    "neighbor_name": "ÇIRAKKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 691,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 695,
+    "neighbor_name": "DAĞDEVİREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50998,
+    "neighbor_name": "DAMLACIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 724,
+    "neighbor_name": "DORUTAY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 703,
+    "neighbor_name": "DÖNERDERE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 712,
+    "neighbor_name": "EĞRİBELEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 718,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 49607,
+    "neighbor_name": "ESKİ EMEK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 719,
+    "neighbor_name": "GÖZDEĞMEZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 704,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 49892,
+    "neighbor_name": "GÜNYÜZLÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50933,
+    "neighbor_name": "HACIALİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 49697,
+    "neighbor_name": "HACIKIŞLAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 713,
+    "neighbor_name": "HAZİNE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 709,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50967,
+    "neighbor_name": "KALECİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 720,
+    "neighbor_name": "KARGALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 725,
+    "neighbor_name": "KARLIYAMAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 726,
+    "neighbor_name": "KAŞIKARA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 705,
+    "neighbor_name": "KIRKÇALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 687,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50981,
+    "neighbor_name": "MEHMETALAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50008,
+    "neighbor_name": "MOLLATOPUZ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50881,
+    "neighbor_name": "OYMAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 707,
+    "neighbor_name": "SAĞMALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 706,
+    "neighbor_name": "SARIKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 699,
+    "neighbor_name": "SAVATLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 714,
+    "neighbor_name": "SEYDİBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 700,
+    "neighbor_name": "SUGEÇER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 693,
+    "neighbor_name": "ŞEHİTTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 701,
+    "neighbor_name": "ŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 721,
+    "neighbor_name": "TEPEDAM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 708,
+    "neighbor_name": "YARIMKAYA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50878,
+    "neighbor_name": "YAVUZLAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 688,
+    "neighbor_name": "YUKARIAYAZCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 50123,
+    "neighbor_name": "YUKARIBALÇIKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 729,
+    "neighbor_name": "YUKARIÇAVDARLIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 727,
+    "neighbor_name": "YUKARIMOLLAHASAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 696,
+    "neighbor_name": "YUKARITULGALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 728,
+    "neighbor_name": "YUKARIYORGANLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 689,
+    "neighbor_name": "YUMRUKLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 14,
+    "district_name": "ÖZALP",
+    "neighbor_id": 49778,
+    "neighbor_name": "YÜNKUŞAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 580,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 581,
+    "neighbor_name": "BAKIŞIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 561,
+    "neighbor_name": "BALTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 567,
+    "neighbor_name": "BEYARSLAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 49997,
+    "neighbor_name": "ÇAKMAKKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 573,
+    "neighbor_name": "ÇARTAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 571,
+    "neighbor_name": "ÇAYBAĞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 574,
+    "neighbor_name": "DEĞİRMİGÖL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 575,
+    "neighbor_name": "DOLUTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 582,
+    "neighbor_name": "FERİTMELEN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 562,
+    "neighbor_name": "KAPIKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 576,
+    "neighbor_name": "KARAHİSAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 50954,
+    "neighbor_name": "KARGALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 568,
+    "neighbor_name": "KAZIMPAŞA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 583,
+    "neighbor_name": "KAZLIGÖL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 578,
+    "neighbor_name": "KEÇİKAYASI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 577,
+    "neighbor_name": "KEKİKDÜZÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 569,
+    "neighbor_name": "KEPİR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 563,
+    "neighbor_name": "KOÇBAŞI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 564,
+    "neighbor_name": "KURUCAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 565,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 566,
+    "neighbor_name": "ÖRENBURÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 560,
+    "neighbor_name": "SIRIMLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 572,
+    "neighbor_name": "TURANKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 584,
+    "neighbor_name": "YAMANYURT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 579,
+    "neighbor_name": "YEŞİLAĞAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 11,
+    "district_name": "SARAY",
+    "neighbor_id": 570,
+    "neighbor_name": "ZİNCİRKIRAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 964,
+    "neighbor_name": "ABDURRAHMAN GAZİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 983,
+    "neighbor_name": "ADIGÜZEL MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 973,
+    "neighbor_name": "AKÇAÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 980,
+    "neighbor_name": "AKÇİFT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 972,
+    "neighbor_name": "AKKÖPRÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 989,
+    "neighbor_name": "ALABAYIR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 948,
+    "neighbor_name": "ALAKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 949,
+    "neighbor_name": "ALTINTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 937,
+    "neighbor_name": "ARISU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 945,
+    "neighbor_name": "AŞIT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 942,
+    "neighbor_name": "ATMACA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 49915,
+    "neighbor_name": "AYANIS MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 990,
+    "neighbor_name": "BAĞDAŞAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 981,
+    "neighbor_name": "BARDAKÇI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 961,
+    "neighbor_name": "BEYÜZÜMÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 49741,
+    "neighbor_name": "CANİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 936,
+    "neighbor_name": "ÇAKIRBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 966,
+    "neighbor_name": "ÇİTÖREN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 932,
+    "neighbor_name": "ÇOBANOĞLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 927,
+    "neighbor_name": "ÇOLPAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 978,
+    "neighbor_name": "ÇOMAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 928,
+    "neighbor_name": "DAĞÖNÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 962,
+    "neighbor_name": "DEĞİRMENÖZÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 982,
+    "neighbor_name": "DEREBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 974,
+    "neighbor_name": "DİBEKDÜZÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 956,
+    "neighbor_name": "DİLİMLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 957,
+    "neighbor_name": "ERMİŞLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 946,
+    "neighbor_name": "ESENPINAR MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 940,
+    "neighbor_name": "GEDELOVA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 925,
+    "neighbor_name": "GÖLLÜ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 943,
+    "neighbor_name": "GÖLYAZI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 941,
+    "neighbor_name": "GÜLSÜNLER MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 958,
+    "neighbor_name": "GÜVENÇLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 976,
+    "neighbor_name": "HALKALI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 938,
+    "neighbor_name": "HIDIRKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 955,
+    "neighbor_name": "İSKELE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 975,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 991,
+    "neighbor_name": "KALECİK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 963,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 951,
+    "neighbor_name": "KASIMOĞLU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 968,
+    "neighbor_name": "KELLE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 959,
+    "neighbor_name": "KOÇKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 933,
+    "neighbor_name": "KOLSATAN MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 934,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 939,
+    "neighbor_name": "KUMLUCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 960,
+    "neighbor_name": "MEYDANCIK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 935,
+    "neighbor_name": "MOLLAKASIM MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 931,
+    "neighbor_name": "OCAKLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 952,
+    "neighbor_name": "OTLUCA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 954,
+    "neighbor_name": "ÖZKAYNAK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 965,
+    "neighbor_name": "ÖZYURT MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 986,
+    "neighbor_name": "PİRGARİP MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 926,
+    "neighbor_name": "SAĞLAMTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 953,
+    "neighbor_name": "SATIBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 977,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 985,
+    "neighbor_name": "ŞAHGELDİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 971,
+    "neighbor_name": "ŞEMSİBEY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 969,
+    "neighbor_name": "TABANLI MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 929,
+    "neighbor_name": "TEVEKLİ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 979,
+    "neighbor_name": "TOPAKTAŞ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 987,
+    "neighbor_name": "YALNIZAĞAÇ MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 947,
+    "neighbor_name": "YAYLIYAKA MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 970,
+    "neighbor_name": "YEMLİCE MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 944,
+    "neighbor_name": "YENİKÖŞK MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 988,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 930,
+    "neighbor_name": "YEŞİLSU MAH."
+  },
+  {
+    "city_id": 2,
+    "city_name": "VAN",
+    "district_id": 19,
+    "district_name": "TUŞBA",
+    "neighbor_id": 984,
+    "neighbor_name": "YUMRUTEPE MAH."
+  }
+]

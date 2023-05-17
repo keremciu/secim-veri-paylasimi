@@ -1,0 +1,6178 @@
+[
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24694,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24724,
+    "neighbor_name": "ALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24708,
+    "neighbor_name": "AMBARGÜRGEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24719,
+    "neighbor_name": "CEYHANLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24692,
+    "neighbor_name": "ÇALDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24720,
+    "neighbor_name": "ÇAMALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24717,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24687,
+    "neighbor_name": "ÇAVDAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24700,
+    "neighbor_name": "ÇAYIRALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24718,
+    "neighbor_name": "ÇÖKEK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24701,
+    "neighbor_name": "ÇUKURKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24684,
+    "neighbor_name": "DAĞYOLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24702,
+    "neighbor_name": "DAMYERİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24688,
+    "neighbor_name": "DÜĞENCİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24709,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24725,
+    "neighbor_name": "GEDİKLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24695,
+    "neighbor_name": "GÖKÇEBAYIR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24721,
+    "neighbor_name": "GÜRGENLİYATAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24722,
+    "neighbor_name": "HALİLUŞAĞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24685,
+    "neighbor_name": "KARAÇAL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24682,
+    "neighbor_name": "KARGI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24703,
+    "neighbor_name": "KEMİKGERİŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24690,
+    "neighbor_name": "KETENDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24696,
+    "neighbor_name": "KIZILELMA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24715,
+    "neighbor_name": "KOÇCUVAZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24689,
+    "neighbor_name": "KURTBOĞAZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24704,
+    "neighbor_name": "KUŞÇULU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24716,
+    "neighbor_name": "KÜLEKÇİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24697,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24710,
+    "neighbor_name": "MEYVALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24698,
+    "neighbor_name": "MURATLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24705,
+    "neighbor_name": "ORMANCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24683,
+    "neighbor_name": "ORTABÖLME MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24711,
+    "neighbor_name": "SALMAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24712,
+    "neighbor_name": "SEFERLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24713,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24693,
+    "neighbor_name": "ŞAHİNKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24686,
+    "neighbor_name": "TUZAKKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24699,
+    "neighbor_name": "YAZLIKBELEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24706,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24691,
+    "neighbor_name": "YEŞİLGÜNEYCİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24723,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24707,
+    "neighbor_name": "YOLBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 501,
+    "district_name": "AKKUŞ",
+    "neighbor_id": 24714,
+    "neighbor_name": "YUKARIDÜĞENCİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24401,
+    "neighbor_name": "AKÇATEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24446,
+    "neighbor_name": "AKKİSE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24409,
+    "neighbor_name": "AKYAZI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24423,
+    "neighbor_name": "ALEMBEY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24439,
+    "neighbor_name": "ALINCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24417,
+    "neighbor_name": "ALİSAYVAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24416,
+    "neighbor_name": "ALTUNYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24387,
+    "neighbor_name": "ARPAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24394,
+    "neighbor_name": "ARTIKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24395,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24393,
+    "neighbor_name": "AYDINLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24388,
+    "neighbor_name": "AZİZİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24415,
+    "neighbor_name": "BAHARİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24470,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24458,
+    "neighbor_name": "BAYADI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24431,
+    "neighbor_name": "BAYRAMLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24452,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24447,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24402,
+    "neighbor_name": "BURHANETTİNKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24440,
+    "neighbor_name": "CUMHURİYET (KÖY) MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24410,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24456,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24465,
+    "neighbor_name": "DEDELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24453,
+    "neighbor_name": "DELİKKAYA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24381,
+    "neighbor_name": "DİKENCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24464,
+    "neighbor_name": "DURUGÖL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24426,
+    "neighbor_name": "DÜZKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24389,
+    "neighbor_name": "DÜZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24427,
+    "neighbor_name": "EMEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24454,
+    "neighbor_name": "ERENLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24418,
+    "neighbor_name": "ESKİPAZAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24466,
+    "neighbor_name": "EYÜPLÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24382,
+    "neighbor_name": "GERCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24462,
+    "neighbor_name": "GÖKÖMER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24411,
+    "neighbor_name": "GÜMÜŞKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24448,
+    "neighbor_name": "GÜNÖREN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24396,
+    "neighbor_name": "GÜZELYALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24412,
+    "neighbor_name": "GÜZELYALI (UZUNİSA) MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24380,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24403,
+    "neighbor_name": "HATİPLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24428,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24390,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24391,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24433,
+    "neighbor_name": "KARACAÖMER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24397,
+    "neighbor_name": "KARAOLUK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24441,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24404,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24434,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24442,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24443,
+    "neighbor_name": "KISACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24419,
+    "neighbor_name": "KIZILHİSAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24420,
+    "neighbor_name": "KİRAZLİMANI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24461,
+    "neighbor_name": "KOVANCI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24398,
+    "neighbor_name": "KÖKENLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24383,
+    "neighbor_name": "KUMBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24405,
+    "neighbor_name": "KURTULMUŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24467,
+    "neighbor_name": "KUYLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24468,
+    "neighbor_name": "MUBAREK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24399,
+    "neighbor_name": "NİZAMETTİN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24449,
+    "neighbor_name": "OĞMACA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24432,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24429,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24400,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24414,
+    "neighbor_name": "ÖCELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24438,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24386,
+    "neighbor_name": "ÖVÜNDÜK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24413,
+    "neighbor_name": "PELİTLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24463,
+    "neighbor_name": "SAĞIRLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24421,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24384,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24444,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24445,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24460,
+    "neighbor_name": "ŞAHİNCİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24457,
+    "neighbor_name": "ŞARKİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24408,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24424,
+    "neighbor_name": "ŞENOCAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24451,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24435,
+    "neighbor_name": "TAŞBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24450,
+    "neighbor_name": "TERZİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24430,
+    "neighbor_name": "TEYNELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24436,
+    "neighbor_name": "TOPLUCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24379,
+    "neighbor_name": "UZUNİSA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24422,
+    "neighbor_name": "UZUNMUSA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24392,
+    "neighbor_name": "YAĞIZLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24406,
+    "neighbor_name": "YARAŞLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24469,
+    "neighbor_name": "YEMİŞLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24455,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24459,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24437,
+    "neighbor_name": "YILDIZLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24407,
+    "neighbor_name": "YUKARITEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24425,
+    "neighbor_name": "ZAFERİMİLLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 494,
+    "district_name": "ALTINORDU",
+    "neighbor_id": 24385,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24553,
+    "neighbor_name": "ALACALAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24554,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24545,
+    "neighbor_name": "BEŞTAM MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24543,
+    "neighbor_name": "ÇAKIRLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24544,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24547,
+    "neighbor_name": "ESENLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24557,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24546,
+    "neighbor_name": "HİSARCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24539,
+    "neighbor_name": "KARAMANLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24540,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24548,
+    "neighbor_name": "KOYUNCULU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24549,
+    "neighbor_name": "KUTLULAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24550,
+    "neighbor_name": "KÜÇÜKYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24538,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24551,
+    "neighbor_name": "PELİTÖZÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24542,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24541,
+    "neighbor_name": "SARIYAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24558,
+    "neighbor_name": "SEFALIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24555,
+    "neighbor_name": "TOYGAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24552,
+    "neighbor_name": "UZUNDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 498,
+    "district_name": "AYBASTI",
+    "neighbor_id": 24556,
+    "neighbor_name": "ZAFERİMİLLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24817,
+    "neighbor_name": "AKKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24803,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24818,
+    "neighbor_name": "BUDAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24809,
+    "neighbor_name": "BURHAN GÜNEYİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24807,
+    "neighbor_name": "ÇAVUŞBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24804,
+    "neighbor_name": "DANIŞMAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24811,
+    "neighbor_name": "EDİRLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24797,
+    "neighbor_name": "GİDEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24810,
+    "neighbor_name": "GÜMÜŞLÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24796,
+    "neighbor_name": "HİSARBEY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24798,
+    "neighbor_name": "KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24799,
+    "neighbor_name": "KESTANEYOKUŞU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24808,
+    "neighbor_name": "KOCAMAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24805,
+    "neighbor_name": "ÖRMELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24800,
+    "neighbor_name": "SAKARGERİŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24812,
+    "neighbor_name": "SARIYAKUP MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24815,
+    "neighbor_name": "SÖKEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24814,
+    "neighbor_name": "SUCUALİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24801,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24816,
+    "neighbor_name": "TEPELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24802,
+    "neighbor_name": "UZUNALİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 24806,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 504,
+    "district_name": "ÇAMAŞ",
+    "neighbor_id": 50755,
+    "neighbor_name": "YEŞİLVADİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24248,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24260,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24261,
+    "neighbor_name": "ELMAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24262,
+    "neighbor_name": "GÖLLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24255,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24256,
+    "neighbor_name": "GÜNEYCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24243,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24257,
+    "neighbor_name": "HAŞAL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24244,
+    "neighbor_name": "HATİPLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24259,
+    "neighbor_name": "İNCİRLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24249,
+    "neighbor_name": "KARAHAMZA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24251,
+    "neighbor_name": "KARAHASAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24250,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24252,
+    "neighbor_name": "KAYATEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24245,
+    "neighbor_name": "KEÇİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24240,
+    "neighbor_name": "KIRAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24253,
+    "neighbor_name": "MADENKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24246,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24241,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24242,
+    "neighbor_name": "SAYACATÜRK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24254,
+    "neighbor_name": "ŞİRİNKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24247,
+    "neighbor_name": "TERİMLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 491,
+    "district_name": "ÇATALPINAR",
+    "neighbor_id": 24258,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24831,
+    "neighbor_name": "AKBABA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24839,
+    "neighbor_name": "AŞIKLI ÇAKILLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24843,
+    "neighbor_name": "BORAS MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24840,
+    "neighbor_name": "CEMALLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24824,
+    "neighbor_name": "CEVİZLİYATAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24822,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24842,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24821,
+    "neighbor_name": "ÇAYIR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24820,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24823,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24832,
+    "neighbor_name": "EĞRİBEL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24833,
+    "neighbor_name": "GÖKSU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24834,
+    "neighbor_name": "GÜRCEK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24844,
+    "neighbor_name": "HACIALİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24830,
+    "neighbor_name": "İÇERİBÜKÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24841,
+    "neighbor_name": "İLKÜVEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24826,
+    "neighbor_name": "KAPILI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24835,
+    "neighbor_name": "KARGALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24827,
+    "neighbor_name": "KÖKLÜK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24836,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24837,
+    "neighbor_name": "KUŞLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24828,
+    "neighbor_name": "MOLLALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24825,
+    "neighbor_name": "NAMAZLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24829,
+    "neighbor_name": "TAŞKESİĞİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24819,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 505,
+    "district_name": "ÇAYBAŞI",
+    "neighbor_id": 24838,
+    "neighbor_name": "YENİCUMA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24862,
+    "neighbor_name": "AHMETLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24855,
+    "neighbor_name": "ARPALIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24933,
+    "neighbor_name": "ASLANCAMİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24883,
+    "neighbor_name": "AŞAĞIARDIÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24913,
+    "neighbor_name": "AŞAĞITEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24931,
+    "neighbor_name": "AŞAĞIYAVAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24891,
+    "neighbor_name": "AYAZLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24869,
+    "neighbor_name": "BACANAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24898,
+    "neighbor_name": "BAĞLARCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24906,
+    "neighbor_name": "BAHÇELER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24899,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24895,
+    "neighbor_name": "BEYCELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24856,
+    "neighbor_name": "BOLAMAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24930,
+    "neighbor_name": "BOZDAĞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24900,
+    "neighbor_name": "BUCAKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24908,
+    "neighbor_name": "BUHARİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24857,
+    "neighbor_name": "BÜLBÜL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24884,
+    "neighbor_name": "BÜYÜKKOÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24925,
+    "neighbor_name": "ÇÖMLEKLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24876,
+    "neighbor_name": "ÇÖTELÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24924,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24877,
+    "neighbor_name": "DEREYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24858,
+    "neighbor_name": "DOLUNAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24859,
+    "neighbor_name": "DUAYERİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24909,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24860,
+    "neighbor_name": "DÜĞÜNLÜK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24861,
+    "neighbor_name": "ESKİORDU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24854,
+    "neighbor_name": "EVKAF MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24870,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24865,
+    "neighbor_name": "GEYİKÇELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24871,
+    "neighbor_name": "GÖLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24896,
+    "neighbor_name": "GÜVERCİNLİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24901,
+    "neighbor_name": "HACIKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24863,
+    "neighbor_name": "HAMLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24917,
+    "neighbor_name": "HATİPLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24910,
+    "neighbor_name": "HIDIRBEYLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24897,
+    "neighbor_name": "HOYLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24848,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24845,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24846,
+    "neighbor_name": "İSLAMDAĞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24916,
+    "neighbor_name": "KABAKDAĞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24911,
+    "neighbor_name": "KALEÖNÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24847,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24912,
+    "neighbor_name": "KARGUCAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24849,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24872,
+    "neighbor_name": "KAVRAZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24885,
+    "neighbor_name": "KAYACA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24878,
+    "neighbor_name": "KAYAKÖY AKÇAKESE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24932,
+    "neighbor_name": "KILAVUZÖMER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24894,
+    "neighbor_name": "KILIÇLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24928,
+    "neighbor_name": "KONAKBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24902,
+    "neighbor_name": "KÖSEBUCAĞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24879,
+    "neighbor_name": "KULAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24873,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24918,
+    "neighbor_name": "KÜÇÜKKOÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24914,
+    "neighbor_name": "KÜPDÜŞEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24850,
+    "neighbor_name": "MEHMETAKİF MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24915,
+    "neighbor_name": "MEŞEBÜKÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24927,
+    "neighbor_name": "MUSTAFAKEMALPAŞA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24892,
+    "neighbor_name": "OLUKLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24893,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24851,
+    "neighbor_name": "PALAZLI KÖMÜRLÜK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24919,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24920,
+    "neighbor_name": "SALİHLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24880,
+    "neighbor_name": "SARAYTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24874,
+    "neighbor_name": "SAZCILAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24886,
+    "neighbor_name": "SEFAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24887,
+    "neighbor_name": "SUDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24853,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24926,
+    "neighbor_name": "TAHTABAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24881,
+    "neighbor_name": "TAŞLICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24921,
+    "neighbor_name": "TAYALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24922,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24903,
+    "neighbor_name": "UZUNDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24888,
+    "neighbor_name": "YALIKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24866,
+    "neighbor_name": "YAPRAKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24904,
+    "neighbor_name": "YASSIBAHÇE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24929,
+    "neighbor_name": "YASSITAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24905,
+    "neighbor_name": "YAVAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24907,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24875,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24882,
+    "neighbor_name": "YENİPAZAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24852,
+    "neighbor_name": "YENİYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24889,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24867,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24868,
+    "neighbor_name": "YUKARIARDIÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24864,
+    "neighbor_name": "YUKARIBAHÇELER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24890,
+    "neighbor_name": "YUKARITEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 506,
+    "district_name": "FATSA",
+    "neighbor_id": 24923,
+    "neighbor_name": "YUSUFLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24508,
+    "neighbor_name": "AHMETLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24520,
+    "neighbor_name": "AKÇALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24510,
+    "neighbor_name": "ALANYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24531,
+    "neighbor_name": "AYDOĞAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24517,
+    "neighbor_name": "BAYIRALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24533,
+    "neighbor_name": "BULUT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24511,
+    "neighbor_name": "CİHADİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24509,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24530,
+    "neighbor_name": "ÇETİLLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24532,
+    "neighbor_name": "DAMARLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24536,
+    "neighbor_name": "DİREKLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24521,
+    "neighbor_name": "DÜZYAYLA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24512,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24513,
+    "neighbor_name": "GÖLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24525,
+    "neighbor_name": "GÜZELYAYLA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24518,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24514,
+    "neighbor_name": "HARUNİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24537,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24524,
+    "neighbor_name": "İÇYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24526,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24522,
+    "neighbor_name": "KARAGÖZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24527,
+    "neighbor_name": "KARAHASAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24515,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24534,
+    "neighbor_name": "KOZÖREN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24516,
+    "neighbor_name": "KUŞLUVAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24523,
+    "neighbor_name": "ÖZLÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24519,
+    "neighbor_name": "PAŞAPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24528,
+    "neighbor_name": "SARICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24529,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 497,
+    "district_name": "GÖLKÖY",
+    "neighbor_id": 24535,
+    "neighbor_name": "YUVAPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24166,
+    "neighbor_name": "ALİBEY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24174,
+    "neighbor_name": "AMBARCILI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24167,
+    "neighbor_name": "AYRILIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24168,
+    "neighbor_name": "GÜLİSTAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24169,
+    "neighbor_name": "HOŞKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24164,
+    "neighbor_name": "KESTANE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24170,
+    "neighbor_name": "MUSTAFALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24171,
+    "neighbor_name": "SAYACA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24172,
+    "neighbor_name": "TAŞLIÇAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24173,
+    "neighbor_name": "TEPEALTI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24176,
+    "neighbor_name": "TURNASUYU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24175,
+    "neighbor_name": "ÜRÜMBEY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 488,
+    "district_name": "GÜLYALI",
+    "neighbor_id": 24165,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24196,
+    "neighbor_name": "AĞIZLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24191,
+    "neighbor_name": "AKMESCİT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24193,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24192,
+    "neighbor_name": "AKYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24185,
+    "neighbor_name": "ALASEHER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24179,
+    "neighbor_name": "BAHTİYARLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24180,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24184,
+    "neighbor_name": "ÇATALAĞAÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24197,
+    "neighbor_name": "DÖŞEK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24198,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24181,
+    "neighbor_name": "GÖLLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24186,
+    "neighbor_name": "GÜLBELEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24199,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24194,
+    "neighbor_name": "HASANCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24187,
+    "neighbor_name": "IŞIKTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24183,
+    "neighbor_name": "MURATÇIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24195,
+    "neighbor_name": "OKÇABEL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24190,
+    "neighbor_name": "ŞİRİNKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24189,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24177,
+    "neighbor_name": "TİKENLİCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24182,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 24178,
+    "neighbor_name": "YURTSEVEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 489,
+    "district_name": "GÜRGENTEPE",
+    "neighbor_id": 49971,
+    "neighbor_name": "YURTYERİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24373,
+    "neighbor_name": "AĞCAALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24374,
+    "neighbor_name": "AŞAĞI KARLITEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24375,
+    "neighbor_name": "AŞAĞI KAYNARTAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24367,
+    "neighbor_name": "BAŞÖNÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24352,
+    "neighbor_name": "BEYLERCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 50045,
+    "neighbor_name": "BOLLUK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24358,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24376,
+    "neighbor_name": "DEVECİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24378,
+    "neighbor_name": "DİYEK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24377,
+    "neighbor_name": "DUMANTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24353,
+    "neighbor_name": "DÜZMEŞE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24359,
+    "neighbor_name": "DÜZPELİT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24360,
+    "neighbor_name": "ENAĞIZLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24361,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24354,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24362,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24363,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24350,
+    "neighbor_name": "KERVANSARAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24369,
+    "neighbor_name": "KİRAZTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24368,
+    "neighbor_name": "KOCAMAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24348,
+    "neighbor_name": "KURTKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24364,
+    "neighbor_name": "KURTLUCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24355,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24351,
+    "neighbor_name": "ÖZPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24365,
+    "neighbor_name": "SEYMENLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 50647,
+    "neighbor_name": "ŞENTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24349,
+    "neighbor_name": "TOMBAŞLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24371,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24372,
+    "neighbor_name": "YOĞUNOLUK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24366,
+    "neighbor_name": "YUKARI KARLITEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24356,
+    "neighbor_name": "YUKARI KAYNARTAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 493,
+    "district_name": "İKİZCE",
+    "neighbor_id": 24357,
+    "neighbor_name": "YUNUSKIRIĞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24489,
+    "neighbor_name": "AKGÜNEY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24479,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24483,
+    "neighbor_name": "DERİNÇAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24484,
+    "neighbor_name": "DİŞKAYA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24485,
+    "neighbor_name": "ESENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24486,
+    "neighbor_name": "GELİNKAYA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24476,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24487,
+    "neighbor_name": "GÜMÜŞDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24475,
+    "neighbor_name": "HARAMİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24477,
+    "neighbor_name": "KABADÜZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24480,
+    "neighbor_name": "KARAKİRAZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24471,
+    "neighbor_name": "KİRAZDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24472,
+    "neighbor_name": "MUSAKIRIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24482,
+    "neighbor_name": "ÖZLÜKENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24473,
+    "neighbor_name": "TURNALIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24478,
+    "neighbor_name": "YEŞİLADA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24474,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24481,
+    "neighbor_name": "YOKUŞDİBİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 495,
+    "district_name": "KABADÜZ",
+    "neighbor_id": 24488,
+    "neighbor_name": "YUKARI KİRAZDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24490,
+    "neighbor_name": "ALANBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24503,
+    "neighbor_name": "ALANKENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24491,
+    "neighbor_name": "ARDIÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24504,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24505,
+    "neighbor_name": "BEYLERLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24492,
+    "neighbor_name": "ÇUKURCAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24494,
+    "neighbor_name": "DÜZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24499,
+    "neighbor_name": "ECELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24495,
+    "neighbor_name": "ELBEYİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24506,
+    "neighbor_name": "HOŞKADEM MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24500,
+    "neighbor_name": "ILICAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24496,
+    "neighbor_name": "KABATAŞ YENİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24507,
+    "neighbor_name": "KAYINCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24501,
+    "neighbor_name": "KUZKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24497,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24493,
+    "neighbor_name": "ŞİFA SUYU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24498,
+    "neighbor_name": "YAKACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 496,
+    "district_name": "KABATAŞ",
+    "neighbor_id": 24502,
+    "neighbor_name": "YENİCELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24752,
+    "neighbor_name": "AŞAĞIKOZPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24749,
+    "neighbor_name": "AŞAĞIYAYLACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24743,
+    "neighbor_name": "BELALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24728,
+    "neighbor_name": "BEYPINARI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24746,
+    "neighbor_name": "BÜYÜKAKÇAKESE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24741,
+    "neighbor_name": "ÇAMLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24727,
+    "neighbor_name": "ÇAYIRKENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24733,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24742,
+    "neighbor_name": "ÇİTLİCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24744,
+    "neighbor_name": "DİP MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24731,
+    "neighbor_name": "DURALİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24753,
+    "neighbor_name": "KARAKIŞLA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24747,
+    "neighbor_name": "KARAKOYUNLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24736,
+    "neighbor_name": "KOÇCUĞAZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24745,
+    "neighbor_name": "SARIALIÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24739,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24732,
+    "neighbor_name": "TATARCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24750,
+    "neighbor_name": "TEPEALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24729,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24734,
+    "neighbor_name": "TERZİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24751,
+    "neighbor_name": "YAZICI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24754,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24730,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24737,
+    "neighbor_name": "YENİPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24738,
+    "neighbor_name": "YEŞİLALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24740,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24735,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24748,
+    "neighbor_name": "YUKARIKOZPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 502,
+    "district_name": "KORGAN",
+    "neighbor_id": 24726,
+    "neighbor_name": "YUKARIYAYLACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24235,
+    "neighbor_name": "AĞCAALANTÜRK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24225,
+    "neighbor_name": "AKÇADERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24226,
+    "neighbor_name": "AVDULLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24220,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24221,
+    "neighbor_name": "BALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24236,
+    "neighbor_name": "BALLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24207,
+    "neighbor_name": "ÇATILI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24213,
+    "neighbor_name": "DEMİRCİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24237,
+    "neighbor_name": "DERBENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24222,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24208,
+    "neighbor_name": "DİVANITÜRK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24227,
+    "neighbor_name": "DUMAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24209,
+    "neighbor_name": "ERGENTÜRK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24214,
+    "neighbor_name": "ERİKÇELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24215,
+    "neighbor_name": "ESENCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24238,
+    "neighbor_name": "ESKİÇOKDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24228,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24210,
+    "neighbor_name": "FİZME MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24203,
+    "neighbor_name": "GÖKÇELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24229,
+    "neighbor_name": "GÜNEYCİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24230,
+    "neighbor_name": "KADINCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24216,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24217,
+    "neighbor_name": "KARACALAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24218,
+    "neighbor_name": "KARACALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24219,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24211,
+    "neighbor_name": "KONAKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24239,
+    "neighbor_name": "KOVANCILI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24231,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24224,
+    "neighbor_name": "KÜÇÜKAKÇAKESE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24232,
+    "neighbor_name": "ORTACA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24204,
+    "neighbor_name": "ORTAÇOKDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24205,
+    "neighbor_name": "SAMUR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24202,
+    "neighbor_name": "ŞENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24200,
+    "neighbor_name": "TEKKEKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24233,
+    "neighbor_name": "YALNIZDAM MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24206,
+    "neighbor_name": "YEMİŞKEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24234,
+    "neighbor_name": "YENİAKÇAALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24201,
+    "neighbor_name": "YENİDİVAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24212,
+    "neighbor_name": "YENİERGEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 490,
+    "district_name": "KUMRU",
+    "neighbor_id": 24223,
+    "neighbor_name": "YUKARIDAMLALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24567,
+    "neighbor_name": "ABDİLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24559,
+    "neighbor_name": "AKKIRIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 50664,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24606,
+    "neighbor_name": "ALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24607,
+    "neighbor_name": "ARICILAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24591,
+    "neighbor_name": "ARIKMUSA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24620,
+    "neighbor_name": "ARMUTKOLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24575,
+    "neighbor_name": "ARPAALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24568,
+    "neighbor_name": "AŞAĞIGÖKÇE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24596,
+    "neighbor_name": "AŞIKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24609,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24569,
+    "neighbor_name": "BALIKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24572,
+    "neighbor_name": "BAYIRKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24562,
+    "neighbor_name": "BAYRAKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24621,
+    "neighbor_name": "BEŞPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24560,
+    "neighbor_name": "BEYAĞAÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24592,
+    "neighbor_name": "BEYSEKİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24622,
+    "neighbor_name": "BİREBİR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24573,
+    "neighbor_name": "CELAL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24590,
+    "neighbor_name": "ÇALTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24566,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24619,
+    "neighbor_name": "ÇAVDAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24580,
+    "neighbor_name": "ÇERÇİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24581,
+    "neighbor_name": "ÇİTLİKSARICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24595,
+    "neighbor_name": "ÇUKURALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24597,
+    "neighbor_name": "DARICABAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24598,
+    "neighbor_name": "DAYILI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24602,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24574,
+    "neighbor_name": "DOĞANÇAM MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24576,
+    "neighbor_name": "DURSUNLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24593,
+    "neighbor_name": "ERİKKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24583,
+    "neighbor_name": "ESATLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24625,
+    "neighbor_name": "GÖÇBEYİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24613,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24584,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24603,
+    "neighbor_name": "GÜNEYCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24586,
+    "neighbor_name": "GÜVENLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24604,
+    "neighbor_name": "GÜZELCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24614,
+    "neighbor_name": "GÜZLE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24610,
+    "neighbor_name": "HAMZALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24608,
+    "neighbor_name": "HERKÖZÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24563,
+    "neighbor_name": "ILIŞAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24577,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24587,
+    "neighbor_name": "KARABAYIR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24626,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24570,
+    "neighbor_name": "KAVAKLIDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24585,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24578,
+    "neighbor_name": "KIŞLACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24588,
+    "neighbor_name": "KONACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24564,
+    "neighbor_name": "KÖŞE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24615,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24565,
+    "neighbor_name": "MAKSUTALAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24579,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24594,
+    "neighbor_name": "MUSALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24611,
+    "neighbor_name": "MÜSLÜM SARICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24599,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24561,
+    "neighbor_name": "SARICA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24627,
+    "neighbor_name": "SARIYAYLA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24623,
+    "neighbor_name": "TOPÇAM MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24616,
+    "neighbor_name": "TÜRKKÖYÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24582,
+    "neighbor_name": "ÜÇYOL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24600,
+    "neighbor_name": "YAĞMURLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24571,
+    "neighbor_name": "YARDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24589,
+    "neighbor_name": "YAVŞAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24617,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24624,
+    "neighbor_name": "YEŞİLCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24601,
+    "neighbor_name": "YEŞİLÇİT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24605,
+    "neighbor_name": "YEVELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24612,
+    "neighbor_name": "YUKARIGÖKÇE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 499,
+    "district_name": "MESUDİYE",
+    "neighbor_id": 24618,
+    "neighbor_name": "YUVALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24636,
+    "neighbor_name": "ALINCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24645,
+    "neighbor_name": "ANAÇ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24671,
+    "neighbor_name": "AZİZİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24676,
+    "neighbor_name": "BABALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24646,
+    "neighbor_name": "BEKİRLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24633,
+    "neighbor_name": "BEYLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24659,
+    "neighbor_name": "BOĞAZCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24641,
+    "neighbor_name": "BOLATLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24656,
+    "neighbor_name": "ÇAMARASI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24629,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24669,
+    "neighbor_name": "ÇAYTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24650,
+    "neighbor_name": "ÇERLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24670,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24637,
+    "neighbor_name": "DEREİÇİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24632,
+    "neighbor_name": "DOĞAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24681,
+    "neighbor_name": "DÜZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24672,
+    "neighbor_name": "EFİRLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24665,
+    "neighbor_name": "EKİNCİLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24657,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24674,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24651,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24653,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24658,
+    "neighbor_name": "İMEÇLİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24663,
+    "neighbor_name": "İSTANBULBOĞAZI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24634,
+    "neighbor_name": "KACALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24652,
+    "neighbor_name": "KALEYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24666,
+    "neighbor_name": "KAZANCILI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24677,
+    "neighbor_name": "KIRLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24667,
+    "neighbor_name": "KOVANLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24638,
+    "neighbor_name": "KOZAĞZI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24639,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24628,
+    "neighbor_name": "KUTLUCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24678,
+    "neighbor_name": "KUYLUCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24630,
+    "neighbor_name": "MEDRESEÖNÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24679,
+    "neighbor_name": "MERSİN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24675,
+    "neighbor_name": "NENELİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24642,
+    "neighbor_name": "OKÇULU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24661,
+    "neighbor_name": "ORTATEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24654,
+    "neighbor_name": "RAMAZAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24680,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24643,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24647,
+    "neighbor_name": "SIRAKOVANCI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24662,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24664,
+    "neighbor_name": "ŞENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24648,
+    "neighbor_name": "TARLACIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24640,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24668,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24649,
+    "neighbor_name": "TÖNGELDÜZÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24655,
+    "neighbor_name": "YARLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24635,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24673,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24631,
+    "neighbor_name": "YENİÖZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24660,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 500,
+    "district_name": "PERŞEMBE",
+    "neighbor_id": 24644,
+    "neighbor_name": "YUMRUTAŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24756,
+    "neighbor_name": "AKOLUK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24771,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24768,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24777,
+    "neighbor_name": "BAŞÇARDAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24772,
+    "neighbor_name": "BELENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24778,
+    "neighbor_name": "CEVİZLİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24776,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24787,
+    "neighbor_name": "ÇATALLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24755,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24782,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24779,
+    "neighbor_name": "DOĞLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24793,
+    "neighbor_name": "DURAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24764,
+    "neighbor_name": "ELMAÇUKUR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24783,
+    "neighbor_name": "EYMÜR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24757,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24794,
+    "neighbor_name": "GÜNDÜZLÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24788,
+    "neighbor_name": "GÜVENKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24784,
+    "neighbor_name": "GÜVENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24765,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24769,
+    "neighbor_name": "HOCAOĞLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24758,
+    "neighbor_name": "KADINCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24766,
+    "neighbor_name": "KALICAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24767,
+    "neighbor_name": "KARAKOCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24773,
+    "neighbor_name": "KARDEŞLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24774,
+    "neighbor_name": "KIRANYAĞMUR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24789,
+    "neighbor_name": "KİRAZLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24785,
+    "neighbor_name": "KOŞACA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24770,
+    "neighbor_name": "KUMANLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24759,
+    "neighbor_name": "KUMRULU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24790,
+    "neighbor_name": "OHTAMIŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24760,
+    "neighbor_name": "OYUMGÜRGEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24791,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24761,
+    "neighbor_name": "REFAHİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24763,
+    "neighbor_name": "ŞAHİNKAYA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24792,
+    "neighbor_name": "ŞEKEROLUK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24795,
+    "neighbor_name": "ŞIHLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24780,
+    "neighbor_name": "UZUNMAHMUT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24786,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24762,
+    "neighbor_name": "YENİSAYACA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24775,
+    "neighbor_name": "YOLBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 503,
+    "district_name": "ULUBEY",
+    "neighbor_id": 24781,
+    "neighbor_name": "YUKARIKIZILEN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24321,
+    "neighbor_name": "AĞIDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24341,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24320,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24335,
+    "neighbor_name": "AYDINTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24336,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24342,
+    "neighbor_name": "BAYRAMCA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24337,
+    "neighbor_name": "BEYLERCE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24304,
+    "neighbor_name": "BURUNUCU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24299,
+    "neighbor_name": "CEVİZDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24298,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24324,
+    "neighbor_name": "ÇAMURLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24290,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24322,
+    "neighbor_name": "ÇATALPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24340,
+    "neighbor_name": "ÇATALTEPE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24307,
+    "neighbor_name": "ÇINARCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24334,
+    "neighbor_name": "ÇINARLIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24275,
+    "neighbor_name": "ÇİĞDEM MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24285,
+    "neighbor_name": "DENİZBÜKÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24266,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24292,
+    "neighbor_name": "DİZDAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24300,
+    "neighbor_name": "DÖŞEMEDİBİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24291,
+    "neighbor_name": "DÜZKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24323,
+    "neighbor_name": "DÜZSAYLAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24305,
+    "neighbor_name": "ELMALIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24293,
+    "neighbor_name": "ERENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24271,
+    "neighbor_name": "ESENKALE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24294,
+    "neighbor_name": "ESKİKIZILCAKESE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24327,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24272,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24311,
+    "neighbor_name": "GÖBÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24338,
+    "neighbor_name": "GÖLCÜĞEZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24345,
+    "neighbor_name": "GÖLEVİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24328,
+    "neighbor_name": "GÜNPINARI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24287,
+    "neighbor_name": "GÜRECÜLÜ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24316,
+    "neighbor_name": "GÜZELKALE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24312,
+    "neighbor_name": "GÜZELYALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24329,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24331,
+    "neighbor_name": "HANYANI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24267,
+    "neighbor_name": "HIZABAŞIGÜNLÜK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24268,
+    "neighbor_name": "HIZARBAŞIKUMARLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24303,
+    "neighbor_name": "İNKUR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24310,
+    "neighbor_name": "İPEKYOLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24269,
+    "neighbor_name": "KADILAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24330,
+    "neighbor_name": "KALEDERE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24301,
+    "neighbor_name": "KALEDİBİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24313,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24273,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24302,
+    "neighbor_name": "KEŞ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24281,
+    "neighbor_name": "KİLLİK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24276,
+    "neighbor_name": "KOCUKLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24314,
+    "neighbor_name": "KUŞÇULU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24325,
+    "neighbor_name": "KUŞDOĞAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24282,
+    "neighbor_name": "LİSELER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 49667,
+    "neighbor_name": "NADIRLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24295,
+    "neighbor_name": "NURETTİN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24263,
+    "neighbor_name": "NURİYE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24332,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24317,
+    "neighbor_name": "ORTA YILMAZLAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24306,
+    "neighbor_name": "PELİTLİYATAK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24283,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24264,
+    "neighbor_name": "SAHİLKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24277,
+    "neighbor_name": "SARAÇLI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24343,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24278,
+    "neighbor_name": "SARIHALİL MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24288,
+    "neighbor_name": "SAYLAN MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24318,
+    "neighbor_name": "SOFUTEPESİ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24270,
+    "neighbor_name": "ŞENYURT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24289,
+    "neighbor_name": "TAFLANCIK MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24326,
+    "neighbor_name": "TAŞÇA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24265,
+    "neighbor_name": "TEKKİRAZ MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24286,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24296,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24315,
+    "neighbor_name": "ÜÇPINAR MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24346,
+    "neighbor_name": "YAVI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24284,
+    "neighbor_name": "YAYCI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24347,
+    "neighbor_name": "YAYLALI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24274,
+    "neighbor_name": "YAZKONAĞI MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24344,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24339,
+    "neighbor_name": "YENİKIZILCAKESE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24280,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24279,
+    "neighbor_name": "YEŞİLADA MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24309,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24319,
+    "neighbor_name": "YİĞİTLER MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24333,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 38,
+    "city_name": "ORDU",
+    "district_id": 492,
+    "district_name": "ÜNYE",
+    "neighbor_id": 24297,
+    "neighbor_name": "YÜCELER MAH."
+  }
+]

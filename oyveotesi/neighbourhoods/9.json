@@ -1,0 +1,8706 @@
+[
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5755,
+    "neighbor_name": "ALAHIDIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5759,
+    "neighbor_name": "ALTIEYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5748,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5749,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5756,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 50663,
+    "neighbor_name": "CANBAZLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5765,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5766,
+    "neighbor_name": "DERİCİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5750,
+    "neighbor_name": "DİBEKDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5757,
+    "neighbor_name": "GÖKKAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5767,
+    "neighbor_name": "GÜLDEDE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5758,
+    "neighbor_name": "HACIKÖSELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5751,
+    "neighbor_name": "HALİLKAHYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5752,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5745,
+    "neighbor_name": "KARGIN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5753,
+    "neighbor_name": "KENDİRLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5762,
+    "neighbor_name": "KESTELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5746,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5747,
+    "neighbor_name": "MANDALLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5763,
+    "neighbor_name": "SEYDİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5754,
+    "neighbor_name": "ULU CAMİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5760,
+    "neighbor_name": "YARAŞLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 130,
+    "district_name": "AHMETLİ",
+    "neighbor_id": 5761,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6221,
+    "neighbor_name": "AKÇAALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6184,
+    "neighbor_name": "AKÇEŞME MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6192,
+    "neighbor_name": "AKKOCALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6139,
+    "neighbor_name": "AKSELENDİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6144,
+    "neighbor_name": "ARABACIBOZKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6213,
+    "neighbor_name": "AŞAĞIDOLMA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6168,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6228,
+    "neighbor_name": "BALLICA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6204,
+    "neighbor_name": "BAŞLAMIŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6222,
+    "neighbor_name": "BEKİRLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6137,
+    "neighbor_name": "BEYOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6218,
+    "neighbor_name": "BOYALILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6187,
+    "neighbor_name": "BÜKNÜŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6174,
+    "neighbor_name": "BÜNYANOSMANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6140,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6173,
+    "neighbor_name": "ÇAMÖNÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6233,
+    "neighbor_name": "ÇANAKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6215,
+    "neighbor_name": "ÇITAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6181,
+    "neighbor_name": "ÇOBANHASAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6164,
+    "neighbor_name": "ÇORUK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6229,
+    "neighbor_name": "DAĞDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6179,
+    "neighbor_name": "DAYIOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6219,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6220,
+    "neighbor_name": "DİNGİLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6193,
+    "neighbor_name": "DOĞANKAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6175,
+    "neighbor_name": "DOĞUCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6205,
+    "neighbor_name": "DOLMADEĞİRMEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6132,
+    "neighbor_name": "DURASIL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6188,
+    "neighbor_name": "EFENDİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6155,
+    "neighbor_name": "ERDELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6194,
+    "neighbor_name": "EROĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6197,
+    "neighbor_name": "EVKAFTEKE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6145,
+    "neighbor_name": "GÖCEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6224,
+    "neighbor_name": "GÖKÇEAHMET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6230,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6195,
+    "neighbor_name": "HACIİBRAHİMLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6169,
+    "neighbor_name": "HACI İSHAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6170,
+    "neighbor_name": "HACIOSMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6163,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6198,
+    "neighbor_name": "HAMİTKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6171,
+    "neighbor_name": "HANPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6199,
+    "neighbor_name": "HARMANDALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6210,
+    "neighbor_name": "HAS HOCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6138,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6206,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6212,
+    "neighbor_name": "IŞIKKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6237,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6167,
+    "neighbor_name": "İSACA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6182,
+    "neighbor_name": "KABAAĞAÇKIRAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6135,
+    "neighbor_name": "KADIDAĞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6133,
+    "neighbor_name": "KAPAKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6148,
+    "neighbor_name": "KARABÖRKLÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6157,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6165,
+    "neighbor_name": "KARAYAĞCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6172,
+    "neighbor_name": "KAVAKALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6207,
+    "neighbor_name": "KAYALIOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6176,
+    "neighbor_name": "KAYGANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6134,
+    "neighbor_name": "KETHÜDA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6129,
+    "neighbor_name": "KIZLARALANI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6208,
+    "neighbor_name": "KOBAŞDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6189,
+    "neighbor_name": "KOCAKAĞAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6154,
+    "neighbor_name": "KÖMÜRCÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6146,
+    "neighbor_name": "KULAKSIZLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6231,
+    "neighbor_name": "KURTULMUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6158,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6159,
+    "neighbor_name": "MEDAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6209,
+    "neighbor_name": "MORALILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6142,
+    "neighbor_name": "MUSACA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6232,
+    "neighbor_name": "MUSALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6211,
+    "neighbor_name": "MUŞTULLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6166,
+    "neighbor_name": "PAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6143,
+    "neighbor_name": "PEKMEZCİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6149,
+    "neighbor_name": "PINARCIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6196,
+    "neighbor_name": "RAGIP BEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6147,
+    "neighbor_name": "RAHMİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6202,
+    "neighbor_name": "REŞAT BEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6156,
+    "neighbor_name": "SABANCILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6183,
+    "neighbor_name": "SAĞRAKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6234,
+    "neighbor_name": "SAKARKAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6160,
+    "neighbor_name": "SARIÇALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6216,
+    "neighbor_name": "SARILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6214,
+    "neighbor_name": "SARNIÇKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6150,
+    "neighbor_name": "SAZOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6185,
+    "neighbor_name": "SEĞİRDİM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6203,
+    "neighbor_name": "SELÇİKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6226,
+    "neighbor_name": "SELVİLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6200,
+    "neighbor_name": "SEYİT AHMET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6235,
+    "neighbor_name": "SIRTKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6136,
+    "neighbor_name": "SİNDELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6201,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6161,
+    "neighbor_name": "SÜLEYMANKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6223,
+    "neighbor_name": "SÜLEYMANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6227,
+    "neighbor_name": "SÜNNETÇİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6178,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6153,
+    "neighbor_name": "ŞEYHİSA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6130,
+    "neighbor_name": "TAŞÇILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6186,
+    "neighbor_name": "TOPLUCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6236,
+    "neighbor_name": "TÜTENLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6180,
+    "neighbor_name": "ULU CAMİİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6162,
+    "neighbor_name": "ULUPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6141,
+    "neighbor_name": "ÜÇAVLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6131,
+    "neighbor_name": "YATAĞAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6177,
+    "neighbor_name": "YAYAKIRILDIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6151,
+    "neighbor_name": "YAYKIN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6191,
+    "neighbor_name": "YEĞENOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6152,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6190,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6225,
+    "neighbor_name": "ZEYTİNLİBAĞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 138,
+    "district_name": "AKHİSAR",
+    "neighbor_id": 6217,
+    "neighbor_name": "ZEYTİNLİOVA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6294,
+    "neighbor_name": "AKKEÇİLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6251,
+    "neighbor_name": "ALHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6267,
+    "neighbor_name": "AYDOĞDU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6320,
+    "neighbor_name": "AZITEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6309,
+    "neighbor_name": "BADINCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6283,
+    "neighbor_name": "BAHADIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6286,
+    "neighbor_name": "BAHÇEDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6278,
+    "neighbor_name": "BAHÇELİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6256,
+    "neighbor_name": "BAKLACI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6303,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6287,
+    "neighbor_name": "BELENYAKA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6268,
+    "neighbor_name": "BEŞEYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6284,
+    "neighbor_name": "CABERBURHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6254,
+    "neighbor_name": "CABERFAKILI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6306,
+    "neighbor_name": "CABERKAMARA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6319,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6323,
+    "neighbor_name": "ÇAKIRCAALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6252,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6315,
+    "neighbor_name": "ÇARIKBOZDAĞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6248,
+    "neighbor_name": "ÇARIKKARALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6249,
+    "neighbor_name": "ÇARIKTEKKE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6250,
+    "neighbor_name": "ÇEŞNELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6288,
+    "neighbor_name": "DAĞARLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6238,
+    "neighbor_name": "DAĞHACIYUSUF MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6239,
+    "neighbor_name": "DELEMENLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6307,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6269,
+    "neighbor_name": "ESEN TEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6310,
+    "neighbor_name": "EVRENLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6316,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6321,
+    "neighbor_name": "GİRELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6257,
+    "neighbor_name": "GÖBEKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6244,
+    "neighbor_name": "GÜLENYAKA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6240,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6258,
+    "neighbor_name": "GÜMÜŞÇAY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6311,
+    "neighbor_name": "GÜRSU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6295,
+    "neighbor_name": "HACIALİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6289,
+    "neighbor_name": "HACIBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6296,
+    "neighbor_name": "HORZUMALAYAKA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6255,
+    "neighbor_name": "HORZUMEMBELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6308,
+    "neighbor_name": "HORZUMKESERLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6276,
+    "neighbor_name": "HORZUMSAZDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6270,
+    "neighbor_name": "ILGIN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6297,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6259,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6274,
+    "neighbor_name": "İSMAİLBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6265,
+    "neighbor_name": "İSMETİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6266,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6290,
+    "neighbor_name": "KARACALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6277,
+    "neighbor_name": "KARADAĞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6279,
+    "neighbor_name": "KASAPLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6298,
+    "neighbor_name": "KAVAKLIDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6312,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6322,
+    "neighbor_name": "KESTANEDERESİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6271,
+    "neighbor_name": "KİLLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6260,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6280,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6285,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6245,
+    "neighbor_name": "MATARLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6272,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6261,
+    "neighbor_name": "NARLIDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6291,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6302,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6253,
+    "neighbor_name": "ÖRNEKKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6262,
+    "neighbor_name": "PİYADELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6313,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6281,
+    "neighbor_name": "SARIPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6304,
+    "neighbor_name": "SARISU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6299,
+    "neighbor_name": "SELCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6263,
+    "neighbor_name": "SERİNKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6241,
+    "neighbor_name": "SERİNYAYLA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6317,
+    "neighbor_name": "SOBRAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6300,
+    "neighbor_name": "SOĞANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6314,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6282,
+    "neighbor_name": "SOĞUKYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6292,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6275,
+    "neighbor_name": "ŞAHYAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6324,
+    "neighbor_name": "ŞEYH SİNAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6305,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6242,
+    "neighbor_name": "TOYGAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6243,
+    "neighbor_name": "TÜRKMEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6301,
+    "neighbor_name": "ULUDERBENT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6264,
+    "neighbor_name": "ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6318,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6247,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6246,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6293,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 139,
+    "district_name": "ALAŞEHİR",
+    "neighbor_id": 6273,
+    "neighbor_name": "YUVACALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6381,
+    "neighbor_name": "AHATLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6336,
+    "neighbor_name": "AHMETLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6337,
+    "neighbor_name": "AKDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6403,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6325,
+    "neighbor_name": "ALAAĞAÇ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6347,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6326,
+    "neighbor_name": "AYVAALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6361,
+    "neighbor_name": "AZİZBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6330,
+    "neighbor_name": "BAHÇELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6354,
+    "neighbor_name": "BARDAKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6327,
+    "neighbor_name": "BAYRAMŞAH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6338,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6369,
+    "neighbor_name": "BOYACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6344,
+    "neighbor_name": "BOZÇATLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6398,
+    "neighbor_name": "BOZKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6404,
+    "neighbor_name": "BÜYÜKKIRAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6410,
+    "neighbor_name": "CAMİİ ATİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6411,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6391,
+    "neighbor_name": "ÇAĞILLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6425,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6387,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6367,
+    "neighbor_name": "ÇANAKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6388,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6360,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6390,
+    "neighbor_name": "ÇATALOLUK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6382,
+    "neighbor_name": "DANİŞMENTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6348,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6383,
+    "neighbor_name": "DOKTOR MEHMET AKARSU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6355,
+    "neighbor_name": "DURHASAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6356,
+    "neighbor_name": "ELEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6412,
+    "neighbor_name": "ESENYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6339,
+    "neighbor_name": "ESKİHİSAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6417,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6357,
+    "neighbor_name": "GÖMEÇLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6418,
+    "neighbor_name": "GÜMELE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6375,
+    "neighbor_name": "GÜRÇEŞME MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6358,
+    "neighbor_name": "GÜVELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6393,
+    "neighbor_name": "HACIBABA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6405,
+    "neighbor_name": "HACIHAMZA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6394,
+    "neighbor_name": "HACIHASAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6419,
+    "neighbor_name": "HACITÜRBEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6413,
+    "neighbor_name": "HIRKALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6362,
+    "neighbor_name": "HOŞÇALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6376,
+    "neighbor_name": "HÜDÜK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6370,
+    "neighbor_name": "IKLIKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6409,
+    "neighbor_name": "İCİKLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6374,
+    "neighbor_name": "İÇHİSAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6329,
+    "neighbor_name": "İMCELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6368,
+    "neighbor_name": "İMRENLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6389,
+    "neighbor_name": "İRİŞLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6335,
+    "neighbor_name": "İSMAİLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6345,
+    "neighbor_name": "KARAİSALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6399,
+    "neighbor_name": "KARGINIŞIKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6420,
+    "neighbor_name": "KASIMFAKI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6395,
+    "neighbor_name": "KAYAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6340,
+    "neighbor_name": "KAYRANOKÇULAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6371,
+    "neighbor_name": "KAZANCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6384,
+    "neighbor_name": "KERPİÇLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6359,
+    "neighbor_name": "KILAVUZLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6396,
+    "neighbor_name": "KIŞLAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6349,
+    "neighbor_name": "KOVANCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6385,
+    "neighbor_name": "KÖYLÜCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6400,
+    "neighbor_name": "KULALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6331,
+    "neighbor_name": "KUZEYİR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6350,
+    "neighbor_name": "KUZUKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6346,
+    "neighbor_name": "KÜÇÜKKIRAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6328,
+    "neighbor_name": "KÜÇÜKOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6351,
+    "neighbor_name": "KÜPELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6363,
+    "neighbor_name": "MAHMUTLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6332,
+    "neighbor_name": "MARMARACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6341,
+    "neighbor_name": "MEZİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6377,
+    "neighbor_name": "MİNNETLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6342,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6392,
+    "neighbor_name": "ÖKSÜZLÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6402,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6408,
+    "neighbor_name": "ÖRÜCÜLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6406,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6397,
+    "neighbor_name": "RAHMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6421,
+    "neighbor_name": "SAĞNIÇ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6378,
+    "neighbor_name": "SAYIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6422,
+    "neighbor_name": "SECAATTİN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6401,
+    "neighbor_name": "SERÇELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6414,
+    "neighbor_name": "SEVİŞLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6415,
+    "neighbor_name": "SİNAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6352,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6364,
+    "neighbor_name": "SÖĞÜTÇÜK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6353,
+    "neighbor_name": "ŞEHREKÜSTÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6423,
+    "neighbor_name": "TALAS MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6333,
+    "neighbor_name": "TAŞOKÇULAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6343,
+    "neighbor_name": "TEKELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6386,
+    "neighbor_name": "TEPERİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6334,
+    "neighbor_name": "ULACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6416,
+    "neighbor_name": "ÜŞÜMÜŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6424,
+    "neighbor_name": "YAĞMUR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6379,
+    "neighbor_name": "YARBASAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6372,
+    "neighbor_name": "YAVAŞLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6365,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6407,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6373,
+    "neighbor_name": "YEŞİLOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6380,
+    "neighbor_name": "YİĞENLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 140,
+    "district_name": "DEMİRCİ",
+    "neighbor_id": 6366,
+    "neighbor_name": "YİĞİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5877,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5864,
+    "neighbor_name": "AYANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5871,
+    "neighbor_name": "BEYLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5876,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5869,
+    "neighbor_name": "ÇÖMLEKÇİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5872,
+    "neighbor_name": "DEĞNEKLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5878,
+    "neighbor_name": "ESKİ CAMİİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5865,
+    "neighbor_name": "HACIBAŞTANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5873,
+    "neighbor_name": "HACIVELİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5879,
+    "neighbor_name": "HIROĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5884,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5870,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5874,
+    "neighbor_name": "KAYAALTI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5882,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5866,
+    "neighbor_name": "KILCANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5867,
+    "neighbor_name": "OZANCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5868,
+    "neighbor_name": "TAŞKUYUCAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5875,
+    "neighbor_name": "TİYENLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5880,
+    "neighbor_name": "YENİ CAMİİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5881,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 133,
+    "district_name": "GÖLMARMARA",
+    "neighbor_id": 5883,
+    "neighbor_name": "YUNUSLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5549,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5499,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5507,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5518,
+    "neighbor_name": "BALIKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5508,
+    "neighbor_name": "BAYAT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5546,
+    "neighbor_name": "BEĞEL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5534,
+    "neighbor_name": "BEĞENLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5540,
+    "neighbor_name": "BENLİELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5541,
+    "neighbor_name": "BEŞEYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5502,
+    "neighbor_name": "BOYALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5542,
+    "neighbor_name": "BÖREZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5500,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5517,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5516,
+    "neighbor_name": "ÇATALARMUT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5523,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5533,
+    "neighbor_name": "ÇİĞİLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5501,
+    "neighbor_name": "DALKARA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5493,
+    "neighbor_name": "DARGIL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5519,
+    "neighbor_name": "DELİÇOBAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5524,
+    "neighbor_name": "DEREÇİFTLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5529,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5547,
+    "neighbor_name": "DİVAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5528,
+    "neighbor_name": "DOĞANPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5497,
+    "neighbor_name": "DUTLUCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5494,
+    "neighbor_name": "EFENDİLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5495,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5489,
+    "neighbor_name": "FUNDACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5537,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5548,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5498,
+    "neighbor_name": "HÜSEYNİ BABA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5538,
+    "neighbor_name": "KABAKOZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5543,
+    "neighbor_name": "KALEMOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5520,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5511,
+    "neighbor_name": "KARAKEÇİLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5535,
+    "neighbor_name": "KARAYAĞCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5544,
+    "neighbor_name": "KARAYAKUP MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5525,
+    "neighbor_name": "KAŞIKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5536,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5490,
+    "neighbor_name": "KILCANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5509,
+    "neighbor_name": "KIRANKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5496,
+    "neighbor_name": "KIYMIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5491,
+    "neighbor_name": "KIZILDAM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5492,
+    "neighbor_name": "KOBAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5514,
+    "neighbor_name": "KORUBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5551,
+    "neighbor_name": "KÖSELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5512,
+    "neighbor_name": "KUŞLUKKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5521,
+    "neighbor_name": "KUYUCAKKARAPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5539,
+    "neighbor_name": "KÜREKÇİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5504,
+    "neighbor_name": "MALAZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5550,
+    "neighbor_name": "MALKOCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5505,
+    "neighbor_name": "NAKIPAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5522,
+    "neighbor_name": "OĞULDURUK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5506,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5515,
+    "neighbor_name": "SALUR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5527,
+    "neighbor_name": "SARIALİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5552,
+    "neighbor_name": "ŞAHİNKAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5545,
+    "neighbor_name": "ŞEYHYAYLA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 50587,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5531,
+    "neighbor_name": "TÜPÜLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5532,
+    "neighbor_name": "ULGAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5513,
+    "neighbor_name": "UZUNÇAM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5510,
+    "neighbor_name": "YAKAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5503,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 126,
+    "district_name": "GÖRDES",
+    "neighbor_id": 5526,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5893,
+    "neighbor_name": "ALACALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5913,
+    "neighbor_name": "ALİFAKI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5885,
+    "neighbor_name": "BADEMLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5886,
+    "neighbor_name": "BAKIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5894,
+    "neighbor_name": "BODUROĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5924,
+    "neighbor_name": "BOSTANCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5928,
+    "neighbor_name": "CİNOSMAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5923,
+    "neighbor_name": "ÇALTICAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5892,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5912,
+    "neighbor_name": "ÇOBANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5903,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5904,
+    "neighbor_name": "DUALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5925,
+    "neighbor_name": "FIRDANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5887,
+    "neighbor_name": "GEBELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5929,
+    "neighbor_name": "GELENBE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5888,
+    "neighbor_name": "GÖKÇUKUR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5889,
+    "neighbor_name": "GÜVENDİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5921,
+    "neighbor_name": "HACET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5930,
+    "neighbor_name": "HACIHİMMET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5914,
+    "neighbor_name": "HALKAHAVLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5915,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5905,
+    "neighbor_name": "HAMİTLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5895,
+    "neighbor_name": "HIDIRAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5909,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5902,
+    "neighbor_name": "İLYASLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5926,
+    "neighbor_name": "KADRİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5896,
+    "neighbor_name": "KARAALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5910,
+    "neighbor_name": "KARAKURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5911,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5897,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5898,
+    "neighbor_name": "KOCAİSKAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5906,
+    "neighbor_name": "KOCAMEHMETAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5922,
+    "neighbor_name": "KUYUCAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5890,
+    "neighbor_name": "KÜÇÜKYAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5907,
+    "neighbor_name": "MEMİŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5916,
+    "neighbor_name": "MUSAHOCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5917,
+    "neighbor_name": "MUSALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 50978,
+    "neighbor_name": "ÖVEÇLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5931,
+    "neighbor_name": "SAKARLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5899,
+    "neighbor_name": "SARIAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5918,
+    "neighbor_name": "SİLEDİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5891,
+    "neighbor_name": "SÖĞÜTALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5920,
+    "neighbor_name": "ŞAİR EŞREF MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5927,
+    "neighbor_name": "TEVFİKİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5908,
+    "neighbor_name": "YAĞMURLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5919,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 134,
+    "district_name": "KIRKAĞAÇ",
+    "neighbor_id": 5900,
+    "neighbor_name": "ZORAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5794,
+    "neighbor_name": "AKÇAALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5808,
+    "neighbor_name": "ALANYOLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5795,
+    "neighbor_name": "ARMAĞAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5796,
+    "neighbor_name": "ARPACI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5790,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5772,
+    "neighbor_name": "AZİMLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5773,
+    "neighbor_name": "BORLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5774,
+    "neighbor_name": "BOZBURUN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5801,
+    "neighbor_name": "CICIKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5782,
+    "neighbor_name": "ÇARIKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5813,
+    "neighbor_name": "ÇAVULLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5793,
+    "neighbor_name": "ÇAYKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5797,
+    "neighbor_name": "DÖĞÜŞEREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5778,
+    "neighbor_name": "ESAT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5809,
+    "neighbor_name": "GÖKVELİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5775,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5810,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5784,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5807,
+    "neighbor_name": "İKİZKUYU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5791,
+    "neighbor_name": "KARAELMACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5779,
+    "neighbor_name": "KARYAĞDI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5780,
+    "neighbor_name": "KASAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5776,
+    "neighbor_name": "KAVAKYERİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5768,
+    "neighbor_name": "KEMHALLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5792,
+    "neighbor_name": "KIDIRCIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5802,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5777,
+    "neighbor_name": "KIRANŞEYH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5812,
+    "neighbor_name": "KİLLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5811,
+    "neighbor_name": "KOZAKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5785,
+    "neighbor_name": "KULALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5781,
+    "neighbor_name": "KURTLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5786,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5803,
+    "neighbor_name": "MESTANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5804,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5805,
+    "neighbor_name": "RAĞILLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5769,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5806,
+    "neighbor_name": "SARGAÇ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5787,
+    "neighbor_name": "SELVİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5799,
+    "neighbor_name": "TEMREK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5798,
+    "neighbor_name": "TOKMAKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5788,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5771,
+    "neighbor_name": "YABACI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5789,
+    "neighbor_name": "YARDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5770,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5800,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 131,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 5783,
+    "neighbor_name": "YUMUKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5972,
+    "neighbor_name": "4 EYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5947,
+    "neighbor_name": "AHMETLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5939,
+    "neighbor_name": "AKGÜN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5973,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5934,
+    "neighbor_name": "AYAZÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5952,
+    "neighbor_name": "AYVATLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5983,
+    "neighbor_name": "BALIBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5955,
+    "neighbor_name": "BAŞIBÜYÜK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5974,
+    "neighbor_name": "BATTALMUSTAFA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5967,
+    "neighbor_name": "BAYRAMŞAH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5943,
+    "neighbor_name": "BEBEKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5944,
+    "neighbor_name": "BEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5940,
+    "neighbor_name": "BÖRTLÜCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5950,
+    "neighbor_name": "CAMİİ CEDİT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5946,
+    "neighbor_name": "ÇARIKBALLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5954,
+    "neighbor_name": "ÇARIKMAHMUTLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5961,
+    "neighbor_name": "ÇİFTÇİİBRAHİM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5962,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5932,
+    "neighbor_name": "EMRE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5977,
+    "neighbor_name": "ENCEKLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5948,
+    "neighbor_name": "ERENBAĞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5958,
+    "neighbor_name": "EROĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5978,
+    "neighbor_name": "ESENYAZI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5941,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5953,
+    "neighbor_name": "GÖKÇEÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5936,
+    "neighbor_name": "GÖKDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5935,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5945,
+    "neighbor_name": "GÜVERCİNLİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5984,
+    "neighbor_name": "HACITUFAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5989,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5956,
+    "neighbor_name": "HAYALLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5975,
+    "neighbor_name": "İBRAHİMAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5942,
+    "neighbor_name": "İNCESU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5968,
+    "neighbor_name": "KALINHARMAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5937,
+    "neighbor_name": "KARAOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5965,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5985,
+    "neighbor_name": "KENGER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5963,
+    "neighbor_name": "KIZILKAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5969,
+    "neighbor_name": "KONURCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5949,
+    "neighbor_name": "KÖREZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5966,
+    "neighbor_name": "NARINCALIPITRAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5938,
+    "neighbor_name": "NARINCALISÜLEYMAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5970,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5959,
+    "neighbor_name": "PAPUÇLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5933,
+    "neighbor_name": "SANDAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5957,
+    "neighbor_name": "SARAÇLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5990,
+    "neighbor_name": "SARNIÇ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5979,
+    "neighbor_name": "SEYİTALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5980,
+    "neighbor_name": "SÖĞÜTDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5991,
+    "neighbor_name": "ŞEHİTLİOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5976,
+    "neighbor_name": "ŞEREMET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5951,
+    "neighbor_name": "ŞERİTLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5988,
+    "neighbor_name": "ŞIHLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5986,
+    "neighbor_name": "TATLIÇEŞME MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5981,
+    "neighbor_name": "TOPUZDAMLARI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5982,
+    "neighbor_name": "YAĞBASTI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5971,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5987,
+    "neighbor_name": "YEŞİLYAYLA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5964,
+    "neighbor_name": "YURTBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 135,
+    "district_name": "KULA",
+    "neighbor_id": 5960,
+    "neighbor_name": "ZAFERİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6040,
+    "neighbor_name": "ADALA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6022,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6066,
+    "neighbor_name": "AKSOY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6082,
+    "neighbor_name": "AKYAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5992,
+    "neighbor_name": "ALLAHDİYEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6041,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6005,
+    "neighbor_name": "BAĞCILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6049,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6042,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6083,
+    "neighbor_name": "BAŞLIOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6074,
+    "neighbor_name": "BEŞEYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6090,
+    "neighbor_name": "BEYLİKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6029,
+    "neighbor_name": "BURHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6067,
+    "neighbor_name": "CAFERBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6068,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6047,
+    "neighbor_name": "ÇAKALDOĞANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6093,
+    "neighbor_name": "ÇALTILI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6089,
+    "neighbor_name": "ÇAMURHAMAMI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6063,
+    "neighbor_name": "ÇAPAKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6025,
+    "neighbor_name": "ÇAVLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6064,
+    "neighbor_name": "ÇAYKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6026,
+    "neighbor_name": "ÇAYPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6021,
+    "neighbor_name": "ÇELİKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5996,
+    "neighbor_name": "ÇÖKELEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5995,
+    "neighbor_name": "ÇUKUROBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6050,
+    "neighbor_name": "DAMATLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6051,
+    "neighbor_name": "DEDETAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6043,
+    "neighbor_name": "DELİBAŞLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6084,
+    "neighbor_name": "DERBENT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6006,
+    "neighbor_name": "DOMBAYLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6059,
+    "neighbor_name": "DURASILLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6075,
+    "neighbor_name": "ELDELEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6030,
+    "neighbor_name": "EMİNBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5997,
+    "neighbor_name": "EMİRHACILI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6052,
+    "neighbor_name": "ESKİ CAMİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6076,
+    "neighbor_name": "GAFFAR OKKAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6007,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6031,
+    "neighbor_name": "GÖKÇEKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6077,
+    "neighbor_name": "GÖKEYÜP MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6055,
+    "neighbor_name": "GÖKKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6032,
+    "neighbor_name": "GÜMÜŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6078,
+    "neighbor_name": "GÜNEŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6079,
+    "neighbor_name": "HACIBEKTAŞLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5998,
+    "neighbor_name": "HACIHIDIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6011,
+    "neighbor_name": "HACIKÖSELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6016,
+    "neighbor_name": "HACILI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6023,
+    "neighbor_name": "HASALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6014,
+    "neighbor_name": "İĞDECİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6069,
+    "neighbor_name": "KABAZLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6060,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6053,
+    "neighbor_name": "KAPANCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6091,
+    "neighbor_name": "KAPLAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6035,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6085,
+    "neighbor_name": "KARAOĞLANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6056,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6012,
+    "neighbor_name": "KARASAVCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6033,
+    "neighbor_name": "KARAYAHŞİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6057,
+    "neighbor_name": "KELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6044,
+    "neighbor_name": "KEMERDAMLARI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6072,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6008,
+    "neighbor_name": "KIRDAMLARI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6054,
+    "neighbor_name": "KIRVELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6070,
+    "neighbor_name": "KIZILHAVLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6036,
+    "neighbor_name": "KOCAÇEŞME MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5999,
+    "neighbor_name": "KORDON MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5994,
+    "neighbor_name": "KÖSEALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6037,
+    "neighbor_name": "KURTTUTAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 5993,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6086,
+    "neighbor_name": "MAMATLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6045,
+    "neighbor_name": "MERSİNDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6092,
+    "neighbor_name": "MERSİNLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6038,
+    "neighbor_name": "MEVLUTLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6000,
+    "neighbor_name": "MİTATPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6087,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6017,
+    "neighbor_name": "ORAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6018,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6065,
+    "neighbor_name": "ÖZYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6024,
+    "neighbor_name": "PAZARKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6071,
+    "neighbor_name": "POYRAZDAMLARI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6034,
+    "neighbor_name": "POYRAZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6039,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6080,
+    "neighbor_name": "SARIPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6061,
+    "neighbor_name": "SART MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6019,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6020,
+    "neighbor_name": "SİNDEL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6009,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6004,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6015,
+    "neighbor_name": "ŞİRİNYER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6010,
+    "neighbor_name": "TAYTAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6048,
+    "neighbor_name": "TEKELİOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6073,
+    "neighbor_name": "TORUNLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6003,
+    "neighbor_name": "ÜÇTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6001,
+    "neighbor_name": "YAĞBASAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6027,
+    "neighbor_name": "YAĞMURLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6028,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6058,
+    "neighbor_name": "YENİPAZAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6062,
+    "neighbor_name": "YEŞİLKAVAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6081,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6002,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6046,
+    "neighbor_name": "YILMAZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6013,
+    "neighbor_name": "YÖRÜK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 136,
+    "district_name": "SALİHLİ",
+    "neighbor_id": 6088,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6110,
+    "neighbor_name": "AFŞAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6114,
+    "neighbor_name": "AHMETAĞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6102,
+    "neighbor_name": "ALEMŞAHLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6119,
+    "neighbor_name": "AŞAĞI KOÇAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6115,
+    "neighbor_name": "AYAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6111,
+    "neighbor_name": "BAĞLICA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6125,
+    "neighbor_name": "BAHADIRLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6126,
+    "neighbor_name": "BAHARLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6103,
+    "neighbor_name": "BEREKETLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6108,
+    "neighbor_name": "BEYHARMANI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6120,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6124,
+    "neighbor_name": "ÇANAKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6113,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6128,
+    "neighbor_name": "ÇİMENTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6094,
+    "neighbor_name": "DADAĞLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6104,
+    "neighbor_name": "DİNDARLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6121,
+    "neighbor_name": "DOĞUŞLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6106,
+    "neighbor_name": "EMCELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6095,
+    "neighbor_name": "GÜNEYDAMLARI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6096,
+    "neighbor_name": "GÜNYAKA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6097,
+    "neighbor_name": "KAHRAMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6109,
+    "neighbor_name": "KARACAALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6116,
+    "neighbor_name": "KIZILÇUKUR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6122,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6123,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6118,
+    "neighbor_name": "ÖZPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6098,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6112,
+    "neighbor_name": "SIĞIRTMAÇLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6099,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6105,
+    "neighbor_name": "ŞEYHDAVUTLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6100,
+    "neighbor_name": "TIRAZLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6107,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6127,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6117,
+    "neighbor_name": "YUKARIKOÇAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 137,
+    "district_name": "SARIGÖL",
+    "neighbor_id": 6101,
+    "neighbor_name": "ZİYANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5839,
+    "neighbor_name": "ADİLOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5819,
+    "neighbor_name": "ALİBEYLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5850,
+    "neighbor_name": "APAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5825,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5826,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5854,
+    "neighbor_name": "AZİMLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5840,
+    "neighbor_name": "BAHADIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5851,
+    "neighbor_name": "BEDELLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5846,
+    "neighbor_name": "BÜYÜKBELEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5831,
+    "neighbor_name": "CENGİZ TOPEL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5847,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5838,
+    "neighbor_name": "ÇAKMAKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5829,
+    "neighbor_name": "ÇALTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5817,
+    "neighbor_name": "ÇAMLIYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5841,
+    "neighbor_name": "ÇERKEZ OSMANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5830,
+    "neighbor_name": "ÇINAROBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5852,
+    "neighbor_name": "ÇULLUGÖRECE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5844,
+    "neighbor_name": "DEVELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5821,
+    "neighbor_name": "DİLEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5820,
+    "neighbor_name": "GÖKÇEKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5833,
+    "neighbor_name": "GÖZLET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5848,
+    "neighbor_name": "GÜMÜLCELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5834,
+    "neighbor_name": "HACIMUSA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5822,
+    "neighbor_name": "HACIRAHMANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5823,
+    "neighbor_name": "HALİTPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5814,
+    "neighbor_name": "HATIPLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5862,
+    "neighbor_name": "HEYBELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5849,
+    "neighbor_name": "İSHAKÇELEBİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5842,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5863,
+    "neighbor_name": "KAYIŞLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5835,
+    "neighbor_name": "KEMİKLİDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5845,
+    "neighbor_name": "KEPENEKLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5856,
+    "neighbor_name": "KOLDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5857,
+    "neighbor_name": "KOYUNCU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5836,
+    "neighbor_name": "KUMKUYUCAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5824,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5832,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5815,
+    "neighbor_name": "MÜTEVELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5858,
+    "neighbor_name": "NURİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5859,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5860,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5861,
+    "neighbor_name": "SARIÇAM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5837,
+    "neighbor_name": "SARISIĞIRLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5827,
+    "neighbor_name": "SARUHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5855,
+    "neighbor_name": "SEYİTOBA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5818,
+    "neighbor_name": "ŞATIRLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5853,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5816,
+    "neighbor_name": "TAŞDİBİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5828,
+    "neighbor_name": "TİRKEŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 132,
+    "district_name": "SARUHANLI",
+    "neighbor_id": 5843,
+    "neighbor_name": "YILMAZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5686,
+    "neighbor_name": "1.ANAFARTALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5700,
+    "neighbor_name": "2.ANAFARTALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5739,
+    "neighbor_name": "ADAKALE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5713,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5725,
+    "neighbor_name": "AHMET BEDEVİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5722,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5704,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5691,
+    "neighbor_name": "ALAYBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5709,
+    "neighbor_name": "ARDA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5701,
+    "neighbor_name": "AŞAĞIÇOBANİSA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5681,
+    "neighbor_name": "AYVACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5742,
+    "neighbor_name": "BAYINDIRLIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5702,
+    "neighbor_name": "BELENYENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5693,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5690,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5714,
+    "neighbor_name": "ÇAVUŞOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5715,
+    "neighbor_name": "ÇERKEZMAHMUDİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5712,
+    "neighbor_name": "ÇINARLIKUYU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5717,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5687,
+    "neighbor_name": "DİLŞİKAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5731,
+    "neighbor_name": "DİNÇER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5694,
+    "neighbor_name": "EGE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5740,
+    "neighbor_name": "GEDİZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 50704,
+    "neighbor_name": "GÖKBEL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5741,
+    "neighbor_name": "GÖKTAŞLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5718,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5682,
+    "neighbor_name": "HACIHALİLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5743,
+    "neighbor_name": "HALITLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5734,
+    "neighbor_name": "HAMZABEYLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5716,
+    "neighbor_name": "İBRAHİMÇELEBİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5738,
+    "neighbor_name": "İSHAKÇELEBI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5688,
+    "neighbor_name": "KAĞAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 50646,
+    "neighbor_name": "KALEKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5705,
+    "neighbor_name": "KALEMLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5696,
+    "neighbor_name": "KARAAĞAÇLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5683,
+    "neighbor_name": "KARAOĞLANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5732,
+    "neighbor_name": "KARAYENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5706,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5684,
+    "neighbor_name": "KIRANÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5680,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5723,
+    "neighbor_name": "KUŞLUBAHÇE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5689,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5710,
+    "neighbor_name": "NİŞANCIPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5697,
+    "neighbor_name": "NURLUPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5685,
+    "neighbor_name": "PEKER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5733,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5711,
+    "neighbor_name": "SANCAKLIBOZKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5726,
+    "neighbor_name": "SANCAKLIÇEŞMEBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5707,
+    "neighbor_name": "SANCAKLIİĞDECİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5724,
+    "neighbor_name": "SANCAKLIKAYADİBİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5703,
+    "neighbor_name": "SANCAKLIUZUNÇINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5727,
+    "neighbor_name": "SARIALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5720,
+    "neighbor_name": "SARUHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5708,
+    "neighbor_name": "SELİMŞAHLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5730,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5735,
+    "neighbor_name": "TEKELİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5692,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5695,
+    "neighbor_name": "TİLKİSÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5728,
+    "neighbor_name": "TUNCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5736,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5737,
+    "neighbor_name": "UTKU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5719,
+    "neighbor_name": "VEZİROĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5744,
+    "neighbor_name": "YARHASANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5721,
+    "neighbor_name": "YENİHARMANDALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5729,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5698,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 129,
+    "district_name": "ŞEHZADELER",
+    "neighbor_id": 5699,
+    "neighbor_name": "YUKARIÇOBANİSA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5587,
+    "neighbor_name": "AKÇAKERTİL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5593,
+    "neighbor_name": "ALTINKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5562,
+    "neighbor_name": "AŞAĞITEFEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5600,
+    "neighbor_name": "AVLAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5573,
+    "neighbor_name": "BEKİRAĞALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5588,
+    "neighbor_name": "BEYPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5576,
+    "neighbor_name": "ÇALIKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5560,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5591,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5586,
+    "neighbor_name": "ÇAMPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5607,
+    "neighbor_name": "ÇAMYAYLA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5582,
+    "neighbor_name": "ÇANŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5578,
+    "neighbor_name": "ÇIKRIKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5567,
+    "neighbor_name": "ÇİNAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5592,
+    "neighbor_name": "ÇORTAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5601,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5574,
+    "neighbor_name": "DUMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5564,
+    "neighbor_name": "ESKİCAMİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5584,
+    "neighbor_name": "ESKİN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5608,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5566,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5579,
+    "neighbor_name": "HACIHALİLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5557,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5558,
+    "neighbor_name": "HALILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5594,
+    "neighbor_name": "HAVAOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5603,
+    "neighbor_name": "İNNİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5609,
+    "neighbor_name": "KABAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5595,
+    "neighbor_name": "KARABEYLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5589,
+    "neighbor_name": "KARAKOZAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5581,
+    "neighbor_name": "KARASELENDİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5565,
+    "neighbor_name": "KARATAŞTERZİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5563,
+    "neighbor_name": "KARŞIOVA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5580,
+    "neighbor_name": "KAYRANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5606,
+    "neighbor_name": "KAZIKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5559,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5553,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5604,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5596,
+    "neighbor_name": "KÜRKÇÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5571,
+    "neighbor_name": "MIDIKLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5554,
+    "neighbor_name": "MOLLAAHMETLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5597,
+    "neighbor_name": "OMURLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5605,
+    "neighbor_name": "PINARLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5572,
+    "neighbor_name": "RAHMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5590,
+    "neighbor_name": "SELMANHACILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5561,
+    "neighbor_name": "ŞEHİRLİOĞLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5583,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5569,
+    "neighbor_name": "TAVAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5555,
+    "neighbor_name": "TEPEYNİHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5585,
+    "neighbor_name": "TURPÇU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5602,
+    "neighbor_name": "YAĞCI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5577,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5598,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5570,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5568,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5556,
+    "neighbor_name": "YUKARITEFEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5599,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 127,
+    "district_name": "SELENDİ",
+    "neighbor_id": 5575,
+    "neighbor_name": "ZIRAMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5657,
+    "neighbor_name": "ADİL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5624,
+    "neighbor_name": "AKÇAAVLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5641,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5672,
+    "neighbor_name": "AVDAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5654,
+    "neighbor_name": "BAYAT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5620,
+    "neighbor_name": "BEYCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5625,
+    "neighbor_name": "BONCUKLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5611,
+    "neighbor_name": "BOZARMUT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5634,
+    "neighbor_name": "BÜYÜK GÜNEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5655,
+    "neighbor_name": "BÜYÜK IŞIKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5638,
+    "neighbor_name": "CENKYERİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5673,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5612,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5645,
+    "neighbor_name": "ÇATALÇAM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5666,
+    "neighbor_name": "ÇAVDIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5619,
+    "neighbor_name": "ÇEVİRCEK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5629,
+    "neighbor_name": "DARKALE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5643,
+    "neighbor_name": "DENİŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5661,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5677,
+    "neighbor_name": "DEVLETHAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5639,
+    "neighbor_name": "DUALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5667,
+    "neighbor_name": "DUĞLA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5674,
+    "neighbor_name": "EĞNEZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5646,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5670,
+    "neighbor_name": "GÖKTAŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5678,
+    "neighbor_name": "HACIYUSUF MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5640,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5668,
+    "neighbor_name": "HAMİDİYE (MERKEZ) MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5635,
+    "neighbor_name": "HATUN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5656,
+    "neighbor_name": "HECİZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5649,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5628,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5623,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5636,
+    "neighbor_name": "KAPLAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5642,
+    "neighbor_name": "KARACAHİSAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5613,
+    "neighbor_name": "KARACAKAŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5662,
+    "neighbor_name": "KARAÇAM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5630,
+    "neighbor_name": "KARAMANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5610,
+    "neighbor_name": "KAYRAKALTI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5679,
+    "neighbor_name": "KIZILÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5658,
+    "neighbor_name": "KİRAZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 50582,
+    "neighbor_name": "KOBAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5616,
+    "neighbor_name": "KOYUNDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5669,
+    "neighbor_name": "KOZANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5675,
+    "neighbor_name": "KOZLUÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5644,
+    "neighbor_name": "KUM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5647,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5617,
+    "neighbor_name": "KÜÇÜK GÜNEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5664,
+    "neighbor_name": "MENTEŞE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5618,
+    "neighbor_name": "NALDÖKEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5648,
+    "neighbor_name": "NAMAZGAH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5621,
+    "neighbor_name": "NİHAT DANIŞMAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5650,
+    "neighbor_name": "ONÜÇ EYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5626,
+    "neighbor_name": "PİRAHMET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5651,
+    "neighbor_name": "SAMSACI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5631,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5632,
+    "neighbor_name": "SEVİŞLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5627,
+    "neighbor_name": "SÖĞÜTÇÜK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5671,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5676,
+    "neighbor_name": "TABANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5652,
+    "neighbor_name": "TEKELİ IŞIKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5614,
+    "neighbor_name": "TURGUTALP MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5622,
+    "neighbor_name": "TÜRKALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5615,
+    "neighbor_name": "TÜRKPİYALA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5653,
+    "neighbor_name": "ULARCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5663,
+    "neighbor_name": "URUZLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5660,
+    "neighbor_name": "VAKIFLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5637,
+    "neighbor_name": "YAĞCILI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5659,
+    "neighbor_name": "YAYLADALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5665,
+    "neighbor_name": "YIRCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 128,
+    "district_name": "SOMA",
+    "neighbor_id": 5633,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6445,
+    "neighbor_name": "ACARLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6458,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6446,
+    "neighbor_name": "AKKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6476,
+    "neighbor_name": "ALBAYRAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6451,
+    "neighbor_name": "ALTAY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6452,
+    "neighbor_name": "AŞAĞIBOZKIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6434,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6479,
+    "neighbor_name": "AVŞAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6447,
+    "neighbor_name": "AYVACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6473,
+    "neighbor_name": "BAKTIRLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6484,
+    "neighbor_name": "BOZKIR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6480,
+    "neighbor_name": "BOZKURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6427,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6444,
+    "neighbor_name": "ÇAMPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6483,
+    "neighbor_name": "ÇATALKÖPRÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6471,
+    "neighbor_name": "ÇEPNİBEKTAŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6462,
+    "neighbor_name": "ÇEPNİDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6433,
+    "neighbor_name": "ÇIKRIKÇI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6455,
+    "neighbor_name": "DAĞYENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6463,
+    "neighbor_name": "DALBAHÇE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6486,
+    "neighbor_name": "DERBENT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6456,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6468,
+    "neighbor_name": "GÖKGEDİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6482,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6435,
+    "neighbor_name": "HACIİSALAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6459,
+    "neighbor_name": "IRLAMAZ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6441,
+    "neighbor_name": "İSTASYONALTI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6472,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6457,
+    "neighbor_name": "İZZETTİN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6436,
+    "neighbor_name": "KABAÇINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6428,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6464,
+    "neighbor_name": "KARAOLUK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6448,
+    "neighbor_name": "KAYRAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6429,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6477,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6478,
+    "neighbor_name": "KUŞLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6449,
+    "neighbor_name": "MUSACALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6437,
+    "neighbor_name": "MUSALARYENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6439,
+    "neighbor_name": "MUSTAFA KEMAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6430,
+    "neighbor_name": "OSMANCIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6450,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6454,
+    "neighbor_name": "ÖZYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6465,
+    "neighbor_name": "SARIBEY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6438,
+    "neighbor_name": "SELVİLİTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6474,
+    "neighbor_name": "SİNİRLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6442,
+    "neighbor_name": "SİVRİCE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6466,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6485,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6460,
+    "neighbor_name": "TEMREK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6440,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6431,
+    "neighbor_name": "TURGUTLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6469,
+    "neighbor_name": "URGANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6467,
+    "neighbor_name": "YAKUPLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6461,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6475,
+    "neighbor_name": "YEDİ EYLÜL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6432,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6426,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6470,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6453,
+    "neighbor_name": "YILMAZLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6481,
+    "neighbor_name": "YİĞİTLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 141,
+    "district_name": "TURGUTLU",
+    "neighbor_id": 6443,
+    "neighbor_name": "YUNUSDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6527,
+    "neighbor_name": "50.YIL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6541,
+    "neighbor_name": "75. YIL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6487,
+    "neighbor_name": "AKÇAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6512,
+    "neighbor_name": "AKGEDİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6497,
+    "neighbor_name": "AKMESCİT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6498,
+    "neighbor_name": "ASMACIK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6535,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6538,
+    "neighbor_name": "AVDAL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6550,
+    "neighbor_name": "AYNİ ALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6503,
+    "neighbor_name": "BAĞYOLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6499,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6567,
+    "neighbor_name": "BEYDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6542,
+    "neighbor_name": "BOSTANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6522,
+    "neighbor_name": "BÜYÜKSÜMBÜLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6528,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6492,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6493,
+    "neighbor_name": "DAVUTLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6504,
+    "neighbor_name": "DAZYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6505,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6543,
+    "neighbor_name": "DURASILLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6500,
+    "neighbor_name": "DÜZLEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6551,
+    "neighbor_name": "EMLAKDERE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6513,
+    "neighbor_name": "EVRENOS MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6488,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6506,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6552,
+    "neighbor_name": "GÜLBAHÇE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6529,
+    "neighbor_name": "GÜRLE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6507,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6572,
+    "neighbor_name": "HAFSA SULTAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6526,
+    "neighbor_name": "İLYASÇILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6514,
+    "neighbor_name": "KARAAHMETLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6568,
+    "neighbor_name": "KARAALİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6515,
+    "neighbor_name": "KARAHÜSEYİNLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6508,
+    "neighbor_name": "KARAKILIÇLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6530,
+    "neighbor_name": "KARAKOCA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6494,
+    "neighbor_name": "KARAVELİLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6536,
+    "neighbor_name": "KARAYAĞCIHACILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6548,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6569,
+    "neighbor_name": "KAYNAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6509,
+    "neighbor_name": "KEÇİLİ KÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6516,
+    "neighbor_name": "KIŞLAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6563,
+    "neighbor_name": "KOCAKORU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6501,
+    "neighbor_name": "KORUKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6539,
+    "neighbor_name": "KOZAKLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6564,
+    "neighbor_name": "KUYUALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6570,
+    "neighbor_name": "KÜÇÜKBELEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6495,
+    "neighbor_name": "KÜÇÜKSÜMBÜLLER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6523,
+    "neighbor_name": "LALAPAŞA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6517,
+    "neighbor_name": "LALELİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6524,
+    "neighbor_name": "MALDAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6549,
+    "neighbor_name": "MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6518,
+    "neighbor_name": "MERKEZ EFENDİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6544,
+    "neighbor_name": "MESİR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6489,
+    "neighbor_name": "MOLLASÜLEYMANLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6531,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6571,
+    "neighbor_name": "MUTLU MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6557,
+    "neighbor_name": "MÜSLİH MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6554,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6490,
+    "neighbor_name": "OSMANCALI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6545,
+    "neighbor_name": "OTMANLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6575,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6547,
+    "neighbor_name": "ÖRSELLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6525,
+    "neighbor_name": "PELİTALAN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6502,
+    "neighbor_name": "PINARKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6540,
+    "neighbor_name": "RECEPLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6558,
+    "neighbor_name": "SAKALLI MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6511,
+    "neighbor_name": "SARIAHMETLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6546,
+    "neighbor_name": "SARINASUHLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6532,
+    "neighbor_name": "SARMA MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6496,
+    "neighbor_name": "SEYİTLİ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6533,
+    "neighbor_name": "SPİL MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6519,
+    "neighbor_name": "SÜMBÜLTEPE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6565,
+    "neighbor_name": "SÜNGÜLLÜ MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6534,
+    "neighbor_name": "ŞAMAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6573,
+    "neighbor_name": "TEVFİKİYE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6574,
+    "neighbor_name": "TOPÇUASIM MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6559,
+    "neighbor_name": "TURGUTALP MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6520,
+    "neighbor_name": "TÜRKMEN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6566,
+    "neighbor_name": "UNCUBOZKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6521,
+    "neighbor_name": "UZUNBURUN MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6510,
+    "neighbor_name": "UZUNLAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6562,
+    "neighbor_name": "ÜÇPINAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6491,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6537,
+    "neighbor_name": "YAYLAKÖY MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6560,
+    "neighbor_name": "YENİ MAHALLE MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6561,
+    "neighbor_name": "YUNTDAĞIKÖSELER MAH."
+  },
+  {
+    "city_id": 9,
+    "city_name": "MANİSA",
+    "district_id": 142,
+    "district_name": "YUNUSEMRE",
+    "neighbor_id": 6555,
+    "neighbor_name": "YUNTDAĞYENİCE MAH."
+  }
+]

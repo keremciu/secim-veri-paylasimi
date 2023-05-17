@@ -1,0 +1,7426 @@
+[
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26094,
+    "neighbor_name": "EREK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26041,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26077,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26050,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26072,
+    "neighbor_name": "ÖTÜKENT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26045,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26078,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-AKARÇAY ARMUTALAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26079,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-AKARÇAY İSTİKLAL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26084,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-AKARÇAY ŞEHİT TURAN YILDIZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26047,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-AKARÇAY ŞENYURT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26097,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-ATATÜRK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26060,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26057,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26101,
+    "neighbor_name": "AKARÇAY GÖRÜMLÜ-ŞEHİT TUNCAY ÇOBAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26102,
+    "neighbor_name": "ATAKÖY-ATA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26070,
+    "neighbor_name": "ATAKÖY-BAHÇEKÖY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26085,
+    "neighbor_name": "ATAKÖY-ÇAMBULAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26103,
+    "neighbor_name": "ATAKÖY-KATRANLIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26080,
+    "neighbor_name": "ATAKÖY-KURUSEKİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26040,
+    "neighbor_name": "ATAKÖY-SAĞIRLAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26052,
+    "neighbor_name": "ATAKÖY-YENİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26065,
+    "neighbor_name": "ÇEVRELİ-AYDINLAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26082,
+    "neighbor_name": "ÇEVRELİ-BİRLİK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26039,
+    "neighbor_name": "ÇEVRELİ-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26042,
+    "neighbor_name": "GÖLGELİ-ATATÜRK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26054,
+    "neighbor_name": "GÖLGELİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26044,
+    "neighbor_name": "GÖLGELİ-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26086,
+    "neighbor_name": "GÖLGELİ-SALKAVAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26076,
+    "neighbor_name": "KINIK-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26059,
+    "neighbor_name": "KINIK-GEVREK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26067,
+    "neighbor_name": "KINIK-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26068,
+    "neighbor_name": "KINIK-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26046,
+    "neighbor_name": "KINIK-YUVAKÖY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26092,
+    "neighbor_name": "ALANKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26048,
+    "neighbor_name": "ARISU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26043,
+    "neighbor_name": "BABAKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26053,
+    "neighbor_name": "BAĞTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26049,
+    "neighbor_name": "BAKIMLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26081,
+    "neighbor_name": "CİHET KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26063,
+    "neighbor_name": "ÇAMDALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26096,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26064,
+    "neighbor_name": "ÇAYKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26083,
+    "neighbor_name": "ÇAYKIYI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26051,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26091,
+    "neighbor_name": "ÇİLEHANE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26098,
+    "neighbor_name": "DEĞERYER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26093,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26073,
+    "neighbor_name": "DİKİLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26071,
+    "neighbor_name": "DURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26058,
+    "neighbor_name": "GEBELİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26074,
+    "neighbor_name": "GÖLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26075,
+    "neighbor_name": "GÜMELEÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26061,
+    "neighbor_name": "HUBYAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26099,
+    "neighbor_name": "KAPICI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26087,
+    "neighbor_name": "KARADERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26089,
+    "neighbor_name": "KIZILELMA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26062,
+    "neighbor_name": "KOLKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26055,
+    "neighbor_name": "MESCİTKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26095,
+    "neighbor_name": "OĞULBEY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26100,
+    "neighbor_name": "ORMANDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26069,
+    "neighbor_name": "SAHİLKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26088,
+    "neighbor_name": "SARIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26056,
+    "neighbor_name": "SERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26090,
+    "neighbor_name": "TEKNECİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 525,
+    "district_name": "ALMUS",
+    "neighbor_id": 26066,
+    "neighbor_name": "ÜÇGÖL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25537,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25541,
+    "neighbor_name": "ALTINOVA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 50819,
+    "neighbor_name": "ÇELİKLİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25531,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 50887,
+    "neighbor_name": "İĞDİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25563,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25533,
+    "neighbor_name": "KIZILCA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25559,
+    "neighbor_name": "AĞMUSA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25536,
+    "neighbor_name": "AHMETDANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25555,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25545,
+    "neighbor_name": "AŞAĞIGÜÇLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25560,
+    "neighbor_name": "BAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25548,
+    "neighbor_name": "BEBEKDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25538,
+    "neighbor_name": "BOYUNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25542,
+    "neighbor_name": "DEVECİKARGIN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25556,
+    "neighbor_name": "EVLİDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25532,
+    "neighbor_name": "GAZİPINARI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25543,
+    "neighbor_name": "GÜMÜŞYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25557,
+    "neighbor_name": "GÜRARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25551,
+    "neighbor_name": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25539,
+    "neighbor_name": "KUNDUZAĞILI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25549,
+    "neighbor_name": "KUNDUZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25546,
+    "neighbor_name": "MERTEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25552,
+    "neighbor_name": "POYRAZALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25553,
+    "neighbor_name": "SAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25540,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25544,
+    "neighbor_name": "TANYELİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25547,
+    "neighbor_name": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25534,
+    "neighbor_name": "TUZLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25554,
+    "neighbor_name": "ULUSULU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25561,
+    "neighbor_name": "YAĞCIMUSA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25550,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 518,
+    "district_name": "ARTOVA",
+    "neighbor_id": 25562,
+    "neighbor_name": "YUKARIGÜÇLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25569,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25571,
+    "neighbor_name": "GENÇOSMAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25576,
+    "neighbor_name": "KARACAÖREN ALİBABA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25577,
+    "neighbor_name": "KARACAÖREN AŞIROĞLU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25572,
+    "neighbor_name": "KARACAÖREN GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25578,
+    "neighbor_name": "SİNANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25573,
+    "neighbor_name": "HATİPLİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25574,
+    "neighbor_name": "HATİPLİ-FATİH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25575,
+    "neighbor_name": "HATİPLİ-GENÇOSMAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25568,
+    "neighbor_name": "ALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25564,
+    "neighbor_name": "AYDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25570,
+    "neighbor_name": "DAĞÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25565,
+    "neighbor_name": "ERİKBELEN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25566,
+    "neighbor_name": "SARIAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 519,
+    "district_name": "BAŞÇİFTLİK",
+    "neighbor_id": 25567,
+    "neighbor_name": "ŞAHNAALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25651,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25671,
+    "neighbor_name": "ALACABAL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25585,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25658,
+    "neighbor_name": "EREK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25659,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25684,
+    "neighbor_name": "EVYABA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25579,
+    "neighbor_name": "FATİHSULTANMEHMET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25586,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25602,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25582,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25686,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25653,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25622,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25587,
+    "neighbor_name": "KELKİT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25591,
+    "neighbor_name": "KURUÇAY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25610,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25656,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25624,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25682,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25652,
+    "neighbor_name": "YAVUZSULTANSELİM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25690,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25669,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25650,
+    "neighbor_name": "YILDIRIMBEYAZIT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25592,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25600,
+    "neighbor_name": "ZİYAGÖKALP MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25636,
+    "neighbor_name": "GÖKAL-ALPARSLAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25679,
+    "neighbor_name": "GÖKAL-ÇERMİK KAPLICA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25646,
+    "neighbor_name": "GÖKAL-FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25590,
+    "neighbor_name": "GÖKAL-GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25660,
+    "neighbor_name": "GÖKAL-GÜLDERE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25663,
+    "neighbor_name": "GÖKAL-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25675,
+    "neighbor_name": "GÖKAL-SÜTLÜCE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25614,
+    "neighbor_name": "GÖKAL-YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25685,
+    "neighbor_name": "GÖKAL-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25621,
+    "neighbor_name": "KARAYAKA-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25631,
+    "neighbor_name": "KARAYAKA-HÜRMÜZLÜ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25654,
+    "neighbor_name": "KARAYAKA-ORTA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25638,
+    "neighbor_name": "KARAYAKA-TEPE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25607,
+    "neighbor_name": "KARAYAKA-YUKARI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25608,
+    "neighbor_name": "TANOBA-AKKOÇ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25688,
+    "neighbor_name": "TANOBA-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25667,
+    "neighbor_name": "TANOBA-ÇANKAYA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25642,
+    "neighbor_name": "TANOBA-FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25599,
+    "neighbor_name": "TANOBA-GÜRPINAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25596,
+    "neighbor_name": "AĞCAALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25662,
+    "neighbor_name": "AĞCAKEÇİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25648,
+    "neighbor_name": "AKÇA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25580,
+    "neighbor_name": "AKGÜN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25678,
+    "neighbor_name": "ALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25588,
+    "neighbor_name": "AŞAĞIÇANDIR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25625,
+    "neighbor_name": "AYAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25619,
+    "neighbor_name": "AYDINSOFU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25584,
+    "neighbor_name": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25593,
+    "neighbor_name": "BALLIBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25594,
+    "neighbor_name": "BENLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25617,
+    "neighbor_name": "BEYKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25672,
+    "neighbor_name": "CANBOLAT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25657,
+    "neighbor_name": "CİBRİL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25597,
+    "neighbor_name": "ÇAKIR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25601,
+    "neighbor_name": "ÇALKARA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25691,
+    "neighbor_name": "ÇAMDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25628,
+    "neighbor_name": "ÇATALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25613,
+    "neighbor_name": "ÇERKEZFINDICAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25611,
+    "neighbor_name": "ÇEŞMELİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25666,
+    "neighbor_name": "ÇEVRESU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25589,
+    "neighbor_name": "DEĞİRMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25634,
+    "neighbor_name": "DEMİRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25606,
+    "neighbor_name": "DOĞANYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25665,
+    "neighbor_name": "DOKUZÇAM KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25644,
+    "neighbor_name": "ENDİKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25645,
+    "neighbor_name": "ENGELLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25609,
+    "neighbor_name": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25694,
+    "neighbor_name": "ERMEYDANI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25637,
+    "neighbor_name": "ERYABA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25635,
+    "neighbor_name": "EVCİLER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25629,
+    "neighbor_name": "EZEBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25618,
+    "neighbor_name": "GÖLÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25632,
+    "neighbor_name": "GÜMÜŞALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25649,
+    "neighbor_name": "GÜVEÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25581,
+    "neighbor_name": "HACIALİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25681,
+    "neighbor_name": "HACIBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25676,
+    "neighbor_name": "HACIPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25683,
+    "neighbor_name": "İKİZCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25643,
+    "neighbor_name": "İVERÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25630,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25664,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25603,
+    "neighbor_name": "KARTOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25640,
+    "neighbor_name": "KAVALCIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25595,
+    "neighbor_name": "KEÇECİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25626,
+    "neighbor_name": "KIRIKGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25639,
+    "neighbor_name": "KIZILÇUBUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25687,
+    "neighbor_name": "KOÇAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25615,
+    "neighbor_name": "KOZLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25661,
+    "neighbor_name": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25680,
+    "neighbor_name": "KUZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25655,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25641,
+    "neighbor_name": "MADENLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25627,
+    "neighbor_name": "MEYDANDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25620,
+    "neighbor_name": "NARLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25623,
+    "neighbor_name": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25673,
+    "neighbor_name": "OĞLAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25604,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25695,
+    "neighbor_name": "PINARBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25598,
+    "neighbor_name": "SALKIMÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25677,
+    "neighbor_name": "SOKUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25633,
+    "neighbor_name": "ŞÜKÜR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25696,
+    "neighbor_name": "TANDIRLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25692,
+    "neighbor_name": "TEPEKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25583,
+    "neighbor_name": "TOSUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25668,
+    "neighbor_name": "TÜRKFINDICAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25605,
+    "neighbor_name": "USTAMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25693,
+    "neighbor_name": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25674,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25689,
+    "neighbor_name": "YAYLALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25647,
+    "neighbor_name": "YOLDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25670,
+    "neighbor_name": "YUKARIÇANDIR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25616,
+    "neighbor_name": "YURDALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 520,
+    "district_name": "ERBAA",
+    "neighbor_id": 25612,
+    "neighbor_name": "ZOĞALLIÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25799,
+    "neighbor_name": "50.YIL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25697,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25788,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25764,
+    "neighbor_name": "AYVAZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25736,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25718,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25784,
+    "neighbor_name": "BENGİLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25779,
+    "neighbor_name": "CEDİT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25733,
+    "neighbor_name": "CEPNİBEY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25729,
+    "neighbor_name": "ÇENGELLİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 50151,
+    "neighbor_name": "DÖNEKSE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25769,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25813,
+    "neighbor_name": "GAZİAHMET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25765,
+    "neighbor_name": "G.OSMANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25771,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 50072,
+    "neighbor_name": "HAYDERBEY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25793,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25796,
+    "neighbor_name": "KAYAPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25760,
+    "neighbor_name": "KILIÇARSLAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25746,
+    "neighbor_name": "KIRKKIZLAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 50144,
+    "neighbor_name": "KUMÇİFTLİK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25798,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25800,
+    "neighbor_name": "MELİKGAZİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25791,
+    "neighbor_name": "ŞAİR EMRAH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25819,
+    "neighbor_name": "YUSUFŞAH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25814,
+    "neighbor_name": "GÖKÇELİ-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25815,
+    "neighbor_name": "GÖKÇELİ-BALLICA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25766,
+    "neighbor_name": "GÖKÇELİ-GÖZPINAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25722,
+    "neighbor_name": "GÖKÇELİ-YAKINCA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25723,
+    "neighbor_name": "GÖKÇELİ-YENİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 50069,
+    "neighbor_name": "GÜRÇEŞME-BUZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25773,
+    "neighbor_name": "GÜRÇEŞME-ESKİDİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25745,
+    "neighbor_name": "GÜRÇEŞME-GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25806,
+    "neighbor_name": "GÜRÇEŞME-YAPRAKLI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25775,
+    "neighbor_name": "SERENLİ-AYVAKÖY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25762,
+    "neighbor_name": "SERENLİ-BEYAZIT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25702,
+    "neighbor_name": "SERENLİ-FATİH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25734,
+    "neighbor_name": "SERENLİ-GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25818,
+    "neighbor_name": "SERENLİ-TAMLAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25776,
+    "neighbor_name": "YAZICIK-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25822,
+    "neighbor_name": "YAZICIK-ŞAFAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25750,
+    "neighbor_name": "YAZICIK-YENİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25726,
+    "neighbor_name": "YAZICIK-YEŞİLÇAM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25777,
+    "neighbor_name": "YOLKONAK-HASYER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25707,
+    "neighbor_name": "YOLKONAK-KATİPGÖLÜ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25735,
+    "neighbor_name": "YOLKONAK-MERKEZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25772,
+    "neighbor_name": "YOLKONAK-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25803,
+    "neighbor_name": "AKGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25717,
+    "neighbor_name": "AKINCI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25724,
+    "neighbor_name": "ARAKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25794,
+    "neighbor_name": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25721,
+    "neighbor_name": "ARIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25787,
+    "neighbor_name": "ARPAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25816,
+    "neighbor_name": "ASAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25823,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25712,
+    "neighbor_name": "BAYRAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25778,
+    "neighbor_name": "BEYÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25804,
+    "neighbor_name": "BİLGİLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25811,
+    "neighbor_name": "BOYLUCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25817,
+    "neighbor_name": "BOZCAARMUT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25704,
+    "neighbor_name": "BUDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25727,
+    "neighbor_name": "BÜYÜKYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25698,
+    "neighbor_name": "CAMİDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25812,
+    "neighbor_name": "CERKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25740,
+    "neighbor_name": "ÇALCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25743,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25786,
+    "neighbor_name": "ÇAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25747,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25708,
+    "neighbor_name": "ÇİMENÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25709,
+    "neighbor_name": "DALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25741,
+    "neighbor_name": "DERİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25705,
+    "neighbor_name": "DİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25805,
+    "neighbor_name": "EDİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25824,
+    "neighbor_name": "ERYABA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25699,
+    "neighbor_name": "ESENCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25744,
+    "neighbor_name": "EYNEAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25758,
+    "neighbor_name": "GERİT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25730,
+    "neighbor_name": "GEYİKGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25731,
+    "neighbor_name": "GÖKÇEOLUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25710,
+    "neighbor_name": "GÜDÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25737,
+    "neighbor_name": "GÜLBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25789,
+    "neighbor_name": "GÜLEBİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25780,
+    "neighbor_name": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25808,
+    "neighbor_name": "GÜNEBAKAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25770,
+    "neighbor_name": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25759,
+    "neighbor_name": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25752,
+    "neighbor_name": "GÜZELYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25753,
+    "neighbor_name": "HACILI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25785,
+    "neighbor_name": "HANYERİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25713,
+    "neighbor_name": "HÜSEYİNGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25795,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25725,
+    "neighbor_name": "KAPIAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25714,
+    "neighbor_name": "KARABODUR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25749,
+    "neighbor_name": "KARAKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25809,
+    "neighbor_name": "KAŞIKCI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25739,
+    "neighbor_name": "KİRACI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25797,
+    "neighbor_name": "KORULU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25715,
+    "neighbor_name": "KÖKLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25781,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25754,
+    "neighbor_name": "KÜMBETLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25792,
+    "neighbor_name": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25767,
+    "neighbor_name": "MERCİMEKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25719,
+    "neighbor_name": "MEZRA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25706,
+    "neighbor_name": "MUHTARDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25768,
+    "neighbor_name": "MUSAPINARI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25774,
+    "neighbor_name": "MUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25820,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25782,
+    "neighbor_name": "ORMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25742,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25751,
+    "neighbor_name": "ÖRENLER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25826,
+    "neighbor_name": "ÖZALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25790,
+    "neighbor_name": "ÖZVEREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25810,
+    "neighbor_name": "PELİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25825,
+    "neighbor_name": "SARIYAZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25763,
+    "neighbor_name": "SORHUN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25720,
+    "neighbor_name": "SULUGÖL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25783,
+    "neighbor_name": "ŞAHİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25703,
+    "neighbor_name": "ŞIHLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25821,
+    "neighbor_name": "TAHTALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25755,
+    "neighbor_name": "TEKNEALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25716,
+    "neighbor_name": "TEPEYATAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25761,
+    "neighbor_name": "TERZİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25802,
+    "neighbor_name": "UMURLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25748,
+    "neighbor_name": "USTAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25700,
+    "neighbor_name": "YALIKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25801,
+    "neighbor_name": "YARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25756,
+    "neighbor_name": "YEŞİLHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25728,
+    "neighbor_name": "YEŞİLKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25732,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 521,
+    "district_name": "NİKSAR",
+    "neighbor_id": 25711,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25847,
+    "neighbor_name": "ERKİLET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25830,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25853,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25839,
+    "neighbor_name": "SEYİTALİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25840,
+    "neighbor_name": "SİNANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25843,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25849,
+    "neighbor_name": "ÜZÜMÖREN-FATİH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25854,
+    "neighbor_name": "ÜZÜMÖREN-GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25837,
+    "neighbor_name": "ÜZÜMÖREN-KAZOVA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25841,
+    "neighbor_name": "ÜZÜMÖREN-MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25832,
+    "neighbor_name": "ÜZÜMÖREN-MRŞ.FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25833,
+    "neighbor_name": "ÜZÜMÖREN-YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25850,
+    "neighbor_name": "BAĞLARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25838,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25834,
+    "neighbor_name": "BEŞEVLER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25846,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25844,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25851,
+    "neighbor_name": "DEREÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25842,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25829,
+    "neighbor_name": "DOĞANCALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25827,
+    "neighbor_name": "KALEDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25852,
+    "neighbor_name": "MENTEŞE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25835,
+    "neighbor_name": "OCAKLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25848,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25831,
+    "neighbor_name": "OVAYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25845,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25828,
+    "neighbor_name": "TATARKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 522,
+    "district_name": "PAZAR",
+    "neighbor_id": 25836,
+    "neighbor_name": "TEPEÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25506,
+    "neighbor_name": "AKÇAKOLAY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 50921,
+    "neighbor_name": "ALTIPARMAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25520,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25508,
+    "neighbor_name": "ÇERMİK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25507,
+    "neighbor_name": "EMİRŞEYHYAKUP MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25428,
+    "neighbor_name": "KAYALIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25442,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25500,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25501,
+    "neighbor_name": "BAYDARLI-GÖKCESÜLEYMANLI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25488,
+    "neighbor_name": "BAYDARLI-GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25424,
+    "neighbor_name": "BAYDARLI-MEDRESE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25475,
+    "neighbor_name": "BAYDARLI-MERKEZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25513,
+    "neighbor_name": "BAYDARLI-YÜKSELİŞ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25450,
+    "neighbor_name": "BEREKETLİ-ÇAKRAZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25480,
+    "neighbor_name": "BEREKETLİ-ESKİTURAÇ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25461,
+    "neighbor_name": "BEREKETLİ-HEBÜLLÜ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25462,
+    "neighbor_name": "BEREKETLİ-KAYALIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25449,
+    "neighbor_name": "BEREKETLİ-ORTA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25516,
+    "neighbor_name": "BEREKETLİ-YENİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25429,
+    "neighbor_name": "BOZÇALI-GERDENGEÇ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25422,
+    "neighbor_name": "BOZÇALI-HACI ABİDİN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25451,
+    "neighbor_name": "BOZÇALI-IŞIKLAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25434,
+    "neighbor_name": "BOZÇALI-NİZAM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25452,
+    "neighbor_name": "BOZÇALI-ORTA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25448,
+    "neighbor_name": "BOZÇALI-ZAFER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25498,
+    "neighbor_name": "CİMİTEKKE-ALPLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25464,
+    "neighbor_name": "CİMİTEKKE-CİMİSADİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25482,
+    "neighbor_name": "CİMİTEKKE-ÇAMLIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25472,
+    "neighbor_name": "CİMİTEKKE-ERENLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25423,
+    "neighbor_name": "CİMİTEKKE-HALAÇLI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25431,
+    "neighbor_name": "CİMİTEKKE-KAVAKLIDERE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25453,
+    "neighbor_name": "CİMİTEKKE-KETENİĞİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25496,
+    "neighbor_name": "HASANŞEYH-GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25502,
+    "neighbor_name": "HASANŞEYH-GÜRPINAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25444,
+    "neighbor_name": "HASANŞEYH-HASANGAZİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25528,
+    "neighbor_name": "HASANŞEYH-KEÇİKÖY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25468,
+    "neighbor_name": "HASANŞEYH-ŞEYHLİOĞLU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25504,
+    "neighbor_name": "HASANŞEYH-TAHİRBEY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25514,
+    "neighbor_name": "HASANŞEYH-ULUKÖY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25433,
+    "neighbor_name": "ABDURRAHMANLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25493,
+    "neighbor_name": "AKDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25489,
+    "neighbor_name": "BAĞDATLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25427,
+    "neighbor_name": "BAYIRBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25511,
+    "neighbor_name": "BEŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25476,
+    "neighbor_name": "BOSTANKOLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25463,
+    "neighbor_name": "BÜŞÜRÜM KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 49504,
+    "neighbor_name": "CEMEL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25497,
+    "neighbor_name": "ÇAKIRLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25474,
+    "neighbor_name": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25494,
+    "neighbor_name": "ÇAMBALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25521,
+    "neighbor_name": "ÇAMLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25522,
+    "neighbor_name": "ÇAT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25460,
+    "neighbor_name": "ÇAVUŞBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25479,
+    "neighbor_name": "ÇAYIRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25421,
+    "neighbor_name": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25465,
+    "neighbor_name": "ÇINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25523,
+    "neighbor_name": "DALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25457,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25529,
+    "neighbor_name": "DARIDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25530,
+    "neighbor_name": "DEMİRCİLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25440,
+    "neighbor_name": "DOĞANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25438,
+    "neighbor_name": "DOLAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25439,
+    "neighbor_name": "DÖLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25509,
+    "neighbor_name": "DUTDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25467,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25470,
+    "neighbor_name": "ESENKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25527,
+    "neighbor_name": "EYMÜR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25499,
+    "neighbor_name": "EYÜP KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25503,
+    "neighbor_name": "GÖKKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25481,
+    "neighbor_name": "GÖLLÜKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25517,
+    "neighbor_name": "GURBETLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25477,
+    "neighbor_name": "GÜLBURNU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25454,
+    "neighbor_name": "GÜLKONAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25458,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25483,
+    "neighbor_name": "GÜNEYGÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25484,
+    "neighbor_name": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25524,
+    "neighbor_name": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25490,
+    "neighbor_name": "İBRAHİMŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25437,
+    "neighbor_name": "İSLAMLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25466,
+    "neighbor_name": "İSMAİLİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25485,
+    "neighbor_name": "KABALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25445,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25420,
+    "neighbor_name": "KARACAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25486,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25471,
+    "neighbor_name": "KARLIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25478,
+    "neighbor_name": "KARŞIKENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25515,
+    "neighbor_name": "KAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25487,
+    "neighbor_name": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25510,
+    "neighbor_name": "KONAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25443,
+    "neighbor_name": "KÖKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25432,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25435,
+    "neighbor_name": "KUZBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25491,
+    "neighbor_name": "KUZGÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25473,
+    "neighbor_name": "MURATKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25430,
+    "neighbor_name": "NEBİŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25495,
+    "neighbor_name": "ÖZEN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25505,
+    "neighbor_name": "ÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25446,
+    "neighbor_name": "SARAYKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25436,
+    "neighbor_name": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25469,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25455,
+    "neighbor_name": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25518,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25525,
+    "neighbor_name": "TOKLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25456,
+    "neighbor_name": "TOZANLIFINDICAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25526,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25425,
+    "neighbor_name": "UMURCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25426,
+    "neighbor_name": "YAĞSİYAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 49799,
+    "neighbor_name": "YENİ DARIDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25492,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25519,
+    "neighbor_name": "YOĞUNPELİT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25447,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 517,
+    "district_name": "REŞADİYE",
+    "neighbor_id": 25459,
+    "neighbor_name": "YUVACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25861,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25869,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 49902,
+    "neighbor_name": "MALUM SEYİT TEKKE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25865,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25862,
+    "neighbor_name": "ALANYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25871,
+    "neighbor_name": "ALPUDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25863,
+    "neighbor_name": "ARPACIKARAÇAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25872,
+    "neighbor_name": "BALIKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25868,
+    "neighbor_name": "BALLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25858,
+    "neighbor_name": "BAYAZIT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25870,
+    "neighbor_name": "BELPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25860,
+    "neighbor_name": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25867,
+    "neighbor_name": "ÇİME KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25859,
+    "neighbor_name": "ILICAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25855,
+    "neighbor_name": "SARIYAPRAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25866,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25856,
+    "neighbor_name": "TEKKEYENİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 523,
+    "district_name": "SULUSARAY",
+    "neighbor_id": 25857,
+    "neighbor_name": "UYLUBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25977,
+    "neighbor_name": "AKDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25962,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26038,
+    "neighbor_name": "ALTIYÜZEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25888,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25992,
+    "neighbor_name": "BEDESTENLİOĞLU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25947,
+    "neighbor_name": "BÜYÜK BEYBAĞI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26017,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25964,
+    "neighbor_name": "CEMALETTİN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25951,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25948,
+    "neighbor_name": "DERBENT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25971,
+    "neighbor_name": "DEVEGÖRMEZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25894,
+    "neighbor_name": "DOĞANCIBAĞLARI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26008,
+    "neighbor_name": "DOĞUKENT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26016,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25961,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25926,
+    "neighbor_name": "GEYRAS MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25924,
+    "neighbor_name": "GEZİRLİK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25903,
+    "neighbor_name": "GÜLBAHARHATUN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25931,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25880,
+    "neighbor_name": "HOCAAHMET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25937,
+    "neighbor_name": "KABE-İ MESCİD MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26013,
+    "neighbor_name": "KALEARDI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25913,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26034,
+    "neighbor_name": "KAŞIKCIBAĞLARI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25914,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25995,
+    "neighbor_name": "KÜÇÜKBEY BAĞI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25900,
+    "neighbor_name": "KÜMBET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25932,
+    "neighbor_name": "MAHMUTPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25915,
+    "neighbor_name": "MEHMETPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25966,
+    "neighbor_name": "OĞULBEY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26006,
+    "neighbor_name": "ÖRTMELİÖNÜ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25881,
+    "neighbor_name": "PERAKENDE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25975,
+    "neighbor_name": "SEMERKANT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25950,
+    "neighbor_name": "SEYİTNECMETTİN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25979,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25976,
+    "neighbor_name": "TOPÇAM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25986,
+    "neighbor_name": "TOPÇUBAĞI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26015,
+    "neighbor_name": "YARAHMET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25980,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25998,
+    "neighbor_name": "YENİYURT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25891,
+    "neighbor_name": "YEŞİLIRMAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25938,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 49767,
+    "neighbor_name": "ÇAMLIBEL-AKIN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26011,
+    "neighbor_name": "ÇAMLIBEL-AKTEPE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25981,
+    "neighbor_name": "ÇAMLIBEL-BEHRAM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25982,
+    "neighbor_name": "ÇAMLIBEL-ÇEKEREK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25939,
+    "neighbor_name": "ÇAMLIBEL-KARASU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25887,
+    "neighbor_name": "ÇAMLIBEL-YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25919,
+    "neighbor_name": "ÇAT-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25991,
+    "neighbor_name": "ÇAT-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25899,
+    "neighbor_name": "ÇAT-MERKEZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26020,
+    "neighbor_name": "EMİRSEYİT-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25987,
+    "neighbor_name": "EMİRSEYİT-BOZATALAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25996,
+    "neighbor_name": "EMİRSEYİT-GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25997,
+    "neighbor_name": "GÜRYILDIZ-ALİ YÜCEL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25965,
+    "neighbor_name": "GÜRYILDIZ-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25876,
+    "neighbor_name": "GÜRYILDIZ-KANALALTI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25972,
+    "neighbor_name": "GÜRYILDIZ-KÜÇÜKYILDIZ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25911,
+    "neighbor_name": "GÜRYILDIZ-ŞHT.ABDULLAH ÖZER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25946,
+    "neighbor_name": "ACIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25940,
+    "neighbor_name": "AHMETALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25952,
+    "neighbor_name": "AKBELEN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26012,
+    "neighbor_name": "AKYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26007,
+    "neighbor_name": "AKYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25935,
+    "neighbor_name": "ALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26002,
+    "neighbor_name": "ALTUNTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26030,
+    "neighbor_name": "ALUÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26024,
+    "neighbor_name": "AŞAĞIFIRINDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25984,
+    "neighbor_name": "AVLUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25963,
+    "neighbor_name": "AVŞARAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26028,
+    "neighbor_name": "AYDINCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25928,
+    "neighbor_name": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25936,
+    "neighbor_name": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26003,
+    "neighbor_name": "BAKIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26004,
+    "neighbor_name": "BALLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25925,
+    "neighbor_name": "BATMANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25893,
+    "neighbor_name": "BEDİRKALE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25908,
+    "neighbor_name": "BEŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26005,
+    "neighbor_name": "BİNECEK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25901,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25917,
+    "neighbor_name": "BULA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25889,
+    "neighbor_name": "BÜYÜKBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25897,
+    "neighbor_name": "BÜYÜKYILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25968,
+    "neighbor_name": "ÇAMAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25990,
+    "neighbor_name": "ÇAMALTI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25923,
+    "neighbor_name": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26023,
+    "neighbor_name": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25918,
+    "neighbor_name": "ÇATALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25960,
+    "neighbor_name": "ÇAYÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25892,
+    "neighbor_name": "ÇERÇİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25955,
+    "neighbor_name": "ÇERDİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25878,
+    "neighbor_name": "ÇÖKELİKKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26000,
+    "neighbor_name": "ÇÖRDÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25970,
+    "neighbor_name": "ÇÖREĞİBÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25934,
+    "neighbor_name": "ÇUBUKLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25929,
+    "neighbor_name": "DAYLIHACI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25879,
+    "neighbor_name": "DEDELİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25910,
+    "neighbor_name": "DEREAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25949,
+    "neighbor_name": "DEREKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25883,
+    "neighbor_name": "DEREYAKA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25902,
+    "neighbor_name": "DODURGA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26018,
+    "neighbor_name": "DÖLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26031,
+    "neighbor_name": "EFE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26019,
+    "neighbor_name": "EKİNCİLİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25999,
+    "neighbor_name": "ESKİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25875,
+    "neighbor_name": "EZE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25956,
+    "neighbor_name": "GAZİOSMANPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25927,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25884,
+    "neighbor_name": "GÖKÇEYOL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25882,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25895,
+    "neighbor_name": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26032,
+    "neighbor_name": "GÖZOVA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25904,
+    "neighbor_name": "GÜĞÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25873,
+    "neighbor_name": "GÜLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26021,
+    "neighbor_name": "GÜMENEK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25885,
+    "neighbor_name": "GÜNÇALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25930,
+    "neighbor_name": "GÜNEVİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25957,
+    "neighbor_name": "GÜZELCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25993,
+    "neighbor_name": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26033,
+    "neighbor_name": "HALİLALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25978,
+    "neighbor_name": "HANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26022,
+    "neighbor_name": "HASANBABA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25945,
+    "neighbor_name": "İHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25912,
+    "neighbor_name": "KABAKBOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25941,
+    "neighbor_name": "KADIVAKFI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25890,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25905,
+    "neighbor_name": "KARKINCIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25973,
+    "neighbor_name": "KARKIN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26009,
+    "neighbor_name": "KEMALPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25974,
+    "neighbor_name": "KERVANSARAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25906,
+    "neighbor_name": "KEŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25988,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26010,
+    "neighbor_name": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25953,
+    "neighbor_name": "KIZILKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25920,
+    "neighbor_name": "KIZILÖZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26035,
+    "neighbor_name": "KİLLİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25994,
+    "neighbor_name": "KOCACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25985,
+    "neighbor_name": "KÖMEÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25942,
+    "neighbor_name": "KÜÇÜKBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25943,
+    "neighbor_name": "MADAS KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26027,
+    "neighbor_name": "MUSULLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25989,
+    "neighbor_name": "MÜLK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25896,
+    "neighbor_name": "NEBİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25916,
+    "neighbor_name": "ORMANBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25907,
+    "neighbor_name": "ORTAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25958,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26036,
+    "neighbor_name": "SARITARLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25921,
+    "neighbor_name": "SEMERCİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25886,
+    "neighbor_name": "SEVİNDİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25877,
+    "neighbor_name": "SIRÇALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26014,
+    "neighbor_name": "SÖNGÜT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25983,
+    "neighbor_name": "ŞEHİTLER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26001,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25967,
+    "neighbor_name": "TAHTUBA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25922,
+    "neighbor_name": "TAŞLIÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26029,
+    "neighbor_name": "TEKNELİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25874,
+    "neighbor_name": "UĞRAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25909,
+    "neighbor_name": "ULAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26025,
+    "neighbor_name": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25898,
+    "neighbor_name": "YAKACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25944,
+    "neighbor_name": "YATMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26037,
+    "neighbor_name": "YAYLADALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25959,
+    "neighbor_name": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25933,
+    "neighbor_name": "YELPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 25954,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 524,
+    "district_name": "TOKAT MERKEZ",
+    "neighbor_id": 26026,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25257,
+    "neighbor_name": "BAHAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25248,
+    "neighbor_name": "BORSA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25195,
+    "neighbor_name": "BOYACILAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25180,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25209,
+    "neighbor_name": "CELAL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25230,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25220,
+    "neighbor_name": "ÇEVLİKLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25210,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25242,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25243,
+    "neighbor_name": "GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25190,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25188,
+    "neighbor_name": "GÜNEŞ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25178,
+    "neighbor_name": "GÜRSEL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25179,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25218,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25192,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25252,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25173,
+    "neighbor_name": "KOVA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25254,
+    "neighbor_name": "MARAŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25211,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25199,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25212,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25175,
+    "neighbor_name": "MÜFTÜ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25176,
+    "neighbor_name": "NURKAVAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25213,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25234,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25224,
+    "neighbor_name": "RAY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25241,
+    "neighbor_name": "VARVARA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25255,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25231,
+    "neighbor_name": "YEŞİLIRMAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25245,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25215,
+    "neighbor_name": "ŞENYURT-ASARCIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25193,
+    "neighbor_name": "ŞENYURT-KARAEVLİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25205,
+    "neighbor_name": "ŞENYURT-ORTAKÖY MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25186,
+    "neighbor_name": "ŞENYURT-ÜÇGÖZEN MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25229,
+    "neighbor_name": "AĞCAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25202,
+    "neighbor_name": "AKBUĞDAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25197,
+    "neighbor_name": "AKÇATARLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25256,
+    "neighbor_name": "ARAPÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25184,
+    "neighbor_name": "ARZUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25208,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25185,
+    "neighbor_name": "AYRANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25194,
+    "neighbor_name": "BAĞLARPINARI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25250,
+    "neighbor_name": "BAHÇEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25216,
+    "neighbor_name": "BUZLUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25259,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25239,
+    "neighbor_name": "ÇARIKSIZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25232,
+    "neighbor_name": "ÇAYIRALTI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25214,
+    "neighbor_name": "ÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25246,
+    "neighbor_name": "ÇİVRİL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25221,
+    "neighbor_name": "DAZYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25189,
+    "neighbor_name": "DERBENTÇİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25237,
+    "neighbor_name": "DÖKMETEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25217,
+    "neighbor_name": "ELALMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25251,
+    "neighbor_name": "ERENLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25249,
+    "neighbor_name": "ERİKLİTEKKE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25187,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25203,
+    "neighbor_name": "HAMİDE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25238,
+    "neighbor_name": "HASANLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25206,
+    "neighbor_name": "KALAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25191,
+    "neighbor_name": "KAMALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25233,
+    "neighbor_name": "KARKIN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25181,
+    "neighbor_name": "KAT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25244,
+    "neighbor_name": "KAZANCI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25253,
+    "neighbor_name": "KIZKAYASI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25240,
+    "neighbor_name": "KORULUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25223,
+    "neighbor_name": "KUŞOTURAĞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25174,
+    "neighbor_name": "KUYTUL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25198,
+    "neighbor_name": "KUZALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25182,
+    "neighbor_name": "NECİP KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25222,
+    "neighbor_name": "ORMANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25225,
+    "neighbor_name": "SAMURÇAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25196,
+    "neighbor_name": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25207,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25226,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25219,
+    "neighbor_name": "ŞATROBA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25200,
+    "neighbor_name": "TAŞLIHÖYÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25235,
+    "neighbor_name": "TATLICAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25183,
+    "neighbor_name": "ULUÖZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25227,
+    "neighbor_name": "ULUTEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25247,
+    "neighbor_name": "ÜÇYOL KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25201,
+    "neighbor_name": "YAĞLIALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25177,
+    "neighbor_name": "YAZITEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25236,
+    "neighbor_name": "YENİCELER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25204,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25228,
+    "neighbor_name": "YENİSU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 514,
+    "district_name": "TURHAL",
+    "neighbor_id": 25258,
+    "neighbor_name": "YEŞİLALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25279,
+    "neighbor_name": "100. YIL MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 49899,
+    "neighbor_name": "ÇIKRIK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 49793,
+    "neighbor_name": "ÇIRDAK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25260,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25278,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 50963,
+    "neighbor_name": "TÜRKMENLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25268,
+    "neighbor_name": "BAHÇEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25262,
+    "neighbor_name": "BÜĞET KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25272,
+    "neighbor_name": "ÇERKEZ DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25263,
+    "neighbor_name": "DAMLALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25264,
+    "neighbor_name": "DOĞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25269,
+    "neighbor_name": "EKİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25275,
+    "neighbor_name": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25270,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25265,
+    "neighbor_name": "KARAGÖZGÖLLÜALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25280,
+    "neighbor_name": "KARAOLUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25276,
+    "neighbor_name": "KAVUNLUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25281,
+    "neighbor_name": "KUŞÇU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25266,
+    "neighbor_name": "SEKÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25277,
+    "neighbor_name": "SİVRİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25271,
+    "neighbor_name": "YAĞMUR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 515,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 25267,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25396,
+    "neighbor_name": "ALACAMESCİTZİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25378,
+    "neighbor_name": "ALAMESCİTBALA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25375,
+    "neighbor_name": "ALİKADI MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25398,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25304,
+    "neighbor_name": "CEDİT MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25323,
+    "neighbor_name": "DİNÇERLER MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25351,
+    "neighbor_name": "DUTLUPINAR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25382,
+    "neighbor_name": "HACIMEHMET MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25395,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25330,
+    "neighbor_name": "KAHYA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25354,
+    "neighbor_name": "KİSLİK MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25299,
+    "neighbor_name": "MİNAREİKEBİR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25348,
+    "neighbor_name": "MİNAREİSAĞIR MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25318,
+    "neighbor_name": "NAKKAŞ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25311,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25392,
+    "neighbor_name": "ŞEYHALİ MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25287,
+    "neighbor_name": "ŞEYHKOLU MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25338,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25356,
+    "neighbor_name": "ZİNCİRLİSÜFLA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25376,
+    "neighbor_name": "ZİNCİRLİ ÜLYA MAH."
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25401,
+    "neighbor_name": "ACIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25364,
+    "neighbor_name": "ACISU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25313,
+    "neighbor_name": "AĞCAKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25317,
+    "neighbor_name": "AĞILCIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25377,
+    "neighbor_name": "AKDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25404,
+    "neighbor_name": "AKGÜLLER KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25402,
+    "neighbor_name": "AKKILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25283,
+    "neighbor_name": "ALAYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25324,
+    "neighbor_name": "ALIÇÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25297,
+    "neighbor_name": "ALİBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25321,
+    "neighbor_name": "ALİHOCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25373,
+    "neighbor_name": "ARMUTALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25381,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25405,
+    "neighbor_name": "BAYIR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25305,
+    "neighbor_name": "BELKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25369,
+    "neighbor_name": "BELPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25325,
+    "neighbor_name": "BİNBAŞIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25391,
+    "neighbor_name": "BOLDACI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25418,
+    "neighbor_name": "BÜYÜKAKÖZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25314,
+    "neighbor_name": "BÜYÜKKARAYÜN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25403,
+    "neighbor_name": "BÜYÜKKOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25411,
+    "neighbor_name": "BÜYÜKÖZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25409,
+    "neighbor_name": "ÇAKIRCALI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25339,
+    "neighbor_name": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25327,
+    "neighbor_name": "ÇAPAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25388,
+    "neighbor_name": "ÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25380,
+    "neighbor_name": "ÇAYIROLUĞU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25282,
+    "neighbor_name": "ÇELTEK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25320,
+    "neighbor_name": "ÇİÇEKPINARI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25286,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25288,
+    "neighbor_name": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25329,
+    "neighbor_name": "EDE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25308,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25298,
+    "neighbor_name": "EMİRÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25322,
+    "neighbor_name": "ESKİDAĞİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25344,
+    "neighbor_name": "ESKİDERBENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25389,
+    "neighbor_name": "EVRENKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25352,
+    "neighbor_name": "FATİH KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25336,
+    "neighbor_name": "GÖÇENLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25365,
+    "neighbor_name": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25341,
+    "neighbor_name": "GÜBLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25390,
+    "neighbor_name": "GÜMÜŞKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25357,
+    "neighbor_name": "GÜNGÖRMEZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25289,
+    "neighbor_name": "GÜZELBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25374,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25309,
+    "neighbor_name": "HARAMİKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25345,
+    "neighbor_name": "HASANAĞA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25331,
+    "neighbor_name": "HATİPPINARI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25416,
+    "neighbor_name": "İĞDİR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25368,
+    "neighbor_name": "İMİRTOLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25310,
+    "neighbor_name": "KARABALÇIK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25359,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25399,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25419,
+    "neighbor_name": "KARAKUZU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25358,
+    "neighbor_name": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25319,
+    "neighbor_name": "KARŞIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25284,
+    "neighbor_name": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25412,
+    "neighbor_name": "KAZIKLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25294,
+    "neighbor_name": "KEPEZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25346,
+    "neighbor_name": "KERVANSARAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25337,
+    "neighbor_name": "KIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25292,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25406,
+    "neighbor_name": "KİREÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25370,
+    "neighbor_name": "KOÇAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25306,
+    "neighbor_name": "KORUCUK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25353,
+    "neighbor_name": "KOZDERE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25413,
+    "neighbor_name": "KÖYLÜÜNÜRÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25347,
+    "neighbor_name": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25303,
+    "neighbor_name": "KURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25302,
+    "neighbor_name": "KURUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25366,
+    "neighbor_name": "KUZALAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25414,
+    "neighbor_name": "KÜÇÜKAKÖZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25360,
+    "neighbor_name": "KÜÇÜKKARAYÜN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25293,
+    "neighbor_name": "KÜÇÜKKOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25295,
+    "neighbor_name": "KÜÇÜKÖZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25290,
+    "neighbor_name": "NARLIKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25355,
+    "neighbor_name": "OLUKMAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25296,
+    "neighbor_name": "OSMANPINARI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25316,
+    "neighbor_name": "ÖZYURT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25407,
+    "neighbor_name": "PALANLI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25361,
+    "neighbor_name": "REŞADİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25343,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25285,
+    "neighbor_name": "SARAÇ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25384,
+    "neighbor_name": "SAVCU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25349,
+    "neighbor_name": "SEKİKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25300,
+    "neighbor_name": "SELAMET KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25385,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25301,
+    "neighbor_name": "SÖĞÜTÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25379,
+    "neighbor_name": "SÜLEYMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25372,
+    "neighbor_name": "ŞEYHKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25417,
+    "neighbor_name": "ŞEYHNUSRETTİN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25415,
+    "neighbor_name": "TAŞKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25386,
+    "neighbor_name": "TEMECÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25394,
+    "neighbor_name": "TURGUTALP KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25362,
+    "neighbor_name": "UĞURLUÖREN KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25315,
+    "neighbor_name": "UZUNKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25291,
+    "neighbor_name": "UZUNÖZ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25332,
+    "neighbor_name": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25340,
+    "neighbor_name": "ÜÇKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25410,
+    "neighbor_name": "ÜTÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25328,
+    "neighbor_name": "ÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25397,
+    "neighbor_name": "YALINYAZI KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25400,
+    "neighbor_name": "YALNIZKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25387,
+    "neighbor_name": "YAPALAK KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25371,
+    "neighbor_name": "YARAŞ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25333,
+    "neighbor_name": "YAYLAKENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25326,
+    "neighbor_name": "YAYLAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25393,
+    "neighbor_name": "YENİDAĞİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25363,
+    "neighbor_name": "YENİDERBENT KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25334,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25350,
+    "neighbor_name": "YEŞİLCE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25342,
+    "neighbor_name": "YILDIZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25312,
+    "neighbor_name": "YÜCEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 40,
+    "city_name": "TOKAT",
+    "district_id": 516,
+    "district_name": "ZİLE",
+    "neighbor_id": 25335,
+    "neighbor_name": "YÜNLÜ KÖYÜ"
+  }
+]

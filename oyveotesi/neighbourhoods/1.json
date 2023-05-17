@@ -1,0 +1,4114 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 336,
+    "neighbor_name": "BEŞİKTAŞ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 376,
+    "neighbor_name": "CEVİZLİ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 373,
+    "neighbor_name": "ÇAYİÇİ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 359,
+    "neighbor_name": "DENİZCİLER MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 377,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 366,
+    "neighbor_name": "ABDÜLKADİRKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 378,
+    "neighbor_name": "AĞAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 332,
+    "neighbor_name": "AKÇAKESE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 374,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 342,
+    "neighbor_name": "ALİKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 386,
+    "neighbor_name": "ARMUTLUYAZI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 348,
+    "neighbor_name": "AŞAĞIKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 343,
+    "neighbor_name": "AVDULLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 358,
+    "neighbor_name": "AYGÖRDÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 368,
+    "neighbor_name": "BABAÇAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 375,
+    "neighbor_name": "BABAKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 379,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 387,
+    "neighbor_name": "BAKIRLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 367,
+    "neighbor_name": "BAKIRLIZAVİYE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 369,
+    "neighbor_name": "BELPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 333,
+    "neighbor_name": "BÜYÜKDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 337,
+    "neighbor_name": "BÜYÜKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 331,
+    "neighbor_name": "ÇAMYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 364,
+    "neighbor_name": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 396,
+    "neighbor_name": "ÇAYLIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 391,
+    "neighbor_name": "DAVUTLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 360,
+    "neighbor_name": "DEDEAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 349,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 380,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 324,
+    "neighbor_name": "DOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 361,
+    "neighbor_name": "DOLAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 351,
+    "neighbor_name": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 353,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 334,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 381,
+    "neighbor_name": "GÖLDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 392,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 397,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 344,
+    "neighbor_name": "GÜRSÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 345,
+    "neighbor_name": "HACILI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 329,
+    "neighbor_name": "HACIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 346,
+    "neighbor_name": "HATİP KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 382,
+    "neighbor_name": "HÜSEYİNBEY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 335,
+    "neighbor_name": "İNALTI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 338,
+    "neighbor_name": "KALDIRAYAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 352,
+    "neighbor_name": "KARAKESTANE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 347,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 339,
+    "neighbor_name": "KESTANELİK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 398,
+    "neighbor_name": "KIZILCAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 393,
+    "neighbor_name": "KOZCUĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 327,
+    "neighbor_name": "KOZSÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 389,
+    "neighbor_name": "KÖSEYAKASI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 370,
+    "neighbor_name": "KURTKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 371,
+    "neighbor_name": "KÜTÜKKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 372,
+    "neighbor_name": "MADEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 394,
+    "neighbor_name": "MESTAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 354,
+    "neighbor_name": "MUSTAFAKEMALPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 328,
+    "neighbor_name": "ORTALIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 355,
+    "neighbor_name": "OTMANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 326,
+    "neighbor_name": "ÖMERDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 340,
+    "neighbor_name": "PAZARCIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 325,
+    "neighbor_name": "SOFU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 383,
+    "neighbor_name": "SÖKÜÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 395,
+    "neighbor_name": "SULUSÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 384,
+    "neighbor_name": "TARAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 356,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 330,
+    "neighbor_name": "TEVFİKİYE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 323,
+    "neighbor_name": "TOPAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 385,
+    "neighbor_name": "TÜRKMEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 388,
+    "neighbor_name": "UZUNÇAM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 365,
+    "neighbor_name": "ÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 341,
+    "neighbor_name": "YARENLER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 362,
+    "neighbor_name": "YEMİŞEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 363,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 350,
+    "neighbor_name": "YENİGÜLER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 390,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 8,
+    "district_name": "AYANCIK",
+    "neighbor_id": 357,
+    "neighbor_name": "ZAVİYE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 433,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 463,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 473,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 411,
+    "neighbor_name": "GÖKDERE MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 412,
+    "neighbor_name": "KUMLUK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 49668,
+    "neighbor_name": "SEFA MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 454,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 420,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 457,
+    "neighbor_name": "ZİNCİRLİKUYU MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 415,
+    "neighbor_name": "AKÇAKESE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 430,
+    "neighbor_name": "AKYÜRÜK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 431,
+    "neighbor_name": "ALİBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 493,
+    "neighbor_name": "ARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 425,
+    "neighbor_name": "ARIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 471,
+    "neighbor_name": "AŞAĞISEYRİCEK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 476,
+    "neighbor_name": "AŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 507,
+    "neighbor_name": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 447,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 432,
+    "neighbor_name": "BAYAMCA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 416,
+    "neighbor_name": "BEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 472,
+    "neighbor_name": "BENGÜBELEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 499,
+    "neighbor_name": "BENİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 404,
+    "neighbor_name": "BİNERLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 421,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 410,
+    "neighbor_name": "BÖLÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 448,
+    "neighbor_name": "BÜRÜM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 403,
+    "neighbor_name": "BÜYÜKKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 477,
+    "neighbor_name": "CEMALETTİNKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 449,
+    "neighbor_name": "CURKUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 414,
+    "neighbor_name": "ÇALTU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 474,
+    "neighbor_name": "ÇARŞAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 488,
+    "neighbor_name": "ÇATPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 470,
+    "neighbor_name": "ÇATTEPE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 427,
+    "neighbor_name": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 475,
+    "neighbor_name": "ÇEŞNİGİR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 468,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 498,
+    "neighbor_name": "ÇUKURHAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 424,
+    "neighbor_name": "ÇULHALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 489,
+    "neighbor_name": "DAĞTABAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 422,
+    "neighbor_name": "DARIÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 423,
+    "neighbor_name": "DAYLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 450,
+    "neighbor_name": "DEREÇATI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 508,
+    "neighbor_name": "DODURGA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 469,
+    "neighbor_name": "DOĞRUL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 436,
+    "neighbor_name": "DOĞUCA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 483,
+    "neighbor_name": "DÜZKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 484,
+    "neighbor_name": "EDİL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 417,
+    "neighbor_name": "EĞLENCE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 464,
+    "neighbor_name": "EKİNÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 442,
+    "neighbor_name": "EMİROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 441,
+    "neighbor_name": "ENGİLEKİN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 478,
+    "neighbor_name": "ERKEÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 465,
+    "neighbor_name": "ESENGAZİLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 479,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 495,
+    "neighbor_name": "GAZİDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 418,
+    "neighbor_name": "GAZİDERETABAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 502,
+    "neighbor_name": "GÖKÇEAĞAÇSAKIZI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 485,
+    "neighbor_name": "GÖKÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 437,
+    "neighbor_name": "GÖVE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 399,
+    "neighbor_name": "GÜNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 455,
+    "neighbor_name": "HACIAHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 438,
+    "neighbor_name": "HAMZALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 509,
+    "neighbor_name": "ILICAKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 446,
+    "neighbor_name": "İMAMLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 467,
+    "neighbor_name": "İSAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 496,
+    "neighbor_name": "KADINLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 466,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 459,
+    "neighbor_name": "KARAMUSALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 490,
+    "neighbor_name": "KARTALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 439,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 480,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 461,
+    "neighbor_name": "KAYABOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 511,
+    "neighbor_name": "KESEKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 462,
+    "neighbor_name": "KILIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 510,
+    "neighbor_name": "KİLLİK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 409,
+    "neighbor_name": "KOÇAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 512,
+    "neighbor_name": "KOVAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 419,
+    "neighbor_name": "KOZANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 408,
+    "neighbor_name": "KOZKULE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 494,
+    "neighbor_name": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 443,
+    "neighbor_name": "KURTLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 503,
+    "neighbor_name": "KURUSARAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 413,
+    "neighbor_name": "KUYUCAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 400,
+    "neighbor_name": "KUZVEREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 434,
+    "neighbor_name": "MAHMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 504,
+    "neighbor_name": "MARUFALINCA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 456,
+    "neighbor_name": "MARUF KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 452,
+    "neighbor_name": "MURATLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 486,
+    "neighbor_name": "OĞLAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 435,
+    "neighbor_name": "OKÇUMEHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 453,
+    "neighbor_name": "OSMANKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 492,
+    "neighbor_name": "ÖMERKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 482,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 500,
+    "neighbor_name": "PAŞALIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 401,
+    "neighbor_name": "PEHLİVANLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 487,
+    "neighbor_name": "PİREFENDİDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 491,
+    "neighbor_name": "SALAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 428,
+    "neighbor_name": "SARIAĞAÇÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 440,
+    "neighbor_name": "SARIYER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 458,
+    "neighbor_name": "ŞIHLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 429,
+    "neighbor_name": "ŞIHLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 405,
+    "neighbor_name": "TAŞHANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 481,
+    "neighbor_name": "TEKKE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 444,
+    "neighbor_name": "TIRNALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 426,
+    "neighbor_name": "UZUNÇAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 451,
+    "neighbor_name": "YABANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 497,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 501,
+    "neighbor_name": "YAZIKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 513,
+    "neighbor_name": "YENİCAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 402,
+    "neighbor_name": "YENİKAYALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 505,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 506,
+    "neighbor_name": "YENİMEHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 460,
+    "neighbor_name": "YEŞİLÇAM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 445,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 406,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 9,
+    "district_name": "BOYABAT",
+    "neighbor_id": 407,
+    "neighbor_name": "YUKARISEYRİCEK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 168,
+    "neighbor_name": "BABALIOĞLU MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 173,
+    "neighbor_name": "ÇORAK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 185,
+    "neighbor_name": "KIRÇAL MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 184,
+    "neighbor_name": "AKÇAKESE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 161,
+    "neighbor_name": "BUCAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 190,
+    "neighbor_name": "BÜYÜKDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 162,
+    "neighbor_name": "BÜYÜKKIZIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 189,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 167,
+    "neighbor_name": "ÇEVİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 182,
+    "neighbor_name": "ÇUKURCAALAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 163,
+    "neighbor_name": "DAĞKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 164,
+    "neighbor_name": "DUDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 188,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 165,
+    "neighbor_name": "GÖLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 175,
+    "neighbor_name": "GÖRÜMCEK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 166,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 172,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 191,
+    "neighbor_name": "KARAKOYUN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 187,
+    "neighbor_name": "KERİM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 186,
+    "neighbor_name": "KUZALAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 171,
+    "neighbor_name": "KÜÇÜKKIZIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 178,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 179,
+    "neighbor_name": "SARAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 183,
+    "neighbor_name": "ŞEYHHÜSEYİN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 174,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 176,
+    "neighbor_name": "YAKUPLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 177,
+    "neighbor_name": "YAYKIN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 180,
+    "neighbor_name": "YAYLABEYİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 181,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 169,
+    "neighbor_name": "YUKARIÇEKMEZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 4,
+    "district_name": "DİKMEN",
+    "neighbor_id": 170,
+    "neighbor_name": "YUMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 90,
+    "neighbor_name": "ALTINKAYA MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 47,
+    "neighbor_name": "BUZLUK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 60,
+    "neighbor_name": "GÖKIRMAK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 91,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 49595,
+    "neighbor_name": "YANDAK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 75,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 37,
+    "neighbor_name": "AKBEL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 58,
+    "neighbor_name": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 88,
+    "neighbor_name": "AKÇABÜK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 97,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 76,
+    "neighbor_name": "ALPAŞALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 89,
+    "neighbor_name": "ALPUĞAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 94,
+    "neighbor_name": "AŞAĞIALINCA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 59,
+    "neighbor_name": "AŞAĞIKARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 106,
+    "neighbor_name": "AYVACIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 46,
+    "neighbor_name": "BAŞAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 77,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 100,
+    "neighbor_name": "BEYARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 101,
+    "neighbor_name": "BEYBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 52,
+    "neighbor_name": "BOYABÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 71,
+    "neighbor_name": "BOYALICA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 78,
+    "neighbor_name": "CEVİZLİBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 64,
+    "neighbor_name": "ÇALTUCAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 57,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 104,
+    "neighbor_name": "ÇAMPAŞASAKIZI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 85,
+    "neighbor_name": "ÇANDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 86,
+    "neighbor_name": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 70,
+    "neighbor_name": "ÇERÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 87,
+    "neighbor_name": "ÇORAKYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 42,
+    "neighbor_name": "ÇÖVE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 82,
+    "neighbor_name": "DAĞDELEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 53,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 62,
+    "neighbor_name": "EMİRTOLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 54,
+    "neighbor_name": "ERDUASI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 83,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 55,
+    "neighbor_name": "GÖKÇEBELEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 98,
+    "neighbor_name": "GÖKDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 102,
+    "neighbor_name": "GÖLALAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 43,
+    "neighbor_name": "GÖLGERİŞİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 99,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 38,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 84,
+    "neighbor_name": "HACIMAHMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 72,
+    "neighbor_name": "HACIOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 51,
+    "neighbor_name": "İNCİR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 81,
+    "neighbor_name": "KAPLANGI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 65,
+    "neighbor_name": "KARAGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 107,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 108,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 61,
+    "neighbor_name": "KEMERBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 48,
+    "neighbor_name": "KILIÇASLAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 56,
+    "neighbor_name": "KIZILCAPELİT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 110,
+    "neighbor_name": "KİRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 109,
+    "neighbor_name": "KÖKLEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 67,
+    "neighbor_name": "KÖSELİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 103,
+    "neighbor_name": "KUZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 66,
+    "neighbor_name": "KUZULUK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 92,
+    "neighbor_name": "OLUCAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 39,
+    "neighbor_name": "OLUKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 44,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 73,
+    "neighbor_name": "SALARKOLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 45,
+    "neighbor_name": "SARIKADI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 111,
+    "neighbor_name": "SARIYAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 40,
+    "neighbor_name": "SARNIKALINCASI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 105,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 41,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 95,
+    "neighbor_name": "UZUNÖZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 96,
+    "neighbor_name": "YAĞBASAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 79,
+    "neighbor_name": "YALNIZKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 68,
+    "neighbor_name": "YANALAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 69,
+    "neighbor_name": "YASSIALAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 50,
+    "neighbor_name": "YEMİŞEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 74,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 93,
+    "neighbor_name": "YEŞİLKENT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 80,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 2,
+    "district_name": "DURAĞAN",
+    "neighbor_id": 63,
+    "neighbor_name": "YUKARIKARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 235,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 210,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 215,
+    "neighbor_name": "SALAVAT MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 240,
+    "neighbor_name": "ABDURRAHMANPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 211,
+    "neighbor_name": "AHMETMUHİPDIRANAS KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 204,
+    "neighbor_name": "AKCAÇAM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 206,
+    "neighbor_name": "AKCASÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 223,
+    "neighbor_name": "AVLAĞASÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 231,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 218,
+    "neighbor_name": "BALIFAKI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 197,
+    "neighbor_name": "BAŞARAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 232,
+    "neighbor_name": "ÇAYIRKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 207,
+    "neighbor_name": "DAĞYERİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 237,
+    "neighbor_name": "DEĞİRMENCİLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 198,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 196,
+    "neighbor_name": "EMİRHALİL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 199,
+    "neighbor_name": "GÖKÇEBEL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 217,
+    "neighbor_name": "GÜMÜŞSUYU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 200,
+    "neighbor_name": "GÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 238,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 201,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 212,
+    "neighbor_name": "HASANDERE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 234,
+    "neighbor_name": "HİMMETOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 208,
+    "neighbor_name": "HORZUM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 213,
+    "neighbor_name": "HÜRREMŞAH KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 222,
+    "neighbor_name": "İNCİRPINARI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 195,
+    "neighbor_name": "İNESÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 209,
+    "neighbor_name": "KALDIRAYAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 239,
+    "neighbor_name": "KARACAKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 224,
+    "neighbor_name": "KAZMASÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 192,
+    "neighbor_name": "KIZILCAELMA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 219,
+    "neighbor_name": "KIZILCAOT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 214,
+    "neighbor_name": "KİRAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 225,
+    "neighbor_name": "KURCALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 193,
+    "neighbor_name": "MESCİTDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 236,
+    "neighbor_name": "MEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 226,
+    "neighbor_name": "ORMANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 227,
+    "neighbor_name": "SALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 202,
+    "neighbor_name": "SARIBOĞA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 228,
+    "neighbor_name": "SELBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 221,
+    "neighbor_name": "SOĞUCALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 220,
+    "neighbor_name": "SORGUN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 216,
+    "neighbor_name": "ŞEREFİYE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 194,
+    "neighbor_name": "TATLICA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 229,
+    "neighbor_name": "TEKKE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 203,
+    "neighbor_name": "TOMBUL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 230,
+    "neighbor_name": "VEYSEL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 205,
+    "neighbor_name": "YENİÇAM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 5,
+    "district_name": "ERFELEK",
+    "neighbor_id": 233,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 114,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 152,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 142,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 131,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 143,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 136,
+    "neighbor_name": "KÖŞK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 135,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 121,
+    "neighbor_name": "ABDALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 140,
+    "neighbor_name": "ACISU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 127,
+    "neighbor_name": "AKGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 151,
+    "neighbor_name": "AKKIRAÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 157,
+    "neighbor_name": "ALTINYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 153,
+    "neighbor_name": "BAŞSÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 132,
+    "neighbor_name": "BELÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 122,
+    "neighbor_name": "BOLALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 133,
+    "neighbor_name": "BOYALICA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 141,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 139,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 155,
+    "neighbor_name": "ÇAKALLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 156,
+    "neighbor_name": "ÇIRNIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 154,
+    "neighbor_name": "GÜRSÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 158,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 123,
+    "neighbor_name": "HACISELLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 128,
+    "neighbor_name": "HIDIRLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 124,
+    "neighbor_name": "HİZARÇAYI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 115,
+    "neighbor_name": "KABANLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 129,
+    "neighbor_name": "KAHRAMANELİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 144,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 116,
+    "neighbor_name": "KIZILCALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 137,
+    "neighbor_name": "KİRENÇUKURU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 118,
+    "neighbor_name": "KUZSÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 138,
+    "neighbor_name": "MAHMUTTIRI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 130,
+    "neighbor_name": "PİRAHMET KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 145,
+    "neighbor_name": "SARIMSAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 134,
+    "neighbor_name": "SARIYER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 159,
+    "neighbor_name": "SARNIÇ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 119,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 148,
+    "neighbor_name": "SORKUN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 147,
+    "neighbor_name": "ŞEYHLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 160,
+    "neighbor_name": "TATLICAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 149,
+    "neighbor_name": "TEPEALTI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 117,
+    "neighbor_name": "TOKUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 112,
+    "neighbor_name": "TÜRKMEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 125,
+    "neighbor_name": "TÜRKMENLİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 150,
+    "neighbor_name": "YAKADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 146,
+    "neighbor_name": "YAMACIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 113,
+    "neighbor_name": "YAYKIL KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 126,
+    "neighbor_name": "YENİKENT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 3,
+    "district_name": "GERZE",
+    "neighbor_id": 120,
+    "neighbor_name": "YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 255,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 253,
+    "neighbor_name": "AKBELEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 258,
+    "neighbor_name": "ARIM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 247,
+    "neighbor_name": "ASARCIKCAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 266,
+    "neighbor_name": "ASARCIKHACIKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 254,
+    "neighbor_name": "ASARCIKKAYALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 248,
+    "neighbor_name": "ASARCIKKAZAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 250,
+    "neighbor_name": "AŞAĞIAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 249,
+    "neighbor_name": "AVLUCA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 262,
+    "neighbor_name": "BAHÇEKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 242,
+    "neighbor_name": "BAHŞAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 267,
+    "neighbor_name": "BAŞEKİN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 261,
+    "neighbor_name": "CUMAKAYALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 268,
+    "neighbor_name": "CUMAKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 271,
+    "neighbor_name": "CUMATABAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 241,
+    "neighbor_name": "ÇALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 260,
+    "neighbor_name": "ÇAMPAŞALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 252,
+    "neighbor_name": "ÇORMAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 269,
+    "neighbor_name": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 259,
+    "neighbor_name": "HACIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 263,
+    "neighbor_name": "HANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 243,
+    "neighbor_name": "KARAÇAYGÖLETİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 244,
+    "neighbor_name": "KORUCUK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 256,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 251,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 270,
+    "neighbor_name": "YALMANSARAY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 264,
+    "neighbor_name": "YAYLACILI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 257,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 245,
+    "neighbor_name": "YUKARIAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 265,
+    "neighbor_name": "YUKARIARIM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 6,
+    "district_name": "SARAYDÜZÜ",
+    "neighbor_id": 246,
+    "neighbor_name": "ZAİMKÖY"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 274,
+    "neighbor_name": "ADA MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 49664,
+    "neighbor_name": "BOSTANCILI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 310,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 318,
+    "neighbor_name": "GELİNCİK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 280,
+    "neighbor_name": "İNCEDAYI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 298,
+    "neighbor_name": "KALEYAZISI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 304,
+    "neighbor_name": "KEFEVİ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 50718,
+    "neighbor_name": "KORUCUK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 301,
+    "neighbor_name": "MEYDANKAPI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 50762,
+    "neighbor_name": "ORDU MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 50723,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 292,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 289,
+    "neighbor_name": "ZEYTİNLİK MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 281,
+    "neighbor_name": "ABALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 282,
+    "neighbor_name": "AHMETYERİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 290,
+    "neighbor_name": "AKBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 283,
+    "neighbor_name": "ALASÖKÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 284,
+    "neighbor_name": "ALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 275,
+    "neighbor_name": "AVDAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 316,
+    "neighbor_name": "BEKTAŞAĞA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 293,
+    "neighbor_name": "ÇAKILDAK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 315,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 322,
+    "neighbor_name": "ÇOBANLAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 294,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 295,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 311,
+    "neighbor_name": "DİZDAROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 291,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 317,
+    "neighbor_name": "EYMİR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 296,
+    "neighbor_name": "FİDANLIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 312,
+    "neighbor_name": "GÖLLER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 319,
+    "neighbor_name": "GÖLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 297,
+    "neighbor_name": "HACIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 272,
+    "neighbor_name": "KABALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 276,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 299,
+    "neighbor_name": "KILIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 286,
+    "neighbor_name": "KİRENÇUKURU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 300,
+    "neighbor_name": "KOZCUĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 287,
+    "neighbor_name": "LALA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 277,
+    "neighbor_name": "MELİKŞAH KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 288,
+    "neighbor_name": "MERTOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 306,
+    "neighbor_name": "OĞUZELİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 273,
+    "neighbor_name": "SARIKUM KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 307,
+    "neighbor_name": "SAZLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 278,
+    "neighbor_name": "SİNECAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 308,
+    "neighbor_name": "ŞAMLIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 279,
+    "neighbor_name": "TANGALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 320,
+    "neighbor_name": "TAŞMANLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 302,
+    "neighbor_name": "TAYPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 303,
+    "neighbor_name": "TINGIROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 321,
+    "neighbor_name": "UZUNGÜRGEN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 7,
+    "district_name": "SİNOP MERKEZ",
+    "neighbor_id": 314,
+    "neighbor_name": "YALI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 20,
+    "neighbor_name": "GEMİYANI MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 28,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 16,
+    "neighbor_name": "TÜMERKAN MAH."
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 9,
+    "neighbor_name": "AKÇABÜK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 1,
+    "neighbor_name": "ALAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 26,
+    "neighbor_name": "AYAZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 36,
+    "neighbor_name": "ÇATAKGERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 18,
+    "neighbor_name": "ÇATAKGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 14,
+    "neighbor_name": "ÇATAKÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 4,
+    "neighbor_name": "DİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 19,
+    "neighbor_name": "DÜZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 27,
+    "neighbor_name": "DÜZLER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 10,
+    "neighbor_name": "GAZİLER KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 5,
+    "neighbor_name": "GENCEK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 35,
+    "neighbor_name": "GÖKÇEALAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 6,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 2,
+    "neighbor_name": "GÜZELKENT KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 29,
+    "neighbor_name": "HACI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 11,
+    "neighbor_name": "HAMAMLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 21,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 7,
+    "neighbor_name": "KARABEY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 31,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 12,
+    "neighbor_name": "KEŞ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 32,
+    "neighbor_name": "KUŞÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 15,
+    "neighbor_name": "KUZ KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 3,
+    "neighbor_name": "OYMAYAKA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 22,
+    "neighbor_name": "SARMAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 23,
+    "neighbor_name": "SATI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 24,
+    "neighbor_name": "SAZKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 8,
+    "neighbor_name": "TAÇAHMET KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 33,
+    "neighbor_name": "TAŞGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 30,
+    "neighbor_name": "TURHAN KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 13,
+    "neighbor_name": "YAPRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 25,
+    "neighbor_name": "YAZICI KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 17,
+    "neighbor_name": "YEŞİLOBA KÖYÜ"
+  },
+  {
+    "city_id": 1,
+    "city_name": "SİNOP",
+    "district_id": 1,
+    "district_name": "TÜRKELİ",
+    "neighbor_id": 34,
+    "neighbor_name": "YUSUFLU KÖYÜ"
+  }
+]

@@ -1,0 +1,5370 @@
+[
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16022,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16030,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16040,
+    "neighbor_name": "ÇUKURAHMEDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16033,
+    "neighbor_name": "GÜLLÜK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16046,
+    "neighbor_name": "HIZIRTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16014,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16004,
+    "neighbor_name": "KARAOSMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16019,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15996,
+    "neighbor_name": "MALTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15973,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15997,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15987,
+    "neighbor_name": "OZANLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15988,
+    "neighbor_name": "PAPUÇÇULAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16020,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15980,
+    "neighbor_name": "SEMERCİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16041,
+    "neighbor_name": "ŞEKER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16026,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16037,
+    "neighbor_name": "TEKELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16029,
+    "neighbor_name": "TEPEKUM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16006,
+    "neighbor_name": "TIĞCILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16039,
+    "neighbor_name": "YAHYALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15985,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16032,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16031,
+    "neighbor_name": "YENİGÜN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16042,
+    "neighbor_name": "15 TEMMUZ CAMİLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15977,
+    "neighbor_name": "ABALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16000,
+    "neighbor_name": "ACIELMALIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16049,
+    "neighbor_name": "ALANDÜZÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16050,
+    "neighbor_name": "AŞIRLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16009,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15970,
+    "neighbor_name": "BAYRAKTAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15994,
+    "neighbor_name": "BİLECİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16015,
+    "neighbor_name": "BUDAKLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15983,
+    "neighbor_name": "BÜYÜKHATAPLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16048,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15982,
+    "neighbor_name": "ÇALTICAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16045,
+    "neighbor_name": "ÇAMYOLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15999,
+    "neighbor_name": "ÇELEBİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16013,
+    "neighbor_name": "ÇERÇİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16007,
+    "neighbor_name": "ÇÖKEKLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15986,
+    "neighbor_name": "DAĞDİBİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15991,
+    "neighbor_name": "DEMİRBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16051,
+    "neighbor_name": "DOĞANCILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16001,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16027,
+    "neighbor_name": "EVRENKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15995,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15971,
+    "neighbor_name": "GÜNEŞLER MERKEZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16023,
+    "neighbor_name": "GÜNEŞLER YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16016,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16002,
+    "neighbor_name": "HACIRAMAZANLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16017,
+    "neighbor_name": "HARMANTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16043,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16025,
+    "neighbor_name": "İKİZCE MÜSLİM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15990,
+    "neighbor_name": "İKİZCE OSMANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16008,
+    "neighbor_name": "İLYASLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16024,
+    "neighbor_name": "KARADAVUTLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15972,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16003,
+    "neighbor_name": "KARAKAMIŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16018,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16034,
+    "neighbor_name": "KARAMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16044,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16010,
+    "neighbor_name": "KASIMLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16052,
+    "neighbor_name": "KAVAKLIORMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16011,
+    "neighbor_name": "KAYRANCIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15978,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15992,
+    "neighbor_name": "KORUCUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15984,
+    "neighbor_name": "KÖMÜRLÜK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16047,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16035,
+    "neighbor_name": "KURTBEYLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16012,
+    "neighbor_name": "KÜÇÜKHATAPLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16005,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15993,
+    "neighbor_name": "NASUHLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16021,
+    "neighbor_name": "ÖRENTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16028,
+    "neighbor_name": "POYRAZLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16036,
+    "neighbor_name": "RÜSTEMLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15979,
+    "neighbor_name": "SALMANLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15981,
+    "neighbor_name": "SOLAKLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15998,
+    "neighbor_name": "SÜLEYMANBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15974,
+    "neighbor_name": "TAŞKISIĞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16053,
+    "neighbor_name": "TAŞLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 16038,
+    "neighbor_name": "TURNADERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15975,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15989,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 328,
+    "district_name": "ADAPAZARI",
+    "neighbor_id": 15976,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15890,
+    "neighbor_name": "AKBALIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15898,
+    "neighbor_name": "ALAAĞAÇ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49671,
+    "neighbor_name": "ALTINDERE CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49831,
+    "neighbor_name": "ALTINDERE GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49964,
+    "neighbor_name": "ALTINDERE OSMANAĞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15899,
+    "neighbor_name": "BALLIKAYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15928,
+    "neighbor_name": "BATAKKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15920,
+    "neighbor_name": "BEDİLKADIRBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15902,
+    "neighbor_name": "BEDİL KAZANCI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15908,
+    "neighbor_name": "BEDİLTAHİRBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15921,
+    "neighbor_name": "BELDİBİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15865,
+    "neighbor_name": "BIÇKIDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15903,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15922,
+    "neighbor_name": "BUĞDAYLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15872,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15907,
+    "neighbor_name": "ÇAKIROĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15869,
+    "neighbor_name": "ÇATALKÖPRÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15916,
+    "neighbor_name": "ÇILDIRLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15882,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49442,
+    "neighbor_name": "DOKURCUN ÇAYLAR YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49618,
+    "neighbor_name": "DOKURCUN ÇENGELLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49953,
+    "neighbor_name": "DOKURCUN KULOĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15923,
+    "neighbor_name": "DURMUŞLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15931,
+    "neighbor_name": "DÜZYAZI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15873,
+    "neighbor_name": "ERDOĞDU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15924,
+    "neighbor_name": "ESKİBEDİL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15909,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15877,
+    "neighbor_name": "GAZİ SÜLEYMAN PAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15891,
+    "neighbor_name": "GEBEŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15878,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15925,
+    "neighbor_name": "GÜVENÇLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15884,
+    "neighbor_name": "GÜZLEK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15930,
+    "neighbor_name": "HANYATAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15904,
+    "neighbor_name": "HARUNUSTA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15866,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15870,
+    "neighbor_name": "HASTAHANE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15879,
+    "neighbor_name": "HAYDARLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15876,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15885,
+    "neighbor_name": "KABAKULAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15918,
+    "neighbor_name": "KARAÇALILIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15900,
+    "neighbor_name": "KEPEKLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15871,
+    "neighbor_name": "KIZILCIKORMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15919,
+    "neighbor_name": "KONURALP MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15911,
+    "neighbor_name": "KUMKÖPRÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49693,
+    "neighbor_name": "KUZULUK ORTAMAHALLE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49582,
+    "neighbor_name": "KUZULUK ŞOSE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 49630,
+    "neighbor_name": "KUZULUK TOPÇUSIRTI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15905,
+    "neighbor_name": "KÜÇÜCEK CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15926,
+    "neighbor_name": "KÜÇÜCEK İSTİKLAL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15892,
+    "neighbor_name": "MADENLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15874,
+    "neighbor_name": "MANSURLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15893,
+    "neighbor_name": "MERKEZYENİKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15867,
+    "neighbor_name": "OSMANBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15917,
+    "neighbor_name": "ÖMERCİKLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15901,
+    "neighbor_name": "PAZARKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15894,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15895,
+    "neighbor_name": "SALİHİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15880,
+    "neighbor_name": "SEYFELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15868,
+    "neighbor_name": "SUKENARI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15927,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15932,
+    "neighbor_name": "TAŞAĞIL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15881,
+    "neighbor_name": "TAŞBURUN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15914,
+    "neighbor_name": "TAŞYATAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15912,
+    "neighbor_name": "TOPAĞAÇ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15887,
+    "neighbor_name": "TÜRKORMANKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15888,
+    "neighbor_name": "UZUNÇINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15889,
+    "neighbor_name": "VAKIF MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15896,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15913,
+    "neighbor_name": "YAHYALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15897,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15906,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15933,
+    "neighbor_name": "YENİORMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15875,
+    "neighbor_name": "YONGALIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15910,
+    "neighbor_name": "YÖRÜKYERİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15883,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 325,
+    "district_name": "AKYAZI",
+    "neighbor_id": 15915,
+    "neighbor_name": "YUVALAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15845,
+    "neighbor_name": "ADLİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15858,
+    "neighbor_name": "AHMEDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15840,
+    "neighbor_name": "ARİFBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15853,
+    "neighbor_name": "AŞAĞI KİRAZCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15863,
+    "neighbor_name": "BOĞAZKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15859,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15850,
+    "neighbor_name": "ÇAYBAŞI FUADİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15851,
+    "neighbor_name": "ÇINARDİBİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15860,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15852,
+    "neighbor_name": "HACIKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15854,
+    "neighbor_name": "HANLIKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15846,
+    "neighbor_name": "HANLI MERKEZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15861,
+    "neighbor_name": "HANLI SAKARYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15841,
+    "neighbor_name": "KARAAPTİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15855,
+    "neighbor_name": "KARAÇOMAKLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15847,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15848,
+    "neighbor_name": "KIŞLAÇAY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15856,
+    "neighbor_name": "KİRAZCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15849,
+    "neighbor_name": "KUMBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15842,
+    "neighbor_name": "MOLLAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15857,
+    "neighbor_name": "NEVİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15843,
+    "neighbor_name": "SEMERCİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15844,
+    "neighbor_name": "TÜRKÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 324,
+    "district_name": "ARİFİYE",
+    "neighbor_id": 15862,
+    "neighbor_name": "YUKARIKİRAZCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15709,
+    "neighbor_name": "ALANCUMA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15721,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15703,
+    "neighbor_name": "BEKİRPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15725,
+    "neighbor_name": "BÜYÜKESENCE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15718,
+    "neighbor_name": "ÇAYBAŞIYENİKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15702,
+    "neighbor_name": "ÇAYKIŞLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15697,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15714,
+    "neighbor_name": "DİLMEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15726,
+    "neighbor_name": "EKİNLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15722,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15698,
+    "neighbor_name": "EPÇELLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15710,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15694,
+    "neighbor_name": "HACIOĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15723,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15695,
+    "neighbor_name": "HOROZLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15715,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15696,
+    "neighbor_name": "KAMIŞLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15719,
+    "neighbor_name": "KAYALARMEMDUHİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15717,
+    "neighbor_name": "KAYALARREŞİTBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15711,
+    "neighbor_name": "KOZLUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15712,
+    "neighbor_name": "KÜÇÜKESENCE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15705,
+    "neighbor_name": "KÜPÇÜLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15704,
+    "neighbor_name": "MERKEZ YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15699,
+    "neighbor_name": "MERKEZ YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15700,
+    "neighbor_name": "NAKIŞLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15706,
+    "neighbor_name": "PİRAHMETLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15707,
+    "neighbor_name": "SARICALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15716,
+    "neighbor_name": "ŞEYHKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15720,
+    "neighbor_name": "ŞÜKRİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15713,
+    "neighbor_name": "TABAKHANE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15708,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15724,
+    "neighbor_name": "TUAPSALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 320,
+    "district_name": "ERENLER",
+    "neighbor_id": 15701,
+    "neighbor_name": "YAZILI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16214,
+    "neighbor_name": "ABDÜRREZZAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16202,
+    "neighbor_name": "AĞACIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16220,
+    "neighbor_name": "AKÇUKUR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16215,
+    "neighbor_name": "BAKIRLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16197,
+    "neighbor_name": "CEYLANDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16216,
+    "neighbor_name": "DAMLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16208,
+    "neighbor_name": "DEĞİRMENCİK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16198,
+    "neighbor_name": "DEVLET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16207,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16203,
+    "neighbor_name": "GÖLKENT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16204,
+    "neighbor_name": "HOCAOĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16206,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16213,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16199,
+    "neighbor_name": "KARADİKEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16200,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16205,
+    "neighbor_name": "KUSCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16201,
+    "neighbor_name": "NALKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16209,
+    "neighbor_name": "OSMANAĞA ÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16210,
+    "neighbor_name": "SARIAHMETLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16217,
+    "neighbor_name": "SEYİFLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16218,
+    "neighbor_name": "SİNANOĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16219,
+    "neighbor_name": "TEBERİK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16211,
+    "neighbor_name": "TOKAT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 332,
+    "district_name": "FERİZLİ",
+    "neighbor_id": 16212,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16351,
+    "neighbor_name": "AHİBABA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16306,
+    "neighbor_name": "AKDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16346,
+    "neighbor_name": "AKINCI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16322,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16303,
+    "neighbor_name": "ALIPLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16331,
+    "neighbor_name": "ALİFUATPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16313,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16339,
+    "neighbor_name": "BAĞCAZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16332,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16338,
+    "neighbor_name": "BAYAT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16291,
+    "neighbor_name": "BELPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16352,
+    "neighbor_name": "BOZÖREN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16340,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16333,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16353,
+    "neighbor_name": "CECELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16320,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16310,
+    "neighbor_name": "ÇAYKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16321,
+    "neighbor_name": "ÇELTİKLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16290,
+    "neighbor_name": "ÇENGEL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16357,
+    "neighbor_name": "ÇİNE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16327,
+    "neighbor_name": "ÇUKURKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16298,
+    "neighbor_name": "DEMİRLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16307,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16299,
+    "neighbor_name": "DOĞANCIL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16341,
+    "neighbor_name": "DOĞANÇAY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16323,
+    "neighbor_name": "DOĞANTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16304,
+    "neighbor_name": "DÜZAKÇAŞEHİR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16324,
+    "neighbor_name": "EPÇELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16300,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16317,
+    "neighbor_name": "EŞME MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16314,
+    "neighbor_name": "FINDIKSUYU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16325,
+    "neighbor_name": "GAZİ SÜLEYMAN PAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16308,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16292,
+    "neighbor_name": "GÜNHOŞLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16342,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16347,
+    "neighbor_name": "HACIOSMANLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16329,
+    "neighbor_name": "HALİDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16285,
+    "neighbor_name": "HIRKA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16348,
+    "neighbor_name": "HİSARLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16335,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16336,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16337,
+    "neighbor_name": "İLİMBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16345,
+    "neighbor_name": "İNCİKSUYU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16286,
+    "neighbor_name": "KAMIŞLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16315,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16287,
+    "neighbor_name": "KARAÇAM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16301,
+    "neighbor_name": "KIZILKAYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16334,
+    "neighbor_name": "KORU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16318,
+    "neighbor_name": "KOZAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16354,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16316,
+    "neighbor_name": "KULFALLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16355,
+    "neighbor_name": "MAKSUDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16349,
+    "neighbor_name": "MELEKŞEORUÇ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16311,
+    "neighbor_name": "MELEKŞESOLAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16293,
+    "neighbor_name": "NURUOSMANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16288,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16289,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16330,
+    "neighbor_name": "POYDULAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16305,
+    "neighbor_name": "SABIRLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16350,
+    "neighbor_name": "SAFİBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16312,
+    "neighbor_name": "SARAÇLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16343,
+    "neighbor_name": "SARIGAZİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16302,
+    "neighbor_name": "SEKİHARMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16344,
+    "neighbor_name": "SETÇE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16296,
+    "neighbor_name": "SUÇATI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16326,
+    "neighbor_name": "SÜTALAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16328,
+    "neighbor_name": "ŞEHREN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16297,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16294,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16319,
+    "neighbor_name": "TEPECİKLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16356,
+    "neighbor_name": "UMURBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16295,
+    "neighbor_name": "YAYLAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 335,
+    "district_name": "GEYVE",
+    "neighbor_id": 16309,
+    "neighbor_name": "YÖRÜKLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16085,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16087,
+    "neighbor_name": "AKÇAYIR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16086,
+    "neighbor_name": "AKOVA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16062,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16077,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16138,
+    "neighbor_name": "AKTEFEK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16092,
+    "neighbor_name": "AŞAĞIÇALICA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16133,
+    "neighbor_name": "BAKACAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16127,
+    "neighbor_name": "BALIKLIİHSANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16072,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16103,
+    "neighbor_name": "BAYRAKTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16104,
+    "neighbor_name": "BEYKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16093,
+    "neighbor_name": "BEYLİCE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16098,
+    "neighbor_name": "BIÇKIATİK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16139,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 50716,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16108,
+    "neighbor_name": "ÇAKALLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16123,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16144,
+    "neighbor_name": "ÇAYIRBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16091,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16124,
+    "neighbor_name": "ÇOBANYATAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16075,
+    "neighbor_name": "ÇUKURHAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16057,
+    "neighbor_name": "DEREBOĞAZI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16128,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16129,
+    "neighbor_name": "DİKMEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16088,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16134,
+    "neighbor_name": "ESKİBIÇKI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16073,
+    "neighbor_name": "GÖKSU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16110,
+    "neighbor_name": "GÜLDİBİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16099,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16063,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16078,
+    "neighbor_name": "HACIKIŞLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16058,
+    "neighbor_name": "HACİMBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16064,
+    "neighbor_name": "HALAÇ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16115,
+    "neighbor_name": "HAMİTLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16105,
+    "neighbor_name": "HARMANTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16094,
+    "neighbor_name": "HİCRİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16069,
+    "neighbor_name": "HÜSEYİNŞEYH MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16137,
+    "neighbor_name": "İKBALİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16109,
+    "neighbor_name": "İKRAMİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16054,
+    "neighbor_name": "KADİFEKALE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16070,
+    "neighbor_name": "KAHRAMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16079,
+    "neighbor_name": "KALAYIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16059,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16130,
+    "neighbor_name": "KARATOPRAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16055,
+    "neighbor_name": "KARGALI HANBABA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16116,
+    "neighbor_name": "KARGALIYENİKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16135,
+    "neighbor_name": "KAZIMİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16117,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16089,
+    "neighbor_name": "KIRKTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16095,
+    "neighbor_name": "KIZANLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16080,
+    "neighbor_name": "KOCAAHMETLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16140,
+    "neighbor_name": "KOCATÖNGEL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16119,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16065,
+    "neighbor_name": "KURTKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16118,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16141,
+    "neighbor_name": "LÜTFİYEKÖŞK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16136,
+    "neighbor_name": "MAHMUTBEY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16111,
+    "neighbor_name": "MARTİNLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16106,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16081,
+    "neighbor_name": "NURİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16082,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16120,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16066,
+    "neighbor_name": "PUNA ORTAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16100,
+    "neighbor_name": "RASİMPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16113,
+    "neighbor_name": "SARIDEDE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16142,
+    "neighbor_name": "SARIYER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16060,
+    "neighbor_name": "SERVETİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16083,
+    "neighbor_name": "SİVRİTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16074,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16061,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16101,
+    "neighbor_name": "SUKENARI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16125,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16121,
+    "neighbor_name": "SÜMBÜLLÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16126,
+    "neighbor_name": "ŞEYHLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16090,
+    "neighbor_name": "TURANLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16056,
+    "neighbor_name": "TUZAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16076,
+    "neighbor_name": "TÜRBE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16114,
+    "neighbor_name": "UZUNCAORMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16067,
+    "neighbor_name": "UZUNÇARŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16131,
+    "neighbor_name": "YAĞBASAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16084,
+    "neighbor_name": "YARICA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16071,
+    "neighbor_name": "YAYALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16132,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16122,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16096,
+    "neighbor_name": "YENİYAYLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16102,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16107,
+    "neighbor_name": "YEŞİLVADİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16068,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16143,
+    "neighbor_name": "YUKARIÇALICA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 329,
+    "district_name": "HENDEK",
+    "neighbor_id": 16097,
+    "neighbor_name": "YUKARIHÜSEYİNŞEYH MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15945,
+    "neighbor_name": "AHMEDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15943,
+    "neighbor_name": "AHMETLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15938,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 50690,
+    "neighbor_name": "ÇEŞMEBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15947,
+    "neighbor_name": "HOCAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15941,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15946,
+    "neighbor_name": "KANLIÇAY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15942,
+    "neighbor_name": "KIZILBAYIR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15944,
+    "neighbor_name": "KÜÇÜKKARAPÜRÇEK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15934,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15935,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15939,
+    "neighbor_name": "MEŞEPINARI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15937,
+    "neighbor_name": "YAZILIGÜRGEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 326,
+    "district_name": "KARAPÜRÇEK",
+    "neighbor_id": 15940,
+    "neighbor_name": "YÜKSEL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16230,
+    "neighbor_name": "ADATEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16243,
+    "neighbor_name": "AKKUM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16222,
+    "neighbor_name": "ARDIÇBELİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16223,
+    "neighbor_name": "AZİZİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16249,
+    "neighbor_name": "CAMİTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16247,
+    "neighbor_name": "ÇATALÖVEZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16239,
+    "neighbor_name": "DARIÇAYIRI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16231,
+    "neighbor_name": "DENİZKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16224,
+    "neighbor_name": "GÖLKÖPRÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16232,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16252,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16248,
+    "neighbor_name": "İNCİLLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16244,
+    "neighbor_name": "KABAKOZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16225,
+    "neighbor_name": "KANCALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16233,
+    "neighbor_name": "KARAMÜEZZİNLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16226,
+    "neighbor_name": "KARANLIKDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16237,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16227,
+    "neighbor_name": "KARASU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16253,
+    "neighbor_name": "KIZILCIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16254,
+    "neighbor_name": "KONACIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16234,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16250,
+    "neighbor_name": "KURUMEŞE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16240,
+    "neighbor_name": "KUYUMCULLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16255,
+    "neighbor_name": "KUZULUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16241,
+    "neighbor_name": "LİMANDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16238,
+    "neighbor_name": "MANAVPINARI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16235,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16251,
+    "neighbor_name": "PARALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16245,
+    "neighbor_name": "RESULLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16256,
+    "neighbor_name": "SUBATAĞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16228,
+    "neighbor_name": "TAŞLIGEÇİT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16258,
+    "neighbor_name": "TEPETARLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16221,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16260,
+    "neighbor_name": "ÜÇOLUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16229,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16257,
+    "neighbor_name": "YASSIGEÇİT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16246,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16259,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16242,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 333,
+    "district_name": "KARASU",
+    "neighbor_id": 16236,
+    "neighbor_name": "YUVALIDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15755,
+    "neighbor_name": "AKBAŞLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15769,
+    "neighbor_name": "ARİFAĞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15761,
+    "neighbor_name": "BAŞOĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15756,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15747,
+    "neighbor_name": "BÜYÜKYANIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15748,
+    "neighbor_name": "CEBEK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15740,
+    "neighbor_name": "DUDUKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15763,
+    "neighbor_name": "EĞRİOĞLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15749,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15741,
+    "neighbor_name": "GÖLCE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15770,
+    "neighbor_name": "GÜRPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15734,
+    "neighbor_name": "GÜVEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15764,
+    "neighbor_name": "HATİPLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15727,
+    "neighbor_name": "İMAMLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15771,
+    "neighbor_name": "İŞARET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15742,
+    "neighbor_name": "KALBURCU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15728,
+    "neighbor_name": "KARAÇALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15765,
+    "neighbor_name": "KARAMANLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15750,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15757,
+    "neighbor_name": "KERTİL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15766,
+    "neighbor_name": "KIRKTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15729,
+    "neighbor_name": "KIZILCAALİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15758,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15759,
+    "neighbor_name": "KULAKLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15743,
+    "neighbor_name": "KÜÇÜKKAYNARCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15751,
+    "neighbor_name": "KÜÇÜKKIŞLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15730,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15731,
+    "neighbor_name": "MÜEZZİNLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15760,
+    "neighbor_name": "OKÇULAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15744,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15767,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15732,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15738,
+    "neighbor_name": "ÖMERAĞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15753,
+    "neighbor_name": "SABIRLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15735,
+    "neighbor_name": "SARIBEYLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15739,
+    "neighbor_name": "ŞEYHTIMARI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15752,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15768,
+    "neighbor_name": "TOPÇU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15762,
+    "neighbor_name": "TURNALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15737,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15736,
+    "neighbor_name": "UZAKKIŞLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15745,
+    "neighbor_name": "UZUNALAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15754,
+    "neighbor_name": "YENİÇAM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15746,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 321,
+    "district_name": "KAYNARCA",
+    "neighbor_id": 15733,
+    "neighbor_name": "ZİAHMET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15787,
+    "neighbor_name": "AÇMABAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15784,
+    "neighbor_name": "AĞALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15799,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15800,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15778,
+    "neighbor_name": "ALANDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15793,
+    "neighbor_name": "AYDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15805,
+    "neighbor_name": "BEYLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15774,
+    "neighbor_name": "BEZİRGAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15775,
+    "neighbor_name": "CAFERİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15786,
+    "neighbor_name": "ÇAKMAKLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15804,
+    "neighbor_name": "ÇUKURKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15794,
+    "neighbor_name": "DEMİRAÇMA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15785,
+    "neighbor_name": "GÖRELE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15795,
+    "neighbor_name": "GÜMÜŞOLUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15780,
+    "neighbor_name": "HIZAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15789,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 50904,
+    "neighbor_name": "KARALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15781,
+    "neighbor_name": "KARAPELİT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15779,
+    "neighbor_name": "KARŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15806,
+    "neighbor_name": "KESTANEPINARI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15782,
+    "neighbor_name": "KIZILÜZÜM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15802,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15783,
+    "neighbor_name": "KOĞUTPELİT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15776,
+    "neighbor_name": "KOZLUK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15796,
+    "neighbor_name": "KÖYYERİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15801,
+    "neighbor_name": "KÜPLÜK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15803,
+    "neighbor_name": "MELEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15790,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15772,
+    "neighbor_name": "SELAHİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15797,
+    "neighbor_name": "SÜNGÜT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15792,
+    "neighbor_name": "ŞERBETPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15777,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15773,
+    "neighbor_name": "YALPANKAYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15791,
+    "neighbor_name": "YANIKSAYVANT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15788,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 322,
+    "district_name": "KOCAALİ",
+    "neighbor_id": 15798,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15830,
+    "neighbor_name": "AĞAÇÇILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15813,
+    "neighbor_name": "AHILAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15807,
+    "neighbor_name": "AKÇAKAYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15814,
+    "neighbor_name": "BACIKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15835,
+    "neighbor_name": "BAKACAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15817,
+    "neighbor_name": "BAYIRAKÇAŞEHİR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15819,
+    "neighbor_name": "CİHADİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15824,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15834,
+    "neighbor_name": "ÇARDAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15810,
+    "neighbor_name": "ÇİLEKLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15815,
+    "neighbor_name": "EĞRİÇAY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15825,
+    "neighbor_name": "ELPEREK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15826,
+    "neighbor_name": "ESKİYAYLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15827,
+    "neighbor_name": "FEVZİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 50107,
+    "neighbor_name": "GONCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15831,
+    "neighbor_name": "GÖKGÖZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15828,
+    "neighbor_name": "HAYRETTİN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15829,
+    "neighbor_name": "HÜSEYİNLİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15811,
+    "neighbor_name": "İSABALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15820,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15832,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15836,
+    "neighbor_name": "KAZIMİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15816,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15808,
+    "neighbor_name": "MEKECE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15822,
+    "neighbor_name": "ORUÇLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15839,
+    "neighbor_name": "ÖZBEK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15837,
+    "neighbor_name": "PAŞALAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15838,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15812,
+    "neighbor_name": "ŞAHMELEK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15823,
+    "neighbor_name": "ŞEYHVARMAZ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15821,
+    "neighbor_name": "TEŞVİKİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15833,
+    "neighbor_name": "TURGUTLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 323,
+    "district_name": "PAMUKOVA",
+    "neighbor_id": 15818,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16165,
+    "neighbor_name": "AKÇAY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16154,
+    "neighbor_name": "BALKAYA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16150,
+    "neighbor_name": "CAMİCEDİT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16152,
+    "neighbor_name": "ÇAYİÇİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16168,
+    "neighbor_name": "FEVZİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16161,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16166,
+    "neighbor_name": "GÖL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16145,
+    "neighbor_name": "GÜLDİBİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16155,
+    "neighbor_name": "HACIMERCAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16172,
+    "neighbor_name": "İKRAMİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16153,
+    "neighbor_name": "İLMİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16173,
+    "neighbor_name": "İSTANBULDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16146,
+    "neighbor_name": "KIRKPINAR HASANPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16151,
+    "neighbor_name": "KIRKPINAR SOĞUKSU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16162,
+    "neighbor_name": "KIRKPINAR TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16163,
+    "neighbor_name": "KURTKÖY DİBEKTAŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16159,
+    "neighbor_name": "KURTKÖY FATİH MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16147,
+    "neighbor_name": "KURTKÖY YAVUZSELİM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16169,
+    "neighbor_name": "KURUÇEŞME MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16156,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16170,
+    "neighbor_name": "MEMNUNİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16157,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16171,
+    "neighbor_name": "NAİLİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16149,
+    "neighbor_name": "RÜSTEMPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16160,
+    "neighbor_name": "ŞÜKRİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16148,
+    "neighbor_name": "UZUNKUM MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16158,
+    "neighbor_name": "ÜNLÜCE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16167,
+    "neighbor_name": "YANIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 330,
+    "district_name": "SAPANCA",
+    "neighbor_id": 16164,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16267,
+    "neighbor_name": "ARABACIALANI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16281,
+    "neighbor_name": "ARALIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16273,
+    "neighbor_name": "AŞAĞIDEREKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16261,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16274,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16282,
+    "neighbor_name": "BEŞKÖPRÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16264,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16275,
+    "neighbor_name": "DAĞYONCALI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16283,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16276,
+    "neighbor_name": "HAMİTABAT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16280,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16284,
+    "neighbor_name": "KAZIMPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16277,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16268,
+    "neighbor_name": "KIZILCIKLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16262,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16269,
+    "neighbor_name": "KURUÇEŞME MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16278,
+    "neighbor_name": "MEŞELİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16270,
+    "neighbor_name": "OTUZİKİ EVLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16271,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16272,
+    "neighbor_name": "SELAHİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16279,
+    "neighbor_name": "UZUNKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16265,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 50672,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 334,
+    "district_name": "SERDİVAN",
+    "neighbor_id": 16266,
+    "neighbor_name": "YUKARIDEREKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16192,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16179,
+    "neighbor_name": "AKÇAKAMIŞ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16196,
+    "neighbor_name": "AKGÖL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16174,
+    "neighbor_name": "BEŞDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16193,
+    "neighbor_name": "CAMİ CEDİT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16185,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16175,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16186,
+    "neighbor_name": "HASANFAKI MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16178,
+    "neighbor_name": "İMAMLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16187,
+    "neighbor_name": "KANTAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16194,
+    "neighbor_name": "KARATEKE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16180,
+    "neighbor_name": "KURUDİL MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16188,
+    "neighbor_name": "KÜÇÜK SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16181,
+    "neighbor_name": "LEVENT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16189,
+    "neighbor_name": "MAĞARA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16182,
+    "neighbor_name": "MAKSUDİYE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16190,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16195,
+    "neighbor_name": "RÜSTEMLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16176,
+    "neighbor_name": "SIRAKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16183,
+    "neighbor_name": "SOĞUCAK MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16191,
+    "neighbor_name": "TOKMAKLIDERE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16177,
+    "neighbor_name": "TÜRKBEYLİKKIŞLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 331,
+    "district_name": "SÖĞÜTLÜ",
+    "neighbor_id": 16184,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15960,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15966,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15952,
+    "neighbor_name": "ALBALLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15961,
+    "neighbor_name": "AVDAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15964,
+    "neighbor_name": "ÇAMTEPE MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15953,
+    "neighbor_name": "DIŞDEDELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15954,
+    "neighbor_name": "DUMAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15962,
+    "neighbor_name": "ESENYURT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15963,
+    "neighbor_name": "HACIALİLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15955,
+    "neighbor_name": "HACIMURAT MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15948,
+    "neighbor_name": "HACIYAKUP MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15959,
+    "neighbor_name": "HARKKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15965,
+    "neighbor_name": "İÇDEDELER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15956,
+    "neighbor_name": "KEMALLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15957,
+    "neighbor_name": "MAHDUMLAR MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15949,
+    "neighbor_name": "PİRLER MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15967,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15969,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15968,
+    "neighbor_name": "ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15950,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15958,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 25,
+    "city_name": "SAKARYA",
+    "district_id": 327,
+    "district_name": "TARAKLI",
+    "neighbor_id": 15951,
+    "neighbor_name": "YUSUFBEY MAH."
+  }
+]

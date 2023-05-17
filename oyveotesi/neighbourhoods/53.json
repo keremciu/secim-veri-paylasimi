@@ -1,0 +1,2538 @@
+[
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34717,
+    "neighbor_name": "31 AĞUSTOS MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34739,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34740,
+    "neighbor_name": "DİLEK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34723,
+    "neighbor_name": "HAMAMBOĞAZI MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34737,
+    "neighbor_name": "İSLAM MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34708,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34731,
+    "neighbor_name": "KIZILCASÖĞÜT-BARIŞ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34714,
+    "neighbor_name": "KIZILCASÖĞÜT-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34710,
+    "neighbor_name": "KIZILCASÖĞÜT-EMEK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34741,
+    "neighbor_name": "AHAT KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34738,
+    "neighbor_name": "ALABA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34695,
+    "neighbor_name": "AYRANCI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34700,
+    "neighbor_name": "BAĞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34735,
+    "neighbor_name": "BAHADIR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34704,
+    "neighbor_name": "BALCIDAMI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34732,
+    "neighbor_name": "BALTALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34712,
+    "neighbor_name": "BANAZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34728,
+    "neighbor_name": "BURHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34696,
+    "neighbor_name": "BÜYÜKOTURAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34701,
+    "neighbor_name": "CORUM KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34727,
+    "neighbor_name": "ÇAMSU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34722,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34716,
+    "neighbor_name": "ÇÖĞÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34697,
+    "neighbor_name": "DERBENT KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34690,
+    "neighbor_name": "DÜMENLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34705,
+    "neighbor_name": "DÜZKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34718,
+    "neighbor_name": "DÜZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34702,
+    "neighbor_name": "GEDİKLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34707,
+    "neighbor_name": "GÜLLÜÇAM KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34692,
+    "neighbor_name": "GÜRLEK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34713,
+    "neighbor_name": "HALAÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34725,
+    "neighbor_name": "HASANKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34729,
+    "neighbor_name": "HATIPLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 49642,
+    "neighbor_name": "İMREZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34724,
+    "neighbor_name": "KAPLANGI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34719,
+    "neighbor_name": "KARACAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34730,
+    "neighbor_name": "KARAKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34709,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34736,
+    "neighbor_name": "KAYILI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34693,
+    "neighbor_name": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34694,
+    "neighbor_name": "KIZILHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34733,
+    "neighbor_name": "KUŞDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34706,
+    "neighbor_name": "KÜÇÜKLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34742,
+    "neighbor_name": "KÜÇÜKOTURAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34720,
+    "neighbor_name": "MURATLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34691,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34711,
+    "neighbor_name": "ÖKSÜZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34743,
+    "neighbor_name": "PAŞACIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34698,
+    "neighbor_name": "REŞADİYE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34699,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34734,
+    "neighbor_name": "ŞABAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34721,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34703,
+    "neighbor_name": "YAZITEPE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34715,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 694,
+    "district_name": "BANAZ",
+    "neighbor_id": 34744,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34795,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34810,
+    "neighbor_name": "ELVANLAR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34754,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34774,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 50095,
+    "neighbor_name": "MERKEZ-YENİKENT MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34780,
+    "neighbor_name": "ŞEHİTALİBEY MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34803,
+    "neighbor_name": "ÜÇEYLÜL MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34798,
+    "neighbor_name": "YELEĞEN-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34786,
+    "neighbor_name": "YELEĞEN-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34785,
+    "neighbor_name": "YELEĞEN-YILDIRIMLAR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34752,
+    "neighbor_name": "AĞABEY KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34777,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34792,
+    "neighbor_name": "AKÇAKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34746,
+    "neighbor_name": "ALAHABALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34751,
+    "neighbor_name": "ALIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34793,
+    "neighbor_name": "ARAPLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34794,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34805,
+    "neighbor_name": "AYDINLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34806,
+    "neighbor_name": "BALABANCI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34767,
+    "neighbor_name": "BEKİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34747,
+    "neighbor_name": "BOZLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34781,
+    "neighbor_name": "CABERLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34799,
+    "neighbor_name": "CAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34763,
+    "neighbor_name": "CEMALÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34753,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34771,
+    "neighbor_name": "ÇAYKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34807,
+    "neighbor_name": "DAVUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34758,
+    "neighbor_name": "DELİBAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34808,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34800,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34768,
+    "neighbor_name": "DERVİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34796,
+    "neighbor_name": "EMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34772,
+    "neighbor_name": "EŞMELİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34759,
+    "neighbor_name": "EŞMETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34811,
+    "neighbor_name": "GÖKÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34764,
+    "neighbor_name": "GÜLLÜBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34789,
+    "neighbor_name": "GÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34812,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34760,
+    "neighbor_name": "GÜNYAKA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34773,
+    "neighbor_name": "HAMAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34809,
+    "neighbor_name": "HARDALLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34745,
+    "neighbor_name": "İSALAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34782,
+    "neighbor_name": "KANDEMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34783,
+    "neighbor_name": "KARAAHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34769,
+    "neighbor_name": "KARABACAKLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34765,
+    "neighbor_name": "KARACAÖMERLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34748,
+    "neighbor_name": "KATRANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34801,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34804,
+    "neighbor_name": "KAYAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34778,
+    "neighbor_name": "KAZAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34802,
+    "neighbor_name": "KEKLİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34749,
+    "neighbor_name": "KIRANKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34761,
+    "neighbor_name": "KOCABEY KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34790,
+    "neighbor_name": "KOLANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34766,
+    "neighbor_name": "KONAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34762,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34770,
+    "neighbor_name": "KÖYLÜOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34755,
+    "neighbor_name": "MANAVLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34750,
+    "neighbor_name": "NARINCALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34779,
+    "neighbor_name": "NARLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34791,
+    "neighbor_name": "OYMALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34756,
+    "neighbor_name": "POSLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34797,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34757,
+    "neighbor_name": "ŞEHİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34784,
+    "neighbor_name": "TAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34775,
+    "neighbor_name": "ULUYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34776,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 695,
+    "district_name": "EŞME",
+    "neighbor_id": 34788,
+    "neighbor_name": "YEŞİLKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34814,
+    "neighbor_name": "BOĞAZ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 50870,
+    "neighbor_name": "BUĞDAYLI MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34823,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 49447,
+    "neighbor_name": "KARBASAN MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34818,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34820,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34828,
+    "neighbor_name": "ALFAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34813,
+    "neighbor_name": "BEKİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34829,
+    "neighbor_name": "COĞUPLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34826,
+    "neighbor_name": "ÇOKAKLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34822,
+    "neighbor_name": "DELİHIDIRLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34825,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34824,
+    "neighbor_name": "DURAKLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34830,
+    "neighbor_name": "KARAYAKUPLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34831,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34815,
+    "neighbor_name": "KAYKILLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34827,
+    "neighbor_name": "KIRKYAREN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34819,
+    "neighbor_name": "KÜLKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 696,
+    "district_name": "KARAHALLI",
+    "neighbor_id": 34816,
+    "neighbor_name": "PAŞALAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34832,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34845,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34838,
+    "neighbor_name": "EVRENLİ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34842,
+    "neighbor_name": "GÖLBAHÇE MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34852,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34833,
+    "neighbor_name": "PINARBAŞI-FATİH MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34853,
+    "neighbor_name": "PINARBAŞI-PINAR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34858,
+    "neighbor_name": "SELÇİKLER-GÜLBEY MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34849,
+    "neighbor_name": "SELÇİKLER-YILDIZTEPE MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34844,
+    "neighbor_name": "TATAR-ATATÜRK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34835,
+    "neighbor_name": "TATAR-DEDEBALLAR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34847,
+    "neighbor_name": "TATAR-FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34859,
+    "neighbor_name": "AĞAÇBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34855,
+    "neighbor_name": "AKARCA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34850,
+    "neighbor_name": "AZİZLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34837,
+    "neighbor_name": "BUDAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34841,
+    "neighbor_name": "CİNOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34856,
+    "neighbor_name": "ELDENİZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34851,
+    "neighbor_name": "ERİCE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34848,
+    "neighbor_name": "HACİM KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34843,
+    "neighbor_name": "HANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34846,
+    "neighbor_name": "KARABOYALIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34839,
+    "neighbor_name": "KETENLİK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34840,
+    "neighbor_name": "KÖKEZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34836,
+    "neighbor_name": "ÖZBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34857,
+    "neighbor_name": "SALMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34860,
+    "neighbor_name": "SAMATLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34861,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34834,
+    "neighbor_name": "YAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 697,
+    "district_name": "SİVASLI",
+    "neighbor_id": 34854,
+    "neighbor_name": "YENİERİCE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34891,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34865,
+    "neighbor_name": "AVGAN MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34866,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34867,
+    "neighbor_name": "DİLAVER MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34877,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34873,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34885,
+    "neighbor_name": "ÜYÜKBAŞI MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34890,
+    "neighbor_name": "AKKEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34870,
+    "neighbor_name": "AKSAZ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34871,
+    "neighbor_name": "BEKDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34876,
+    "neighbor_name": "BÜYÜKKAYALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34869,
+    "neighbor_name": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34881,
+    "neighbor_name": "ÇAMLIBEL KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34864,
+    "neighbor_name": "ÇARDAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34883,
+    "neighbor_name": "ÇIRPICILAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34892,
+    "neighbor_name": "DUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34872,
+    "neighbor_name": "GEDİKLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34878,
+    "neighbor_name": "GÜMÜŞKOL KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34874,
+    "neighbor_name": "HANYERİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34882,
+    "neighbor_name": "HASKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34894,
+    "neighbor_name": "İNAY KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34889,
+    "neighbor_name": "İSHAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34862,
+    "neighbor_name": "KARACAAHMET KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34893,
+    "neighbor_name": "KIRAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34886,
+    "neighbor_name": "KIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34863,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34887,
+    "neighbor_name": "KURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34888,
+    "neighbor_name": "KÜÇÜKİLYASLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34875,
+    "neighbor_name": "KÜÇÜKKAYALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34879,
+    "neighbor_name": "KÜLÇEN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34868,
+    "neighbor_name": "OMURCA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34884,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 698,
+    "district_name": "ULUBEY",
+    "neighbor_id": 34880,
+    "neighbor_name": "SÜLÜMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34661,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34623,
+    "neighbor_name": "AYBEY MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34616,
+    "neighbor_name": "BOZKURT MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49502,
+    "neighbor_name": "BÖLME MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34625,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49683,
+    "neighbor_name": "ÇEVRE MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34600,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34680,
+    "neighbor_name": "DURAK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34662,
+    "neighbor_name": "ELMALIDERE MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34624,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34612,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49559,
+    "neighbor_name": "HACIKADEM MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34602,
+    "neighbor_name": "IŞIK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49491,
+    "neighbor_name": "İKİSARAY MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34608,
+    "neighbor_name": "İSLİCE MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 50894,
+    "neighbor_name": "KALFA MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34664,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34656,
+    "neighbor_name": "KEMALÖZ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34667,
+    "neighbor_name": "KÖME MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49540,
+    "neighbor_name": "KURŞUNLUK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34593,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 50977,
+    "neighbor_name": "KUYUCAK MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34645,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49935,
+    "neighbor_name": "MUHARREMŞAH MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49802,
+    "neighbor_name": "OVADEMİRLER MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34654,
+    "neighbor_name": "ÖZDEMİR MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34598,
+    "neighbor_name": "SARAYALTI MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34589,
+    "neighbor_name": "ÜNALAN MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49517,
+    "neighbor_name": "YEŞİL KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34647,
+    "neighbor_name": "AKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34609,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34641,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34650,
+    "neighbor_name": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34669,
+    "neighbor_name": "BELKAYA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34585,
+    "neighbor_name": "BEYLERHAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34629,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34605,
+    "neighbor_name": "BOZKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34617,
+    "neighbor_name": "BOZKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34688,
+    "neighbor_name": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34606,
+    "neighbor_name": "CİĞERDEDE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34622,
+    "neighbor_name": "ÇALIKHASAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34689,
+    "neighbor_name": "ÇAMYAZI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34578,
+    "neighbor_name": "ÇAMYUVA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34615,
+    "neighbor_name": "ÇARIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34687,
+    "neighbor_name": "ÇATALBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34644,
+    "neighbor_name": "ÇINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34618,
+    "neighbor_name": "ÇUKURAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34634,
+    "neighbor_name": "DAĞDEMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34642,
+    "neighbor_name": "DAĞYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34635,
+    "neighbor_name": "DEMİRÖREN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34581,
+    "neighbor_name": "DERBENT KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34583,
+    "neighbor_name": "DIŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34584,
+    "neighbor_name": "EĞLENCE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34636,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34671,
+    "neighbor_name": "EMİRFAKI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34627,
+    "neighbor_name": "ESKİGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34591,
+    "neighbor_name": "ESKİSARAY KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34611,
+    "neighbor_name": "EYNİHAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34670,
+    "neighbor_name": "FAKILI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34637,
+    "neighbor_name": "GÖĞEM KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34596,
+    "neighbor_name": "GÖKÇEDAL KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34685,
+    "neighbor_name": "GÖKÇETEPE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34586,
+    "neighbor_name": "GÜCER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34631,
+    "neighbor_name": "GÜNELİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34677,
+    "neighbor_name": "GÜRE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34632,
+    "neighbor_name": "HALİLEFENDİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34681,
+    "neighbor_name": "HİSAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34686,
+    "neighbor_name": "HOCALAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34607,
+    "neighbor_name": "İLYASLI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34610,
+    "neighbor_name": "KABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34587,
+    "neighbor_name": "KAPANCIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34597,
+    "neighbor_name": "KARABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34651,
+    "neighbor_name": "KARACAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34621,
+    "neighbor_name": "KARAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34648,
+    "neighbor_name": "KARAKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34657,
+    "neighbor_name": "KARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34665,
+    "neighbor_name": "KARLIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34613,
+    "neighbor_name": "KAYAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34592,
+    "neighbor_name": "KEDİYÜNÜ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34666,
+    "neighbor_name": "KILCAN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34628,
+    "neighbor_name": "KIRKA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34658,
+    "neighbor_name": "KISIK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34682,
+    "neighbor_name": "KOYUNBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34595,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 49548,
+    "neighbor_name": "MENDE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34601,
+    "neighbor_name": "MESUDİYE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34579,
+    "neighbor_name": "MOLLAMUSA KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34603,
+    "neighbor_name": "ORMANDAMI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34678,
+    "neighbor_name": "ORTABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34659,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34640,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34672,
+    "neighbor_name": "PAÇACILAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34652,
+    "neighbor_name": "SARIDERE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34633,
+    "neighbor_name": "SELİKLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34679,
+    "neighbor_name": "SELVİLER KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34646,
+    "neighbor_name": "SELVİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34626,
+    "neighbor_name": "SİRGE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34653,
+    "neighbor_name": "SORKUN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34614,
+    "neighbor_name": "SUSUZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34594,
+    "neighbor_name": "ŞÜKRANİYE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34639,
+    "neighbor_name": "TAŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34674,
+    "neighbor_name": "ULUCAK KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34663,
+    "neighbor_name": "ÜÇKUYULAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34684,
+    "neighbor_name": "ÜRÜN KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34675,
+    "neighbor_name": "YAPAĞILAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34620,
+    "neighbor_name": "YAŞAMIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34604,
+    "neighbor_name": "YAVİ KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34676,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34660,
+    "neighbor_name": "YENİŞEHİR KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34668,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34580,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 53,
+    "city_name": "UŞAK",
+    "district_id": 693,
+    "district_name": "UŞAK MERKEZ",
+    "neighbor_id": 34599,
+    "neighbor_name": "ZAHMAN KÖYÜ"
+  }
+]

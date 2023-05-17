@@ -1,0 +1,2634 @@
+[
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42928,
+    "neighbor_name": "AFET KONUTLARI MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42941,
+    "neighbor_name": "ARICA MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 50246,
+    "neighbor_name": "DEMİROLUK MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42925,
+    "neighbor_name": "DÖŞLÜCE MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42930,
+    "neighbor_name": "GÜNGÖRSÜN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42938,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42927,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42933,
+    "neighbor_name": "AKBİNEK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42934,
+    "neighbor_name": "AYVADÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42929,
+    "neighbor_name": "BAĞLARPINARI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42932,
+    "neighbor_name": "ÇATMA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42940,
+    "neighbor_name": "ÇEVRELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42942,
+    "neighbor_name": "DOĞANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42924,
+    "neighbor_name": "DOLUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42935,
+    "neighbor_name": "ELMADÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 49886,
+    "neighbor_name": "ERBAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 50322,
+    "neighbor_name": "ERLER KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42936,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42943,
+    "neighbor_name": "HASBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42931,
+    "neighbor_name": "KARAÇUBUK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42937,
+    "neighbor_name": "KAYNAKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42926,
+    "neighbor_name": "KOZLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 42939,
+    "neighbor_name": "SEVKAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 836,
+    "district_name": "ADAKLI",
+    "neighbor_id": 49851,
+    "neighbor_name": "TOPAĞAÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42989,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42988,
+    "neighbor_name": "İÇMELER MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42981,
+    "neighbor_name": "İNALI MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43024,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43012,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42947,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43041,
+    "neighbor_name": "MİRZAN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42948,
+    "neighbor_name": "RECEP TAYYİP ERDOĞAN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42975,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42953,
+    "neighbor_name": "SELAHADDİN-İ EYYUBİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43029,
+    "neighbor_name": "SİMANİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43017,
+    "neighbor_name": "ŞEHİT MUSTAFA GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42966,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42957,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43022,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43046,
+    "neighbor_name": "ILICALAR-ÇAY MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43013,
+    "neighbor_name": "ILICALAR-ILICA MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42973,
+    "neighbor_name": "ILICALAR-İÇPINAR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42956,
+    "neighbor_name": "ILICALAR-KAMIŞLI MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43004,
+    "neighbor_name": "ILICALAR-KILIÇLI MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42952,
+    "neighbor_name": "ILICALAR-UZUNDERE MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42979,
+    "neighbor_name": "SANCAK-AKBUDAK MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43036,
+    "neighbor_name": "SANCAK-BÜYÜKBAŞKÖY MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43043,
+    "neighbor_name": "SANCAK-ÇİMENLİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42974,
+    "neighbor_name": "SANCAK-HOŞKAR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42980,
+    "neighbor_name": "SANCAK-KARAPINAR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42985,
+    "neighbor_name": "SANCAK-KÜÇÜKBAŞKÖY MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42959,
+    "neighbor_name": "SANCAK-SARIGÜMÜŞ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42999,
+    "neighbor_name": "SANCAK-YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43052,
+    "neighbor_name": "AĞAÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43030,
+    "neighbor_name": "AĞAÇYOLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43034,
+    "neighbor_name": "AKDURMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42993,
+    "neighbor_name": "ALATEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42994,
+    "neighbor_name": "ALİBİR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42968,
+    "neighbor_name": "ALTINIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43008,
+    "neighbor_name": "ARDIÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43018,
+    "neighbor_name": "ARICILAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43009,
+    "neighbor_name": "AŞAĞIAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43001,
+    "neighbor_name": "AŞAĞIKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42996,
+    "neighbor_name": "AZ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43031,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43039,
+    "neighbor_name": "BALIKLIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42962,
+    "neighbor_name": "BALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43019,
+    "neighbor_name": "BİLALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43056,
+    "neighbor_name": "BÜYÜKTEKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43023,
+    "neighbor_name": "ÇAVUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43016,
+    "neighbor_name": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43051,
+    "neighbor_name": "ÇAYBOYU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43044,
+    "neighbor_name": "ÇELTİKSUYU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43059,
+    "neighbor_name": "ÇEVRİMPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43045,
+    "neighbor_name": "ÇİÇEKDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42960,
+    "neighbor_name": "ÇİÇEKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42967,
+    "neighbor_name": "ÇİRİŞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42995,
+    "neighbor_name": "ÇOBANTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43038,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43057,
+    "neighbor_name": "DALLITEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42991,
+    "neighbor_name": "DİKKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43032,
+    "neighbor_name": "DİKME KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42963,
+    "neighbor_name": "DİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43025,
+    "neighbor_name": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43027,
+    "neighbor_name": "DÜGERNAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42990,
+    "neighbor_name": "DÜZYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43054,
+    "neighbor_name": "EKİNYOLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42984,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43003,
+    "neighbor_name": "EMTAĞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43028,
+    "neighbor_name": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43033,
+    "neighbor_name": "ERENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42954,
+    "neighbor_name": "GARİP KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43011,
+    "neighbor_name": "GÖKÇEKANAT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43053,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42977,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43026,
+    "neighbor_name": "GÖLTEPESİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43060,
+    "neighbor_name": "GÖZELER KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43048,
+    "neighbor_name": "GÖZER KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43002,
+    "neighbor_name": "GÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42978,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42951,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43055,
+    "neighbor_name": "GÜVEÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42969,
+    "neighbor_name": "HAZİRAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42950,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42998,
+    "neighbor_name": "KARDEŞLER KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43040,
+    "neighbor_name": "KARTAL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43020,
+    "neighbor_name": "KILÇADIR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42965,
+    "neighbor_name": "KIRAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42945,
+    "neighbor_name": "KÖKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42992,
+    "neighbor_name": "KUMGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43047,
+    "neighbor_name": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43061,
+    "neighbor_name": "KURUCA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43035,
+    "neighbor_name": "KURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42955,
+    "neighbor_name": "KUŞBURNU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43049,
+    "neighbor_name": "KUŞKONDU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42982,
+    "neighbor_name": "KÜÇÜKTEKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42983,
+    "neighbor_name": "OĞULDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43042,
+    "neighbor_name": "OLUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42961,
+    "neighbor_name": "ORMANARDI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43014,
+    "neighbor_name": "ORTAÇANAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43005,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42949,
+    "neighbor_name": "SANCAKLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43015,
+    "neighbor_name": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43006,
+    "neighbor_name": "SUDÜĞÜNÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43058,
+    "neighbor_name": "SUVARAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42976,
+    "neighbor_name": "SÜTGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42964,
+    "neighbor_name": "ŞABANKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43007,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42971,
+    "neighbor_name": "TOPALAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42986,
+    "neighbor_name": "UĞUROVA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42958,
+    "neighbor_name": "UZUNSAVAT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42972,
+    "neighbor_name": "YAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42946,
+    "neighbor_name": "YAYGINÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43037,
+    "neighbor_name": "YAZGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43000,
+    "neighbor_name": "YELESEN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42970,
+    "neighbor_name": "YENİBAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43010,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43021,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42987,
+    "neighbor_name": "YOLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 42997,
+    "neighbor_name": "YUKARIAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 837,
+    "district_name": "BİNGÖL MERKEZ",
+    "neighbor_id": 43050,
+    "neighbor_name": "YUMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43087,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43082,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43068,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43084,
+    "neighbor_name": "YOLDAŞAN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43103,
+    "neighbor_name": "ALAADDİN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43070,
+    "neighbor_name": "ARDIÇDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43078,
+    "neighbor_name": "BALGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43097,
+    "neighbor_name": "BAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43086,
+    "neighbor_name": "BİNEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 50278,
+    "neighbor_name": "BULGURLUK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 49541,
+    "neighbor_name": "BÜYÜKÇAĞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43085,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43077,
+    "neighbor_name": "ÇAYTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43102,
+    "neighbor_name": "ÇEVİRME KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43088,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43071,
+    "neighbor_name": "DİLEKTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43063,
+    "neighbor_name": "DİREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43079,
+    "neighbor_name": "DOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43098,
+    "neighbor_name": "DOĞANEVLER KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43104,
+    "neighbor_name": "ELMAGÜNÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43072,
+    "neighbor_name": "GEYİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43093,
+    "neighbor_name": "GÖNÜLAÇAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43099,
+    "neighbor_name": "GÖZERTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43066,
+    "neighbor_name": "GÖZÜTOK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43105,
+    "neighbor_name": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43073,
+    "neighbor_name": "KEKLİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43067,
+    "neighbor_name": "KEPÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43081,
+    "neighbor_name": "KOÇSIRTI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43106,
+    "neighbor_name": "MEŞEDALI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43089,
+    "neighbor_name": "PINARALTI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43083,
+    "neighbor_name": "SAĞGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43064,
+    "neighbor_name": "SARIBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43107,
+    "neighbor_name": "SARMAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43076,
+    "neighbor_name": "SERVİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43090,
+    "neighbor_name": "SÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 50133,
+    "neighbor_name": "ŞEHİTKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43092,
+    "neighbor_name": "ŞEHİTTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43065,
+    "neighbor_name": "TARLABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43074,
+    "neighbor_name": "YAĞIZCA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43091,
+    "neighbor_name": "YATANSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43095,
+    "neighbor_name": "YAYLA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43108,
+    "neighbor_name": "YAZKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43096,
+    "neighbor_name": "YENİSU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43100,
+    "neighbor_name": "YENİYAZI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 838,
+    "district_name": "GENÇ",
+    "neighbor_id": 43069,
+    "neighbor_name": "YİĞİTBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43132,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43140,
+    "neighbor_name": "KANIREŞ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43142,
+    "neighbor_name": "KANİTAHT MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43118,
+    "neighbor_name": "SEYRAN TEPE MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43121,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43145,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 49875,
+    "neighbor_name": "AŞAĞIYAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43130,
+    "neighbor_name": "BAĞLIİSA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43122,
+    "neighbor_name": "BAHÇEKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43136,
+    "neighbor_name": "BONCUKGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43137,
+    "neighbor_name": "CİLLİGÖL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43135,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50295,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43113,
+    "neighbor_name": "ÇUKURTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43138,
+    "neighbor_name": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43146,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43131,
+    "neighbor_name": "GÖYNÜK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43147,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43139,
+    "neighbor_name": "HALİFAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50249,
+    "neighbor_name": "HARMANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43109,
+    "neighbor_name": "HASANOVA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43114,
+    "neighbor_name": "ILIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43141,
+    "neighbor_name": "KALENCİK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43110,
+    "neighbor_name": "KANTARKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43119,
+    "neighbor_name": "KARABALÇIK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43115,
+    "neighbor_name": "KARGAPAZARI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50279,
+    "neighbor_name": "KARLICA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50250,
+    "neighbor_name": "KAŞIKÇI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43123,
+    "neighbor_name": "KAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43116,
+    "neighbor_name": "KAYNARPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50281,
+    "neighbor_name": "KAZANLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43117,
+    "neighbor_name": "KIRAÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43124,
+    "neighbor_name": "KIZILAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43133,
+    "neighbor_name": "KIZILÇUBUK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43125,
+    "neighbor_name": "KÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43148,
+    "neighbor_name": "KÜRÜK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43134,
+    "neighbor_name": "MOLLAŞAKİR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43149,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43150,
+    "neighbor_name": "SAKAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 49428,
+    "neighbor_name": "SARIKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43126,
+    "neighbor_name": "SERPMEKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50260,
+    "neighbor_name": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43127,
+    "neighbor_name": "SUÇATI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43120,
+    "neighbor_name": "SUDURAĞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43143,
+    "neighbor_name": "TAŞLIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43144,
+    "neighbor_name": "TOKLULAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50083,
+    "neighbor_name": "TUZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43112,
+    "neighbor_name": "VİRANŞEHİR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50258,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43129,
+    "neighbor_name": "YİĞİTLER KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43128,
+    "neighbor_name": "YONCALIK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 50017,
+    "neighbor_name": "YORGANÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 839,
+    "district_name": "KARLIOVA",
+    "neighbor_id": 43111,
+    "neighbor_name": "YUKARIYAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43157,
+    "neighbor_name": "ESKİŞEHİR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43156,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 51000,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 50338,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 50324,
+    "neighbor_name": "ÇİÇEKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43152,
+    "neighbor_name": "DALLICA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43154,
+    "neighbor_name": "ESKİKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43158,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43155,
+    "neighbor_name": "KUŞÇİMENİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43159,
+    "neighbor_name": "NACAKLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 50074,
+    "neighbor_name": "SABIRTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43160,
+    "neighbor_name": "SIRMAÇEK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 840,
+    "district_name": "KİĞI",
+    "neighbor_id": 43161,
+    "neighbor_name": "YAZGÜNÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43176,
+    "neighbor_name": "BOĞLAN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43188,
+    "neighbor_name": "HALİME PINAR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43163,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43194,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43165,
+    "neighbor_name": "ARAKONAK-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43166,
+    "neighbor_name": "ARAKONAK-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43183,
+    "neighbor_name": "ARAKONAK-MERKEZ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43191,
+    "neighbor_name": "ARSLANBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43195,
+    "neighbor_name": "ASMAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43192,
+    "neighbor_name": "BOZKANAT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43193,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43177,
+    "neighbor_name": "DİLEKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43184,
+    "neighbor_name": "DOĞUYELİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43168,
+    "neighbor_name": "DÜZAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43178,
+    "neighbor_name": "ELBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43186,
+    "neighbor_name": "ELMASIRTI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43187,
+    "neighbor_name": "EŞMETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43169,
+    "neighbor_name": "GELİNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43185,
+    "neighbor_name": "GENÇTAVUS KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43181,
+    "neighbor_name": "GÖKSU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43171,
+    "neighbor_name": "HAZARŞAH KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43175,
+    "neighbor_name": "İNANDIK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43173,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43189,
+    "neighbor_name": "KIRIK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43172,
+    "neighbor_name": "MURAT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43170,
+    "neighbor_name": "MUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43179,
+    "neighbor_name": "OYMAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43196,
+    "neighbor_name": "SÜKYAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43167,
+    "neighbor_name": "SÜLÜNKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43182,
+    "neighbor_name": "ŞİMŞİRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43190,
+    "neighbor_name": "TARHAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43164,
+    "neighbor_name": "YENİBAŞAK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43174,
+    "neighbor_name": "YENİDAL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 841,
+    "district_name": "SOLHAN",
+    "neighbor_id": 43180,
+    "neighbor_name": "YİĞİTHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43215,
+    "neighbor_name": "AKÇADAMLAR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43200,
+    "neighbor_name": "CONAG MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43211,
+    "neighbor_name": "HAKTANIR MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43212,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43213,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43198,
+    "neighbor_name": "YOLGÜDEN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 49682,
+    "neighbor_name": "ALINYAZI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43199,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43206,
+    "neighbor_name": "BATIAYAZ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 49567,
+    "neighbor_name": "BİLEKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 50489,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43204,
+    "neighbor_name": "ÇALIKAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43214,
+    "neighbor_name": "ÇATALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43210,
+    "neighbor_name": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43205,
+    "neighbor_name": "ÇİKAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43207,
+    "neighbor_name": "DALBASAN KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 50256,
+    "neighbor_name": "GÖKÇEDAL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43216,
+    "neighbor_name": "GÜNEŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43201,
+    "neighbor_name": "GÜNLÜK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43208,
+    "neighbor_name": "KALKANLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 50263,
+    "neighbor_name": "KIRKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43202,
+    "neighbor_name": "KORLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43209,
+    "neighbor_name": "SÜRMELİKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43197,
+    "neighbor_name": "YAVUZTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 49905,
+    "neighbor_name": "YAYLABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 842,
+    "district_name": "YAYLADERE",
+    "neighbor_id": 43203,
+    "neighbor_name": "ZEYNELLİ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43224,
+    "neighbor_name": "DÖŞENGİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43220,
+    "neighbor_name": "KABAOLUK MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 49454,
+    "neighbor_name": "KOŞAN MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43221,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 50307,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43223,
+    "neighbor_name": "AYANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 50079,
+    "neighbor_name": "DİNARBEY KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43217,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43218,
+    "neighbor_name": "ESKİBALTA KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 49566,
+    "neighbor_name": "GELİNPERTEK KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43219,
+    "neighbor_name": "GÜZGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 49446,
+    "neighbor_name": "KABAYEL KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 49501,
+    "neighbor_name": "KARAPOLAT KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 50282,
+    "neighbor_name": "KAŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 50325,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 43222,
+    "neighbor_name": "YAĞMURPINAR KÖYÜ"
+  },
+  {
+    "city_id": 68,
+    "city_name": "BİNGÖL",
+    "district_id": 843,
+    "district_name": "YEDİSU",
+    "neighbor_id": 49736,
+    "neighbor_name": "YEŞİLGÖL KÖYÜ"
+  }
+]

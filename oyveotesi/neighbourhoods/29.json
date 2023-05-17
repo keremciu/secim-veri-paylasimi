@@ -1,0 +1,2906 @@
+[
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18608,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18649,
+    "neighbor_name": "AKARSU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18644,
+    "neighbor_name": "ANAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18604,
+    "neighbor_name": "AŞAĞIIRMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18628,
+    "neighbor_name": "AŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18635,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18627,
+    "neighbor_name": "AYDINKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18629,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18612,
+    "neighbor_name": "BALLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18619,
+    "neighbor_name": "BERATLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18615,
+    "neighbor_name": "BEREKET KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18616,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18641,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18630,
+    "neighbor_name": "CEVİZLİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18613,
+    "neighbor_name": "ÇAKILLAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18626,
+    "neighbor_name": "ÇIRALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18620,
+    "neighbor_name": "EKŞİNAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18621,
+    "neighbor_name": "FERHATLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18622,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18637,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18643,
+    "neighbor_name": "GÜLEŞ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18642,
+    "neighbor_name": "GÜMÜŞHANE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18605,
+    "neighbor_name": "HAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18606,
+    "neighbor_name": "HARMANLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18631,
+    "neighbor_name": "HİSARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18648,
+    "neighbor_name": "İNCİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18607,
+    "neighbor_name": "KAPIKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18600,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18645,
+    "neighbor_name": "KAŞIKÇI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18617,
+    "neighbor_name": "KIZILCIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18601,
+    "neighbor_name": "KONAKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18623,
+    "neighbor_name": "KUTLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18632,
+    "neighbor_name": "MEŞEKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18609,
+    "neighbor_name": "MÜEZZİNLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18633,
+    "neighbor_name": "NALDÖKEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18634,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18603,
+    "neighbor_name": "ÖRTÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18610,
+    "neighbor_name": "PEYNİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18636,
+    "neighbor_name": "SAKARYA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18638,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18602,
+    "neighbor_name": "TEPEDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18639,
+    "neighbor_name": "TORBALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18611,
+    "neighbor_name": "TOSUNLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18640,
+    "neighbor_name": "TÜTÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18624,
+    "neighbor_name": "USTALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18614,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18618,
+    "neighbor_name": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18646,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18625,
+    "neighbor_name": "YUKARIIRMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 368,
+    "district_name": "ARDANUÇ",
+    "neighbor_id": 18647,
+    "neighbor_name": "ZEKERİYAKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18664,
+    "neighbor_name": "AŞAĞI HACILAR MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18681,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18657,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18678,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18685,
+    "neighbor_name": "MUSAZADE MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18672,
+    "neighbor_name": "YEMİŞLİK MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18653,
+    "neighbor_name": "YUKARI HACILAR MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18682,
+    "neighbor_name": "ARILI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18680,
+    "neighbor_name": "AŞAĞIŞAHİNLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18675,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18650,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18665,
+    "neighbor_name": "BOYUNCUK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18676,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18654,
+    "neighbor_name": "DEREÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18683,
+    "neighbor_name": "DİKYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18655,
+    "neighbor_name": "DÜLGERLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18658,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18677,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18656,
+    "neighbor_name": "GÜRGENCİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18666,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18684,
+    "neighbor_name": "KEMERKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18667,
+    "neighbor_name": "KESTANEALAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18669,
+    "neighbor_name": "KİREÇLİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18659,
+    "neighbor_name": "KONAKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18668,
+    "neighbor_name": "KÜÇÜKKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18660,
+    "neighbor_name": "ORTACALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18651,
+    "neighbor_name": "SIRTOBA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18652,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18674,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18661,
+    "neighbor_name": "TEPEYURT KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18671,
+    "neighbor_name": "ULAŞ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18686,
+    "neighbor_name": "ULUKENT KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18670,
+    "neighbor_name": "ÜÇIRMAK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18679,
+    "neighbor_name": "ÜÇLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18673,
+    "neighbor_name": "YILDIZLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18662,
+    "neighbor_name": "YOLGEÇEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 369,
+    "district_name": "ARHAVİ",
+    "neighbor_id": 18663,
+    "neighbor_name": "YUKARIŞAHİNLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18493,
+    "neighbor_name": "BALCIOĞLU MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18504,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18496,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18505,
+    "neighbor_name": "ÇAYAĞZI MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18478,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18502,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18497,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18499,
+    "neighbor_name": "AĞILLAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18492,
+    "neighbor_name": "AHLAT KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18507,
+    "neighbor_name": "ALABALIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18512,
+    "neighbor_name": "AŞAĞIMADEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18509,
+    "neighbor_name": "BAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18508,
+    "neighbor_name": "BAKIRKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18500,
+    "neighbor_name": "BALLIÜZÜM KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18485,
+    "neighbor_name": "BEŞAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18498,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18494,
+    "neighbor_name": "DERİNKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18482,
+    "neighbor_name": "DİKMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18495,
+    "neighbor_name": "DOKUZOĞUL KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18479,
+    "neighbor_name": "ERENLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18488,
+    "neighbor_name": "FISTIKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18489,
+    "neighbor_name": "HAMAMLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18513,
+    "neighbor_name": "HIZARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18514,
+    "neighbor_name": "KALBURLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18501,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18490,
+    "neighbor_name": "OKUMUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18515,
+    "neighbor_name": "ORMANLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18516,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18486,
+    "neighbor_name": "ORUÇLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18487,
+    "neighbor_name": "PIRNALLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18510,
+    "neighbor_name": "SAKALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18511,
+    "neighbor_name": "SALKIMLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18517,
+    "neighbor_name": "SARIBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18518,
+    "neighbor_name": "SEYİTLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 49882,
+    "neighbor_name": "SÜMBÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18506,
+    "neighbor_name": "ŞEHİTLİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18491,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18480,
+    "neighbor_name": "TÜTÜNCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18481,
+    "neighbor_name": "VARLIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18484,
+    "neighbor_name": "VEZİRKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18519,
+    "neighbor_name": "YANIKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18503,
+    "neighbor_name": "YUKARIMADEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 365,
+    "district_name": "ARTVİN MERKEZ",
+    "neighbor_id": 18477,
+    "neighbor_name": "ZEYTİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18706,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18688,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18727,
+    "neighbor_name": "KÜÇÜK KÖY MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18715,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18703,
+    "neighbor_name": "YENİYOL MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18718,
+    "neighbor_name": "ADAGÜL KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18712,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18722,
+    "neighbor_name": "ALACA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18707,
+    "neighbor_name": "AMBARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18719,
+    "neighbor_name": "ARALIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18691,
+    "neighbor_name": "ARKAKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18708,
+    "neighbor_name": "ATANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18692,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18693,
+    "neighbor_name": "BALCI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18694,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18725,
+    "neighbor_name": "CAMİLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18687,
+    "neighbor_name": "CİVAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18695,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18711,
+    "neighbor_name": "ÇAYLIKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18720,
+    "neighbor_name": "ÇİFTEKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18700,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18728,
+    "neighbor_name": "DÜZENLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18729,
+    "neighbor_name": "DÜZKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18701,
+    "neighbor_name": "EFELER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18709,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18704,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18689,
+    "neighbor_name": "GÜREŞEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18690,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18716,
+    "neighbor_name": "İBRİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18713,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18714,
+    "neighbor_name": "KARŞIKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18723,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18726,
+    "neighbor_name": "KAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18705,
+    "neighbor_name": "KAYNARCA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18724,
+    "neighbor_name": "MARALKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18710,
+    "neighbor_name": "MURATLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18721,
+    "neighbor_name": "ÖRÜCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18717,
+    "neighbor_name": "ŞEREFİYE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18696,
+    "neighbor_name": "TARAKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18702,
+    "neighbor_name": "UĞURKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18697,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18698,
+    "neighbor_name": "ZEDOBAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 370,
+    "district_name": "BORÇKA",
+    "neighbor_id": 18699,
+    "neighbor_name": "ZORLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18739,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18730,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18751,
+    "neighbor_name": "MERKEZ KULEDİBİ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18740,
+    "neighbor_name": "ORTAHOPA MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 50228,
+    "neighbor_name": "SUGÖREN MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18741,
+    "neighbor_name": "SUNDURA MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18735,
+    "neighbor_name": "YUKARI KULEDİBİ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18737,
+    "neighbor_name": "BALIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18738,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18742,
+    "neighbor_name": "BAŞOBA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18745,
+    "neighbor_name": "ÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18736,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18734,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18731,
+    "neighbor_name": "ESENKIYI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18732,
+    "neighbor_name": "EŞMEKAYA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18748,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18749,
+    "neighbor_name": "GÜVERCİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18743,
+    "neighbor_name": "HENDEK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18750,
+    "neighbor_name": "KOYUNCULAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18752,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18744,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18746,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 371,
+    "district_name": "HOPA",
+    "neighbor_id": 18747,
+    "neighbor_name": "YOLDERE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18764,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18767,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18756,
+    "neighbor_name": "UZUNYALI MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18758,
+    "neighbor_name": "AKDERE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18763,
+    "neighbor_name": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18759,
+    "neighbor_name": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18753,
+    "neighbor_name": "GÜMÜŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18760,
+    "neighbor_name": "KARAOSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18761,
+    "neighbor_name": "KAYA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18754,
+    "neighbor_name": "KAZİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18765,
+    "neighbor_name": "KÖPRÜCÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18766,
+    "neighbor_name": "LİMAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18757,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18755,
+    "neighbor_name": "SARP KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 372,
+    "district_name": "KEMALPAŞA",
+    "neighbor_id": 18762,
+    "neighbor_name": "ÜÇKARDEŞ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18527,
+    "neighbor_name": "KÜRE MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18531,
+    "neighbor_name": "AKANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18524,
+    "neighbor_name": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18525,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18529,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18520,
+    "neighbor_name": "DAMAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18521,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18522,
+    "neighbor_name": "KABACA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18526,
+    "neighbor_name": "KORUCULAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18523,
+    "neighbor_name": "KÜRE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 50264,
+    "neighbor_name": "OSMANLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 366,
+    "district_name": "MURGUL",
+    "neighbor_id": 18528,
+    "neighbor_name": "PETEK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18567,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18586,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18596,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18549,
+    "neighbor_name": "AKDAMLA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18589,
+    "neighbor_name": "ARPALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18560,
+    "neighbor_name": "AŞAĞIKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18577,
+    "neighbor_name": "ATALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18553,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18550,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18543,
+    "neighbor_name": "CİRİTDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18540,
+    "neighbor_name": "ÇAĞLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18548,
+    "neighbor_name": "ÇAĞLIYAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18534,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18556,
+    "neighbor_name": "ÇAVDARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18557,
+    "neighbor_name": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18558,
+    "neighbor_name": "ÇERMİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18566,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18542,
+    "neighbor_name": "ÇORAKLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18559,
+    "neighbor_name": "ÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18532,
+    "neighbor_name": "DALKIRMAZ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18590,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18571,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18578,
+    "neighbor_name": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18544,
+    "neighbor_name": "DUTLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18568,
+    "neighbor_name": "DÜZENLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18583,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18545,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18551,
+    "neighbor_name": "ESKİKALE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18535,
+    "neighbor_name": "HANLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18579,
+    "neighbor_name": "ILICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18593,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18572,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18554,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18552,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18569,
+    "neighbor_name": "KİRAZLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18597,
+    "neighbor_name": "KİREÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18573,
+    "neighbor_name": "KOCABEY KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18561,
+    "neighbor_name": "KÖPRÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18584,
+    "neighbor_name": "KÖPRÜYAKA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18536,
+    "neighbor_name": "KURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18580,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18570,
+    "neighbor_name": "MADEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18563,
+    "neighbor_name": "MEŞELİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18585,
+    "neighbor_name": "MEYDANCIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18562,
+    "neighbor_name": "MISIRLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18546,
+    "neighbor_name": "OBA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18533,
+    "neighbor_name": "OTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18591,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18538,
+    "neighbor_name": "SAVAŞ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18592,
+    "neighbor_name": "SAYLICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18574,
+    "neighbor_name": "SEBZELİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18598,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18588,
+    "neighbor_name": "ŞALCI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18599,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18582,
+    "neighbor_name": "ŞENOCAK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18555,
+    "neighbor_name": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18564,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18594,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18587,
+    "neighbor_name": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18565,
+    "neighbor_name": "VELİKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18539,
+    "neighbor_name": "YAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18595,
+    "neighbor_name": "YAMAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18537,
+    "neighbor_name": "YAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18547,
+    "neighbor_name": "YAVUZKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18575,
+    "neighbor_name": "YEŞİLCE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18581,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18541,
+    "neighbor_name": "YUKARIKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 367,
+    "district_name": "ŞAVŞAT",
+    "neighbor_id": 18576,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18806,
+    "neighbor_name": "AHALT MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 49488,
+    "neighbor_name": "ÇORUH MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18819,
+    "neighbor_name": "ERDEMLER MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18790,
+    "neighbor_name": "HASANAĞA MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 49688,
+    "neighbor_name": "KAÇKAR MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18794,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 49762,
+    "neighbor_name": "LİVANE MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18820,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 50227,
+    "neighbor_name": "SANCAK MAH."
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18829,
+    "neighbor_name": "ALANBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18812,
+    "neighbor_name": "ALTIPARMAK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18782,
+    "neighbor_name": "ARPACIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18830,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18825,
+    "neighbor_name": "BADEMKAYA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18818,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18822,
+    "neighbor_name": "BAKIRTEPE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18770,
+    "neighbor_name": "BALALAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18796,
+    "neighbor_name": "BALCILI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18813,
+    "neighbor_name": "BIÇAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18814,
+    "neighbor_name": "BOSTANCI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18831,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18771,
+    "neighbor_name": "CEVİZLİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18823,
+    "neighbor_name": "ÇAĞLIYAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18785,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18793,
+    "neighbor_name": "ÇELTİKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18828,
+    "neighbor_name": "ÇEVRELİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18824,
+    "neighbor_name": "ÇIRALI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18826,
+    "neighbor_name": "DAĞETEĞİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18832,
+    "neighbor_name": "DARICA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18815,
+    "neighbor_name": "DEMİRDÖVEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18772,
+    "neighbor_name": "DEMİRKENT KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18773,
+    "neighbor_name": "DEMİRKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18786,
+    "neighbor_name": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18816,
+    "neighbor_name": "DOKUMACILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18807,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18787,
+    "neighbor_name": "ESENDAL KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18801,
+    "neighbor_name": "ESENYAKA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18808,
+    "neighbor_name": "GÜMÜŞÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18777,
+    "neighbor_name": "GÜNYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18802,
+    "neighbor_name": "HAVUZLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18792,
+    "neighbor_name": "IRMAKYANI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18776,
+    "neighbor_name": "İNANLI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18781,
+    "neighbor_name": "İŞHAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18783,
+    "neighbor_name": "KILIÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18778,
+    "neighbor_name": "KINALIÇAM KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18833,
+    "neighbor_name": "KİRAZALAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18800,
+    "neighbor_name": "KÖMÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18817,
+    "neighbor_name": "KÖPRÜGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18797,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18803,
+    "neighbor_name": "MEŞECİK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18779,
+    "neighbor_name": "MORKAYA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18788,
+    "neighbor_name": "MUTLUGÜN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18811,
+    "neighbor_name": "NARLIK KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18798,
+    "neighbor_name": "ORMANDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18780,
+    "neighbor_name": "ÖĞDEM KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18835,
+    "neighbor_name": "ÖZGÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18774,
+    "neighbor_name": "PAMUKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18775,
+    "neighbor_name": "SEBZECİLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18809,
+    "neighbor_name": "SERİNSU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18834,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18768,
+    "neighbor_name": "TARAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18769,
+    "neighbor_name": "TAŞKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18799,
+    "neighbor_name": "TEKKALE KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18810,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18804,
+    "neighbor_name": "YAMAÇÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18784,
+    "neighbor_name": "YARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18827,
+    "neighbor_name": "YAYLALAR KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18795,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18789,
+    "neighbor_name": "YOKUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18805,
+    "neighbor_name": "YÜKSEKOBA KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18791,
+    "neighbor_name": "YÜNCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 29,
+    "city_name": "ARTVİN",
+    "district_id": 373,
+    "district_name": "YUSUFELİ",
+    "neighbor_id": 18821,
+    "neighbor_name": "ZEYTİNCİK KÖYÜ"
+  }
+]

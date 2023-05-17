@@ -1,0 +1,3618 @@
+[
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12058,
+    "neighbor_name": "ALACAATLI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12036,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12070,
+    "neighbor_name": "CEVİZLİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12063,
+    "neighbor_name": "ÇAYIR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12067,
+    "neighbor_name": "HIDIRŞAH MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12044,
+    "neighbor_name": "KALEBOYNU MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12039,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12034,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12053,
+    "neighbor_name": "AYDINLAR-ATATÜRK MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12037,
+    "neighbor_name": "AYDINLAR-BUDAKLI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12069,
+    "neighbor_name": "AYDINLAR-ESENTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12033,
+    "neighbor_name": "AYDINLAR-GÜLTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12038,
+    "neighbor_name": "AYDINLAR-İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12059,
+    "neighbor_name": "AYDINLAR-KIŞKILI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12046,
+    "neighbor_name": "AYDINLAR-MENDERES MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12052,
+    "neighbor_name": "AKÇIRA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12074,
+    "neighbor_name": "AKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12049,
+    "neighbor_name": "AŞAĞISÜPHAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12047,
+    "neighbor_name": "AYGIRGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12040,
+    "neighbor_name": "BAHÇEDERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12041,
+    "neighbor_name": "CİHANGİR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12057,
+    "neighbor_name": "ÇANAKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12064,
+    "neighbor_name": "DİZDAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12050,
+    "neighbor_name": "ERİKBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12051,
+    "neighbor_name": "ESENKIYI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12065,
+    "neighbor_name": "GÖLDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12042,
+    "neighbor_name": "GÖLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12066,
+    "neighbor_name": "GÜMÜŞDÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12043,
+    "neighbor_name": "HARMANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12054,
+    "neighbor_name": "HEYBELİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12068,
+    "neighbor_name": "İPEKÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12075,
+    "neighbor_name": "KARAKOL KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12060,
+    "neighbor_name": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12071,
+    "neighbor_name": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12072,
+    "neighbor_name": "KAVUŞTUK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12061,
+    "neighbor_name": "KÖMÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12045,
+    "neighbor_name": "MOLLAFADIL KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12073,
+    "neighbor_name": "ÖRENTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12055,
+    "neighbor_name": "SEFASAHİL KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12056,
+    "neighbor_name": "YARIMADA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12048,
+    "neighbor_name": "YILDIZKÖY"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12035,
+    "neighbor_name": "YOLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 252,
+    "district_name": "ADİLCEVAZ",
+    "neighbor_id": 12062,
+    "neighbor_name": "YUKARISÜPHAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12112,
+    "neighbor_name": "ERKİZAN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12084,
+    "neighbor_name": "HARABA ŞEHİR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12093,
+    "neighbor_name": "İKİ KUBBE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12096,
+    "neighbor_name": "KACER MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12106,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12076,
+    "neighbor_name": "KIRKLAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12077,
+    "neighbor_name": "KULAKSIZ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12097,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12110,
+    "neighbor_name": "TAHTI SÜLEYMAN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12079,
+    "neighbor_name": "TUNUS MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12107,
+    "neighbor_name": "OVAKIŞLA-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12088,
+    "neighbor_name": "OVAKIŞLA-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12108,
+    "neighbor_name": "OVAKIŞLA-ORTA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12078,
+    "neighbor_name": "OVAKIŞLA-SARAY MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12109,
+    "neighbor_name": "OVAKIŞLA-YILDIZLAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12111,
+    "neighbor_name": "AKÇAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12103,
+    "neighbor_name": "ALAKIR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12104,
+    "neighbor_name": "BAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12094,
+    "neighbor_name": "BURCUKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12098,
+    "neighbor_name": "CEMALETTİN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12102,
+    "neighbor_name": "ÇATALAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 49594,
+    "neighbor_name": "ÇUKURTARLA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12083,
+    "neighbor_name": "DEVELİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12095,
+    "neighbor_name": "DİLBURNU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12099,
+    "neighbor_name": "GÖLGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12113,
+    "neighbor_name": "GÜZELSU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12105,
+    "neighbor_name": "KINALIKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 49623,
+    "neighbor_name": "KIRIKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 50082,
+    "neighbor_name": "KIRKDÖNÜM KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12100,
+    "neighbor_name": "KUŞHANE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12087,
+    "neighbor_name": "NAZİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12090,
+    "neighbor_name": "OTLUYAZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12089,
+    "neighbor_name": "SAKA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12086,
+    "neighbor_name": "SERİNBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12091,
+    "neighbor_name": "SEYRANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12101,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12085,
+    "neighbor_name": "TAŞHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12092,
+    "neighbor_name": "ULUDERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12080,
+    "neighbor_name": "YENİKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12081,
+    "neighbor_name": "YOĞURTYEMEZ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 253,
+    "district_name": "AHLAT",
+    "neighbor_id": 12082,
+    "neighbor_name": "YUVADAMI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12155,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12148,
+    "neighbor_name": "BEŞ MİNARE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12187,
+    "neighbor_name": "GAZİ BEY MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12144,
+    "neighbor_name": "HERSAN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12125,
+    "neighbor_name": "HÜSREV PAŞA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12142,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12135,
+    "neighbor_name": "MUŞTAKBABA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12189,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12164,
+    "neighbor_name": "SEKİZ AĞUSTOS MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12116,
+    "neighbor_name": "ŞEMSİ BİTLİS MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12121,
+    "neighbor_name": "TAŞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12162,
+    "neighbor_name": "YÜKSELİŞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12115,
+    "neighbor_name": "ZEYDAN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12170,
+    "neighbor_name": "YOLALAN-BOZTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12114,
+    "neighbor_name": "YOLALAN-ÇINARBAŞI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12175,
+    "neighbor_name": "YOLALAN-DÜZ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12140,
+    "neighbor_name": "YOLALAN-KALE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12141,
+    "neighbor_name": "YOLALAN-KONAÇ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12186,
+    "neighbor_name": "YOLALAN-MERKEZ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12166,
+    "neighbor_name": "YOLALAN-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12126,
+    "neighbor_name": "YOLALAN-ÜÇ KARDEŞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12161,
+    "neighbor_name": "YOLALAN-YENİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12137,
+    "neighbor_name": "AĞAÇDERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12156,
+    "neighbor_name": "AĞAÇKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12183,
+    "neighbor_name": "ALANİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12163,
+    "neighbor_name": "ARIDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50310,
+    "neighbor_name": "AŞAĞIBALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12131,
+    "neighbor_name": "AŞAĞIKARABOY KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 49955,
+    "neighbor_name": "AŞAĞIÖLEK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12176,
+    "neighbor_name": "AYRANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12169,
+    "neighbor_name": "BAŞHAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50003,
+    "neighbor_name": "BAŞMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12168,
+    "neighbor_name": "BAYRAMALAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12143,
+    "neighbor_name": "BÖLÜKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12120,
+    "neighbor_name": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12153,
+    "neighbor_name": "ÇALIDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12147,
+    "neighbor_name": "ÇAYIRBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12179,
+    "neighbor_name": "ÇELTİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 49947,
+    "neighbor_name": "ÇOBANSUYU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12138,
+    "neighbor_name": "DEĞİRMENALTI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12157,
+    "neighbor_name": "DELİKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12130,
+    "neighbor_name": "DEREAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 49944,
+    "neighbor_name": "DİREKTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12117,
+    "neighbor_name": "DOĞRUYOL KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12184,
+    "neighbor_name": "DÖRTAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12124,
+    "neighbor_name": "EKİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12177,
+    "neighbor_name": "GEÇİTBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50285,
+    "neighbor_name": "ILICAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12123,
+    "neighbor_name": "İÇGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12154,
+    "neighbor_name": "İÇMELİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12132,
+    "neighbor_name": "KARBASTI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12134,
+    "neighbor_name": "KARINCA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12178,
+    "neighbor_name": "KAVAKDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12188,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 49763,
+    "neighbor_name": "KAYADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12149,
+    "neighbor_name": "KEKLİKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50345,
+    "neighbor_name": "KINALI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12151,
+    "neighbor_name": "KİREÇTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12159,
+    "neighbor_name": "KOKARSU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50242,
+    "neighbor_name": "KONALGA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12171,
+    "neighbor_name": "KONUKSAYAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12145,
+    "neighbor_name": "KORUK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12172,
+    "neighbor_name": "KÖMÜRYAKAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12118,
+    "neighbor_name": "KÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12119,
+    "neighbor_name": "NARLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50999,
+    "neighbor_name": "OĞULCAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12133,
+    "neighbor_name": "ORTAKAPI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12127,
+    "neighbor_name": "SARIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50271,
+    "neighbor_name": "SARPKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12139,
+    "neighbor_name": "TABANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12160,
+    "neighbor_name": "TANRIYAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12173,
+    "neighbor_name": "TATLIKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12165,
+    "neighbor_name": "TINAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 50319,
+    "neighbor_name": "ÜÇEVLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12180,
+    "neighbor_name": "ÜNALDI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12185,
+    "neighbor_name": "YANLIZÇAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12128,
+    "neighbor_name": "YAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12174,
+    "neighbor_name": "YAYGIN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12122,
+    "neighbor_name": "YEŞİLSIRT KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12129,
+    "neighbor_name": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12181,
+    "neighbor_name": "YOLCULAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12158,
+    "neighbor_name": "YOLYAZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12152,
+    "neighbor_name": "YUKARIBALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12167,
+    "neighbor_name": "YUKARIKARABOY KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 49876,
+    "neighbor_name": "YUKARIÖLEK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12150,
+    "neighbor_name": "YUMURTATEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12182,
+    "neighbor_name": "YUVACIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 254,
+    "district_name": "BİTLİS MERKEZ",
+    "neighbor_id": 12146,
+    "neighbor_name": "YÜCEBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11815,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11788,
+    "neighbor_name": "BARAJYOLU MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11784,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11807,
+    "neighbor_name": "BÖLMEDERE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11803,
+    "neighbor_name": "ERENTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11799,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11792,
+    "neighbor_name": "HAYDAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11793,
+    "neighbor_name": "KÜMBET MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11794,
+    "neighbor_name": "NURTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11825,
+    "neighbor_name": "ŞENEVLER MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11787,
+    "neighbor_name": "ŞENOVA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11782,
+    "neighbor_name": "ŞENTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11821,
+    "neighbor_name": "ŞİRİNTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11790,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11819,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11822,
+    "neighbor_name": "GÖLBAŞI-GÜLTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11789,
+    "neighbor_name": "GÖLBAŞI-KÖŞK MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11830,
+    "neighbor_name": "GÖLBAŞI-ŞENKAYA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11831,
+    "neighbor_name": "GÖLBAŞI-ŞENYAYLA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11829,
+    "neighbor_name": "GÖLBAŞI-YENİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11804,
+    "neighbor_name": "GÖLBAŞI-YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11798,
+    "neighbor_name": "GÜNKIRI-CAMİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11817,
+    "neighbor_name": "GÜNKIRI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11805,
+    "neighbor_name": "GÜNKIRI-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11810,
+    "neighbor_name": "GÜNKIRI-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11806,
+    "neighbor_name": "GÜNKIRI-REFAHİYE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11781,
+    "neighbor_name": "GÜNKIRI-ŞENYURT MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11786,
+    "neighbor_name": "GÜNKIRI-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11783,
+    "neighbor_name": "ARPACIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11814,
+    "neighbor_name": "AŞAĞIKOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11796,
+    "neighbor_name": "BUDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11816,
+    "neighbor_name": "CEVİZYATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11828,
+    "neighbor_name": "ÇALLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11802,
+    "neighbor_name": "ÇAYARASI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11809,
+    "neighbor_name": "ÇITAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11797,
+    "neighbor_name": "DEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11785,
+    "neighbor_name": "GEDİKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11811,
+    "neighbor_name": "GÜZELLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11812,
+    "neighbor_name": "KALELİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 49940,
+    "neighbor_name": "KAVUNLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11823,
+    "neighbor_name": "KEKLİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11808,
+    "neighbor_name": "KUŞTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11813,
+    "neighbor_name": "ODUNCULAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11820,
+    "neighbor_name": "ÖZKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11832,
+    "neighbor_name": "SAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11826,
+    "neighbor_name": "SÜTDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11824,
+    "neighbor_name": "TAHTALI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11801,
+    "neighbor_name": "TAŞÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 49694,
+    "neighbor_name": "ÜZÜMVEREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11818,
+    "neighbor_name": "YAMAÇKÖY"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11791,
+    "neighbor_name": "YAYLADERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11827,
+    "neighbor_name": "YAZIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11795,
+    "neighbor_name": "YEMİŞVEREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 248,
+    "district_name": "GÜROYMAK",
+    "neighbor_id": 11800,
+    "neighbor_name": "YUKARIKOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11844,
+    "neighbor_name": "ALTINOLUK MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11871,
+    "neighbor_name": "AŞAĞIKARASU MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11853,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11900,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11895,
+    "neighbor_name": "GÖKÇİMEN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11862,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11849,
+    "neighbor_name": "TAŞLI PINAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11869,
+    "neighbor_name": "YEMİŞLİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11896,
+    "neighbor_name": "YENİ KENT MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11897,
+    "neighbor_name": "YEŞİL OVA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11837,
+    "neighbor_name": "AĞILÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11870,
+    "neighbor_name": "AKBIYIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11878,
+    "neighbor_name": "AKÇA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11835,
+    "neighbor_name": "AKÇEVRE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11877,
+    "neighbor_name": "AKDİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11836,
+    "neighbor_name": "AKŞAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11879,
+    "neighbor_name": "ALADANA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11892,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11872,
+    "neighbor_name": "BALLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11898,
+    "neighbor_name": "BOZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11845,
+    "neighbor_name": "BÖLÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50251,
+    "neighbor_name": "BUDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50432,
+    "neighbor_name": "ÇALIŞKANLAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11852,
+    "neighbor_name": "ÇATAKDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50294,
+    "neighbor_name": "ÇAVUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11863,
+    "neighbor_name": "ÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11883,
+    "neighbor_name": "ÇÖKEKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50261,
+    "neighbor_name": "DAĞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11858,
+    "neighbor_name": "DAYILAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11861,
+    "neighbor_name": "DERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50296,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11899,
+    "neighbor_name": "DOĞANCI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11864,
+    "neighbor_name": "DÖKÜKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50280,
+    "neighbor_name": "EKİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11886,
+    "neighbor_name": "EKİNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11893,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11859,
+    "neighbor_name": "ERENCİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11894,
+    "neighbor_name": "ESENLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11889,
+    "neighbor_name": "GAYDA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11887,
+    "neighbor_name": "GÖKAY KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11846,
+    "neighbor_name": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11854,
+    "neighbor_name": "GÖNÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50262,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50073,
+    "neighbor_name": "GÜRECE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11838,
+    "neighbor_name": "HACIMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11850,
+    "neighbor_name": "HARMANDÖVEN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11888,
+    "neighbor_name": "HOROZDERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11880,
+    "neighbor_name": "İÇLİKAVAL KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50276,
+    "neighbor_name": "İNCİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11873,
+    "neighbor_name": "KALKANLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11860,
+    "neighbor_name": "KAPISUYU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11847,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11840,
+    "neighbor_name": "KARBASTI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50067,
+    "neighbor_name": "KARLITEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 49466,
+    "neighbor_name": "KAYADELER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11848,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50302,
+    "neighbor_name": "KAYMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11875,
+    "neighbor_name": "KEÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11874,
+    "neighbor_name": "KEKLİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11833,
+    "neighbor_name": "KOÇLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11867,
+    "neighbor_name": "KOÇYİĞİT KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11855,
+    "neighbor_name": "KOLLUDERE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50300,
+    "neighbor_name": "KOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50253,
+    "neighbor_name": "MEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50312,
+    "neighbor_name": "NUH KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11876,
+    "neighbor_name": "NURS KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11865,
+    "neighbor_name": "OĞLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 49817,
+    "neighbor_name": "OLTU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11834,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11881,
+    "neighbor_name": "OYMAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50287,
+    "neighbor_name": "ÖRGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11885,
+    "neighbor_name": "SAĞINLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11890,
+    "neighbor_name": "SAĞIRKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11839,
+    "neighbor_name": "SARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11884,
+    "neighbor_name": "SARPKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11851,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11842,
+    "neighbor_name": "SÜRÜCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11843,
+    "neighbor_name": "SÜTTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50321,
+    "neighbor_name": "TUTUMLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11868,
+    "neighbor_name": "UZUNTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11857,
+    "neighbor_name": "ÜRÜNVEREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50290,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 49737,
+    "neighbor_name": "YELKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11856,
+    "neighbor_name": "YENİCİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11891,
+    "neighbor_name": "YIĞINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11866,
+    "neighbor_name": "YOĞURTLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 50315,
+    "neighbor_name": "YOLBİLEN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11841,
+    "neighbor_name": "YUKARIAYVACIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 249,
+    "district_name": "HİZAN",
+    "neighbor_id": 11882,
+    "neighbor_name": "YUKARIÇALI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11919,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11946,
+    "neighbor_name": "TAŞLI PINAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11916,
+    "neighbor_name": "YENİBAĞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11962,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11903,
+    "neighbor_name": "KAVAKBAŞI-ARPALISEKİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11969,
+    "neighbor_name": "KAVAKBAŞI-CAMİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11952,
+    "neighbor_name": "KAVAKBAŞI-ÇİMEN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11970,
+    "neighbor_name": "KAVAKBAŞI-GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11943,
+    "neighbor_name": "KAVAKBAŞI-ORTA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11924,
+    "neighbor_name": "KAVAKBAŞI-YENİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11956,
+    "neighbor_name": "KAVAKBAŞI-YÜKSEKOVA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11933,
+    "neighbor_name": "AÇIKALAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11902,
+    "neighbor_name": "AKÇAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11958,
+    "neighbor_name": "AKINCI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11901,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11965,
+    "neighbor_name": "ALATOPRAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11920,
+    "neighbor_name": "ALICIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11921,
+    "neighbor_name": "ALKOYUN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11914,
+    "neighbor_name": "AYDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11934,
+    "neighbor_name": "BAĞARASI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11948,
+    "neighbor_name": "BALLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11941,
+    "neighbor_name": "BEŞEVLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11951,
+    "neighbor_name": "BOĞAZÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11928,
+    "neighbor_name": "BOZBURUN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11926,
+    "neighbor_name": "ÇATALERİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11963,
+    "neighbor_name": "ÇATALSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11932,
+    "neighbor_name": "ÇAYGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11957,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11968,
+    "neighbor_name": "ÇIĞIR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11964,
+    "neighbor_name": "ÇİĞDEMALAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11912,
+    "neighbor_name": "ÇİTLİYOL KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11942,
+    "neighbor_name": "DAĞARCIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11922,
+    "neighbor_name": "DAĞLIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11938,
+    "neighbor_name": "DEREYOLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11954,
+    "neighbor_name": "EKİZLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11907,
+    "neighbor_name": "ERLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11955,
+    "neighbor_name": "GEYİKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11949,
+    "neighbor_name": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11959,
+    "neighbor_name": "GÜMÜŞKANAT KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11947,
+    "neighbor_name": "İKİZLER KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11923,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 50314,
+    "neighbor_name": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11917,
+    "neighbor_name": "KARABUDAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11904,
+    "neighbor_name": "KAŞAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11950,
+    "neighbor_name": "KAŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11935,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11908,
+    "neighbor_name": "KAYRAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11960,
+    "neighbor_name": "KOCAİNİŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11909,
+    "neighbor_name": "KOVANLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11918,
+    "neighbor_name": "KOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11910,
+    "neighbor_name": "KUŞDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11953,
+    "neighbor_name": "KÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11905,
+    "neighbor_name": "MEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11966,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11913,
+    "neighbor_name": "ÖZENLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11929,
+    "neighbor_name": "SALMAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11944,
+    "neighbor_name": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11945,
+    "neighbor_name": "SEKİLİYAZI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11961,
+    "neighbor_name": "TAŞBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11930,
+    "neighbor_name": "TOLGALI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11939,
+    "neighbor_name": "URAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11915,
+    "neighbor_name": "UZUNYAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11927,
+    "neighbor_name": "ÜÇADIM KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11937,
+    "neighbor_name": "ÜSTYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11967,
+    "neighbor_name": "YALINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11906,
+    "neighbor_name": "YANIKÇAKIR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11925,
+    "neighbor_name": "YAZICIK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11911,
+    "neighbor_name": "YENİDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11931,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11940,
+    "neighbor_name": "YUMRUMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 250,
+    "district_name": "MUTKİ",
+    "neighbor_id": 11936,
+    "neighbor_name": "YUVALIDAM KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12010,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12001,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12024,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12022,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12028,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12004,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11985,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12005,
+    "neighbor_name": "FUAR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12006,
+    "neighbor_name": "HİDAYET MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11984,
+    "neighbor_name": "İŞLETME MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11981,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12030,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12002,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11988,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11980,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12021,
+    "neighbor_name": "SAHİL MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11982,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11993,
+    "neighbor_name": "SOSYAL MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12032,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11983,
+    "neighbor_name": "TUĞ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11991,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11973,
+    "neighbor_name": "YEŞİLMEZRA MAH."
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12015,
+    "neighbor_name": "ADABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12016,
+    "neighbor_name": "ALACABÜK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12017,
+    "neighbor_name": "BENEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11995,
+    "neighbor_name": "BOLALAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12023,
+    "neighbor_name": "BUDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12019,
+    "neighbor_name": "ÇALIDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12000,
+    "neighbor_name": "ÇANAKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11974,
+    "neighbor_name": "ÇEKMECE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11977,
+    "neighbor_name": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12003,
+    "neighbor_name": "DALDA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12029,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 50291,
+    "neighbor_name": "DÖNERTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12007,
+    "neighbor_name": "DÜZCEALAN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11992,
+    "neighbor_name": "EĞRİTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11986,
+    "neighbor_name": "GÖLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12008,
+    "neighbor_name": "GÜNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11975,
+    "neighbor_name": "GÜREŞÇİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 49465,
+    "neighbor_name": "HANELMALI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12011,
+    "neighbor_name": "HARMANLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11978,
+    "neighbor_name": "KIRKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 50323,
+    "neighbor_name": "KISIKLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11971,
+    "neighbor_name": "KIYIDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12020,
+    "neighbor_name": "KOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11996,
+    "neighbor_name": "KORUKLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12009,
+    "neighbor_name": "KOYLUCA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11972,
+    "neighbor_name": "KOYUNPINARI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11997,
+    "neighbor_name": "KÖPRÜCÜK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12018,
+    "neighbor_name": "KURUYAKA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 50303,
+    "neighbor_name": "KUŞLUCA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11976,
+    "neighbor_name": "KÜÇÜKSU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11979,
+    "neighbor_name": "NOHUTLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12012,
+    "neighbor_name": "OBUZ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12014,
+    "neighbor_name": "ÖRENLİK KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12025,
+    "neighbor_name": "SARIKUM KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11998,
+    "neighbor_name": "TOKAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11994,
+    "neighbor_name": "TOSUNLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12026,
+    "neighbor_name": "ULUSOY KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11989,
+    "neighbor_name": "UNCULAR KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11990,
+    "neighbor_name": "USLU KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12013,
+    "neighbor_name": "YASSICA KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12027,
+    "neighbor_name": "YEDİVEREN KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11999,
+    "neighbor_name": "YELKENLİ KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 11987,
+    "neighbor_name": "YONCABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 19,
+    "city_name": "BİTLİS",
+    "district_id": 251,
+    "district_name": "TATVAN",
+    "neighbor_id": 12031,
+    "neighbor_name": "YUMURTATEPE KÖYÜ"
+  }
+]

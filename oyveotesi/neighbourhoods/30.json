@@ -1,0 +1,4322 @@
+[
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19120,
+    "neighbor_name": "AĞAÇHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19092,
+    "neighbor_name": "AKTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19095,
+    "neighbor_name": "ALAPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19111,
+    "neighbor_name": "ARIKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19114,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19093,
+    "neighbor_name": "BAŞÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19121,
+    "neighbor_name": "BELKESE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19094,
+    "neighbor_name": "BOZAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19102,
+    "neighbor_name": "BÜĞDÜZ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19100,
+    "neighbor_name": "ÇARDAKBAŞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19101,
+    "neighbor_name": "ÇERKEZ ÇUKURHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19107,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19122,
+    "neighbor_name": "ESENCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19115,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19108,
+    "neighbor_name": "FEVZİ PAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19090,
+    "neighbor_name": "FEVZİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19112,
+    "neighbor_name": "GÖKÇEKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19096,
+    "neighbor_name": "GÖKÇEOĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19098,
+    "neighbor_name": "GÜROLUK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19117,
+    "neighbor_name": "IŞIKÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19109,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19105,
+    "neighbor_name": "KARAKAMIŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19118,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19113,
+    "neighbor_name": "KOŞMAT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19091,
+    "neighbor_name": "MAMURE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19110,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19106,
+    "neighbor_name": "ÖZDENK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19103,
+    "neighbor_name": "SAKARIKARACAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19116,
+    "neighbor_name": "SARIKAVAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19104,
+    "neighbor_name": "SÖĞÜTÇÜK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19097,
+    "neighbor_name": "UYUZHAMAMKÖYÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19099,
+    "neighbor_name": "YEŞİLDON MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 377,
+    "district_name": "ALPU",
+    "neighbor_id": 19119,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19344,
+    "neighbor_name": "AKKÖPRÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19323,
+    "neighbor_name": "AŞAĞIDUDAŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19336,
+    "neighbor_name": "AŞAĞIİĞDEAĞACI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19345,
+    "neighbor_name": "ATA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19337,
+    "neighbor_name": "DOĞANOĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19330,
+    "neighbor_name": "DOĞRAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19328,
+    "neighbor_name": "EMİRCİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19324,
+    "neighbor_name": "GÖKÇEAYVA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19331,
+    "neighbor_name": "HALİLBAĞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19343,
+    "neighbor_name": "İKİPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19338,
+    "neighbor_name": "İMİKLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19332,
+    "neighbor_name": "KIZILCAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19329,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19325,
+    "neighbor_name": "OKÇU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19341,
+    "neighbor_name": "PARSIBEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19321,
+    "neighbor_name": "RAHMİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19333,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19334,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19326,
+    "neighbor_name": "UZUNBURUN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19335,
+    "neighbor_name": "YALINLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19342,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19322,
+    "neighbor_name": "YENİYURT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19327,
+    "neighbor_name": "YUKARIDUDAŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19339,
+    "neighbor_name": "YUKARIİĞDEAĞACI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 385,
+    "district_name": "BEYLİKOVA",
+    "neighbor_id": 19340,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19167,
+    "neighbor_name": "ABBASHALİMPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19184,
+    "neighbor_name": "ADALAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19180,
+    "neighbor_name": "ALİKAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19181,
+    "neighbor_name": "ARSLANLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19173,
+    "neighbor_name": "BAŞKURT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19168,
+    "neighbor_name": "BELPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19187,
+    "neighbor_name": "ÇATMAPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19178,
+    "neighbor_name": "ÇİFTÇİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19183,
+    "neighbor_name": "DİKİLİKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19166,
+    "neighbor_name": "DİKMEN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19182,
+    "neighbor_name": "DOĞANAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19174,
+    "neighbor_name": "EMİNEKİN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19179,
+    "neighbor_name": "ERBAP MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19188,
+    "neighbor_name": "HAYRİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19175,
+    "neighbor_name": "ILICABAŞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19189,
+    "neighbor_name": "KADIKUYUSU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19169,
+    "neighbor_name": "KÖRHASAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19190,
+    "neighbor_name": "MERKEZ-YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19164,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19170,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19185,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19186,
+    "neighbor_name": "SADIROĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19191,
+    "neighbor_name": "SAİTHALİMPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19177,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19176,
+    "neighbor_name": "SARIKAVAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19165,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19171,
+    "neighbor_name": "YILDIZÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 380,
+    "district_name": "ÇİFTELER",
+    "neighbor_id": 19172,
+    "neighbor_name": "ZAFERHAMİT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19132,
+    "neighbor_name": "ATLAS MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19133,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19137,
+    "neighbor_name": "BEDİL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19138,
+    "neighbor_name": "BEYYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19141,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19136,
+    "neighbor_name": "ÇARDAKÖZÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19142,
+    "neighbor_name": "DOĞRAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19126,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19127,
+    "neighbor_name": "GECEK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19128,
+    "neighbor_name": "GÜMÜŞKONAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19139,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19123,
+    "neighbor_name": "KAVUNCU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19135,
+    "neighbor_name": "KAYAKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19143,
+    "neighbor_name": "KUZÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19144,
+    "neighbor_name": "MERCAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19131,
+    "neighbor_name": "ÖZLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19134,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19140,
+    "neighbor_name": "TUTLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19129,
+    "neighbor_name": "YAĞRI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19124,
+    "neighbor_name": "YAZIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19125,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 378,
+    "district_name": "GÜNYÜZÜ",
+    "neighbor_id": 19130,
+    "neighbor_name": "YEŞİLYAKA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19354,
+    "neighbor_name": "AĞLARCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19353,
+    "neighbor_name": "AKDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19349,
+    "neighbor_name": "AKHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19355,
+    "neighbor_name": "BAŞARA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19346,
+    "neighbor_name": "ERTEN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19357,
+    "neighbor_name": "GÖKÇEKUYU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19350,
+    "neighbor_name": "GÖKÇEYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19358,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19347,
+    "neighbor_name": "HANKARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19359,
+    "neighbor_name": "HÜSREVPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19352,
+    "neighbor_name": "İSKANKUYU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19348,
+    "neighbor_name": "KAYI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19356,
+    "neighbor_name": "PEÇENE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19360,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 386,
+    "district_name": "HAN",
+    "neighbor_id": 19351,
+    "neighbor_name": "YAZILI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19192,
+    "neighbor_name": "AŞAĞIKUZFINDIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19194,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19199,
+    "neighbor_name": "DEREYALAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19195,
+    "neighbor_name": "DUTLUCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19196,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19200,
+    "neighbor_name": "ESNEMEZ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19198,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19201,
+    "neighbor_name": "KÜMBETAKPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19205,
+    "neighbor_name": "KÜMBET MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19206,
+    "neighbor_name": "KÜMBETYENİKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19202,
+    "neighbor_name": "OKLUBALI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19203,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19207,
+    "neighbor_name": "SEYİTALİKÖYÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19197,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19193,
+    "neighbor_name": "YUKARIKUZFINDIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 381,
+    "district_name": "İNÖNÜ",
+    "neighbor_id": 19204,
+    "neighbor_name": "YÜRÜKYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19150,
+    "neighbor_name": "AKYURT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19161,
+    "neighbor_name": "BALÇIKHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19160,
+    "neighbor_name": "ÇAL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19145,
+    "neighbor_name": "DOĞANCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19156,
+    "neighbor_name": "FAHRİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19157,
+    "neighbor_name": "GÜLLÜCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19146,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19158,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19149,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19162,
+    "neighbor_name": "KAYMAZYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19147,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19163,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19155,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19151,
+    "neighbor_name": "TOKATHAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19152,
+    "neighbor_name": "TOPKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19153,
+    "neighbor_name": "TÜRKMENMECİDİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19154,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19159,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 379,
+    "district_name": "MAHMUDİYE",
+    "neighbor_id": 19148,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19208,
+    "neighbor_name": "ALPAGUT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19214,
+    "neighbor_name": "BOZANİÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19209,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19215,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19210,
+    "neighbor_name": "DOKUZ MAYIS MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19211,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19213,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19216,
+    "neighbor_name": "KARAOĞLAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 382,
+    "district_name": "MİHALGAZİ",
+    "neighbor_id": 19212,
+    "neighbor_name": "SAKARIILICA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19225,
+    "neighbor_name": "ADAHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19251,
+    "neighbor_name": "AHUR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19219,
+    "neighbor_name": "AHURÖZÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19256,
+    "neighbor_name": "AKÇAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19265,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19262,
+    "neighbor_name": "BAHTİYAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19257,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19226,
+    "neighbor_name": "BEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19227,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19255,
+    "neighbor_name": "ÇALÇI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19237,
+    "neighbor_name": "ÇALKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19238,
+    "neighbor_name": "ÇARDAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19224,
+    "neighbor_name": "ÇUKURÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19239,
+    "neighbor_name": "DAĞCI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19244,
+    "neighbor_name": "DİKÖZÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19252,
+    "neighbor_name": "DİNEK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19243,
+    "neighbor_name": "DÜMREK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19245,
+    "neighbor_name": "GÖZELER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19220,
+    "neighbor_name": "GÜCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19231,
+    "neighbor_name": "GÜREŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19217,
+    "neighbor_name": "GÜRLEYİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19263,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19240,
+    "neighbor_name": "ILICALAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19250,
+    "neighbor_name": "İĞDECİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19247,
+    "neighbor_name": "İKİZAFER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19228,
+    "neighbor_name": "KARAÇAM MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19241,
+    "neighbor_name": "KARAGEYİKLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19222,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19232,
+    "neighbor_name": "KAYI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19266,
+    "neighbor_name": "KIZILBÖRÜKLÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19233,
+    "neighbor_name": "KORUCU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19260,
+    "neighbor_name": "KOYUNAĞILI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19221,
+    "neighbor_name": "KOZLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19267,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19261,
+    "neighbor_name": "MAHMUTHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19268,
+    "neighbor_name": "MEDRESE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19242,
+    "neighbor_name": "NARLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19229,
+    "neighbor_name": "OBRUK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19258,
+    "neighbor_name": "OTLUK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19254,
+    "neighbor_name": "ÖMER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19234,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19248,
+    "neighbor_name": "SAZAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19253,
+    "neighbor_name": "SEKİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19223,
+    "neighbor_name": "SEKİÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19249,
+    "neighbor_name": "SORKUN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19218,
+    "neighbor_name": "SÜLELER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19235,
+    "neighbor_name": "TATARCIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19259,
+    "neighbor_name": "UŞAKBÜKÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19246,
+    "neighbor_name": "ÜÇBAŞLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19269,
+    "neighbor_name": "YALIMKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19230,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19264,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 383,
+    "district_name": "MİHALIÇÇIK",
+    "neighbor_id": 19236,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18896,
+    "neighbor_name": "AKARBAŞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18880,
+    "neighbor_name": "AKCAMİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18842,
+    "neighbor_name": "AKÇAĞLAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18866,
+    "neighbor_name": "AKÇAKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18857,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18858,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18887,
+    "neighbor_name": "ARİFİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18846,
+    "neighbor_name": "AŞAĞI ÇAĞLAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18915,
+    "neighbor_name": "AŞAĞIILICA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18891,
+    "neighbor_name": "AVDAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18881,
+    "neighbor_name": "AYVACIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18867,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18905,
+    "neighbor_name": "CUNUDİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18845,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18859,
+    "neighbor_name": "DEDE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18837,
+    "neighbor_name": "DELİKLİTAŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18838,
+    "neighbor_name": "DEMİRLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18872,
+    "neighbor_name": "EŞENKARA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18843,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18860,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18912,
+    "neighbor_name": "GÜMELE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18878,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18899,
+    "neighbor_name": "KARAALAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18918,
+    "neighbor_name": "KARACAŞEHİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18900,
+    "neighbor_name": "KARAMUSTAFA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18851,
+    "neighbor_name": "KARAPAZAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18906,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18875,
+    "neighbor_name": "KARGIN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18861,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18876,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18888,
+    "neighbor_name": "KIRMIZITOPRAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18847,
+    "neighbor_name": "KUYUCAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18868,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18852,
+    "neighbor_name": "MUSALAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18853,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18863,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18877,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18848,
+    "neighbor_name": "PAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18844,
+    "neighbor_name": "SEKLİCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18865,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18919,
+    "neighbor_name": "SÜPÜREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18864,
+    "neighbor_name": "ŞARKİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18883,
+    "neighbor_name": "ULUÇAYIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18920,
+    "neighbor_name": "VİŞNELİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18855,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18909,
+    "neighbor_name": "YENİSOFÇA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18884,
+    "neighbor_name": "YILDIZTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18895,
+    "neighbor_name": "YUKARIÇAĞLAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18885,
+    "neighbor_name": "YUKARIILICA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18869,
+    "neighbor_name": "YUKARIKALABAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18870,
+    "neighbor_name": "YÜRÜKKIRKA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18886,
+    "neighbor_name": "71 EVLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18879,
+    "neighbor_name": "75.YIL (SULTANDERE) MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18904,
+    "neighbor_name": "AĞAPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18911,
+    "neighbor_name": "ALANÖNÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18871,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18902,
+    "neighbor_name": "ÇAVLUM MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18916,
+    "neighbor_name": "DOĞANKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18897,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18917,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18898,
+    "neighbor_name": "GÖKMEYDAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18892,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18849,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18839,
+    "neighbor_name": "HARMANDALI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18840,
+    "neighbor_name": "HUZUR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18841,
+    "neighbor_name": "IHLAMURKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18903,
+    "neighbor_name": "İMİŞEHİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18873,
+    "neighbor_name": "KALKANLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18874,
+    "neighbor_name": "KANLIPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18850,
+    "neighbor_name": "KARACAHÖYÜK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18893,
+    "neighbor_name": "KARAÇAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18913,
+    "neighbor_name": "KARAHÜYÜK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18914,
+    "neighbor_name": "KARATEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18894,
+    "neighbor_name": "KIRAVDAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18862,
+    "neighbor_name": "KİREÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18882,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18907,
+    "neighbor_name": "SARISUNGUR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18908,
+    "neighbor_name": "SEVİNÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18856,
+    "neighbor_name": "SULTANDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18901,
+    "neighbor_name": "TÜRKMENTOKAT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18836,
+    "neighbor_name": "VADİŞEHİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18889,
+    "neighbor_name": "YAHNİKAPAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18854,
+    "neighbor_name": "YASSIHÖYÜK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18890,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 374,
+    "district_name": "ODUNPAZARI",
+    "neighbor_id": 18910,
+    "neighbor_name": "YÜRÜKKARACAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19365,
+    "neighbor_name": "BEYKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19361,
+    "neighbor_name": "BEYYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19362,
+    "neighbor_name": "BİLAL HABEŞİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19369,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19374,
+    "neighbor_name": "DAĞKÜPLÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19371,
+    "neighbor_name": "DÜZKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19366,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19370,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19373,
+    "neighbor_name": "İĞDİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19367,
+    "neighbor_name": "KAPIKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19363,
+    "neighbor_name": "LAÇİN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19372,
+    "neighbor_name": "MAYISLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19368,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 387,
+    "district_name": "SARICAKAYA",
+    "neighbor_id": 19364,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19308,
+    "neighbor_name": "AKİN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19295,
+    "neighbor_name": "AKSAKLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19296,
+    "neighbor_name": "ASLANBEYLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19271,
+    "neighbor_name": "AŞAĞISÖĞÜT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19297,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19315,
+    "neighbor_name": "BARDAKÇI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19300,
+    "neighbor_name": "BEŞSARAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19316,
+    "neighbor_name": "BEYKIŞLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19272,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19279,
+    "neighbor_name": "BÜYÜKYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19309,
+    "neighbor_name": "CEVİZLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19278,
+    "neighbor_name": "ÇATÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19305,
+    "neighbor_name": "ÇUKURAĞIL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19282,
+    "neighbor_name": "ÇUKURCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19320,
+    "neighbor_name": "ÇÜRÜTTÜM MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19298,
+    "neighbor_name": "DEĞİŞÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19283,
+    "neighbor_name": "DEREBENEK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19301,
+    "neighbor_name": "DOĞANÇAYIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19280,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19317,
+    "neighbor_name": "GEMİÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19291,
+    "neighbor_name": "GÖCENOLUK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19284,
+    "neighbor_name": "GÖKBAHÇE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19310,
+    "neighbor_name": "GÖKÇEGÜNEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19299,
+    "neighbor_name": "GÖKNEBİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19281,
+    "neighbor_name": "GÜMÜŞBEL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19307,
+    "neighbor_name": "İDRİSYAYLA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19290,
+    "neighbor_name": "İKİÇEŞME MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19294,
+    "neighbor_name": "İKİZOLUK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19318,
+    "neighbor_name": "KARACALIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19285,
+    "neighbor_name": "KARAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19302,
+    "neighbor_name": "KESENLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19273,
+    "neighbor_name": "KIRKA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19292,
+    "neighbor_name": "KÜMBET MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19311,
+    "neighbor_name": "NUMANOLUK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19274,
+    "neighbor_name": "OYNAŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19313,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19286,
+    "neighbor_name": "SALİHLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19275,
+    "neighbor_name": "SANCAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19276,
+    "neighbor_name": "SANDIKÖZÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19293,
+    "neighbor_name": "SARAYÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19277,
+    "neighbor_name": "SARICAİLYAS MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19306,
+    "neighbor_name": "ŞÜKRANLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19303,
+    "neighbor_name": "TAŞLIKKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19314,
+    "neighbor_name": "ÜÇSARAY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19312,
+    "neighbor_name": "YAPILDAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19287,
+    "neighbor_name": "YARBASAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19304,
+    "neighbor_name": "YAZIDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19319,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19270,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19288,
+    "neighbor_name": "YUKARISÖĞÜT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 384,
+    "district_name": "SEYİTGAZİ",
+    "neighbor_id": 19289,
+    "neighbor_name": "YUNUS MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18988,
+    "neighbor_name": "AHİLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18940,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18976,
+    "neighbor_name": "AŞAĞIKEPEN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18951,
+    "neighbor_name": "AYDINLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18964,
+    "neighbor_name": "BABADAT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18965,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18952,
+    "neighbor_name": "BALLIHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18959,
+    "neighbor_name": "BENLİKUYU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18968,
+    "neighbor_name": "BENLİYAVER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18966,
+    "neighbor_name": "BEYYAZI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18941,
+    "neighbor_name": "BİÇER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18933,
+    "neighbor_name": "BÖĞÜRTLEN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18989,
+    "neighbor_name": "BUHARA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18932,
+    "neighbor_name": "BUZLUCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18977,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18955,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18931,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18975,
+    "neighbor_name": "ÇAYKOZ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18927,
+    "neighbor_name": "DEMİRCİKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18942,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18954,
+    "neighbor_name": "DİNEK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18953,
+    "neighbor_name": "DUMLUCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18978,
+    "neighbor_name": "DÜMREK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18981,
+    "neighbor_name": "ELCİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18934,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18923,
+    "neighbor_name": "ERTUĞRULKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18995,
+    "neighbor_name": "GEDİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18996,
+    "neighbor_name": "GERENLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18969,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18967,
+    "neighbor_name": "GÜLÇAYIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18924,
+    "neighbor_name": "GÜVEMLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18948,
+    "neighbor_name": "HAMAMKARAHİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18943,
+    "neighbor_name": "HIZIRBEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18925,
+    "neighbor_name": "HÜDAVENDİGAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18963,
+    "neighbor_name": "İBİKSEYDİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18971,
+    "neighbor_name": "İĞDECİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18980,
+    "neighbor_name": "İLÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18970,
+    "neighbor_name": "İLYASPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18987,
+    "neighbor_name": "İSTİKLALBAĞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18982,
+    "neighbor_name": "KADINCIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18936,
+    "neighbor_name": "KALDIRIMKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18984,
+    "neighbor_name": "KARABAŞLI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18991,
+    "neighbor_name": "KARABURHAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18985,
+    "neighbor_name": "KARACAKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18979,
+    "neighbor_name": "KARACALAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18935,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18946,
+    "neighbor_name": "KARACAÖRENYAYLASI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18972,
+    "neighbor_name": "KARADAT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18937,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18928,
+    "neighbor_name": "KARKIN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18956,
+    "neighbor_name": "KAYMAZ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18997,
+    "neighbor_name": "KERTEK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18938,
+    "neighbor_name": "KILIÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18998,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18939,
+    "neighbor_name": "KOÇAŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18983,
+    "neighbor_name": "KOLTAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18944,
+    "neighbor_name": "KUBBELİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18926,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18960,
+    "neighbor_name": "KURTŞEYH MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18973,
+    "neighbor_name": "MEMİK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18992,
+    "neighbor_name": "MÜLKKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18929,
+    "neighbor_name": "NASRETTİN HOCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18957,
+    "neighbor_name": "OĞLAKÇI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18961,
+    "neighbor_name": "ORTAKLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18947,
+    "neighbor_name": "PAŞAKADIN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18949,
+    "neighbor_name": "SADIKBAĞI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18950,
+    "neighbor_name": "SARIKAVAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18958,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18993,
+    "neighbor_name": "SIĞIRCIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18945,
+    "neighbor_name": "TEKÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18921,
+    "neighbor_name": "YAVERÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18930,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18974,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18922,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18994,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18962,
+    "neighbor_name": "YUKARIKEPEN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18986,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 375,
+    "district_name": "SİVRİHİSAR",
+    "neighbor_id": 18990,
+    "neighbor_name": "ZEYKÖYÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19060,
+    "neighbor_name": "ALINCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19087,
+    "neighbor_name": "AŞAĞIKARTAL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19086,
+    "neighbor_name": "AŞAĞI SÖĞÜTÖNÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19050,
+    "neighbor_name": "BATIKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19033,
+    "neighbor_name": "BEHÇETİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19028,
+    "neighbor_name": "BOYACIOĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19037,
+    "neighbor_name": "CUMHURİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19084,
+    "neighbor_name": "ÇALKARA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19085,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19027,
+    "neighbor_name": "ÇANAKKIRAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19014,
+    "neighbor_name": "ÇUKURHİSAR YENİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19023,
+    "neighbor_name": "EĞRİÖZ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19063,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19064,
+    "neighbor_name": "GÖKÇEKISIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19070,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19047,
+    "neighbor_name": "HOŞNUDİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19007,
+    "neighbor_name": "KARAÇOBANPINARI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19002,
+    "neighbor_name": "KARAGÖZLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19048,
+    "neighbor_name": "KESKİN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19049,
+    "neighbor_name": "KIZILİNLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19008,
+    "neighbor_name": "MOLLAOĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19039,
+    "neighbor_name": "MUSAÖZÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19082,
+    "neighbor_name": "NEMLİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19034,
+    "neighbor_name": "SAKİNTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19057,
+    "neighbor_name": "SATILMIŞOĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19030,
+    "neighbor_name": "SAZOVA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19040,
+    "neighbor_name": "SÜTLÜCE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19020,
+    "neighbor_name": "ŞİRİNTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19035,
+    "neighbor_name": "TAKMAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19031,
+    "neighbor_name": "TURGUTLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19025,
+    "neighbor_name": "ULUDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 18999,
+    "neighbor_name": "ULUÖNDER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 50402,
+    "neighbor_name": "YAŞAMKENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19075,
+    "neighbor_name": "YENİAKÇAYIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19076,
+    "neighbor_name": "YENİİNCESU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19058,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19026,
+    "neighbor_name": "YUKARIKARTAL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19077,
+    "neighbor_name": "YUKARI SÖĞÜTÖNÜ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19000,
+    "neighbor_name": "YUSUFLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19083,
+    "neighbor_name": "YÜRÜKAKÇAYIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19018,
+    "neighbor_name": "ZİNCİRLİKUYU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19059,
+    "neighbor_name": "AHILAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19015,
+    "neighbor_name": "ATALAN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19068,
+    "neighbor_name": "ATALANTEKKE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19001,
+    "neighbor_name": "AVLAMIŞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19032,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19069,
+    "neighbor_name": "BEKTAŞPINARI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19042,
+    "neighbor_name": "BEYAZALTIN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19078,
+    "neighbor_name": "BOZDAĞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19021,
+    "neighbor_name": "BULDUKPINAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19051,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19022,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19088,
+    "neighbor_name": "EMİRCEOĞLU MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19043,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19089,
+    "neighbor_name": "ESKİBAĞLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19061,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19010,
+    "neighbor_name": "FEVZİÇAKMAK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19079,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19052,
+    "neighbor_name": "GÖKDERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19053,
+    "neighbor_name": "GÜLLÜK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19011,
+    "neighbor_name": "GÜNDÜZLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19006,
+    "neighbor_name": "HACI ALİ BEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19046,
+    "neighbor_name": "HACI SEYİT MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19080,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19016,
+    "neighbor_name": "HAYRİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19072,
+    "neighbor_name": "HEKİMDAĞ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19081,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19041,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19029,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19003,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19044,
+    "neighbor_name": "KIZILCAÖREN MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19062,
+    "neighbor_name": "KOZKAYI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19004,
+    "neighbor_name": "KOZLUBEL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19045,
+    "neighbor_name": "KUMLUBEL MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19038,
+    "neighbor_name": "MAMURE MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19071,
+    "neighbor_name": "MERKEZ YENİ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19065,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19009,
+    "neighbor_name": "MUTTALİP EMİRLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19054,
+    "neighbor_name": "MUTTALİP KOYUNLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19073,
+    "neighbor_name": "MUTTALİP ORTA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19056,
+    "neighbor_name": "ÖMERAĞA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19005,
+    "neighbor_name": "SULUKARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19067,
+    "neighbor_name": "ŞARHÖYÜK MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19013,
+    "neighbor_name": "ŞEKER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19012,
+    "neighbor_name": "TANDIR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19024,
+    "neighbor_name": "TAYCILAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19036,
+    "neighbor_name": "TEKECİLER MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19066,
+    "neighbor_name": "TUNALI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19055,
+    "neighbor_name": "YAKAKAYI MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19074,
+    "neighbor_name": "YARIMCA MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19019,
+    "neighbor_name": "YENİBAĞLAR MAH."
+  },
+  {
+    "city_id": 30,
+    "city_name": "ESKİŞEHİR",
+    "district_id": 376,
+    "district_name": "TEPEBAŞI",
+    "neighbor_id": 19017,
+    "neighbor_name": "ZAFER MAH."
+  }
+]

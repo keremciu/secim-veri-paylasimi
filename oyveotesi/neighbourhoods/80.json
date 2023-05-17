@@ -1,0 +1,5746 @@
+[
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48375,
+    "neighbor_name": "AKSARAY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48382,
+    "neighbor_name": "AKSÜT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48396,
+    "neighbor_name": "AKTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48397,
+    "neighbor_name": "ALİÇERİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48347,
+    "neighbor_name": "ALTUNLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48376,
+    "neighbor_name": "ANCAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48363,
+    "neighbor_name": "AŞAĞIÖRÜKÇÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48356,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48369,
+    "neighbor_name": "BAĞKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48392,
+    "neighbor_name": "BAHRİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48383,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48336,
+    "neighbor_name": "BAYRAMUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48337,
+    "neighbor_name": "BEKİRUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48370,
+    "neighbor_name": "BÖLÜKLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48393,
+    "neighbor_name": "BÜYÜKÇİMİŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48348,
+    "neighbor_name": "BÜYÜKKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48335,
+    "neighbor_name": "ÇAKILLIPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48341,
+    "neighbor_name": "ÇATALBAHÇE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48362,
+    "neighbor_name": "ÇEVİRME MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48381,
+    "neighbor_name": "ÇOBANUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48342,
+    "neighbor_name": "DARICA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48364,
+    "neighbor_name": "DEDEKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48343,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48338,
+    "neighbor_name": "DEVELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48339,
+    "neighbor_name": "DOĞANLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48371,
+    "neighbor_name": "DOĞANTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48357,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48331,
+    "neighbor_name": "DURULOVA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48379,
+    "neighbor_name": "DUTLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48372,
+    "neighbor_name": "DÜMÜKLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48388,
+    "neighbor_name": "EĞİN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48332,
+    "neighbor_name": "ESENBEY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48365,
+    "neighbor_name": "ESENLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48349,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48358,
+    "neighbor_name": "GÖLPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48359,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48366,
+    "neighbor_name": "GÜRKAYNAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48350,
+    "neighbor_name": "HANÇERLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48384,
+    "neighbor_name": "HARTUT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48394,
+    "neighbor_name": "HARUNUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48377,
+    "neighbor_name": "ILICAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48330,
+    "neighbor_name": "İKİNCİLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48398,
+    "neighbor_name": "KADIİBRAHİM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48333,
+    "neighbor_name": "KAHYALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48334,
+    "neighbor_name": "KARAMAĞARA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48344,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48351,
+    "neighbor_name": "KASIMUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48367,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48385,
+    "neighbor_name": "KEKLİKPINARI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48325,
+    "neighbor_name": "KELLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48399,
+    "neighbor_name": "KEPEZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48400,
+    "neighbor_name": "KOLKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48328,
+    "neighbor_name": "KOTANGÖLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48401,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48352,
+    "neighbor_name": "KÖMEKAVAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48329,
+    "neighbor_name": "KURTUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48389,
+    "neighbor_name": "KÜÇÜKKÜRNE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48373,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48360,
+    "neighbor_name": "LEVENT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48386,
+    "neighbor_name": "MEZRA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48390,
+    "neighbor_name": "MİHMANLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48361,
+    "neighbor_name": "MURATLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48380,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48387,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48368,
+    "neighbor_name": "RESULUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48326,
+    "neighbor_name": "SAHİLKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48345,
+    "neighbor_name": "SAKALIUZUN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48378,
+    "neighbor_name": "SARIHACI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48355,
+    "neighbor_name": "ŞEYHLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48353,
+    "neighbor_name": "TAŞEVLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48354,
+    "neighbor_name": "TAŞOLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48327,
+    "neighbor_name": "TATARUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48374,
+    "neighbor_name": "YAĞMURLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48391,
+    "neighbor_name": "YALINBUDAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48395,
+    "neighbor_name": "YALINKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48340,
+    "neighbor_name": "YAYLIMLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 956,
+    "district_name": "AKÇADAĞ",
+    "neighbor_id": 48346,
+    "neighbor_name": "YUKARIÖRÜKÇÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48437,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48459,
+    "neighbor_name": "ALIÇLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48405,
+    "neighbor_name": "AŞAĞIÇÖRENGE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48452,
+    "neighbor_name": "AŞAĞIULUPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48410,
+    "neighbor_name": "AŞAĞIYENİCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48417,
+    "neighbor_name": "BERENGE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48422,
+    "neighbor_name": "BOĞAZLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48453,
+    "neighbor_name": "BOSTANCIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48454,
+    "neighbor_name": "BUDAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48418,
+    "neighbor_name": "CÖMERTLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48425,
+    "neighbor_name": "ÇAKIRSU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48427,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48428,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48458,
+    "neighbor_name": "ÇİĞNİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48457,
+    "neighbor_name": "ÇİMEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48404,
+    "neighbor_name": "ÇOBANLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48419,
+    "neighbor_name": "DEREGEZEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48406,
+    "neighbor_name": "DÜZCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48446,
+    "neighbor_name": "EĞNİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48412,
+    "neighbor_name": "ESİKLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48438,
+    "neighbor_name": "ESKİARAPGİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48447,
+    "neighbor_name": "GEBELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48413,
+    "neighbor_name": "GÖZELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48439,
+    "neighbor_name": "GÖZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48420,
+    "neighbor_name": "GÜNYÜZÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48407,
+    "neighbor_name": "HEZENEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48440,
+    "neighbor_name": "HOCAALİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48460,
+    "neighbor_name": "KAYAKESEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48455,
+    "neighbor_name": "KAYNAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48423,
+    "neighbor_name": "KAZANÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48424,
+    "neighbor_name": "KILIÇLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48429,
+    "neighbor_name": "KONDUCAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48430,
+    "neighbor_name": "KORU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48408,
+    "neighbor_name": "KÖSEOĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48450,
+    "neighbor_name": "MEHMETAKİF MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48431,
+    "neighbor_name": "MEŞELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48461,
+    "neighbor_name": "ONAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48463,
+    "neighbor_name": "ORMANSIRTI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48435,
+    "neighbor_name": "OSMANPAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48432,
+    "neighbor_name": "PACALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48441,
+    "neighbor_name": "PİRALİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48414,
+    "neighbor_name": "SEKİZSU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48426,
+    "neighbor_name": "SELAMLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48402,
+    "neighbor_name": "SERGE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48442,
+    "neighbor_name": "SİNİKLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48433,
+    "neighbor_name": "SİPAHİUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48421,
+    "neighbor_name": "SUCEYİN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48415,
+    "neighbor_name": "SUGEÇTİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48444,
+    "neighbor_name": "ŞAĞILUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48451,
+    "neighbor_name": "ŞIHLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48462,
+    "neighbor_name": "TARHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48416,
+    "neighbor_name": "TAŞDELEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48448,
+    "neighbor_name": "TAŞDİBEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48411,
+    "neighbor_name": "ULAÇLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48456,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48449,
+    "neighbor_name": "YAZILI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48434,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48445,
+    "neighbor_name": "YEŞİLYAYLA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48409,
+    "neighbor_name": "YUKARIÇÖRENGE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48403,
+    "neighbor_name": "YUKARIULUPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48464,
+    "neighbor_name": "YUKARIYABANLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48436,
+    "neighbor_name": "YUKARIYENİCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 957,
+    "district_name": "ARAPGİR",
+    "neighbor_id": 48443,
+    "neighbor_name": "ZÖHRAP MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48477,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48508,
+    "neighbor_name": "ALHASUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48500,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48509,
+    "neighbor_name": "ASAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48510,
+    "neighbor_name": "ASMACA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48501,
+    "neighbor_name": "AŞAĞISÜLMENLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48475,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48474,
+    "neighbor_name": "BAHÇELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48476,
+    "neighbor_name": "BOZAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48512,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48489,
+    "neighbor_name": "ÇAVUŞKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48481,
+    "neighbor_name": "ÇAYIRLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48485,
+    "neighbor_name": "ÇEVRELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48467,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48468,
+    "neighbor_name": "DOLAYLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48493,
+    "neighbor_name": "DOYDUM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48503,
+    "neighbor_name": "ERMİŞLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48487,
+    "neighbor_name": "EYMİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48504,
+    "neighbor_name": "GÖÇERUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48471,
+    "neighbor_name": "GÖKAĞAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48478,
+    "neighbor_name": "GÜMÜŞLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48479,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 50015,
+    "neighbor_name": "GÜRGE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48494,
+    "neighbor_name": "GÜVEÇLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48488,
+    "neighbor_name": "HAKVERDİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48486,
+    "neighbor_name": "İÇMECE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48513,
+    "neighbor_name": "İSAKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48505,
+    "neighbor_name": "KARABABA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48482,
+    "neighbor_name": "KARAHÜYÜK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48506,
+    "neighbor_name": "KIZIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48495,
+    "neighbor_name": "KIZILUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48483,
+    "neighbor_name": "KOÇAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48502,
+    "neighbor_name": "KONAKBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48507,
+    "neighbor_name": "KÖMÜRLÜK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48497,
+    "neighbor_name": "KURUTTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48469,
+    "neighbor_name": "KUYUDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48470,
+    "neighbor_name": "MORHAMAM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48490,
+    "neighbor_name": "NARMİKAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48491,
+    "neighbor_name": "PARÇİKAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48473,
+    "neighbor_name": "ŞOTİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48465,
+    "neighbor_name": "TARLACIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48498,
+    "neighbor_name": "TATKINIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48472,
+    "neighbor_name": "TEPEBAĞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48484,
+    "neighbor_name": "YAMAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48511,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48492,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48499,
+    "neighbor_name": "YONCALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48466,
+    "neighbor_name": "YUKARISÜLMENLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 958,
+    "district_name": "ARGUVAN",
+    "neighbor_id": 48480,
+    "neighbor_name": "YÜREKTAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48136,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48175,
+    "neighbor_name": "ALHANUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48153,
+    "neighbor_name": "ASLANBEY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48212,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48225,
+    "neighbor_name": "BAHRİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48213,
+    "neighbor_name": "BAŞHARIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48221,
+    "neighbor_name": "BEYDAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48167,
+    "neighbor_name": "B.HÜSEYİNBEY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48168,
+    "neighbor_name": "B.MUSTAFA PAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48226,
+    "neighbor_name": "BULGURLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48201,
+    "neighbor_name": "BULUTLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48227,
+    "neighbor_name": "CEVHERİZADE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48184,
+    "neighbor_name": "CİRİKPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48164,
+    "neighbor_name": "ÇAMURLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48133,
+    "neighbor_name": "ÇOLAKLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48192,
+    "neighbor_name": "DABAKHANE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48193,
+    "neighbor_name": "DÜZYOL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48177,
+    "neighbor_name": "FERHADİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48147,
+    "neighbor_name": "FIRINCI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48215,
+    "neighbor_name": "HACI ABDİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48194,
+    "neighbor_name": "HACIHALİLOĞLUÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48158,
+    "neighbor_name": "HALFETTİN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48202,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48140,
+    "neighbor_name": "HASAN VAROL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48155,
+    "neighbor_name": "HİSARTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48188,
+    "neighbor_name": "İSMETİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48182,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48220,
+    "neighbor_name": "İZZETİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48134,
+    "neighbor_name": "KARAGÖZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48149,
+    "neighbor_name": "KAVAKLIBAĞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48159,
+    "neighbor_name": "KERNEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48141,
+    "neighbor_name": "K.HÜSEYİNBEY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48179,
+    "neighbor_name": "KIRÇUVAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48170,
+    "neighbor_name": "K.MUSTAFA PAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48206,
+    "neighbor_name": "MERDİVENLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48196,
+    "neighbor_name": "MERKEZ BEYDAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48150,
+    "neighbor_name": "NİYAZİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48173,
+    "neighbor_name": "NURİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48156,
+    "neighbor_name": "PAŞAKÖŞKÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48151,
+    "neighbor_name": "PELİTLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48229,
+    "neighbor_name": "SANCAKTAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48174,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48210,
+    "neighbor_name": "SARICIOĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48146,
+    "neighbor_name": "ŞIKŞIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48198,
+    "neighbor_name": "ŞİFA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48217,
+    "neighbor_name": "TANIŞIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48218,
+    "neighbor_name": "TOKLUCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48222,
+    "neighbor_name": "ULUKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48145,
+    "neighbor_name": "ÜÇBAĞLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 50589,
+    "neighbor_name": "ÜNİVERSİTE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48197,
+    "neighbor_name": "ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48172,
+    "neighbor_name": "YAMAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48203,
+    "neighbor_name": "YAYGIN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48135,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48208,
+    "neighbor_name": "YENİHAMAM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48132,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48211,
+    "neighbor_name": "ADAGÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48154,
+    "neighbor_name": "AĞILYAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48199,
+    "neighbor_name": "ALACAKAPI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48191,
+    "neighbor_name": "ALİŞAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48169,
+    "neighbor_name": "BAĞTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48176,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48200,
+    "neighbor_name": "BATTALGAZİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48157,
+    "neighbor_name": "BEYLERBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48183,
+    "neighbor_name": "BORAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48190,
+    "neighbor_name": "ÇOLAKOĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48223,
+    "neighbor_name": "ÇÖŞNÜK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48137,
+    "neighbor_name": "DOLAMANTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48138,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48214,
+    "neighbor_name": "GÖLLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48185,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48162,
+    "neighbor_name": "GÜLÜMUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48139,
+    "neighbor_name": "HACIYUSUFLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48216,
+    "neighbor_name": "HANIMINÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48163,
+    "neighbor_name": "HASIRCILAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48204,
+    "neighbor_name": "HATUNSUYU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48209,
+    "neighbor_name": "HİDAYET MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48166,
+    "neighbor_name": "İSKENDER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48195,
+    "neighbor_name": "KADIÇAYIRI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48228,
+    "neighbor_name": "KAMIŞTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48128,
+    "neighbor_name": "KAPIKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48148,
+    "neighbor_name": "KARABAĞLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48171,
+    "neighbor_name": "KARAHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48186,
+    "neighbor_name": "KARAKAŞÇİFTLİĞİKÖYÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48129,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48178,
+    "neighbor_name": "KARATEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48205,
+    "neighbor_name": "KEMERKÖPRÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 50629,
+    "neighbor_name": "KIRAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48160,
+    "neighbor_name": "KULUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48180,
+    "neighbor_name": "MEYDANBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48142,
+    "neighbor_name": "MEYDANCIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48189,
+    "neighbor_name": "ORDUZU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48161,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 50655,
+    "neighbor_name": "SERİNTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48181,
+    "neighbor_name": "SEVİLDAĞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48144,
+    "neighbor_name": "ŞEHİTFEVZİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48224,
+    "neighbor_name": "ŞİŞMAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48143,
+    "neighbor_name": "TANDOĞAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48130,
+    "neighbor_name": "TAŞTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48187,
+    "neighbor_name": "TOPTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48152,
+    "neighbor_name": "TOYGAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48207,
+    "neighbor_name": "YARIMCAHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48165,
+    "neighbor_name": "YILDIZTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 953,
+    "district_name": "BATTALGAZİ",
+    "neighbor_id": 48219,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48286,
+    "neighbor_name": "AĞILBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48257,
+    "neighbor_name": "AĞILYAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48230,
+    "neighbor_name": "AKBABA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48236,
+    "neighbor_name": "AKÇATOPRAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48253,
+    "neighbor_name": "AKOVA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48276,
+    "neighbor_name": "AŞAĞIULUPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48285,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48246,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48237,
+    "neighbor_name": "BARINDIR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48278,
+    "neighbor_name": "BAŞKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48232,
+    "neighbor_name": "BAYTARBAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48241,
+    "neighbor_name": "BEYBAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48290,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48266,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48234,
+    "neighbor_name": "ÇUKURKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48287,
+    "neighbor_name": "GAZİKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48280,
+    "neighbor_name": "GÖKÇEÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48279,
+    "neighbor_name": "GÖKYAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48242,
+    "neighbor_name": "GÖLLÜCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48281,
+    "neighbor_name": "GÜDÜL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48258,
+    "neighbor_name": "GÜNERLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48247,
+    "neighbor_name": "GÜNPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48274,
+    "neighbor_name": "HACIDERVİŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48238,
+    "neighbor_name": "HACILAR SIRAGÖZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48248,
+    "neighbor_name": "HACILAR ŞEYHLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48263,
+    "neighbor_name": "HACOLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48231,
+    "neighbor_name": "HEYİKETEĞİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48288,
+    "neighbor_name": "HİSARCIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48239,
+    "neighbor_name": "HİSARKALE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48264,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48268,
+    "neighbor_name": "IRMAKLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48262,
+    "neighbor_name": "İBRAHİMPAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48249,
+    "neighbor_name": "KALDIRIM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48275,
+    "neighbor_name": "KARABACAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48282,
+    "neighbor_name": "KARABAYIR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48269,
+    "neighbor_name": "KARAOĞUZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48244,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48254,
+    "neighbor_name": "KAYNAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48270,
+    "neighbor_name": "KERİMLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48291,
+    "neighbor_name": "KILIÇBAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48292,
+    "neighbor_name": "KÖLÜKLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48250,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48271,
+    "neighbor_name": "KUZPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48259,
+    "neighbor_name": "MEDİŞEYH MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48235,
+    "neighbor_name": "MEHMET PAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48245,
+    "neighbor_name": "MOLLAUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48233,
+    "neighbor_name": "NADİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48255,
+    "neighbor_name": "NURKUYUSU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48252,
+    "neighbor_name": "OZAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 49712,
+    "neighbor_name": "PALANGA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48289,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48265,
+    "neighbor_name": "SANDIKKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48283,
+    "neighbor_name": "SAYFİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48284,
+    "neighbor_name": "SUNGUR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48240,
+    "neighbor_name": "ŞENDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48267,
+    "neighbor_name": "ŞUĞUL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48293,
+    "neighbor_name": "UZUNHASAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48261,
+    "neighbor_name": "ÜÇPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48260,
+    "neighbor_name": "YARIMCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48294,
+    "neighbor_name": "YAVUZLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48272,
+    "neighbor_name": "YAZIKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48273,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48295,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48256,
+    "neighbor_name": "YENİPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48296,
+    "neighbor_name": "YEŞİLTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48251,
+    "neighbor_name": "YUKARIULUPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 954,
+    "district_name": "DARENDE",
+    "neighbor_id": 48243,
+    "neighbor_name": "ZAVİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48038,
+    "neighbor_name": "ALTINTOP MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48042,
+    "neighbor_name": "BEĞRE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48047,
+    "neighbor_name": "BIÇAKÇI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48036,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48062,
+    "neighbor_name": "ÇIĞLIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48029,
+    "neighbor_name": "ÇÖMLEKOBA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48055,
+    "neighbor_name": "DEDEYAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48056,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48048,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48039,
+    "neighbor_name": "ERKENEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48030,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48040,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48041,
+    "neighbor_name": "FINDIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48034,
+    "neighbor_name": "GÖVDELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48043,
+    "neighbor_name": "GÜNEDOĞRU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48059,
+    "neighbor_name": "GÜROBASI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48049,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48050,
+    "neighbor_name": "HUDUT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48031,
+    "neighbor_name": "KADILI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48044,
+    "neighbor_name": "KAPIDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48057,
+    "neighbor_name": "KARANLIKDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48051,
+    "neighbor_name": "KARATERZİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48052,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48032,
+    "neighbor_name": "KELHALİL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48053,
+    "neighbor_name": "KURUCAOVA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48060,
+    "neighbor_name": "KÜÇÜKLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48054,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48058,
+    "neighbor_name": "POLATDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48024,
+    "neighbor_name": "POLAT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48033,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48045,
+    "neighbor_name": "SAVAKLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48026,
+    "neighbor_name": "SÖĞÜT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48046,
+    "neighbor_name": "SUÇATI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48061,
+    "neighbor_name": "SÜRGÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48037,
+    "neighbor_name": "ŞATIROBA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48027,
+    "neighbor_name": "TOPRAKTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48028,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48025,
+    "neighbor_name": "YOLKORU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 951,
+    "district_name": "DOĞANŞEHİR",
+    "neighbor_id": 48035,
+    "neighbor_name": "YUVALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48014,
+    "neighbor_name": "AKKENT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48015,
+    "neighbor_name": "BEHRAMLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48021,
+    "neighbor_name": "BURÇKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48013,
+    "neighbor_name": "ÇOLAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48016,
+    "neighbor_name": "DAMLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48017,
+    "neighbor_name": "GEVHERUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48008,
+    "neighbor_name": "GÖKÇE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48009,
+    "neighbor_name": "GÜMÜŞSU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48020,
+    "neighbor_name": "İSAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48018,
+    "neighbor_name": "KOLDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48019,
+    "neighbor_name": "KONURTAY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48022,
+    "neighbor_name": "MEZRAA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48010,
+    "neighbor_name": "POYRAZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48011,
+    "neighbor_name": "ULUTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48012,
+    "neighbor_name": "YALINCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 950,
+    "district_name": "DOĞANYOL",
+    "neighbor_id": 48023,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48081,
+    "neighbor_name": "AKMAĞARA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48086,
+    "neighbor_name": "AKSÜTLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48097,
+    "neighbor_name": "AŞAĞISAZLICA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48068,
+    "neighbor_name": "BAĞYOLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48078,
+    "neighbor_name": "BAHÇEDAMI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48125,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48101,
+    "neighbor_name": "BALLIKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48113,
+    "neighbor_name": "BASAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48093,
+    "neighbor_name": "BAŞKAVAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48069,
+    "neighbor_name": "BAŞKINIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48087,
+    "neighbor_name": "BEYKENT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48070,
+    "neighbor_name": "BOĞAZGÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48088,
+    "neighbor_name": "BUDAKLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48077,
+    "neighbor_name": "ÇANAKPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48127,
+    "neighbor_name": "ÇİMENLİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48074,
+    "neighbor_name": "ÇULHALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48114,
+    "neighbor_name": "DAVULGU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48119,
+    "neighbor_name": "DELİHASANYURDU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48102,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48115,
+    "neighbor_name": "DEVECİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48064,
+    "neighbor_name": "DİKENLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48110,
+    "neighbor_name": "DİKİLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48075,
+    "neighbor_name": "DUMLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48063,
+    "neighbor_name": "DURSUNLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48103,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48120,
+    "neighbor_name": "GİRMANA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48082,
+    "neighbor_name": "GÜÇLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48071,
+    "neighbor_name": "GÜVENÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48104,
+    "neighbor_name": "GÜZELYAYLA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48105,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48116,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48098,
+    "neighbor_name": "HASANÇELEBİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48121,
+    "neighbor_name": "HAYDAROĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48083,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48095,
+    "neighbor_name": "İĞDİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48089,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48122,
+    "neighbor_name": "KARAKÖÇEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48094,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48123,
+    "neighbor_name": "KARSLILAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48117,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48065,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48107,
+    "neighbor_name": "KOCAÖZÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48108,
+    "neighbor_name": "KOZDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48099,
+    "neighbor_name": "KÖPRÜLÜ MEHMET PAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48118,
+    "neighbor_name": "KÖYLÜKÖYÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48072,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48073,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48109,
+    "neighbor_name": "MOLLAİBRAHİM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48076,
+    "neighbor_name": "SALICIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48124,
+    "neighbor_name": "SARAYLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48111,
+    "neighbor_name": "SARIKIZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48090,
+    "neighbor_name": "SAZLICA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48106,
+    "neighbor_name": "SÖĞÜT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48096,
+    "neighbor_name": "ŞEHİT MEHMET FETHİ AKYÜZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48092,
+    "neighbor_name": "TAŞBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48066,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48067,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48084,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48112,
+    "neighbor_name": "YAĞCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48085,
+    "neighbor_name": "YAYLADAM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48100,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48079,
+    "neighbor_name": "YEŞİLKALE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48080,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48091,
+    "neighbor_name": "YEŞİLPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 952,
+    "district_name": "HEKİMHAN",
+    "neighbor_id": 48126,
+    "neighbor_name": "YUKARISELİMLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48297,
+    "neighbor_name": "ABUŞOĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48309,
+    "neighbor_name": "AKÇA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48305,
+    "neighbor_name": "AKUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48298,
+    "neighbor_name": "BAĞLICA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48306,
+    "neighbor_name": "BENTKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48324,
+    "neighbor_name": "ÇANAKÇI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48314,
+    "neighbor_name": "DARIPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48315,
+    "neighbor_name": "DEDEKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48310,
+    "neighbor_name": "DÜZTARLA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48299,
+    "neighbor_name": "ERDEMLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48316,
+    "neighbor_name": "GÜLENKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48301,
+    "neighbor_name": "GÜNEYCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48304,
+    "neighbor_name": "İKİZPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48317,
+    "neighbor_name": "KALEKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48320,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48321,
+    "neighbor_name": "KARAHÜSEYİN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48322,
+    "neighbor_name": "KIYICAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48302,
+    "neighbor_name": "KOZLUK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48318,
+    "neighbor_name": "KUMLUYAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48307,
+    "neighbor_name": "MAHMUT DURSUN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48303,
+    "neighbor_name": "SALKIMLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48300,
+    "neighbor_name": "SARIOT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48308,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48323,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48311,
+    "neighbor_name": "UYANIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48312,
+    "neighbor_name": "UZUNHÜSEYİN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48319,
+    "neighbor_name": "ÜÇDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 955,
+    "district_name": "KALE",
+    "neighbor_id": 48313,
+    "neighbor_name": "YENİDAMLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47803,
+    "neighbor_name": "ALVAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47799,
+    "neighbor_name": "AŞAĞISELİMLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47810,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47804,
+    "neighbor_name": "BAŞÖREN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47819,
+    "neighbor_name": "BIYIKBOĞAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47806,
+    "neighbor_name": "BİCİR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47805,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47815,
+    "neighbor_name": "CİRİTBELEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47821,
+    "neighbor_name": "ÇAYKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47809,
+    "neighbor_name": "ÇÖRMÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47818,
+    "neighbor_name": "GÖĞEBAKAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47822,
+    "neighbor_name": "İLİSULUK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47813,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47814,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47797,
+    "neighbor_name": "KARABÜK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47811,
+    "neighbor_name": "KARAÇAYIR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47816,
+    "neighbor_name": "KARINCALIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47823,
+    "neighbor_name": "KARLIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47800,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47807,
+    "neighbor_name": "KIZILHİSAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47820,
+    "neighbor_name": "KIZILMAĞARA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47798,
+    "neighbor_name": "KONAKTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47801,
+    "neighbor_name": "KÖMÜKLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47808,
+    "neighbor_name": "ORTAPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47817,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47824,
+    "neighbor_name": "SULTANLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47812,
+    "neighbor_name": "TEMÜKLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 946,
+    "district_name": "KULUNCAK",
+    "neighbor_id": 47802,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47849,
+    "neighbor_name": "AĞALAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47836,
+    "neighbor_name": "AKTARLA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47870,
+    "neighbor_name": "ALİÇERİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47837,
+    "neighbor_name": "ALİHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47847,
+    "neighbor_name": "ARINLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47871,
+    "neighbor_name": "ARITOPRAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47854,
+    "neighbor_name": "ARSLANKENT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47880,
+    "neighbor_name": "BAKIMLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47825,
+    "neighbor_name": "BALPINARI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47826,
+    "neighbor_name": "BAŞMEZRA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47838,
+    "neighbor_name": "BAYIRKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47883,
+    "neighbor_name": "BELENKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47850,
+    "neighbor_name": "BÖLÜKKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47863,
+    "neighbor_name": "BÖLÜNMEZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47855,
+    "neighbor_name": "BÜYÜKÖZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47868,
+    "neighbor_name": "ÇAMLIDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47889,
+    "neighbor_name": "ÇAYKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47841,
+    "neighbor_name": "ÇENGELLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47834,
+    "neighbor_name": "ÇIĞIRLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47830,
+    "neighbor_name": "ÇUKUROYMAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47887,
+    "neighbor_name": "DEREDÜZÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47872,
+    "neighbor_name": "ERDEMLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47851,
+    "neighbor_name": "ERSELE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47839,
+    "neighbor_name": "ESENCİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47873,
+    "neighbor_name": "ESENLİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47877,
+    "neighbor_name": "GERTAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47874,
+    "neighbor_name": "GÖZLÜCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47888,
+    "neighbor_name": "GÜNDEĞER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47890,
+    "neighbor_name": "GÜNDÜZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47844,
+    "neighbor_name": "HATİP MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47845,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47856,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47884,
+    "neighbor_name": "KAVAKLIDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47875,
+    "neighbor_name": "KAYADERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47840,
+    "neighbor_name": "KOÇKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47827,
+    "neighbor_name": "KORUCAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47831,
+    "neighbor_name": "KOZLUK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47848,
+    "neighbor_name": "KÖKLÜKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47881,
+    "neighbor_name": "KÖRME MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47846,
+    "neighbor_name": "KÖYLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47858,
+    "neighbor_name": "MEŞEDİBİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47832,
+    "neighbor_name": "NOHUTLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47864,
+    "neighbor_name": "ORMANİÇİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47869,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47835,
+    "neighbor_name": "ÖRMELİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47886,
+    "neighbor_name": "ÖRNEKKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47865,
+    "neighbor_name": "PAZARCIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47859,
+    "neighbor_name": "POSKIRAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47842,
+    "neighbor_name": "SAHİLKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47857,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47867,
+    "neighbor_name": "ŞİRO TARAKSU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47866,
+    "neighbor_name": "ŞÜKAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47833,
+    "neighbor_name": "TAŞBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47860,
+    "neighbor_name": "TAŞMIŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47861,
+    "neighbor_name": "TAŞTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47828,
+    "neighbor_name": "TATLICAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47843,
+    "neighbor_name": "TEKEDERESİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47891,
+    "neighbor_name": "TELUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47862,
+    "neighbor_name": "TEPEHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47885,
+    "neighbor_name": "ULUTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47882,
+    "neighbor_name": "UZUNKORU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47878,
+    "neighbor_name": "UZUNTAŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47876,
+    "neighbor_name": "ÜÇYAKA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47852,
+    "neighbor_name": "YAMAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47829,
+    "neighbor_name": "YANDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47879,
+    "neighbor_name": "YAZICA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47892,
+    "neighbor_name": "YEDİYOL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 947,
+    "district_name": "PÜTÜRGE",
+    "neighbor_id": 47853,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47921,
+    "neighbor_name": "AKYAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47910,
+    "neighbor_name": "ALİCAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47897,
+    "neighbor_name": "AMBARCIK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47915,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47922,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47893,
+    "neighbor_name": "BEREKETLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47894,
+    "neighbor_name": "BOYACA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47916,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47905,
+    "neighbor_name": "BÖĞÜRTLEN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47900,
+    "neighbor_name": "BUZLUK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47914,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47909,
+    "neighbor_name": "ÇİVRİL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47906,
+    "neighbor_name": "DEDEKARGIN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47911,
+    "neighbor_name": "DOĞUŞ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47898,
+    "neighbor_name": "DURUCASU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47903,
+    "neighbor_name": "EĞRİBÜK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47912,
+    "neighbor_name": "EPREME MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47913,
+    "neighbor_name": "ERECEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47923,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47907,
+    "neighbor_name": "GAYRET MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47917,
+    "neighbor_name": "GÖVÜK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47918,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47925,
+    "neighbor_name": "İRİAĞAÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47904,
+    "neighbor_name": "KARACA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47919,
+    "neighbor_name": "KOŞAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47924,
+    "neighbor_name": "KÖMÜŞHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47901,
+    "neighbor_name": "MISIRDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47908,
+    "neighbor_name": "SADIKLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47920,
+    "neighbor_name": "SİNANLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47902,
+    "neighbor_name": "SÜRÜR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47899,
+    "neighbor_name": "TAHTALI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47895,
+    "neighbor_name": "TECİRLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 948,
+    "district_name": "YAZIHAN",
+    "neighbor_id": 47896,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47978,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47958,
+    "neighbor_name": "BENTBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47972,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47976,
+    "neighbor_name": "ÇARMUZU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47977,
+    "neighbor_name": "ÇAVUŞOĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47950,
+    "neighbor_name": "ÇUKURDERE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48003,
+    "neighbor_name": "DİLEK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47960,
+    "neighbor_name": "DURANLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47930,
+    "neighbor_name": "DURULDU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47942,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47973,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47932,
+    "neighbor_name": "GÖKTARLA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48004,
+    "neighbor_name": "HOCA AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47936,
+    "neighbor_name": "İLYAS MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47988,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47961,
+    "neighbor_name": "KARAHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47975,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47966,
+    "neighbor_name": "KENDİRLİ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47998,
+    "neighbor_name": "KIRKPINAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47967,
+    "neighbor_name": "KİLTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47984,
+    "neighbor_name": "KOŞU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47981,
+    "neighbor_name": "KOYUNOĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47953,
+    "neighbor_name": "MAHMUTLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47999,
+    "neighbor_name": "MELEKBABA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47955,
+    "neighbor_name": "MERKEZ FATİH MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47952,
+    "neighbor_name": "ÖZALPER MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48000,
+    "neighbor_name": "SALKÖPRÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47941,
+    "neighbor_name": "SAMANKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47991,
+    "neighbor_name": "SEYRAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47993,
+    "neighbor_name": "SULUKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47935,
+    "neighbor_name": "SÜTLÜCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47963,
+    "neighbor_name": "ŞAHNAHAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47964,
+    "neighbor_name": "ŞEYH BAYRAM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47948,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47962,
+    "neighbor_name": "TOHMA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47987,
+    "neighbor_name": "TOPRAKTEPE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47944,
+    "neighbor_name": "TOPSÖĞÜT MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47931,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47928,
+    "neighbor_name": "YEŞİLKAYNAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47945,
+    "neighbor_name": "ZAVİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47983,
+    "neighbor_name": "ABDULGAFFAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48007,
+    "neighbor_name": "AŞAĞI BAĞLAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47946,
+    "neighbor_name": "AŞAĞIKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47965,
+    "neighbor_name": "ATALAR MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 49989,
+    "neighbor_name": "BANAZI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47979,
+    "neighbor_name": "BİNDAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47937,
+    "neighbor_name": "BOSTANBAŞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 50090,
+    "neighbor_name": "CAFANA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48002,
+    "neighbor_name": "CEMALGÜRSEL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47959,
+    "neighbor_name": "CEVATPAŞA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48001,
+    "neighbor_name": "CUMHURİYET (YEŞİLYURT) MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47971,
+    "neighbor_name": "ÇAYIRKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48005,
+    "neighbor_name": "ÇİLESİZ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47974,
+    "neighbor_name": "GEDİK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47933,
+    "neighbor_name": "GÖZENE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47926,
+    "neighbor_name": "GÜNDÜZBEY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47943,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47989,
+    "neighbor_name": "HIROĞLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 49865,
+    "neighbor_name": "HORATA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47957,
+    "neighbor_name": "İKİZCE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47995,
+    "neighbor_name": "KADİRUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47938,
+    "neighbor_name": "KARAKAVAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47994,
+    "neighbor_name": "KIRLANGIÇ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 50623,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47990,
+    "neighbor_name": "KOZLUK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47939,
+    "neighbor_name": "KUŞDOĞAN MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47954,
+    "neighbor_name": "KUYULU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47940,
+    "neighbor_name": "MULLAKASIM MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47968,
+    "neighbor_name": "OLUKLU MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47934,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47951,
+    "neighbor_name": "ÖNCÜ MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47929,
+    "neighbor_name": "ÖZAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47985,
+    "neighbor_name": "SALKONAK MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47982,
+    "neighbor_name": "SAMANLI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47947,
+    "neighbor_name": "SEYİTUŞAĞI MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47986,
+    "neighbor_name": "TECDE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47956,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 48006,
+    "neighbor_name": "ÜÇGÖZE MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47969,
+    "neighbor_name": "YAKINCA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47949,
+    "neighbor_name": "YALINKAYA MAH."
+  },
+  {
+    "city_id": 80,
+    "city_name": "MALATYA",
+    "district_id": 949,
+    "district_name": "YEŞİLYURT",
+    "neighbor_id": 47970,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  }
+]

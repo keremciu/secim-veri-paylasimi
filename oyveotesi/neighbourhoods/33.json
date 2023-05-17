@@ -1,0 +1,5618 @@
+[
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21013,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21002,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21010,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21019,
+    "neighbor_name": "ŞENPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21014,
+    "neighbor_name": "ALTINAYVA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21007,
+    "neighbor_name": "AŞAĞIYABANLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21008,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21000,
+    "neighbor_name": "BAHADIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21001,
+    "neighbor_name": "BALKAYASI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21015,
+    "neighbor_name": "BEYELMASI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21003,
+    "neighbor_name": "DEMİRÇARIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21016,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21009,
+    "neighbor_name": "KAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21004,
+    "neighbor_name": "MODANLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21018,
+    "neighbor_name": "ÖĞRENDİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21011,
+    "neighbor_name": "PULKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21012,
+    "neighbor_name": "SAMANÇAY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21017,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21006,
+    "neighbor_name": "YEDİBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 427,
+    "district_name": "AĞIN",
+    "neighbor_id": 21005,
+    "neighbor_name": "YENİPAYAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20970,
+    "neighbor_name": "ALTINÇANAK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20972,
+    "neighbor_name": "ALTIOLUK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20963,
+    "neighbor_name": "GÜLAMAN MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20964,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20973,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20974,
+    "neighbor_name": "SULARBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20961,
+    "neighbor_name": "BAKLADAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20960,
+    "neighbor_name": "ÇAKMAKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20968,
+    "neighbor_name": "ÇANAKÇA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20969,
+    "neighbor_name": "ÇATAKLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20962,
+    "neighbor_name": "ESENLİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20965,
+    "neighbor_name": "GÜRÇUBUK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20971,
+    "neighbor_name": "HALKALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20975,
+    "neighbor_name": "İNCEBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20966,
+    "neighbor_name": "KAYRANLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 425,
+    "district_name": "ALACAKAYA",
+    "neighbor_id": 20967,
+    "neighbor_name": "YALNIZDAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20986,
+    "neighbor_name": "GÜMÜŞYAKA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20979,
+    "neighbor_name": "HALİL YAVUZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20987,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20981,
+    "neighbor_name": "MUSTAFA ÇELEBİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20996,
+    "neighbor_name": "SAMAN MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20997,
+    "neighbor_name": "SERİNEVLER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20983,
+    "neighbor_name": "SİMSERKİS MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20989,
+    "neighbor_name": "VALİ GÖKTAYOĞLU MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20991,
+    "neighbor_name": "BÜKARDI-BÖLÜKBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49468,
+    "neighbor_name": "BÜKARDI-KAPLANBAĞ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20977,
+    "neighbor_name": "BÜKARDI-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49430,
+    "neighbor_name": "BÜKARDI-YAYLABAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20985,
+    "neighbor_name": "BÜKARDI-ZEYNET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20978,
+    "neighbor_name": "ERİMLİ-CAMİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49533,
+    "neighbor_name": "ERİMLİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49656,
+    "neighbor_name": "ERİMLİ-GÜLEÇ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49979,
+    "neighbor_name": "ERİMLİ-GÜVENEVLER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20995,
+    "neighbor_name": "ERİMLİ-KIŞLA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20984,
+    "neighbor_name": "ÜÇOCAK-ÇAY MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49437,
+    "neighbor_name": "ÜÇOCAK-HABERCİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49657,
+    "neighbor_name": "ÜÇOCAK-KUTLU DÜĞÜN MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20990,
+    "neighbor_name": "ÜÇOCAK-MERKEZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20999,
+    "neighbor_name": "ÜÇOCAK-ZİYARET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20976,
+    "neighbor_name": "BOZÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49824,
+    "neighbor_name": "ÇAVUŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 50424,
+    "neighbor_name": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20994,
+    "neighbor_name": "ERBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 49975,
+    "neighbor_name": "GÖRÜNDÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20992,
+    "neighbor_name": "KAMBERTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20988,
+    "neighbor_name": "KARAKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20980,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20982,
+    "neighbor_name": "ORMANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 426,
+    "district_name": "ARICAK",
+    "neighbor_id": 20998,
+    "neighbor_name": "YOĞUNBİLEK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21030,
+    "neighbor_name": "CANBEYLER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21059,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21077,
+    "neighbor_name": "ESKİBASKİL MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21023,
+    "neighbor_name": "MUSTAFA DEMİREL MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21024,
+    "neighbor_name": "ODABAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21044,
+    "neighbor_name": "ŞEFKAT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21085,
+    "neighbor_name": "AKDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21073,
+    "neighbor_name": "AKUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21034,
+    "neighbor_name": "ALADİKME KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21078,
+    "neighbor_name": "ALANGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21065,
+    "neighbor_name": "ALTINUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21079,
+    "neighbor_name": "AŞAĞIKULUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21080,
+    "neighbor_name": "BEŞBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21060,
+    "neighbor_name": "BİLALUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21026,
+    "neighbor_name": "BOZOĞLAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21025,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21027,
+    "neighbor_name": "ÇİĞDEMLİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21048,
+    "neighbor_name": "DELİKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21061,
+    "neighbor_name": "DEMİRLİBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21031,
+    "neighbor_name": "DOĞANCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21045,
+    "neighbor_name": "DÜĞÜNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21062,
+    "neighbor_name": "EMİRHAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21020,
+    "neighbor_name": "ESKİKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21040,
+    "neighbor_name": "GEMİCİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21032,
+    "neighbor_name": "HABİBUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21055,
+    "neighbor_name": "HACIHÜSEYİNLER KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21046,
+    "neighbor_name": "HACIMEHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21047,
+    "neighbor_name": "HACIMUSTAFAKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21021,
+    "neighbor_name": "HACIUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21069,
+    "neighbor_name": "HARABEKAYIŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21054,
+    "neighbor_name": "HÜYÜKKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21041,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21039,
+    "neighbor_name": "İÇLİKAVAL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21068,
+    "neighbor_name": "İMİKUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21033,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21049,
+    "neighbor_name": "KARAALİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21070,
+    "neighbor_name": "KARAGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21050,
+    "neighbor_name": "KARAKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21029,
+    "neighbor_name": "KAROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21051,
+    "neighbor_name": "KAYABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21066,
+    "neighbor_name": "KIZILUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21081,
+    "neighbor_name": "KOÇYOLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21052,
+    "neighbor_name": "KONACIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21071,
+    "neighbor_name": "KONALGA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21067,
+    "neighbor_name": "KUMLUTARLA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21063,
+    "neighbor_name": "KUŞSARAYI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21022,
+    "neighbor_name": "KUTLUGÜN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21056,
+    "neighbor_name": "MEYDANCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21036,
+    "neighbor_name": "PAŞAKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21082,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21038,
+    "neighbor_name": "RESULKAHYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21074,
+    "neighbor_name": "SARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21042,
+    "neighbor_name": "SÖĞÜTDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21037,
+    "neighbor_name": "SUYATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21028,
+    "neighbor_name": "ŞAHAPLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21084,
+    "neighbor_name": "ŞAHİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21058,
+    "neighbor_name": "ŞEYH HASAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21076,
+    "neighbor_name": "ŞİTUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21043,
+    "neighbor_name": "TATLIPAYAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21064,
+    "neighbor_name": "TAVŞANUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21035,
+    "neighbor_name": "TOPALUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21072,
+    "neighbor_name": "YALINDAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21075,
+    "neighbor_name": "YAYLANLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21053,
+    "neighbor_name": "YENİOCAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21057,
+    "neighbor_name": "YILDIZLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 428,
+    "district_name": "BASKİL",
+    "neighbor_id": 21083,
+    "neighbor_name": "YUKARIKULUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20765,
+    "neighbor_name": "ABDULLAH PAŞA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20856,
+    "neighbor_name": "ATAŞEHİR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20790,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20808,
+    "neighbor_name": "ÇAYDAÇIRA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20874,
+    "neighbor_name": "ESEN TEPE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20938,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20894,
+    "neighbor_name": "HİLALKENT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20819,
+    "neighbor_name": "İZZET PAŞA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20764,
+    "neighbor_name": "OLGUNLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20908,
+    "neighbor_name": "SAFRAN MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20802,
+    "neighbor_name": "SÜRSÜRÜ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20891,
+    "neighbor_name": "ÜNİVERSİTE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20778,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20863,
+    "neighbor_name": "YILDIZ BAĞLARI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20929,
+    "neighbor_name": "AKÇAKALE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20821,
+    "neighbor_name": "ALACA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20836,
+    "neighbor_name": "ALATARLA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20921,
+    "neighbor_name": "ALPAĞUT KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20766,
+    "neighbor_name": "ALTINKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20873,
+    "neighbor_name": "ARINDIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20843,
+    "neighbor_name": "AŞAĞIDEMİRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20956,
+    "neighbor_name": "AVCILI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20937,
+    "neighbor_name": "AYDINCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20842,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20788,
+    "neighbor_name": "BAĞDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20827,
+    "neighbor_name": "BAĞLARCA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20810,
+    "neighbor_name": "BALIBEY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20773,
+    "neighbor_name": "BALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20912,
+    "neighbor_name": "BEŞİKKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20913,
+    "neighbor_name": "BÖLÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20780,
+    "neighbor_name": "BULUTLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20892,
+    "neighbor_name": "CİPKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20916,
+    "neighbor_name": "ÇALICA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20839,
+    "neighbor_name": "ÇATALHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20864,
+    "neighbor_name": "ÇÖTELİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20931,
+    "neighbor_name": "DALLICA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20767,
+    "neighbor_name": "DAMBÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20768,
+    "neighbor_name": "DURUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20828,
+    "neighbor_name": "ESENKENT KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20792,
+    "neighbor_name": "FATMALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20770,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20867,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20885,
+    "neighbor_name": "GÖZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20851,
+    "neighbor_name": "GÜLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20763,
+    "neighbor_name": "GÜMÜŞBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20811,
+    "neighbor_name": "GÜNAÇTI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20957,
+    "neighbor_name": "GÜNBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20829,
+    "neighbor_name": "HAL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20793,
+    "neighbor_name": "HANKENDİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20858,
+    "neighbor_name": "HARMANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20904,
+    "neighbor_name": "HIDIRBABA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20946,
+    "neighbor_name": "IŞIKYOLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20786,
+    "neighbor_name": "KALKANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20895,
+    "neighbor_name": "KAPLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20875,
+    "neighbor_name": "KARAALİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20886,
+    "neighbor_name": "KARAÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20887,
+    "neighbor_name": "KAVAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20910,
+    "neighbor_name": "KELMAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20878,
+    "neighbor_name": "KEPEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20947,
+    "neighbor_name": "KOÇHARMANI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20933,
+    "neighbor_name": "KOPARUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20934,
+    "neighbor_name": "KORUKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20787,
+    "neighbor_name": "KOZLUK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20923,
+    "neighbor_name": "KÖRPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20812,
+    "neighbor_name": "KÜLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20925,
+    "neighbor_name": "MEŞELİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20840,
+    "neighbor_name": "MURATCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20927,
+    "neighbor_name": "NURALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20879,
+    "neighbor_name": "OBUZ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20906,
+    "neighbor_name": "ORTAÇALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20818,
+    "neighbor_name": "ÖKSÜZUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20825,
+    "neighbor_name": "ÖRENÇAY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20940,
+    "neighbor_name": "PELTEKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20941,
+    "neighbor_name": "PİRİNÇÇİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20877,
+    "neighbor_name": "POYRAZ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20823,
+    "neighbor_name": "SAKABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20928,
+    "neighbor_name": "SALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20801,
+    "neighbor_name": "SANCAKLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20862,
+    "neighbor_name": "SARIÇUBUK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20860,
+    "neighbor_name": "SARIGÜL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20880,
+    "neighbor_name": "SARILI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20806,
+    "neighbor_name": "SİNANKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20901,
+    "neighbor_name": "SULTANUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20881,
+    "neighbor_name": "SÜNKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20918,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20917,
+    "neighbor_name": "ŞABANLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20911,
+    "neighbor_name": "ŞAHAPLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20813,
+    "neighbor_name": "ŞAHİNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20841,
+    "neighbor_name": "TEMÜRKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20777,
+    "neighbor_name": "UZUNTARLA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20936,
+    "neighbor_name": "ÜÇAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20949,
+    "neighbor_name": "YALINDAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20817,
+    "neighbor_name": "YAZIPINARI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20942,
+    "neighbor_name": "YENİKONAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20785,
+    "neighbor_name": "YOLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20935,
+    "neighbor_name": "YUKARIÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20870,
+    "neighbor_name": "YUKARIDEMİRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20915,
+    "neighbor_name": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20772,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20834,
+    "neighbor_name": "AKSARAY MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20909,
+    "neighbor_name": "ALA YAPRAK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20890,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20926,
+    "neighbor_name": "ÇATAL ÇEŞME MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20866,
+    "neighbor_name": "DOĞU KENT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20893,
+    "neighbor_name": "GÖLLÜ BAĞ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20857,
+    "neighbor_name": "GÜMÜŞ KAVAK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 50348,
+    "neighbor_name": "GÜNEYKENT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20945,
+    "neighbor_name": "HARPUT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20804,
+    "neighbor_name": "HİCRET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20833,
+    "neighbor_name": "İCADİYE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20816,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20846,
+    "neighbor_name": "KIRKLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20914,
+    "neighbor_name": "KIZILAY MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20924,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20859,
+    "neighbor_name": "MUSTAFA PAŞA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20953,
+    "neighbor_name": "NAİL BEY MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20868,
+    "neighbor_name": "RIZAİYE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20907,
+    "neighbor_name": "RÜSTEM PAŞA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20954,
+    "neighbor_name": "SALI BABA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20958,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20889,
+    "neighbor_name": "SARAYATİK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20948,
+    "neighbor_name": "SUGÖZÜ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20897,
+    "neighbor_name": "ULU KENT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20809,
+    "neighbor_name": "AKÇAKİRAZ-BAHÇEKAPI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20820,
+    "neighbor_name": "AKÇAKİRAZ-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20872,
+    "neighbor_name": "AKÇAKİRAZ-KIRAÇ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20798,
+    "neighbor_name": "AKÇAKİRAZ-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20835,
+    "neighbor_name": "AKÇAKİRAZ-PAŞALAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20884,
+    "neighbor_name": "AKÇAKİRAZ-YENİCE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20855,
+    "neighbor_name": "AKÇAKİRAZ-YEŞİLKUŞAK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20779,
+    "neighbor_name": "AKÇAKİRAZ-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20944,
+    "neighbor_name": "AKÇAKİRAZ-YÜZBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20920,
+    "neighbor_name": "AKÇAKİRAZ-ZAFER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20952,
+    "neighbor_name": "MOLLAKENDİ-GÜNTAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20831,
+    "neighbor_name": "MOLLAKENDİ-KARŞIBAĞ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20876,
+    "neighbor_name": "MOLLAKENDİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20832,
+    "neighbor_name": "YAZIKONAK-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20761,
+    "neighbor_name": "YAZIKONAK-FATİH MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20795,
+    "neighbor_name": "YAZIKONAK-KONAK MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20902,
+    "neighbor_name": "YAZIKONAK-MERKEZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20919,
+    "neighbor_name": "YAZIKONAK-SANAYİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20807,
+    "neighbor_name": "YAZIKONAK-YENİ BAĞLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20955,
+    "neighbor_name": "YURTBAŞI-AKMEZRA SAHİL ÖNÜ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20882,
+    "neighbor_name": "YURTBAŞI-BAĞLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20943,
+    "neighbor_name": "YURTBAŞI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20853,
+    "neighbor_name": "YURTBAŞI-GÜLPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20849,
+    "neighbor_name": "YURTBAŞI-ORG. EŞREF BİTLİS MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20871,
+    "neighbor_name": "YURTBAŞI-SANAYİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20959,
+    "neighbor_name": "YURTBAŞI-YENİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20850,
+    "neighbor_name": "ACIPAYAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20814,
+    "neighbor_name": "BADEMPINARI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20903,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20789,
+    "neighbor_name": "BEŞOLUK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20930,
+    "neighbor_name": "BEYDALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20837,
+    "neighbor_name": "BEYDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20781,
+    "neighbor_name": "CEVİZDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20797,
+    "neighbor_name": "ÇAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20950,
+    "neighbor_name": "DEDEPINARI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20822,
+    "neighbor_name": "DEĞİRMENÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20898,
+    "neighbor_name": "DEREBOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20899,
+    "neighbor_name": "DOĞANKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20791,
+    "neighbor_name": "ELMAPINARI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20774,
+    "neighbor_name": "ERBİLDİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20769,
+    "neighbor_name": "GEDİKYOLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20844,
+    "neighbor_name": "GÖLARDI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20932,
+    "neighbor_name": "GÖZEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20815,
+    "neighbor_name": "GÜNEYÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20939,
+    "neighbor_name": "GÜZELYALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20782,
+    "neighbor_name": "HOŞKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20865,
+    "neighbor_name": "İÇME KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20883,
+    "neighbor_name": "İKİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20783,
+    "neighbor_name": "KARASAZ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20845,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20951,
+    "neighbor_name": "KAVAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20799,
+    "neighbor_name": "KIRAÇKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20805,
+    "neighbor_name": "KOÇKALE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20800,
+    "neighbor_name": "KONAKALMAZ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20905,
+    "neighbor_name": "KORUCU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20847,
+    "neighbor_name": "KUMLA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20922,
+    "neighbor_name": "KURTDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20830,
+    "neighbor_name": "KUŞHANE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20896,
+    "neighbor_name": "KUYULU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20888,
+    "neighbor_name": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20838,
+    "neighbor_name": "SARIBÜK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20784,
+    "neighbor_name": "SARIKAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20861,
+    "neighbor_name": "SARIYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20900,
+    "neighbor_name": "SEDEFTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20794,
+    "neighbor_name": "SERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20826,
+    "neighbor_name": "ŞEHSUVAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20796,
+    "neighbor_name": "ŞEYHHACI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20775,
+    "neighbor_name": "TADIM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20848,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20776,
+    "neighbor_name": "TOHUMLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20762,
+    "neighbor_name": "ÜRÜNVEREN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20852,
+    "neighbor_name": "YALNIZ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20803,
+    "neighbor_name": "YEDİGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20854,
+    "neighbor_name": "YEMİŞLİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20824,
+    "neighbor_name": "YENİKAPI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20869,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 424,
+    "district_name": "ELAZIĞ MERKEZ",
+    "neighbor_id": 20771,
+    "neighbor_name": "YÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21192,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21194,
+    "neighbor_name": "GÖLPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21244,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21195,
+    "neighbor_name": "KIRKPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21230,
+    "neighbor_name": "KULUBABA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21245,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21220,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21231,
+    "neighbor_name": "SARICAN-GÖLYAYLASI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21234,
+    "neighbor_name": "SARICAN-SUBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21217,
+    "neighbor_name": "AĞAMEZRASI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21190,
+    "neighbor_name": "AKARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21255,
+    "neighbor_name": "AKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21250,
+    "neighbor_name": "AKÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50356,
+    "neighbor_name": "AKKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50379,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21191,
+    "neighbor_name": "AKYOKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21215,
+    "neighbor_name": "ALABAL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49645,
+    "neighbor_name": "ALAYAĞMUR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21216,
+    "neighbor_name": "ALTINOLUK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21226,
+    "neighbor_name": "AŞAĞIOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21208,
+    "neighbor_name": "BAĞLIAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21200,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50124,
+    "neighbor_name": "BALCALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50375,
+    "neighbor_name": "BARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21247,
+    "neighbor_name": "BAŞYURT KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21207,
+    "neighbor_name": "BAZLAMA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50419,
+    "neighbor_name": "BEYDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21209,
+    "neighbor_name": "BULGURCUK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21243,
+    "neighbor_name": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21235,
+    "neighbor_name": "ÇALIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21225,
+    "neighbor_name": "ÇAMARDI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21214,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21241,
+    "neighbor_name": "ÇAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21202,
+    "neighbor_name": "ÇATALYOL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21260,
+    "neighbor_name": "ÇAVUŞYOLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21213,
+    "neighbor_name": "ÇAYIRDAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21242,
+    "neighbor_name": "ÇAYIRGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21205,
+    "neighbor_name": "ÇELEBİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21236,
+    "neighbor_name": "ÇİTAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21203,
+    "neighbor_name": "DEMİRDELEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50398,
+    "neighbor_name": "DEMİRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21227,
+    "neighbor_name": "DEMİRTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21204,
+    "neighbor_name": "DEVECİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21256,
+    "neighbor_name": "DOĞANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49957,
+    "neighbor_name": "DUMLUYAZI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21210,
+    "neighbor_name": "DURMUŞKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21251,
+    "neighbor_name": "GÖZEREK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21232,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50393,
+    "neighbor_name": "GÜMÜŞAKAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21248,
+    "neighbor_name": "GÜNDEĞDİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50383,
+    "neighbor_name": "HAMURKESEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21228,
+    "neighbor_name": "HAMZALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21261,
+    "neighbor_name": "İSABEY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21211,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21185,
+    "neighbor_name": "KALKANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49534,
+    "neighbor_name": "KARAÇAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21249,
+    "neighbor_name": "KARAKOÇAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21229,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49659,
+    "neighbor_name": "KARASAKAL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21252,
+    "neighbor_name": "KAVAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21186,
+    "neighbor_name": "KAVALCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21193,
+    "neighbor_name": "KEKLİKKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21187,
+    "neighbor_name": "KIRGIL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21233,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21196,
+    "neighbor_name": "KIZILPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21188,
+    "neighbor_name": "KOCADAYI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21197,
+    "neighbor_name": "KOÇYİĞİTLER KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50086,
+    "neighbor_name": "KORUDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21253,
+    "neighbor_name": "KÖRYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21198,
+    "neighbor_name": "KULUNDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21212,
+    "neighbor_name": "KUŞBAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21199,
+    "neighbor_name": "KUŞÇU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21201,
+    "neighbor_name": "KÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21218,
+    "neighbor_name": "MAHMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21257,
+    "neighbor_name": "MAKSUTALİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21222,
+    "neighbor_name": "MİRAHMET KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21189,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50397,
+    "neighbor_name": "ORMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50414,
+    "neighbor_name": "ÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 50425,
+    "neighbor_name": "PAMUKLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49535,
+    "neighbor_name": "PİLAVTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21237,
+    "neighbor_name": "SAĞIN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21219,
+    "neighbor_name": "SAĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21223,
+    "neighbor_name": "SARIBAŞAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49579,
+    "neighbor_name": "SARİHAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21238,
+    "neighbor_name": "TEKARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21206,
+    "neighbor_name": "ÜÇBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21239,
+    "neighbor_name": "YALINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21221,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 49938,
+    "neighbor_name": "YENİKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21258,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21259,
+    "neighbor_name": "YEŞİLBELEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21240,
+    "neighbor_name": "YOĞUNAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21246,
+    "neighbor_name": "YUKARIOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21224,
+    "neighbor_name": "YÜCEKONAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 431,
+    "district_name": "KARAKOÇAN",
+    "neighbor_id": 21254,
+    "neighbor_name": "YÜZEV KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21274,
+    "neighbor_name": "BARAJ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21262,
+    "neighbor_name": "DEĞİRMENBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21276,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21269,
+    "neighbor_name": "KALLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21266,
+    "neighbor_name": "AKÇATEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21273,
+    "neighbor_name": "AKGÖMLEK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21292,
+    "neighbor_name": "ALTINKÜREK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21280,
+    "neighbor_name": "ALTIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21281,
+    "neighbor_name": "ASLANKAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21284,
+    "neighbor_name": "AŞAĞIÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21293,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21294,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21267,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21275,
+    "neighbor_name": "BEYDEĞİRMENİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21295,
+    "neighbor_name": "BÖLÜKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21282,
+    "neighbor_name": "BÜKLÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21289,
+    "neighbor_name": "ÇALIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21290,
+    "neighbor_name": "ÇEVREKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21283,
+    "neighbor_name": "DENİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21285,
+    "neighbor_name": "DÜRÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21270,
+    "neighbor_name": "GÖKBELEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21268,
+    "neighbor_name": "GÖLDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21286,
+    "neighbor_name": "GÜNEYTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21263,
+    "neighbor_name": "KOPUZLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21277,
+    "neighbor_name": "KOYUNUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21288,
+    "neighbor_name": "KURŞUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21271,
+    "neighbor_name": "KUŞÇU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21264,
+    "neighbor_name": "NİMRİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21291,
+    "neighbor_name": "ÖRENYAKA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21278,
+    "neighbor_name": "SAĞDIÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21287,
+    "neighbor_name": "TAŞKESEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21272,
+    "neighbor_name": "TOPKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21279,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 432,
+    "district_name": "KEBAN",
+    "neighbor_id": 21265,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21296,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21377,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21370,
+    "neighbor_name": "ÇARŞI BAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21345,
+    "neighbor_name": "ÇAY BAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21347,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21372,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21349,
+    "neighbor_name": "HEYBET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21376,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 49998,
+    "neighbor_name": "KAPIAÇMAZ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 50029,
+    "neighbor_name": "KARACİMŞİT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21331,
+    "neighbor_name": "TOKİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21332,
+    "neighbor_name": "TUNA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21325,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21334,
+    "neighbor_name": "ADALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21318,
+    "neighbor_name": "AKMEZRA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 50473,
+    "neighbor_name": "AŞAĞIDEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21313,
+    "neighbor_name": "AŞAĞIKANATLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21351,
+    "neighbor_name": "AŞAĞIKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21364,
+    "neighbor_name": "AŞAĞIMİRAHMET KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21312,
+    "neighbor_name": "AVLAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21308,
+    "neighbor_name": "BAĞGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21335,
+    "neighbor_name": "BAYRAMYAZI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21326,
+    "neighbor_name": "BEŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21297,
+    "neighbor_name": "BİLALKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21369,
+    "neighbor_name": "ÇAKIRKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21362,
+    "neighbor_name": "ÇATAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21311,
+    "neighbor_name": "ÇAYBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21317,
+    "neighbor_name": "ÇELEBİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21338,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21327,
+    "neighbor_name": "DEĞİRMENTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21378,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21346,
+    "neighbor_name": "DURMUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21341,
+    "neighbor_name": "EKİNBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21300,
+    "neighbor_name": "EKİNÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21328,
+    "neighbor_name": "GEDİKYURT KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 49900,
+    "neighbor_name": "GÖÇMEZLER KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21365,
+    "neighbor_name": "GÖKÇEDAL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21352,
+    "neighbor_name": "GÖZECİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21356,
+    "neighbor_name": "GÜLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21353,
+    "neighbor_name": "HACIMEKKE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21348,
+    "neighbor_name": "HACISAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21371,
+    "neighbor_name": "İĞDELİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21363,
+    "neighbor_name": "İSAAĞAMEZRASI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21354,
+    "neighbor_name": "KACAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21373,
+    "neighbor_name": "KARABÖRK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21329,
+    "neighbor_name": "KARAMAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21322,
+    "neighbor_name": "KARASUNGUR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21342,
+    "neighbor_name": "KARINCAKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21309,
+    "neighbor_name": "KAVAKKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21319,
+    "neighbor_name": "KAYALIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21343,
+    "neighbor_name": "KOLLUCA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21366,
+    "neighbor_name": "KÖPRÜDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21357,
+    "neighbor_name": "KUŞAĞACI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21358,
+    "neighbor_name": "KUŞÇU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21344,
+    "neighbor_name": "MURATBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21339,
+    "neighbor_name": "MUSTAFAKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21336,
+    "neighbor_name": "NİŞANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21337,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21350,
+    "neighbor_name": "OSMANAĞA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21298,
+    "neighbor_name": "PAYAMLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21374,
+    "neighbor_name": "SALKIMLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21314,
+    "neighbor_name": "SARAYBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21375,
+    "neighbor_name": "SARIBUĞDAY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21367,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21304,
+    "neighbor_name": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21323,
+    "neighbor_name": "SÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21299,
+    "neighbor_name": "ŞEKERCİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21368,
+    "neighbor_name": "ŞENOVA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21301,
+    "neighbor_name": "TABANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21305,
+    "neighbor_name": "TAŞÇANAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21315,
+    "neighbor_name": "TAŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21340,
+    "neighbor_name": "TATAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21330,
+    "neighbor_name": "TEPEBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21306,
+    "neighbor_name": "TOPAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21307,
+    "neighbor_name": "UYANDIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21320,
+    "neighbor_name": "UZUNOVA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21324,
+    "neighbor_name": "VALİ FAHRİBEY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21303,
+    "neighbor_name": "YARIMCA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21321,
+    "neighbor_name": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21360,
+    "neighbor_name": "YENİDAM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21302,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21359,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21333,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 50052,
+    "neighbor_name": "YILBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21310,
+    "neighbor_name": "YONCALIBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21355,
+    "neighbor_name": "YUKARIDEMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21380,
+    "neighbor_name": "YUKARIKANATLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21316,
+    "neighbor_name": "YUKARIKAZANLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 433,
+    "district_name": "KOVANCILAR",
+    "neighbor_id": 21361,
+    "neighbor_name": "YUKARIMİRAHMET KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21394,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21395,
+    "neighbor_name": "CAMİİ KEBİR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21387,
+    "neighbor_name": "AĞADİBEK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21393,
+    "neighbor_name": "AKBOĞA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21410,
+    "neighbor_name": "ALTINTARLA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21403,
+    "neighbor_name": "ARSLANTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21415,
+    "neighbor_name": "BAHÇEDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21388,
+    "neighbor_name": "CUMHURİYETÇİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21402,
+    "neighbor_name": "ÇAKIROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21416,
+    "neighbor_name": "ÇALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21417,
+    "neighbor_name": "ÇAYIRKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21408,
+    "neighbor_name": "ÇİTLİKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21381,
+    "neighbor_name": "DURMUŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21382,
+    "neighbor_name": "DUTPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21396,
+    "neighbor_name": "EĞRİKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21383,
+    "neighbor_name": "GEZİN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21397,
+    "neighbor_name": "HANEVLERİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21418,
+    "neighbor_name": "HATUNKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21405,
+    "neighbor_name": "IŞIKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21404,
+    "neighbor_name": "KARATOP KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21406,
+    "neighbor_name": "KARTALDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21398,
+    "neighbor_name": "KAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21411,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21407,
+    "neighbor_name": "KAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21389,
+    "neighbor_name": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21412,
+    "neighbor_name": "KOÇKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21384,
+    "neighbor_name": "KUMYAZI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21390,
+    "neighbor_name": "KÜÇÜKOVA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21413,
+    "neighbor_name": "NALDÖKEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21409,
+    "neighbor_name": "ÖRTÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21399,
+    "neighbor_name": "PLAJKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21419,
+    "neighbor_name": "POLATKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21420,
+    "neighbor_name": "SAĞRILI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21385,
+    "neighbor_name": "TEKEVLER KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21414,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21400,
+    "neighbor_name": "TOPALUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21391,
+    "neighbor_name": "YENİBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21392,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21386,
+    "neighbor_name": "YILDIZHAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 434,
+    "district_name": "MADEN",
+    "neighbor_id": 21401,
+    "neighbor_name": "YONCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21124,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21094,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21121,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21105,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21127,
+    "neighbor_name": "KALEKENT MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21119,
+    "neighbor_name": "KARŞIBAHÇELER MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21109,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21091,
+    "neighbor_name": "NUMUNE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21113,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21096,
+    "neighbor_name": "YUKARI PALU MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21086,
+    "neighbor_name": "BEYHAN-GİRNE MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21116,
+    "neighbor_name": "BEYHAN-GÜNEY MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21118,
+    "neighbor_name": "BEYHAN-İSTASYON MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21117,
+    "neighbor_name": "BEYHAN-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 50418,
+    "neighbor_name": "AKBULUT KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21093,
+    "neighbor_name": "AKYÜREK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21103,
+    "neighbor_name": "ALTINÖLÇEK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21123,
+    "neighbor_name": "ANDILAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21104,
+    "neighbor_name": "ARINDIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 49484,
+    "neighbor_name": "ATİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21115,
+    "neighbor_name": "BALTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 49459,
+    "neighbor_name": "BEYDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21097,
+    "neighbor_name": "BOZÇANAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 49878,
+    "neighbor_name": "BÖLÜKELMA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 49687,
+    "neighbor_name": "BURGUDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21106,
+    "neighbor_name": "BÜYÜKÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21125,
+    "neighbor_name": "DAMLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 50087,
+    "neighbor_name": "GEMTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21087,
+    "neighbor_name": "GÖKDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21126,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21107,
+    "neighbor_name": "GÜMEÇBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21088,
+    "neighbor_name": "GÜMÜŞKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 50392,
+    "neighbor_name": "HASBEY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21098,
+    "neighbor_name": "KARACABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21095,
+    "neighbor_name": "KARASALKIM KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21089,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21099,
+    "neighbor_name": "KASIL KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 50390,
+    "neighbor_name": "KAYAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21090,
+    "neighbor_name": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21108,
+    "neighbor_name": "KEKLİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21120,
+    "neighbor_name": "KIRKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21100,
+    "neighbor_name": "KÖKLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 49467,
+    "neighbor_name": "KÜÇÜKÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21102,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21122,
+    "neighbor_name": "ÖRGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21092,
+    "neighbor_name": "SEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21110,
+    "neighbor_name": "TARHANA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21111,
+    "neighbor_name": "UMUTKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21101,
+    "neighbor_name": "ÜÇDEĞİRMENLER KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21112,
+    "neighbor_name": "YARIMTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 429,
+    "district_name": "PALU",
+    "neighbor_id": 21114,
+    "neighbor_name": "YEŞİLBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21175,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21144,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21137,
+    "neighbor_name": "HAZAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21177,
+    "neighbor_name": "KARAÇALI MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21140,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21171,
+    "neighbor_name": "OLGUNLAR MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21182,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21180,
+    "neighbor_name": "AKBUĞDAY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21148,
+    "neighbor_name": "AKSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21174,
+    "neighbor_name": "ALAATTİNKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21173,
+    "neighbor_name": "ALINCIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21167,
+    "neighbor_name": "AŞAĞIÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21145,
+    "neighbor_name": "BAŞKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21143,
+    "neighbor_name": "BEKÇİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21172,
+    "neighbor_name": "CANUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21183,
+    "neighbor_name": "ÇATAKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21169,
+    "neighbor_name": "ÇEVRİMTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21135,
+    "neighbor_name": "ÇORTUNLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21142,
+    "neighbor_name": "DEDEYOLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21163,
+    "neighbor_name": "DEREBOYNU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21129,
+    "neighbor_name": "DİKMEN KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21151,
+    "neighbor_name": "DOĞANBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21152,
+    "neighbor_name": "DÖRTBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21184,
+    "neighbor_name": "DUYGULU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21162,
+    "neighbor_name": "ELMASUYU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21161,
+    "neighbor_name": "GELİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21154,
+    "neighbor_name": "GÖRGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21136,
+    "neighbor_name": "GÖZELİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21155,
+    "neighbor_name": "GÜNAY KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21176,
+    "neighbor_name": "GÜNBALI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21130,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21131,
+    "neighbor_name": "HAFTASAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21156,
+    "neighbor_name": "ILINCAK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21146,
+    "neighbor_name": "KALABA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21164,
+    "neighbor_name": "KAMIŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21150,
+    "neighbor_name": "KAVAKKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21170,
+    "neighbor_name": "KAVALLI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21157,
+    "neighbor_name": "KAYABAĞLARI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21138,
+    "neighbor_name": "KAYAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21139,
+    "neighbor_name": "KILIÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21165,
+    "neighbor_name": "KÖSEBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21168,
+    "neighbor_name": "KÜRKKÖY"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21149,
+    "neighbor_name": "MULLAALİ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21132,
+    "neighbor_name": "NERGİZE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21178,
+    "neighbor_name": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21179,
+    "neighbor_name": "SÜREK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21141,
+    "neighbor_name": "TARLATEPE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21181,
+    "neighbor_name": "TAŞLIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21133,
+    "neighbor_name": "TOPALUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21134,
+    "neighbor_name": "USLU KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21159,
+    "neighbor_name": "ÜÇLERCE KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21160,
+    "neighbor_name": "ÜĞRÜK KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21153,
+    "neighbor_name": "YARUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21128,
+    "neighbor_name": "YEDİKARDEŞ KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21158,
+    "neighbor_name": "YEDİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21147,
+    "neighbor_name": "YUKARIÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 33,
+    "city_name": "ELAZIĞ",
+    "district_id": 430,
+    "district_name": "SİVRİCE",
+    "neighbor_id": 21166,
+    "neighbor_name": "YÜREKKAYA KÖYÜ"
+  }
+]

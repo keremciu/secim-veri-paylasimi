@@ -1,0 +1,5666 @@
+[
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28973,
+    "neighbor_name": "ACISU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28974,
+    "neighbor_name": "ADACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29001,
+    "neighbor_name": "AĞAÇLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29032,
+    "neighbor_name": "AKÇAKALE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29008,
+    "neighbor_name": "AKÇAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29007,
+    "neighbor_name": "AKDAMAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29015,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29000,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28983,
+    "neighbor_name": "ALSANCAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28978,
+    "neighbor_name": "AMBARCIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29039,
+    "neighbor_name": "ARPACILI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29027,
+    "neighbor_name": "AYDINKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28990,
+    "neighbor_name": "BOZDOĞAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29040,
+    "neighbor_name": "CEVİZLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29028,
+    "neighbor_name": "CEVİZLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28977,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29038,
+    "neighbor_name": "ÇAMLIDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28989,
+    "neighbor_name": "ÇINARLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28999,
+    "neighbor_name": "ÇİÇEKLİDÜZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29031,
+    "neighbor_name": "ÇİLEKLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28993,
+    "neighbor_name": "ÇOLAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29022,
+    "neighbor_name": "ÇUKURCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28984,
+    "neighbor_name": "DARICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29016,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29041,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28987,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28975,
+    "neighbor_name": "DERECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28979,
+    "neighbor_name": "DOĞANKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29019,
+    "neighbor_name": "DÖRTYOL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28994,
+    "neighbor_name": "DÜRBİNAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28988,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28985,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28976,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29042,
+    "neighbor_name": "FISTIKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29024,
+    "neighbor_name": "GÜMÜŞLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29020,
+    "neighbor_name": "HELVACI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29009,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29017,
+    "neighbor_name": "KALEÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29025,
+    "neighbor_name": "KARAÇAYIR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28980,
+    "neighbor_name": "KARPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29002,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29010,
+    "neighbor_name": "KAYALAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28981,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29029,
+    "neighbor_name": "KİRAZLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29004,
+    "neighbor_name": "KOÇLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29018,
+    "neighbor_name": "KURUÇAM MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28991,
+    "neighbor_name": "MADEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28995,
+    "neighbor_name": "MERSİN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29030,
+    "neighbor_name": "MEŞELİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29005,
+    "neighbor_name": "MEYDANKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29033,
+    "neighbor_name": "NEFSİPULATHANE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29011,
+    "neighbor_name": "ORTAALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29023,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29034,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29043,
+    "neighbor_name": "OSMANBABA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28997,
+    "neighbor_name": "ÖZAKDAMAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28972,
+    "neighbor_name": "ÖZDEMİRCİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28992,
+    "neighbor_name": "SALACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29026,
+    "neighbor_name": "SARICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29036,
+    "neighbor_name": "SARITAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29035,
+    "neighbor_name": "SERTKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29021,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29006,
+    "neighbor_name": "ŞİNİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29037,
+    "neighbor_name": "TATLISU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28986,
+    "neighbor_name": "TÜTÜNCÜLER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29012,
+    "neighbor_name": "UÇARSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29003,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28971,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28996,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28998,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 28982,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29013,
+    "neighbor_name": "YILDIZLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 590,
+    "district_name": "AKÇAABAT",
+    "neighbor_id": 29014,
+    "neighbor_name": "ZAFERLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29203,
+    "neighbor_name": "AYTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29217,
+    "neighbor_name": "AYVADERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29225,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29209,
+    "neighbor_name": "BEREKETLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29218,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29242,
+    "neighbor_name": "BUZLUCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29233,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29216,
+    "neighbor_name": "ÇAMLIKTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29240,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29241,
+    "neighbor_name": "ÇİFTEPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29207,
+    "neighbor_name": "ÇUKURÇAYIR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29230,
+    "neighbor_name": "DEĞİRMENCİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29243,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29219,
+    "neighbor_name": "ERİKLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29235,
+    "neighbor_name": "HALİLLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29236,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29244,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29208,
+    "neighbor_name": "İYİSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29231,
+    "neighbor_name": "KALECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29210,
+    "neighbor_name": "KARATEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29226,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29211,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29204,
+    "neighbor_name": "KAYAİÇİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29205,
+    "neighbor_name": "KAYMAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29227,
+    "neighbor_name": "KESTANELİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29199,
+    "neighbor_name": "KÖPRÜÜSTÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29200,
+    "neighbor_name": "KÜKÜRTLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29228,
+    "neighbor_name": "MERKEZKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29237,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29221,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29198,
+    "neighbor_name": "ÖZGEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29201,
+    "neighbor_name": "PERVANE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29238,
+    "neighbor_name": "SULAKYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29212,
+    "neighbor_name": "SULARBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29202,
+    "neighbor_name": "TAŞGEÇİT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29196,
+    "neighbor_name": "TAŞÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29222,
+    "neighbor_name": "TAŞTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29197,
+    "neighbor_name": "TURNALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29206,
+    "neighbor_name": "TÜRKELİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29245,
+    "neighbor_name": "YALIBOYU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29223,
+    "neighbor_name": "YASSIKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29220,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29213,
+    "neighbor_name": "YEŞİLCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29234,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29214,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29224,
+    "neighbor_name": "YILDIZLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29215,
+    "neighbor_name": "YİĞİTÖZÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29229,
+    "neighbor_name": "YOLGÖREN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29239,
+    "neighbor_name": "YONCALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 595,
+    "district_name": "ARAKLI",
+    "neighbor_id": 29232,
+    "neighbor_name": "YÜCEYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29314,
+    "neighbor_name": "ATAYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29315,
+    "neighbor_name": "BAŞDURAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29332,
+    "neighbor_name": "CUDİBEY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29308,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29335,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29306,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29318,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29309,
+    "neighbor_name": "DİLEK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29327,
+    "neighbor_name": "ELMAALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29320,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29338,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29328,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29316,
+    "neighbor_name": "GÖLGELİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29321,
+    "neighbor_name": "GÜNEYCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29329,
+    "neighbor_name": "GÜZELYALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29339,
+    "neighbor_name": "HARMANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29317,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29313,
+    "neighbor_name": "İŞHAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29340,
+    "neighbor_name": "KARACA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29322,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 50865,
+    "neighbor_name": "KUZGUNCUK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29310,
+    "neighbor_name": "NUROĞLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29330,
+    "neighbor_name": "OĞUZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29307,
+    "neighbor_name": "ÖRNEK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29337,
+    "neighbor_name": "ÖZLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29331,
+    "neighbor_name": "ŞENKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29319,
+    "neighbor_name": "ÜÇPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29312,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29325,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29324,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29326,
+    "neighbor_name": "YEŞİLCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29311,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29333,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29336,
+    "neighbor_name": "YEŞİLYALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29334,
+    "neighbor_name": "YOLAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 598,
+    "district_name": "ARSİN",
+    "neighbor_id": 29323,
+    "neighbor_name": "YOLÜSTÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29360,
+    "neighbor_name": "ADACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29355,
+    "neighbor_name": "AĞAÇLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29364,
+    "neighbor_name": "AKKESE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29341,
+    "neighbor_name": "AKSAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29350,
+    "neighbor_name": "ANBARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29365,
+    "neighbor_name": "ARDIÇATAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29371,
+    "neighbor_name": "BAYIRKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29344,
+    "neighbor_name": "BEŞİKDAĞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29367,
+    "neighbor_name": "BOZLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29368,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29353,
+    "neighbor_name": "ÇAKIRLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29354,
+    "neighbor_name": "ÇEŞMEÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29374,
+    "neighbor_name": "ÇITLAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29372,
+    "neighbor_name": "DAĞLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29351,
+    "neighbor_name": "DENİZLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29342,
+    "neighbor_name": "DOLANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29356,
+    "neighbor_name": "DUYGULU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29345,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29361,
+    "neighbor_name": "GÜRGENLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29357,
+    "neighbor_name": "HÜNERLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29346,
+    "neighbor_name": "KALEGÜNEY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29369,
+    "neighbor_name": "KORKUTHAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29370,
+    "neighbor_name": "KUTLUCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29343,
+    "neighbor_name": "NEFSİŞARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29362,
+    "neighbor_name": "OĞUZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29358,
+    "neighbor_name": "RESULLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29373,
+    "neighbor_name": "SAYVANCIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29359,
+    "neighbor_name": "SEYİTAHMET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29349,
+    "neighbor_name": "ŞAHMELİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29347,
+    "neighbor_name": "TAKAZLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29348,
+    "neighbor_name": "VARDALLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29366,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29352,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 599,
+    "district_name": "BEŞİKDÜZÜ",
+    "neighbor_id": 29363,
+    "neighbor_name": "ZEMBEREK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29299,
+    "neighbor_name": "BURUNBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29300,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29298,
+    "neighbor_name": "ÇALLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29301,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29303,
+    "neighbor_name": "FENERKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29291,
+    "neighbor_name": "GÜLBAHÇE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29292,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29302,
+    "neighbor_name": "KALEKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29293,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29294,
+    "neighbor_name": "KEREM MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29287,
+    "neighbor_name": "KOVANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29288,
+    "neighbor_name": "KÜÇÜKKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29283,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29296,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29284,
+    "neighbor_name": "SALOVA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29304,
+    "neighbor_name": "SAMSUN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29289,
+    "neighbor_name": "SERPİLKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29286,
+    "neighbor_name": "ŞAHİNLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29290,
+    "neighbor_name": "TAŞLITEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29297,
+    "neighbor_name": "VELİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29295,
+    "neighbor_name": "YAVUZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29285,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 597,
+    "district_name": "ÇARŞIBAŞI",
+    "neighbor_id": 29305,
+    "neighbor_name": "ZEYTİNLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28945,
+    "neighbor_name": "AKDOĞAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28952,
+    "neighbor_name": "ARPAÖZÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28946,
+    "neighbor_name": "AŞAĞIKUMLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28953,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28961,
+    "neighbor_name": "BALTACILI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28969,
+    "neighbor_name": "ÇAMBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28963,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28970,
+    "neighbor_name": "ÇAYIROBA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28947,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28950,
+    "neighbor_name": "DEMİRLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28954,
+    "neighbor_name": "DERİNDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28939,
+    "neighbor_name": "EĞRİDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28940,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28948,
+    "neighbor_name": "KABATAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28962,
+    "neighbor_name": "KARAÇAM MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28955,
+    "neighbor_name": "KAYRAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28958,
+    "neighbor_name": "KOLDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28965,
+    "neighbor_name": "KÖKNAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28959,
+    "neighbor_name": "KÖSELİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28966,
+    "neighbor_name": "MARAŞLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28967,
+    "neighbor_name": "SOĞANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28964,
+    "neighbor_name": "ŞAHİNKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28944,
+    "neighbor_name": "ŞEKERSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28960,
+    "neighbor_name": "TAŞKIRAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28949,
+    "neighbor_name": "TAŞLIGEDİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28956,
+    "neighbor_name": "TAŞÖREN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28951,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28941,
+    "neighbor_name": "UZUNGÖL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28968,
+    "neighbor_name": "UZUNTARLA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28957,
+    "neighbor_name": "YAYLAÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28942,
+    "neighbor_name": "YEŞİLALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 589,
+    "district_name": "ÇAYKARA",
+    "neighbor_id": 28943,
+    "neighbor_name": "YUKARIKUMLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29055,
+    "neighbor_name": "AKKÖSE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29053,
+    "neighbor_name": "ÇALIŞANLAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29054,
+    "neighbor_name": "ÇAYIRBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29056,
+    "neighbor_name": "GÜLEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29057,
+    "neighbor_name": "GÜNEBAKAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29050,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29044,
+    "neighbor_name": "KONDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29051,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29052,
+    "neighbor_name": "ORMANCIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29045,
+    "neighbor_name": "TAŞÇILAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29047,
+    "neighbor_name": "TÜFEKÇİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29048,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29049,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 591,
+    "district_name": "DERNEKPAZARI",
+    "neighbor_id": 29046,
+    "neighbor_name": "ZİNCİRLİTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29383,
+    "neighbor_name": "ALAZLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29384,
+    "neighbor_name": "AYKUT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29379,
+    "neighbor_name": "BÜYÜK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29380,
+    "neighbor_name": "CEVİZLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49636,
+    "neighbor_name": "ÇAL CAMİLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49606,
+    "neighbor_name": "ÇAL ÇEŞMELER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 50106,
+    "neighbor_name": "ÇAL ORTA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49605,
+    "neighbor_name": "ÇAYIRBAĞI DOĞANKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49570,
+    "neighbor_name": "ÇAYIRBAĞI GÜLCANA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49456,
+    "neighbor_name": "ÇAYIRBAĞI ORTA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49473,
+    "neighbor_name": "ÇAYIRBAĞI YUSUFLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 49551,
+    "neighbor_name": "ÇAYIRBAĞI ZELİHA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29386,
+    "neighbor_name": "ÇİĞDEMLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29381,
+    "neighbor_name": "DÜZALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29382,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29387,
+    "neighbor_name": "GÜRGENDAĞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29377,
+    "neighbor_name": "KÜÇÜKTEPEKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29378,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29385,
+    "neighbor_name": "TAŞOCAĞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29388,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29375,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 600,
+    "district_name": "DÜZKÖY",
+    "neighbor_id": 29376,
+    "neighbor_name": "YERLİCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28816,
+    "neighbor_name": "AĞAÇLI DÜZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28806,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28817,
+    "neighbor_name": "BALABAN MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28807,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28805,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28828,
+    "neighbor_name": "ÇAMLITEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28801,
+    "neighbor_name": "ÇAYCILAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28826,
+    "neighbor_name": "DAĞÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28798,
+    "neighbor_name": "DEREYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28818,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28819,
+    "neighbor_name": "GEÇİTLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28827,
+    "neighbor_name": "GÖKSEL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28820,
+    "neighbor_name": "GÖRGÜLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28811,
+    "neighbor_name": "GÜLDEREN FATİH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28799,
+    "neighbor_name": "GÜLDEREN MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28821,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28812,
+    "neighbor_name": "KILAVUZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28797,
+    "neighbor_name": "KÖYCEĞİZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28796,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28803,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28824,
+    "neighbor_name": "MEYDANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28825,
+    "neighbor_name": "ONUR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28813,
+    "neighbor_name": "PAZARÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28814,
+    "neighbor_name": "PINARCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28804,
+    "neighbor_name": "SARMAŞIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28802,
+    "neighbor_name": "ŞEHİTLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28829,
+    "neighbor_name": "ŞİŞLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28808,
+    "neighbor_name": "TAFLANCIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28800,
+    "neighbor_name": "TOPAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28809,
+    "neighbor_name": "YARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28810,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28822,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28815,
+    "neighbor_name": "YILDIRIMLAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 585,
+    "district_name": "HAYRAT",
+    "neighbor_id": 28823,
+    "neighbor_name": "YIRCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29063,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29064,
+    "neighbor_name": "ARPALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29065,
+    "neighbor_name": "BEŞKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 49647,
+    "neighbor_name": "BÜYÜKDOĞANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29066,
+    "neighbor_name": "ÇİFTEKÖPRÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29058,
+    "neighbor_name": "FİDANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29059,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29060,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29061,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 592,
+    "district_name": "KÖPRÜBAŞI",
+    "neighbor_id": 29062,
+    "neighbor_name": "YAĞMURLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28864,
+    "neighbor_name": "AKARSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28865,
+    "neighbor_name": "AKMESCİT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28852,
+    "neighbor_name": "ALAÇAM MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28844,
+    "neighbor_name": "ALATAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28869,
+    "neighbor_name": "ALTINDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28850,
+    "neighbor_name": "ANAYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28866,
+    "neighbor_name": "ARDIÇLIYAYLA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28879,
+    "neighbor_name": "ARMAĞAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28830,
+    "neighbor_name": "ATASU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28871,
+    "neighbor_name": "BAĞIŞLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 50913,
+    "neighbor_name": "BAHÇEKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28833,
+    "neighbor_name": "BAKIMLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28855,
+    "neighbor_name": "BAKIRCILAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28837,
+    "neighbor_name": "BARIŞLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28853,
+    "neighbor_name": "BAŞAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28872,
+    "neighbor_name": "COŞANDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28861,
+    "neighbor_name": "ÇAMLIDÜZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28881,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28842,
+    "neighbor_name": "ÇAYIRLAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28886,
+    "neighbor_name": "ÇEŞMELER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28870,
+    "neighbor_name": "ÇIRALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28838,
+    "neighbor_name": "DİKKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28845,
+    "neighbor_name": "ERGİNKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28867,
+    "neighbor_name": "ESİROĞLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 50848,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28887,
+    "neighbor_name": "GAYRETLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28856,
+    "neighbor_name": "GÜNAY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28851,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28846,
+    "neighbor_name": "GÜRGENAĞAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28839,
+    "neighbor_name": "GÜZELCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28888,
+    "neighbor_name": "GÜZELYAYLA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28859,
+    "neighbor_name": "HAMSİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28857,
+    "neighbor_name": "HIZARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 50938,
+    "neighbor_name": "KAPIKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28868,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28873,
+    "neighbor_name": "KIRANTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28831,
+    "neighbor_name": "KİREMİTLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28883,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28880,
+    "neighbor_name": "KOZAĞAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28884,
+    "neighbor_name": "KÖPRÜYANI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28834,
+    "neighbor_name": "KUŞÇU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28874,
+    "neighbor_name": "MATARACI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28835,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28885,
+    "neighbor_name": "OCAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28876,
+    "neighbor_name": "OĞULAĞAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28836,
+    "neighbor_name": "ORMANİÇİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28854,
+    "neighbor_name": "ORMANÜSTÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28862,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 49440,
+    "neighbor_name": "ÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28891,
+    "neighbor_name": "ÖRNEKALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 50839,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28840,
+    "neighbor_name": "SEVİNÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28875,
+    "neighbor_name": "SINDIRAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28841,
+    "neighbor_name": "SUKENARI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28843,
+    "neighbor_name": "ŞİMŞİRLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28849,
+    "neighbor_name": "TEMELLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28882,
+    "neighbor_name": "ÜÇGEDİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28847,
+    "neighbor_name": "YAYLABAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28877,
+    "neighbor_name": "YAZILITAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28889,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28890,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28860,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28848,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28832,
+    "neighbor_name": "YUKARIKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28863,
+    "neighbor_name": "YÜZÜNCÜYIL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 586,
+    "district_name": "MAÇKA",
+    "neighbor_id": 28878,
+    "neighbor_name": "ZAFERLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29422,
+    "neighbor_name": "AĞAÇBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29408,
+    "neighbor_name": "AĞAÇSEVEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29411,
+    "neighbor_name": "AŞAĞIKIŞLACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29445,
+    "neighbor_name": "BALLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29412,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29391,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29400,
+    "neighbor_name": "BAYIRCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29409,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29417,
+    "neighbor_name": "BÖLÜMLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29448,
+    "neighbor_name": "CUMAPAZARI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29413,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29405,
+    "neighbor_name": "ÇALTILI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29427,
+    "neighbor_name": "ÇAMLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29434,
+    "neighbor_name": "ÇAMLITEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29458,
+    "neighbor_name": "ÇATALDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29435,
+    "neighbor_name": "ÇATALSÖĞÜT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29406,
+    "neighbor_name": "ÇUKUROVA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29430,
+    "neighbor_name": "DAĞALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29395,
+    "neighbor_name": "DARILI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29453,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29396,
+    "neighbor_name": "DOĞANÇAY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29436,
+    "neighbor_name": "DUMLUSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29437,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29454,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29455,
+    "neighbor_name": "ESKİPAZAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29449,
+    "neighbor_name": "FINDIKOBA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29438,
+    "neighbor_name": "GÖKÇEOBA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29428,
+    "neighbor_name": "GÜMÜŞÖREN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29414,
+    "neighbor_name": "GÜRESEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29397,
+    "neighbor_name": "GÜRPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29451,
+    "neighbor_name": "İKİDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29407,
+    "neighbor_name": "İRFANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29418,
+    "neighbor_name": "KABAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29398,
+    "neighbor_name": "KARABUDAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29419,
+    "neighbor_name": "KAVAKPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29446,
+    "neighbor_name": "KAZANÇLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29450,
+    "neighbor_name": "KELER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29420,
+    "neighbor_name": "KIYIBOYU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29392,
+    "neighbor_name": "KIYICIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29441,
+    "neighbor_name": "KİRAZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29401,
+    "neighbor_name": "KİREÇLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29456,
+    "neighbor_name": "KORKUT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29423,
+    "neighbor_name": "KORUCUK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29424,
+    "neighbor_name": "KUMLUDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29402,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29440,
+    "neighbor_name": "ÖRTÜLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29431,
+    "neighbor_name": "PINARALTI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29421,
+    "neighbor_name": "SARAÇLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29452,
+    "neighbor_name": "SARAYKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29439,
+    "neighbor_name": "SARIBEY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29393,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29457,
+    "neighbor_name": "SEFAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29425,
+    "neighbor_name": "SERİNCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29429,
+    "neighbor_name": "SIRAAĞAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29442,
+    "neighbor_name": "SİVRİCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29415,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29426,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29416,
+    "neighbor_name": "SUGELDİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29394,
+    "neighbor_name": "SULAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29432,
+    "neighbor_name": "TAVŞANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29410,
+    "neighbor_name": "TEKOBA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29443,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29404,
+    "neighbor_name": "ULUAĞAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29433,
+    "neighbor_name": "YANIKTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29403,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29444,
+    "neighbor_name": "YEMİŞALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29399,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 601,
+    "district_name": "OF",
+    "neighbor_id": 29447,
+    "neighbor_name": "YUKARI KIŞLACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29077,
+    "neighbor_name": "1 NOLU BOSTANCI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29087,
+    "neighbor_name": "2 NOLU BOSTANCI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29092,
+    "neighbor_name": "AKOLUK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29068,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29126,
+    "neighbor_name": "BEŞTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29069,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29140,
+    "neighbor_name": "BULAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29080,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29121,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29151,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29138,
+    "neighbor_name": "ÇİLEKLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29091,
+    "neighbor_name": "ÇİMENLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29075,
+    "neighbor_name": "ÇÖMLEKÇİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29137,
+    "neighbor_name": "ÇUKURÇAYIR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29081,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29098,
+    "neighbor_name": "DOLAYLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29130,
+    "neighbor_name": "DÜZYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29131,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29112,
+    "neighbor_name": "ESENYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29070,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29095,
+    "neighbor_name": "GÖLÇAYIR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29141,
+    "neighbor_name": "İNCESU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29103,
+    "neighbor_name": "İSKENDERPAŞA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29113,
+    "neighbor_name": "KALKINMA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29096,
+    "neighbor_name": "KANUNİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29071,
+    "neighbor_name": "KAVALA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29083,
+    "neighbor_name": "KAYMAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29119,
+    "neighbor_name": "KEMERKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29072,
+    "neighbor_name": "KONAKLAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29144,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29100,
+    "neighbor_name": "KUTLUGÜN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 50852,
+    "neighbor_name": "OKÇULAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29149,
+    "neighbor_name": "ORTAHİSAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29117,
+    "neighbor_name": "ÖZBİRLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29115,
+    "neighbor_name": "PAZARKAPI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29124,
+    "neighbor_name": "PELİTLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29150,
+    "neighbor_name": "PINARALTI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29107,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29073,
+    "neighbor_name": "SAYVAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29132,
+    "neighbor_name": "SEVİMLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29085,
+    "neighbor_name": "ÜNİVERSİTE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29127,
+    "neighbor_name": "YALINCAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29146,
+    "neighbor_name": "YENİCUMA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29090,
+    "neighbor_name": "YEŞİLBÜK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29109,
+    "neighbor_name": "YEŞİLVADİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29110,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29125,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29122,
+    "neighbor_name": "1 NOLU BEŞİRLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29128,
+    "neighbor_name": "1 NOLU ERDOĞDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29086,
+    "neighbor_name": "2 NOLU BEŞİRLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29139,
+    "neighbor_name": "2 NOLU ERDOĞDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29142,
+    "neighbor_name": "3 NOLU ERDOĞDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29129,
+    "neighbor_name": "AĞILLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29147,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29088,
+    "neighbor_name": "AKTOPRAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29078,
+    "neighbor_name": "AKYAZI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29067,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29148,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29079,
+    "neighbor_name": "BENGİSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29111,
+    "neighbor_name": "ÇAMOBA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29094,
+    "neighbor_name": "DOĞANÇAY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29082,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29104,
+    "neighbor_name": "FATİH SULTAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29134,
+    "neighbor_name": "GEÇİT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29093,
+    "neighbor_name": "GÖZALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29099,
+    "neighbor_name": "GÜLBAHARHATUN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29143,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29123,
+    "neighbor_name": "GÜRBULAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29105,
+    "neighbor_name": "HIZIRBEY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29076,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29114,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29106,
+    "neighbor_name": "KARLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29118,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29089,
+    "neighbor_name": "KİREÇHANE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29084,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29101,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29116,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29135,
+    "neighbor_name": "TOKLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29136,
+    "neighbor_name": "TOSKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29133,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29145,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29108,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29120,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29074,
+    "neighbor_name": "YEŞİLHİSAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29102,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 593,
+    "district_name": "ORTAHİSAR",
+    "neighbor_id": 29097,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28772,
+    "neighbor_name": "AĞIRTAŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28782,
+    "neighbor_name": "AKÇİRİŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28766,
+    "neighbor_name": "ÇAMKİRİŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28786,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28775,
+    "neighbor_name": "ÇARLAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28767,
+    "neighbor_name": "ÇETRİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28773,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28787,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28768,
+    "neighbor_name": "DORUKKİRİŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28783,
+    "neighbor_name": "DÜZKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28789,
+    "neighbor_name": "FİDANBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28788,
+    "neighbor_name": "GEYİKLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28778,
+    "neighbor_name": "GÖKÇEKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28791,
+    "neighbor_name": "GÖLKİRİŞ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28776,
+    "neighbor_name": "GÜDÜN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28779,
+    "neighbor_name": "KABASAKAL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28794,
+    "neighbor_name": "KALECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28784,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28792,
+    "neighbor_name": "KASIMAĞZI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28785,
+    "neighbor_name": "KUZULUK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 50034,
+    "neighbor_name": "MERKEZ-KİREÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28795,
+    "neighbor_name": "PELİTÇİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28770,
+    "neighbor_name": "SAYVANÇATAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28769,
+    "neighbor_name": "SİMENLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28774,
+    "neighbor_name": "SİNLİCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28781,
+    "neighbor_name": "SUGÖREN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28777,
+    "neighbor_name": "SÜTPINAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28771,
+    "neighbor_name": "TEPEAĞZI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28793,
+    "neighbor_name": "TURALIUŞAĞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 584,
+    "district_name": "ŞALPAZARI",
+    "neighbor_id": 28790,
+    "neighbor_name": "ÜZÜMÖZÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29250,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29267,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29251,
+    "neighbor_name": "AŞAĞIOVALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29252,
+    "neighbor_name": "BALIKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29255,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29258,
+    "neighbor_name": "ÇAMBURNU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29278,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29265,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29272,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29254,
+    "neighbor_name": "ÇİFTESU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29249,
+    "neighbor_name": "ÇİMENLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29253,
+    "neighbor_name": "DİRLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29268,
+    "neighbor_name": "FINDICAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29246,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29273,
+    "neighbor_name": "GÜNEYKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29279,
+    "neighbor_name": "KAHRAMAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29261,
+    "neighbor_name": "KARACAKAYA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29280,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29262,
+    "neighbor_name": "KOYUNCULAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29256,
+    "neighbor_name": "KÜÇÜKDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29263,
+    "neighbor_name": "MURATLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29248,
+    "neighbor_name": "ORMANSEVEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29269,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29281,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29274,
+    "neighbor_name": "OYLUM MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29270,
+    "neighbor_name": "PETEKLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29282,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29247,
+    "neighbor_name": "ÜSTÜNDAL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29266,
+    "neighbor_name": "ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29275,
+    "neighbor_name": "YAZIOBA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29257,
+    "neighbor_name": "YEMİŞLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29264,
+    "neighbor_name": "YENİAY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29277,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29259,
+    "neighbor_name": "YOKUŞBAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29276,
+    "neighbor_name": "YUKARIÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29271,
+    "neighbor_name": "YUKARIOVALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 596,
+    "district_name": "SÜRMENE",
+    "neighbor_id": 29260,
+    "neighbor_name": "ZEYTİNLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28903,
+    "neighbor_name": "BİÇİNLİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28909,
+    "neighbor_name": "BÜYÜK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28892,
+    "neighbor_name": "ÇAMLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28908,
+    "neighbor_name": "ÇAYIRİÇİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28910,
+    "neighbor_name": "HOŞARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28902,
+    "neighbor_name": "İSKENDERLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28893,
+    "neighbor_name": "KALEMLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28904,
+    "neighbor_name": "KALEÖNÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28911,
+    "neighbor_name": "KALINÇAM MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28912,
+    "neighbor_name": "KARAAĞAÇLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28898,
+    "neighbor_name": "KARASU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28894,
+    "neighbor_name": "KARŞULAR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28905,
+    "neighbor_name": "KAYACAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28899,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28900,
+    "neighbor_name": "KÖSECİK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28895,
+    "neighbor_name": "MELİKŞAH MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28913,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28896,
+    "neighbor_name": "SAĞRI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28906,
+    "neighbor_name": "SAYRAÇ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28897,
+    "neighbor_name": "TURALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28907,
+    "neighbor_name": "YAKÇUKUR MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 587,
+    "district_name": "TONYA",
+    "neighbor_id": 28901,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29154,
+    "neighbor_name": "AÇIKALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29160,
+    "neighbor_name": "AKKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29153,
+    "neighbor_name": "AYDOĞDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29186,
+    "neighbor_name": "BAHADIRLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29176,
+    "neighbor_name": "BALLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29187,
+    "neighbor_name": "BOZALAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29170,
+    "neighbor_name": "BÜYÜKLİMAN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29192,
+    "neighbor_name": "CAFERLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29155,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29158,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29168,
+    "neighbor_name": "ÇAMLIK SAHİL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29169,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29152,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 50872,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29161,
+    "neighbor_name": "DEREGÖZÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29188,
+    "neighbor_name": "DÜZLÜK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29177,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29178,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29179,
+    "neighbor_name": "FEVZİYE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29189,
+    "neighbor_name": "GÜNEYKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29193,
+    "neighbor_name": "GÜNEYSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29171,
+    "neighbor_name": "HACIKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29180,
+    "neighbor_name": "HAMZALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29181,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29190,
+    "neighbor_name": "İLYASLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29191,
+    "neighbor_name": "İSHAKLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29162,
+    "neighbor_name": "KARATEPE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29172,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29163,
+    "neighbor_name": "KIRANKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29166,
+    "neighbor_name": "KİRAZLIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29174,
+    "neighbor_name": "KİRAZLIKYENİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29156,
+    "neighbor_name": "KÖPRÜCEK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29164,
+    "neighbor_name": "KÖREZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 50849,
+    "neighbor_name": "KÜÇÜKDERE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29173,
+    "neighbor_name": "MAHMUTLU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29175,
+    "neighbor_name": "MISIRLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29165,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29182,
+    "neighbor_name": "RIDVANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29159,
+    "neighbor_name": "SEKMENLİ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29194,
+    "neighbor_name": "SİNANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29183,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29185,
+    "neighbor_name": "ŞENOCAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29167,
+    "neighbor_name": "TARLACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29184,
+    "neighbor_name": "YALIKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29157,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 594,
+    "district_name": "VAKFIKEBİR",
+    "neighbor_id": 29195,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28934,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28935,
+    "neighbor_name": "ÇAMLIYURT MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28936,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28920,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28921,
+    "neighbor_name": "GÜLYURDU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28925,
+    "neighbor_name": "GÜRSEL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28922,
+    "neighbor_name": "İKİSU MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28914,
+    "neighbor_name": "KAŞÜSTÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28937,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28915,
+    "neighbor_name": "KILIÇLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28916,
+    "neighbor_name": "KIRATLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28926,
+    "neighbor_name": "KÖMÜRCÜ MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28917,
+    "neighbor_name": "MADEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28938,
+    "neighbor_name": "NAMIKKEMAL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28931,
+    "neighbor_name": "OCAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28932,
+    "neighbor_name": "OYMALI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28919,
+    "neighbor_name": "ÖZDİL MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28929,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28930,
+    "neighbor_name": "SANCAK MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28928,
+    "neighbor_name": "ŞANLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28923,
+    "neighbor_name": "TANDIRLI MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28933,
+    "neighbor_name": "TAŞDELEN MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28918,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28924,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 44,
+    "city_name": "TRABZON",
+    "district_id": 588,
+    "district_name": "YOMRA",
+    "neighbor_id": 28927,
+    "neighbor_name": "YOKUŞLU MAH."
+  }
+]

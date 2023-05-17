@@ -1,0 +1,4642 @@
+[
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33507,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33416,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33401,
+    "neighbor_name": "ALPAĞUTBEY MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33490,
+    "neighbor_name": "ALPAĞUT MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33453,
+    "neighbor_name": "AŞAĞISOKU MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33410,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33471,
+    "neighbor_name": "BEŞKAVAKLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33528,
+    "neighbor_name": "BORAZANLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33420,
+    "neighbor_name": "BÜYÜKCAMİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33474,
+    "neighbor_name": "ÇAKMAKLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33386,
+    "neighbor_name": "ÇIKINLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33429,
+    "neighbor_name": "ÇİVRİL MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33408,
+    "neighbor_name": "DAĞKENT MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33433,
+    "neighbor_name": "DODURGA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33463,
+    "neighbor_name": "GÖLYÜZÜ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33530,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33387,
+    "neighbor_name": "İZZET BAYSAL MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33520,
+    "neighbor_name": "KARACAAĞAÇ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33455,
+    "neighbor_name": "KARAÇAYIR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33493,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33405,
+    "neighbor_name": "KARAMANLI MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33509,
+    "neighbor_name": "KASAPLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33466,
+    "neighbor_name": "KILIÇARSLAN MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33502,
+    "neighbor_name": "KÖROĞLU MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33531,
+    "neighbor_name": "KURUÇAY MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33396,
+    "neighbor_name": "KÜÇÜKBERK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33390,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33473,
+    "neighbor_name": "KÜRKÇÜLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33391,
+    "neighbor_name": "OVADÜZÜ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33495,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33449,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33448,
+    "neighbor_name": "SALIBEYLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33440,
+    "neighbor_name": "SANDALLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33467,
+    "neighbor_name": "SARICALAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33457,
+    "neighbor_name": "SEMERKANT MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33450,
+    "neighbor_name": "SEYİT MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33412,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33522,
+    "neighbor_name": "TABAKLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33406,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33487,
+    "neighbor_name": "UMUTKENT MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33525,
+    "neighbor_name": "YAŞAMKENT MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33510,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33395,
+    "neighbor_name": "YUKARISOKU MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33427,
+    "neighbor_name": "KARACASU-KARACASU FATİH MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33392,
+    "neighbor_name": "AFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33519,
+    "neighbor_name": "AĞAÇCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33513,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33442,
+    "neighbor_name": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33417,
+    "neighbor_name": "ALIÇÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33470,
+    "neighbor_name": "AŞAĞIÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33497,
+    "neighbor_name": "AŞAĞIKUZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33452,
+    "neighbor_name": "AVDAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33482,
+    "neighbor_name": "AYDINCIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33426,
+    "neighbor_name": "BAĞIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33483,
+    "neighbor_name": "BAHÇEKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33501,
+    "neighbor_name": "BAKIRLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33460,
+    "neighbor_name": "BALTALI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33432,
+    "neighbor_name": "BANAZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33527,
+    "neighbor_name": "BELKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33443,
+    "neighbor_name": "BERK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33508,
+    "neighbor_name": "BOZARMUT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33404,
+    "neighbor_name": "BÜNÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33514,
+    "neighbor_name": "BÜRNÜK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33464,
+    "neighbor_name": "ÇAMPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33459,
+    "neighbor_name": "ÇAMYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33475,
+    "neighbor_name": "ÇANAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33400,
+    "neighbor_name": "ÇATAKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33536,
+    "neighbor_name": "ÇAYGÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33512,
+    "neighbor_name": "ÇAYIRKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33441,
+    "neighbor_name": "ÇEPNİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33462,
+    "neighbor_name": "ÇOBANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33489,
+    "neighbor_name": "ÇÖMLEKÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33415,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33438,
+    "neighbor_name": "DEĞİRMENBELİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33445,
+    "neighbor_name": "DEĞİRMENDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33461,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33465,
+    "neighbor_name": "DERECEÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33388,
+    "neighbor_name": "DOĞANCI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33492,
+    "neighbor_name": "ELMALIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33472,
+    "neighbor_name": "ERİCEK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33402,
+    "neighbor_name": "FASIL KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33498,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33537,
+    "neighbor_name": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33491,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33409,
+    "neighbor_name": "GÖVEM KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33389,
+    "neighbor_name": "GÜNEYFELEKETTİN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33454,
+    "neighbor_name": "HAMZABEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33393,
+    "neighbor_name": "HIDIRŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33394,
+    "neighbor_name": "ILICAKINIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33484,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33479,
+    "neighbor_name": "KANDAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33485,
+    "neighbor_name": "KARAMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33538,
+    "neighbor_name": "KARCA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33439,
+    "neighbor_name": "KETENLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33477,
+    "neighbor_name": "KINDIRA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33515,
+    "neighbor_name": "KIRHA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33436,
+    "neighbor_name": "KIZILAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33494,
+    "neighbor_name": "KOLKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33480,
+    "neighbor_name": "KOZLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33516,
+    "neighbor_name": "KÖPRÜCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33521,
+    "neighbor_name": "KUZFINDIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33421,
+    "neighbor_name": "KUZÖRENDAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33437,
+    "neighbor_name": "KUZÖRENEMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33499,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33422,
+    "neighbor_name": "MERKEŞLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33532,
+    "neighbor_name": "MESCİÇELE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33383,
+    "neighbor_name": "MESCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33397,
+    "neighbor_name": "MURATLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33384,
+    "neighbor_name": "MUSLUKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33503,
+    "neighbor_name": "MÜSTAKİMLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33504,
+    "neighbor_name": "NUHLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33505,
+    "neighbor_name": "OĞULDURUK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33533,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33529,
+    "neighbor_name": "ÖMERLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33476,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33446,
+    "neighbor_name": "PELİTCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33517,
+    "neighbor_name": "PİRAHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33447,
+    "neighbor_name": "PİROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33430,
+    "neighbor_name": "RÜZGARLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33478,
+    "neighbor_name": "SAÇÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33456,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33506,
+    "neighbor_name": "SAZAKKINIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33411,
+    "neighbor_name": "SAZAKŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33428,
+    "neighbor_name": "SEBENARDI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33444,
+    "neighbor_name": "SEMERCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33468,
+    "neighbor_name": "SULTANBEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33534,
+    "neighbor_name": "SULTAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33398,
+    "neighbor_name": "SUSUZKINIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33423,
+    "neighbor_name": "TARAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33424,
+    "neighbor_name": "TAŞÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33385,
+    "neighbor_name": "TAŞOLUK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33418,
+    "neighbor_name": "TATLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33496,
+    "neighbor_name": "TEKKEDERE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33481,
+    "neighbor_name": "TETEMEÇELE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33486,
+    "neighbor_name": "TOKMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33403,
+    "neighbor_name": "TOPARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33458,
+    "neighbor_name": "ULUMESCİT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33419,
+    "neighbor_name": "VAKIFGEÇİTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33434,
+    "neighbor_name": "YAKABAYAT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33413,
+    "neighbor_name": "YAKUPLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33523,
+    "neighbor_name": "YAYLADINLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33524,
+    "neighbor_name": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33435,
+    "neighbor_name": "YENİAKÇAKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33431,
+    "neighbor_name": "YENİCEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33399,
+    "neighbor_name": "YENİÇAYDURT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33535,
+    "neighbor_name": "YENİGEÇİTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33518,
+    "neighbor_name": "YENİGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33407,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33526,
+    "neighbor_name": "YENİPELİTCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33451,
+    "neighbor_name": "YENİSEFA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33511,
+    "neighbor_name": "YEŞİLÇELE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33414,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33488,
+    "neighbor_name": "YOLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33500,
+    "neighbor_name": "YUKARIÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33469,
+    "neighbor_name": "YUMRUKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 675,
+    "district_name": "BOLU MERKEZ",
+    "neighbor_id": 33425,
+    "neighbor_name": "YUVA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33122,
+    "neighbor_name": "ADAKINIK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33117,
+    "neighbor_name": "BAYRAMLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33120,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33127,
+    "neighbor_name": "ÇİTLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33132,
+    "neighbor_name": "DEVECİLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33115,
+    "neighbor_name": "HACETLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33138,
+    "neighbor_name": "KADILAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33129,
+    "neighbor_name": "KARGIBAYRAMLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33123,
+    "neighbor_name": "ADAKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33114,
+    "neighbor_name": "AŞAĞIDÜĞER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33128,
+    "neighbor_name": "AŞAĞISAYIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33140,
+    "neighbor_name": "BÜNÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33141,
+    "neighbor_name": "CEMALLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33125,
+    "neighbor_name": "ÇALKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33126,
+    "neighbor_name": "ÇARDAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33121,
+    "neighbor_name": "ÇETİKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33118,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33135,
+    "neighbor_name": "DÜLGER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33136,
+    "neighbor_name": "GÖBÜLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33137,
+    "neighbor_name": "GÜCÜKLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33130,
+    "neighbor_name": "KILIÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33133,
+    "neighbor_name": "KURUCA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33116,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33145,
+    "neighbor_name": "ÖMERPAŞALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33142,
+    "neighbor_name": "SEYİTALİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33139,
+    "neighbor_name": "SORKUN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33134,
+    "neighbor_name": "SÜLELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33119,
+    "neighbor_name": "YAĞBAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33143,
+    "neighbor_name": "YALACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33131,
+    "neighbor_name": "YAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33124,
+    "neighbor_name": "YUKARIDÜĞER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 670,
+    "district_name": "DÖRTDİVAN",
+    "neighbor_id": 33144,
+    "neighbor_name": "YUKARISAYIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33635,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33599,
+    "neighbor_name": "DAYIOĞLU MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33629,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33658,
+    "neighbor_name": "KABİLLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33662,
+    "neighbor_name": "KİTİRLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33654,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33620,
+    "neighbor_name": "SEVİLLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33685,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33682,
+    "neighbor_name": "AFŞARTARAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33621,
+    "neighbor_name": "AĞIZÖRENGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33692,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33683,
+    "neighbor_name": "AKBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33676,
+    "neighbor_name": "AKÇABEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33677,
+    "neighbor_name": "AKÇAŞEHİR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33627,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33628,
+    "neighbor_name": "AKTAŞKURTLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33646,
+    "neighbor_name": "ASMACA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33687,
+    "neighbor_name": "AŞAĞIOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33598,
+    "neighbor_name": "AŞAĞIÖRENBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33642,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33674,
+    "neighbor_name": "BAHÇEDERE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33693,
+    "neighbor_name": "BALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33678,
+    "neighbor_name": "BEŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33643,
+    "neighbor_name": "BİRİNCİAFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33636,
+    "neighbor_name": "BÜNÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33655,
+    "neighbor_name": "ÇAĞIŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33611,
+    "neighbor_name": "ÇALAMAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33604,
+    "neighbor_name": "ÇALIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33690,
+    "neighbor_name": "ÇAYÖRENGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33618,
+    "neighbor_name": "ÇAYÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33673,
+    "neighbor_name": "ÇOĞULLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33668,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33665,
+    "neighbor_name": "DAĞKARA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33675,
+    "neighbor_name": "DANİŞMENTLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33615,
+    "neighbor_name": "DAVUTBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33666,
+    "neighbor_name": "DEMİRCİSOPRAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33671,
+    "neighbor_name": "DEMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33659,
+    "neighbor_name": "DİKMEN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33630,
+    "neighbor_name": "DURSUNFAKI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33647,
+    "neighbor_name": "ELÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33594,
+    "neighbor_name": "ENSELİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33622,
+    "neighbor_name": "ERTUĞRULKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33679,
+    "neighbor_name": "EYMÜR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33595,
+    "neighbor_name": "GEÇİTLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33623,
+    "neighbor_name": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33652,
+    "neighbor_name": "GÜNEYDEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33624,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33606,
+    "neighbor_name": "HALAÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33657,
+    "neighbor_name": "HASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33616,
+    "neighbor_name": "HAVULLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33631,
+    "neighbor_name": "IBRICAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33686,
+    "neighbor_name": "İKİNCİAFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33691,
+    "neighbor_name": "İMAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33651,
+    "neighbor_name": "İNKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33680,
+    "neighbor_name": "KALAÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33653,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33660,
+    "neighbor_name": "KARACADAĞDEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33612,
+    "neighbor_name": "KARACADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33681,
+    "neighbor_name": "KARAPAZAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33632,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33625,
+    "neighbor_name": "KAYIKİRAZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33672,
+    "neighbor_name": "KAYISOPRAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33607,
+    "neighbor_name": "KAZANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33661,
+    "neighbor_name": "KOÇUMLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33688,
+    "neighbor_name": "KÖSRELİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33640,
+    "neighbor_name": "KÜLEF KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33600,
+    "neighbor_name": "KÜRKÇÜLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33633,
+    "neighbor_name": "MACARLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33626,
+    "neighbor_name": "MANGALLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33614,
+    "neighbor_name": "MİRCEKİRAZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33648,
+    "neighbor_name": "MUKAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33644,
+    "neighbor_name": "MURATFAKILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33663,
+    "neighbor_name": "MÜRDÜKLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33649,
+    "neighbor_name": "NUHÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33613,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33605,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33634,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33645,
+    "neighbor_name": "SAMAT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33608,
+    "neighbor_name": "SAPANLIURGANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33619,
+    "neighbor_name": "SARIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33609,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33664,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33601,
+    "neighbor_name": "SUNGURLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33602,
+    "neighbor_name": "SÜLLERTOKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33669,
+    "neighbor_name": "TATLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33641,
+    "neighbor_name": "ULAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33656,
+    "neighbor_name": "ÜMİTKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33684,
+    "neighbor_name": "YAĞDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33638,
+    "neighbor_name": "YAKABOY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33617,
+    "neighbor_name": "YAKAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33610,
+    "neighbor_name": "YAZIKARA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33603,
+    "neighbor_name": "YAZIKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33596,
+    "neighbor_name": "YELKENLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33639,
+    "neighbor_name": "YENECİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33597,
+    "neighbor_name": "YENİYAPAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33670,
+    "neighbor_name": "YEŞİLVADİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33689,
+    "neighbor_name": "YUKARIOVACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33650,
+    "neighbor_name": "YUKARIÖRENBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33637,
+    "neighbor_name": "YUNUSLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 678,
+    "district_name": "GEREDE",
+    "neighbor_id": 33667,
+    "neighbor_name": "ZEYNELLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33190,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33203,
+    "neighbor_name": "ÇEŞME MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33208,
+    "neighbor_name": "HACI ABDİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33201,
+    "neighbor_name": "KEPKEBİR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33180,
+    "neighbor_name": "SOFU ALİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33202,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33164,
+    "neighbor_name": "AHMETBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33152,
+    "neighbor_name": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33155,
+    "neighbor_name": "AKSAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33165,
+    "neighbor_name": "ALANKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33159,
+    "neighbor_name": "ARIKÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33172,
+    "neighbor_name": "ARIZLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33214,
+    "neighbor_name": "AŞAĞIKINIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33153,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33181,
+    "neighbor_name": "BEKİRFAKILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33206,
+    "neighbor_name": "BOYACILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33173,
+    "neighbor_name": "BOZCAARMUT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33160,
+    "neighbor_name": "BÖLÜCEKOVA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33199,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33211,
+    "neighbor_name": "CEYLANLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33146,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33162,
+    "neighbor_name": "ÇAPAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33193,
+    "neighbor_name": "ÇATACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33213,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33186,
+    "neighbor_name": "ÇAYLAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33163,
+    "neighbor_name": "ÇUBUKKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33194,
+    "neighbor_name": "DAĞHACILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33215,
+    "neighbor_name": "DAĞŞEYHLERİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33207,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33182,
+    "neighbor_name": "DEĞİRMENÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33187,
+    "neighbor_name": "DEMİRHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33154,
+    "neighbor_name": "EKİNCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33147,
+    "neighbor_name": "GERİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33212,
+    "neighbor_name": "GÖKÇESARAY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33216,
+    "neighbor_name": "GÜNEYÇALICA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33183,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33166,
+    "neighbor_name": "HACIMAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33174,
+    "neighbor_name": "HASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33184,
+    "neighbor_name": "HİLALLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33195,
+    "neighbor_name": "HİMMETOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33167,
+    "neighbor_name": "HİSARÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33179,
+    "neighbor_name": "İBRAHİMÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33209,
+    "neighbor_name": "KARAALİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33175,
+    "neighbor_name": "KARAARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33200,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33176,
+    "neighbor_name": "KAŞIKÇIŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33210,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33204,
+    "neighbor_name": "KAYALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33205,
+    "neighbor_name": "KILAVUZLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33196,
+    "neighbor_name": "KIZILKUYU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33185,
+    "neighbor_name": "KİLCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33169,
+    "neighbor_name": "KOZCAĞIZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33191,
+    "neighbor_name": "KÖYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33156,
+    "neighbor_name": "KUMCUK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33157,
+    "neighbor_name": "KUYUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33217,
+    "neighbor_name": "KÜRNÜÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33188,
+    "neighbor_name": "MEMECELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33170,
+    "neighbor_name": "MUSTANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33177,
+    "neighbor_name": "NARZANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33158,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33192,
+    "neighbor_name": "PELİTCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33148,
+    "neighbor_name": "SARICALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33197,
+    "neighbor_name": "SARILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33149,
+    "neighbor_name": "SOĞUKÇAM KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33178,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33150,
+    "neighbor_name": "SÜNNET KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33189,
+    "neighbor_name": "TEKİRLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33171,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33198,
+    "neighbor_name": "UMURLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33151,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33168,
+    "neighbor_name": "YEŞİLYAZI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 671,
+    "district_name": "GÖYNÜK",
+    "neighbor_id": 33161,
+    "neighbor_name": "YUKARIKINIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33562,
+    "neighbor_name": "KARADOĞAN MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33556,
+    "neighbor_name": "KÖROĞLU MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33551,
+    "neighbor_name": "ALANHİMMETLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33552,
+    "neighbor_name": "ALEMDAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33539,
+    "neighbor_name": "BALI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33545,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33546,
+    "neighbor_name": "BORUCAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33558,
+    "neighbor_name": "BÖLÜCEKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33544,
+    "neighbor_name": "ÇÖKELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33553,
+    "neighbor_name": "DEVECİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33559,
+    "neighbor_name": "DEVEÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33540,
+    "neighbor_name": "DOKUMACILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33560,
+    "neighbor_name": "GERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33561,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33547,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33541,
+    "neighbor_name": "KILKARA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33548,
+    "neighbor_name": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33542,
+    "neighbor_name": "KÖKEZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33555,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33554,
+    "neighbor_name": "KUZCA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33543,
+    "neighbor_name": "NADAS KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33550,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33549,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 676,
+    "district_name": "KIBRISCIK",
+    "neighbor_id": 33557,
+    "neighbor_name": "YAZICA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33265,
+    "neighbor_name": "BEŞLER MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33219,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33241,
+    "neighbor_name": "TABAKLAR YAZIYAKA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33249,
+    "neighbor_name": "TÜRKBEYLİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33260,
+    "neighbor_name": "GÖKÇESU-ADASAL MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33234,
+    "neighbor_name": "GÖKÇESU-ATATÜRK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33261,
+    "neighbor_name": "GÖKÇESU-ÇAKIRLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33255,
+    "neighbor_name": "GÖKÇESU-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33218,
+    "neighbor_name": "AFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33254,
+    "neighbor_name": "AĞACALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33253,
+    "neighbor_name": "AĞALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33232,
+    "neighbor_name": "AKÇAKOCA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33248,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33257,
+    "neighbor_name": "AKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33281,
+    "neighbor_name": "ALİBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33244,
+    "neighbor_name": "ARAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33266,
+    "neighbor_name": "BABAHIZIR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33237,
+    "neighbor_name": "BANAZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33228,
+    "neighbor_name": "BAŞYELLİCE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33276,
+    "neighbor_name": "BÖLÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33258,
+    "neighbor_name": "BÜRNÜK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33256,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33226,
+    "neighbor_name": "ÇIRDAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33263,
+    "neighbor_name": "ÇORAKKADİRLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33267,
+    "neighbor_name": "ÇORAKMITIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33243,
+    "neighbor_name": "ÇUBUK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33252,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33233,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33227,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33277,
+    "neighbor_name": "DÜZAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33245,
+    "neighbor_name": "DÜZKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33238,
+    "neighbor_name": "ELEMEN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33259,
+    "neighbor_name": "EMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33278,
+    "neighbor_name": "GÖZECİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33279,
+    "neighbor_name": "GÜNEYGÖKÇESU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33229,
+    "neighbor_name": "HACIAHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33268,
+    "neighbor_name": "HAYRANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33264,
+    "neighbor_name": "İLYASLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33222,
+    "neighbor_name": "KADILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33251,
+    "neighbor_name": "KADISUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33262,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33230,
+    "neighbor_name": "KARAİSHAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33221,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33250,
+    "neighbor_name": "KARAŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33239,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33246,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33231,
+    "neighbor_name": "KAYABÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33275,
+    "neighbor_name": "KAYIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33269,
+    "neighbor_name": "KIYASLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33223,
+    "neighbor_name": "KONAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33235,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33224,
+    "neighbor_name": "KUZGÖL KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33247,
+    "neighbor_name": "KÜÇÜKKUZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33236,
+    "neighbor_name": "MAMATLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33270,
+    "neighbor_name": "NAZIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33271,
+    "neighbor_name": "PAZARKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33240,
+    "neighbor_name": "RÜKNETTİN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33272,
+    "neighbor_name": "SARIKADILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33220,
+    "neighbor_name": "SAZLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33274,
+    "neighbor_name": "ŞAHBAZLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33225,
+    "neighbor_name": "TEBERİKLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33273,
+    "neighbor_name": "TURNA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33280,
+    "neighbor_name": "YELLİCEDEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 672,
+    "district_name": "MENGEN",
+    "neighbor_id": 33242,
+    "neighbor_name": "YUMRUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33299,
+    "neighbor_name": "BÜYÜKCAMİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33305,
+    "neighbor_name": "HIZIRFAKI MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33350,
+    "neighbor_name": "KARACAKAYA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33325,
+    "neighbor_name": "KAYGANA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33322,
+    "neighbor_name": "MUSALLA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33363,
+    "neighbor_name": "SEYRANCIK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33287,
+    "neighbor_name": "YILDIRIM BAYAZID MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33336,
+    "neighbor_name": "TAŞKESTİ-KARACASUMANDIRA MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33312,
+    "neighbor_name": "TAŞKESTİ-KARAÇOMAK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33296,
+    "neighbor_name": "TAŞKESTİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33337,
+    "neighbor_name": "TAŞKESTİ-TOSUNLAR MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33307,
+    "neighbor_name": "TAŞKESTİ-YEĞENDERESİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33304,
+    "neighbor_name": "AKYOKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33331,
+    "neighbor_name": "ALPAGUT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33298,
+    "neighbor_name": "AVDULLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33309,
+    "neighbor_name": "BEKDEMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33332,
+    "neighbor_name": "BEYDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33359,
+    "neighbor_name": "BOSTANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33341,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33352,
+    "neighbor_name": "CUMA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33297,
+    "neighbor_name": "ÇAĞŞAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33327,
+    "neighbor_name": "ÇAMURLUK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33358,
+    "neighbor_name": "ÇAMYURDU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33338,
+    "neighbor_name": "ÇAVUŞDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33288,
+    "neighbor_name": "ÇEPNİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33339,
+    "neighbor_name": "ÇEVRELİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33353,
+    "neighbor_name": "DAĞYOLU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33310,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33354,
+    "neighbor_name": "DELİCE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33321,
+    "neighbor_name": "DEREÇETİNÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33355,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33333,
+    "neighbor_name": "DODURGA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33360,
+    "neighbor_name": "DOLAYÜZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33316,
+    "neighbor_name": "EKİNÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33334,
+    "neighbor_name": "ELMACIKDERE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33282,
+    "neighbor_name": "ESENKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33289,
+    "neighbor_name": "FERÜZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33293,
+    "neighbor_name": "FINDICAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33335,
+    "neighbor_name": "GELİNÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33317,
+    "neighbor_name": "GÖKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33328,
+    "neighbor_name": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33361,
+    "neighbor_name": "GÖLLÜÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33300,
+    "neighbor_name": "GÖNCEK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33301,
+    "neighbor_name": "GÜRÇAM KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33356,
+    "neighbor_name": "GÜVEYTEPE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33283,
+    "neighbor_name": "HACIHALİMLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33349,
+    "neighbor_name": "HACIMUSALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33285,
+    "neighbor_name": "HÜSAMETTİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33329,
+    "neighbor_name": "ILICA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33284,
+    "neighbor_name": "İĞNECİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33342,
+    "neighbor_name": "KACIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33362,
+    "neighbor_name": "KARAMURAT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33346,
+    "neighbor_name": "KARAPINARKAVAĞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33294,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33290,
+    "neighbor_name": "KARŞIKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33302,
+    "neighbor_name": "KAVALLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33306,
+    "neighbor_name": "KEÇİKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33330,
+    "neighbor_name": "KİLÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33314,
+    "neighbor_name": "KOVUCAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33343,
+    "neighbor_name": "KURTLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33291,
+    "neighbor_name": "MANGIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33318,
+    "neighbor_name": "MUNDUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33347,
+    "neighbor_name": "ORDULAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33344,
+    "neighbor_name": "ORMANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33345,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33313,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33319,
+    "neighbor_name": "PELİTÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33323,
+    "neighbor_name": "SAMAT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33292,
+    "neighbor_name": "SAMSAÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33320,
+    "neighbor_name": "SARIYAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33315,
+    "neighbor_name": "SARPINCIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33340,
+    "neighbor_name": "SIRÇALI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33351,
+    "neighbor_name": "SÜRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33311,
+    "neighbor_name": "TAŞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33295,
+    "neighbor_name": "TAVŞANSUYU KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33308,
+    "neighbor_name": "TIMARAKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33348,
+    "neighbor_name": "UĞURLUALAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33286,
+    "neighbor_name": "UZUNÇAM KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33326,
+    "neighbor_name": "VAKIFAKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33303,
+    "neighbor_name": "YAYLABELİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33324,
+    "neighbor_name": "YAZILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 673,
+    "district_name": "MUDURNU",
+    "neighbor_id": 33357,
+    "neighbor_name": "YENİCEŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33575,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33588,
+    "neighbor_name": "KESKİNLİ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33576,
+    "neighbor_name": "ALPAGUT KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33592,
+    "neighbor_name": "BAKIRLI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33567,
+    "neighbor_name": "BOZYER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33563,
+    "neighbor_name": "ÇELTİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33568,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33573,
+    "neighbor_name": "DEĞİRMENKAYA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33572,
+    "neighbor_name": "DEREBOY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33584,
+    "neighbor_name": "EKİCİLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33585,
+    "neighbor_name": "GERENÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33564,
+    "neighbor_name": "GÖKHALİLLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33593,
+    "neighbor_name": "GÜNEYCE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33589,
+    "neighbor_name": "HACCAĞIZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33569,
+    "neighbor_name": "HOÇAŞ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33570,
+    "neighbor_name": "KABAK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33587,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33565,
+    "neighbor_name": "KAŞBIYIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33577,
+    "neighbor_name": "KESENÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33580,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33590,
+    "neighbor_name": "KORUCUK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33591,
+    "neighbor_name": "KOZYAKA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33581,
+    "neighbor_name": "KUZGÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33586,
+    "neighbor_name": "MUSASOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33566,
+    "neighbor_name": "NİMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33578,
+    "neighbor_name": "SOLAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33579,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33574,
+    "neighbor_name": "TAZILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33582,
+    "neighbor_name": "TEPE KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33583,
+    "neighbor_name": "YAĞMA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 677,
+    "district_name": "SEBEN",
+    "neighbor_id": 33571,
+    "neighbor_name": "YUVA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33366,
+    "neighbor_name": "ASİL BEY MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33364,
+    "neighbor_name": "CAMİATİK MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33369,
+    "neighbor_name": "GÖLYÜZÜ MAH."
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33379,
+    "neighbor_name": "ADAKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33380,
+    "neighbor_name": "AKINCILAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33381,
+    "neighbor_name": "AŞAĞIKULDAN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33370,
+    "neighbor_name": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33367,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33382,
+    "neighbor_name": "DOĞANCI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33368,
+    "neighbor_name": "ESKİÇAĞA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33373,
+    "neighbor_name": "GÖLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33365,
+    "neighbor_name": "HAMZABEY KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33374,
+    "neighbor_name": "KEMALLER KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33375,
+    "neighbor_name": "KINDIRA KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33371,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33377,
+    "neighbor_name": "SARAYKÖY"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33372,
+    "neighbor_name": "ŞAHNALAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33378,
+    "neighbor_name": "YAMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 51,
+    "city_name": "BOLU",
+    "district_id": 674,
+    "district_name": "YENİÇAĞA",
+    "neighbor_id": 33376,
+    "neighbor_name": "YUKARIKULDAN KÖYÜ"
+  }
+]

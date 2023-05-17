@@ -1,0 +1,2930 @@
+[
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32637,
+    "neighbor_name": "BAĞLIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32638,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32632,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32634,
+    "neighbor_name": "FEVZİ PAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32635,
+    "neighbor_name": "GAZİ MUSTAFA KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32633,
+    "neighbor_name": "GAZİ OSMAN PAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32631,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 49554,
+    "neighbor_name": "KIZILPINAR ATATÜRK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 49612,
+    "neighbor_name": "KIZILPINAR GÜLTEPE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 49790,
+    "neighbor_name": "KIZILPINAR NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32629,
+    "neighbor_name": "VELİKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 654,
+    "district_name": "ÇERKEZKÖY",
+    "neighbor_id": 32630,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32779,
+    "neighbor_name": "CEMALİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32767,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32781,
+    "neighbor_name": "HATİP MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32760,
+    "neighbor_name": "HIDIRAĞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32769,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32782,
+    "neighbor_name": "KAZIMİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32774,
+    "neighbor_name": "KEMALETTİN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32761,
+    "neighbor_name": "NUSRATİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32773,
+    "neighbor_name": "ÖNERLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32772,
+    "neighbor_name": "SARILAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32762,
+    "neighbor_name": "SİLAHTARAĞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32778,
+    "neighbor_name": "ŞEYHSİNAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32766,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32759,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32765,
+    "neighbor_name": "ÇOBANÇEŞME MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32780,
+    "neighbor_name": "DEREGÜNDÜZLÜ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32768,
+    "neighbor_name": "HAVUZLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32783,
+    "neighbor_name": "MAKSUTLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32775,
+    "neighbor_name": "MUHİTTİN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32770,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32771,
+    "neighbor_name": "RUMELİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32784,
+    "neighbor_name": "SEYMEN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32777,
+    "neighbor_name": "ŞAHPAZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32763,
+    "neighbor_name": "TÜRKGÜCÜ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32764,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 659,
+    "district_name": "ÇORLU",
+    "neighbor_id": 32776,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32676,
+    "neighbor_name": "AHİMEHMET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32677,
+    "neighbor_name": "BAKIRCA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32685,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32673,
+    "neighbor_name": "ESENLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32684,
+    "neighbor_name": "İĞNELER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32671,
+    "neighbor_name": "KARAMEHMET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32686,
+    "neighbor_name": "KIRKGÖZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32674,
+    "neighbor_name": "MARMARACIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32681,
+    "neighbor_name": "MİSİNLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32679,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32682,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32672,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32680,
+    "neighbor_name": "ULAŞ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32670,
+    "neighbor_name": "VAKIFLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32683,
+    "neighbor_name": "VELİMEŞE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32678,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 656,
+    "district_name": "ERGENE",
+    "neighbor_id": 32675,
+    "neighbor_name": "YULAFLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32730,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32731,
+    "neighbor_name": "AVLUOBASI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32723,
+    "neighbor_name": "AYDINEVLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32737,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32724,
+    "neighbor_name": "BAYRAMŞAH MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32715,
+    "neighbor_name": "BUZAĞCI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32725,
+    "neighbor_name": "BÜYÜKKARAKARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32726,
+    "neighbor_name": "CAMBAZDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32716,
+    "neighbor_name": "CANHIDIR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32707,
+    "neighbor_name": "ÇENE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32702,
+    "neighbor_name": "ÇERKEZMÜSELLİM MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32697,
+    "neighbor_name": "ÇIKRIKÇI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32717,
+    "neighbor_name": "DAMBASLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32693,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32738,
+    "neighbor_name": "DELİBEDİR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32698,
+    "neighbor_name": "DUĞCALI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32708,
+    "neighbor_name": "EMİRYAKUP MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32732,
+    "neighbor_name": "FAHRİOĞLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32699,
+    "neighbor_name": "HACILLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32710,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32727,
+    "neighbor_name": "HEDEYLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32694,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32703,
+    "neighbor_name": "İLYAS MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32736,
+    "neighbor_name": "İSMAİLLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32687,
+    "neighbor_name": "KABAHÖYÜK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32711,
+    "neighbor_name": "KADRİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32704,
+    "neighbor_name": "KAHYA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32728,
+    "neighbor_name": "KANDAMIŞ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32733,
+    "neighbor_name": "KARABABA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32705,
+    "neighbor_name": "KARABÜRÇEK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32734,
+    "neighbor_name": "KARAKAVAK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32712,
+    "neighbor_name": "KARAYAHŞİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32709,
+    "neighbor_name": "KEMALLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32718,
+    "neighbor_name": "KILIÇLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32700,
+    "neighbor_name": "KURTDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32713,
+    "neighbor_name": "KUTLUGÜN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32706,
+    "neighbor_name": "KÜÇÜKKARAKARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32695,
+    "neighbor_name": "LAHNA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32719,
+    "neighbor_name": "MUZRUPLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32692,
+    "neighbor_name": "ÖREY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32721,
+    "neighbor_name": "ÖVENLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32735,
+    "neighbor_name": "PARMAKSIZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32688,
+    "neighbor_name": "SOYLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32720,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32701,
+    "neighbor_name": "SUSUZMÜSELLİM MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32722,
+    "neighbor_name": "ŞALGAMLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32689,
+    "neighbor_name": "TATARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32690,
+    "neighbor_name": "TEMREZLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32691,
+    "neighbor_name": "UMURBEY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32729,
+    "neighbor_name": "UMURÇU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32714,
+    "neighbor_name": "YÖRGÜÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 657,
+    "district_name": "HAYRABOLU",
+    "neighbor_id": 32696,
+    "neighbor_name": "YÖRÜKLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32792,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32789,
+    "neighbor_name": "BAHÇEAĞIL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32785,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32790,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32796,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32788,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32791,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32793,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32786,
+    "neighbor_name": "KARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32794,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32797,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32798,
+    "neighbor_name": "PINARCA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32795,
+    "neighbor_name": "UZUNHACI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 660,
+    "district_name": "KAPAKLI",
+    "neighbor_id": 32787,
+    "neighbor_name": "YANIKAĞIL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32493,
+    "neighbor_name": "AHİEVREN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32516,
+    "neighbor_name": "AHMETPAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32530,
+    "neighbor_name": "AKSAKAL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32486,
+    "neighbor_name": "ALAYBEY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32483,
+    "neighbor_name": "ALLIIŞIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32468,
+    "neighbor_name": "BAĞPINARI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32501,
+    "neighbor_name": "BALABANCIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32476,
+    "neighbor_name": "BALLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32524,
+    "neighbor_name": "BALLISÜLE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32475,
+    "neighbor_name": "BATKIN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32464,
+    "neighbor_name": "BAYRAMTEPE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32457,
+    "neighbor_name": "CAMİ ATİK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32462,
+    "neighbor_name": "ÇAVUŞKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32463,
+    "neighbor_name": "ÇINARALTI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32492,
+    "neighbor_name": "ÇINARLIDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32517,
+    "neighbor_name": "ÇİMENDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32477,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32470,
+    "neighbor_name": "DAVUTELİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32458,
+    "neighbor_name": "DELİLLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32455,
+    "neighbor_name": "DEMİRCİLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32509,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32506,
+    "neighbor_name": "DEVECİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32518,
+    "neighbor_name": "DEVELİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32489,
+    "neighbor_name": "DOĞANKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32459,
+    "neighbor_name": "DOLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32525,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32519,
+    "neighbor_name": "EMİRALİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32469,
+    "neighbor_name": "ESENDİK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32494,
+    "neighbor_name": "EVRENBEY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32478,
+    "neighbor_name": "GAZİBEY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32502,
+    "neighbor_name": "GÖNENCE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32495,
+    "neighbor_name": "GÖZSÜZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32508,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32466,
+    "neighbor_name": "HACIEVHAT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32510,
+    "neighbor_name": "HACISUNGUR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32496,
+    "neighbor_name": "HALIÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32520,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32490,
+    "neighbor_name": "HEMİT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32497,
+    "neighbor_name": "HEREKE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32526,
+    "neighbor_name": "IZGAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32485,
+    "neighbor_name": "İBRİBEY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32523,
+    "neighbor_name": "İBRİCE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32482,
+    "neighbor_name": "İSHAKÇA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32511,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32527,
+    "neighbor_name": "KALAYCI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32512,
+    "neighbor_name": "KARACAGÜR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32456,
+    "neighbor_name": "KARACAHALİL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32479,
+    "neighbor_name": "KARAİĞDEMİR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32454,
+    "neighbor_name": "KARAMURAT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32513,
+    "neighbor_name": "KAVAKÇEŞME MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32471,
+    "neighbor_name": "KERMEYAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32488,
+    "neighbor_name": "KIRIKALİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32503,
+    "neighbor_name": "KİREMİTLİK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32484,
+    "neighbor_name": "KOZYÖRÜK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32528,
+    "neighbor_name": "KUYUCU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32514,
+    "neighbor_name": "KÜÇÜKHIDIR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32487,
+    "neighbor_name": "KÜRTÜLLÜ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32498,
+    "neighbor_name": "MESTANLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32499,
+    "neighbor_name": "MÜSTECEP MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32507,
+    "neighbor_name": "PİRİNÇÇEŞME MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32515,
+    "neighbor_name": "SAĞLAMTAŞ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32472,
+    "neighbor_name": "SARIPOLAT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32467,
+    "neighbor_name": "SARIYAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32491,
+    "neighbor_name": "SARNIÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32473,
+    "neighbor_name": "SIRTBEY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32465,
+    "neighbor_name": "ŞAHİN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32521,
+    "neighbor_name": "TEKKEKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32474,
+    "neighbor_name": "TETEKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32504,
+    "neighbor_name": "VAKIFİĞDEMİR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32460,
+    "neighbor_name": "YAYLAGÖNE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32480,
+    "neighbor_name": "YAYLAKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32522,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32500,
+    "neighbor_name": "YENİDİBEK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32505,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32529,
+    "neighbor_name": "YILANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 32461,
+    "neighbor_name": "YÖRÜCEK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 651,
+    "district_name": "MALKARA",
+    "neighbor_id": 50925,
+    "neighbor_name": "YÖRÜK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32807,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32804,
+    "neighbor_name": "CEDİT ALİ PAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32803,
+    "neighbor_name": "ÇEŞMELİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32805,
+    "neighbor_name": "DEREAĞZI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32799,
+    "neighbor_name": "KAMARADERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32800,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32808,
+    "neighbor_name": "SULTANKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32801,
+    "neighbor_name": "TÜRKMENLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32802,
+    "neighbor_name": "YAKUPLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 661,
+    "district_name": "MARMARAEREĞLİSİ",
+    "neighbor_id": 32806,
+    "neighbor_name": "YENİÇİFTLİK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32746,
+    "neighbor_name": "ARZULU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32750,
+    "neighbor_name": "AŞAĞISEVİNDİKLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32757,
+    "neighbor_name": "AYDINKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32758,
+    "neighbor_name": "BALABANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32739,
+    "neighbor_name": "BALLIHOCA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32755,
+    "neighbor_name": "ÇEVRİMKAYA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32751,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32752,
+    "neighbor_name": "HANOĞLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32749,
+    "neighbor_name": "İNANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32756,
+    "neighbor_name": "İSTİKLAL KURTPINAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32747,
+    "neighbor_name": "KAZIM DİRİK TURAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32753,
+    "neighbor_name": "KEPENEKLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32740,
+    "neighbor_name": "KIRKKEPENEKLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32754,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32741,
+    "neighbor_name": "MÜSELLİM MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32742,
+    "neighbor_name": "YAVAŞÇA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32743,
+    "neighbor_name": "YEŞİLSIRT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32748,
+    "neighbor_name": "YUKARISEVİNDİKLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32744,
+    "neighbor_name": "YUKARISIRT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 658,
+    "district_name": "MURATLI",
+    "neighbor_id": 32745,
+    "neighbor_name": "YURTBEKLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 50828,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32533,
+    "neighbor_name": "AYASPAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32545,
+    "neighbor_name": "AYVACIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 50813,
+    "neighbor_name": "AZİZİYE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32541,
+    "neighbor_name": "BAHÇEDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32546,
+    "neighbor_name": "BAHÇEKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32550,
+    "neighbor_name": "BEYAZKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 50842,
+    "neighbor_name": "BOZOBA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 50047,
+    "neighbor_name": "BÜYÜKYONCALI MERKEZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 50831,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32549,
+    "neighbor_name": "ÇAYLA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32544,
+    "neighbor_name": "ÇUKURYURT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32535,
+    "neighbor_name": "DEMİRLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32536,
+    "neighbor_name": "EDİRKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32537,
+    "neighbor_name": "GÖÇERLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32551,
+    "neighbor_name": "GÜNGÖRMEZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32552,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32553,
+    "neighbor_name": "KARABÜRÇEK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32554,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32542,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32538,
+    "neighbor_name": "KURTDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32531,
+    "neighbor_name": "KÜÇÜKYONCALI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32555,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32532,
+    "neighbor_name": "PAZARCIK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32539,
+    "neighbor_name": "SEFAALAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32547,
+    "neighbor_name": "SİNANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32540,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32548,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 652,
+    "district_name": "SARAY",
+    "neighbor_id": 32543,
+    "neighbor_name": "YUVALI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32647,
+    "neighbor_name": "AŞAĞIKALAMIŞ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32658,
+    "neighbor_name": "BEYOĞLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32654,
+    "neighbor_name": "BULGUR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32663,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32669,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32657,
+    "neighbor_name": "ÇENGELLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32648,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32660,
+    "neighbor_name": "ERİKLİCE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32642,
+    "neighbor_name": "GAZİKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32653,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32664,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32661,
+    "neighbor_name": "HOŞKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32659,
+    "neighbor_name": "İĞDEBAĞLARI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32640,
+    "neighbor_name": "İSHAKLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32646,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32665,
+    "neighbor_name": "KIZILCATERZİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32643,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32655,
+    "neighbor_name": "KOCAALİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32644,
+    "neighbor_name": "MURSALLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32656,
+    "neighbor_name": "MÜREFTE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32641,
+    "neighbor_name": "PALAMUT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32649,
+    "neighbor_name": "SOFUKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32662,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32650,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32667,
+    "neighbor_name": "UÇMAKDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32666,
+    "neighbor_name": "ULAMAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32651,
+    "neighbor_name": "YAYAAĞAÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32652,
+    "neighbor_name": "YAYAKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32639,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32645,
+    "neighbor_name": "YÖRGÜÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 655,
+    "district_name": "ŞARKÖY",
+    "neighbor_id": 32668,
+    "neighbor_name": "YUKARIKALAMIŞ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32560,
+    "neighbor_name": "100. YIL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32625,
+    "neighbor_name": "AHMEDİKLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32561,
+    "neighbor_name": "AHMETÇE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32608,
+    "neighbor_name": "AKÇAHALİL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32564,
+    "neighbor_name": "ALTINOVA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32619,
+    "neighbor_name": "ARAPHACI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32620,
+    "neighbor_name": "AŞAĞIKILIÇLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 50806,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32604,
+    "neighbor_name": "AVŞAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32609,
+    "neighbor_name": "AYDOĞDU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32626,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32599,
+    "neighbor_name": "BANARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32612,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32627,
+    "neighbor_name": "BIYIKALİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 50807,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32591,
+    "neighbor_name": "ÇANAKÇI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32567,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 49949,
+    "neighbor_name": "ÇİFTLİKÖNÜ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32575,
+    "neighbor_name": "DEDECİK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32613,
+    "neighbor_name": "DEĞİRMENALTI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32584,
+    "neighbor_name": "DEMİRLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32562,
+    "neighbor_name": "DOĞRUKARACAMURAT MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32585,
+    "neighbor_name": "ERTUĞRUL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32565,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32610,
+    "neighbor_name": "FERHADANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32576,
+    "neighbor_name": "GAZİOĞLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32589,
+    "neighbor_name": "GENERLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32601,
+    "neighbor_name": "GÜNDÜZLÜ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32586,
+    "neighbor_name": "GÜVEÇLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32605,
+    "neighbor_name": "HACIKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32602,
+    "neighbor_name": "HUSUNLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32621,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32580,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32607,
+    "neighbor_name": "İNECİK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 50868,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32628,
+    "neighbor_name": "KARABEZİRGAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32606,
+    "neighbor_name": "KARACAKILAVUZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32570,
+    "neighbor_name": "KARAÇALI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32614,
+    "neighbor_name": "KARADENİZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32611,
+    "neighbor_name": "KARAEVLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32590,
+    "neighbor_name": "KARAHALİL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32563,
+    "neighbor_name": "KARAHİSARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32569,
+    "neighbor_name": "KARANSILLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32577,
+    "neighbor_name": "KAŞIKÇI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32581,
+    "neighbor_name": "KAYI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32595,
+    "neighbor_name": "KAZANDERE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32582,
+    "neighbor_name": "KILAVUZLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32615,
+    "neighbor_name": "KINIKLAR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32571,
+    "neighbor_name": "KÖSEİLYAS MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32592,
+    "neighbor_name": "KUMBAĞ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32596,
+    "neighbor_name": "MAHRAMLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32623,
+    "neighbor_name": "NAİPKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32578,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32573,
+    "neighbor_name": "NUSRATFAKI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32593,
+    "neighbor_name": "NUSRATLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32598,
+    "neighbor_name": "OĞUZLU MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32556,
+    "neighbor_name": "ORMANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32574,
+    "neighbor_name": "ORTACA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 50805,
+    "neighbor_name": "ORTACAMİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32597,
+    "neighbor_name": "ORUÇBEYLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32583,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32566,
+    "neighbor_name": "OTMANLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32616,
+    "neighbor_name": "SELÇUK MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32557,
+    "neighbor_name": "SEMETLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32624,
+    "neighbor_name": "SEYMENLİ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32603,
+    "neighbor_name": "TAŞUMURCA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32558,
+    "neighbor_name": "TATARLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 50809,
+    "neighbor_name": "TOPAĞAÇ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 50833,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32594,
+    "neighbor_name": "YAĞCI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32579,
+    "neighbor_name": "YAVUZ MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32572,
+    "neighbor_name": "YAYABAŞI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32622,
+    "neighbor_name": "YAZIR MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32617,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32568,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32618,
+    "neighbor_name": "YUKARIKILIÇLI MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32587,
+    "neighbor_name": "YUVA MAH."
+  },
+  {
+    "city_id": 49,
+    "city_name": "TEKİRDAĞ",
+    "district_id": 653,
+    "district_name": "SÜLEYMANPAŞA",
+    "neighbor_id": 32559,
+    "neighbor_name": "ZAFER MAH."
+  }
+]

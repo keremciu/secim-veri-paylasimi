@@ -1,0 +1,4482 @@
+[
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35345,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35346,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35310,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35318,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35321,
+    "neighbor_name": "YENİ SİTELER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35325,
+    "neighbor_name": "GÜMELİ-ERENKÖY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35326,
+    "neighbor_name": "GÜMELİ-FINDIKLI AĞILI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35319,
+    "neighbor_name": "GÜMELİ-KALE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35316,
+    "neighbor_name": "GÜMELİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35336,
+    "neighbor_name": "AHATLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35298,
+    "neighbor_name": "AHİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35331,
+    "neighbor_name": "ALAPLIBÖLÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35304,
+    "neighbor_name": "ALAPLIKOCAALİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35332,
+    "neighbor_name": "ALAPLIORTACI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35333,
+    "neighbor_name": "ALAPLIÖMERLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35297,
+    "neighbor_name": "ALİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35314,
+    "neighbor_name": "AŞAĞIDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35329,
+    "neighbor_name": "AŞAĞIDOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35350,
+    "neighbor_name": "AŞAĞITEKKE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35349,
+    "neighbor_name": "AYDINYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35315,
+    "neighbor_name": "BEKTAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35305,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35299,
+    "neighbor_name": "BÜYÜKTEKKE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35323,
+    "neighbor_name": "CANBAZLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35340,
+    "neighbor_name": "ÇAMCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35313,
+    "neighbor_name": "ÇAMLIBEL KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35347,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35348,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35343,
+    "neighbor_name": "ÇENGELLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35352,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35324,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35300,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35306,
+    "neighbor_name": "DURHANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35307,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35337,
+    "neighbor_name": "GÖKHASAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35341,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35334,
+    "neighbor_name": "HACIHASAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35338,
+    "neighbor_name": "HALLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35317,
+    "neighbor_name": "HASANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35353,
+    "neighbor_name": "HÜSEYİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35344,
+    "neighbor_name": "İSAFAKILI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35342,
+    "neighbor_name": "KABALAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35327,
+    "neighbor_name": "KASIMLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35301,
+    "neighbor_name": "KILÇAK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35330,
+    "neighbor_name": "KIRAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35355,
+    "neighbor_name": "KOCAMAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35328,
+    "neighbor_name": "KÜÇÜKKAYMAZ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35320,
+    "neighbor_name": "KÜÇÜKTEKKE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35308,
+    "neighbor_name": "KÜRKÜKLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35309,
+    "neighbor_name": "MOLLABEY KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35302,
+    "neighbor_name": "MUSABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35322,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35356,
+    "neighbor_name": "ONURLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35351,
+    "neighbor_name": "OSMANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35335,
+    "neighbor_name": "SABIRLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35303,
+    "neighbor_name": "SARIKADI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35339,
+    "neighbor_name": "SOFULLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35357,
+    "neighbor_name": "YEDİGELLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35354,
+    "neighbor_name": "YENİDOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35311,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 705,
+    "district_name": "ALAPLI",
+    "neighbor_id": 35312,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35219,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35200,
+    "neighbor_name": "GEMİCİLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35207,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35188,
+    "neighbor_name": "KARALAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 50924,
+    "neighbor_name": "KARAMUSA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35194,
+    "neighbor_name": "PEHLİVANLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35231,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35285,
+    "neighbor_name": "VELİOĞLU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35267,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35192,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35275,
+    "neighbor_name": "FİLYOS-ABACIK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35287,
+    "neighbor_name": "FİLYOS-GERİŞ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35213,
+    "neighbor_name": "FİLYOS-HİSARÖNÜ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35209,
+    "neighbor_name": "FİLYOS-KOCAALİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35276,
+    "neighbor_name": "FİLYOS-ÖTEYÜZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35242,
+    "neighbor_name": "FİLYOS-SEFERCİK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35243,
+    "neighbor_name": "KARAPINAR-AŞAĞI ÇUKUR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35255,
+    "neighbor_name": "KARAPINAR-DURMUŞLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35198,
+    "neighbor_name": "KARAPINAR-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 49614,
+    "neighbor_name": "KARAPINAR-TİLKİLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35254,
+    "neighbor_name": "KARAPINAR-TORLAKLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35278,
+    "neighbor_name": "KARAPINAR-YUKARI ÇUKUR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35185,
+    "neighbor_name": "NEBİOĞLU-KARAEVLİGERİŞ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35193,
+    "neighbor_name": "NEBİOĞLU-TERZİLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35191,
+    "neighbor_name": "NEBİOĞLU-YENİ PAZAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35288,
+    "neighbor_name": "NEBİOĞLU-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35262,
+    "neighbor_name": "PERŞEMBE-HACI KADI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35217,
+    "neighbor_name": "PERŞEMBE-KEÇECİOĞLU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35244,
+    "neighbor_name": "PERŞEMBE-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35211,
+    "neighbor_name": "PERŞEMBE-SARI KADI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 49555,
+    "neighbor_name": "PERŞEMBE-YENİ MAHALLE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35249,
+    "neighbor_name": "SALTUKOVA-DÜZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35224,
+    "neighbor_name": "SALTUKOVA-KARBOĞAZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35237,
+    "neighbor_name": "SALTUKOVA-KOKAKSU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35251,
+    "neighbor_name": "SALTUKOVA-SARIKUM MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35252,
+    "neighbor_name": "ADAKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35240,
+    "neighbor_name": "AHATLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35234,
+    "neighbor_name": "AKÇAHATİPLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35269,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35186,
+    "neighbor_name": "AKYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35294,
+    "neighbor_name": "ALİKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35235,
+    "neighbor_name": "AŞAĞIİHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35295,
+    "neighbor_name": "AŞAĞISARMAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35187,
+    "neighbor_name": "AYVAZLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35236,
+    "neighbor_name": "BASAT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35296,
+    "neighbor_name": "BAŞARAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35226,
+    "neighbor_name": "BURUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35241,
+    "neighbor_name": "COBURLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35233,
+    "neighbor_name": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35225,
+    "neighbor_name": "ÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35220,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35263,
+    "neighbor_name": "ÇOMRANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35286,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35212,
+    "neighbor_name": "ÇÖMLEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35259,
+    "neighbor_name": "DAĞÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35208,
+    "neighbor_name": "DERECİKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35280,
+    "neighbor_name": "DEREKÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35265,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35245,
+    "neighbor_name": "DURSUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35221,
+    "neighbor_name": "EMİRŞAH KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35227,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35196,
+    "neighbor_name": "ESENLİK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35215,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35197,
+    "neighbor_name": "ESENYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35266,
+    "neighbor_name": "GERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35261,
+    "neighbor_name": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35290,
+    "neighbor_name": "GÖKÇETABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35277,
+    "neighbor_name": "GÜDÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35246,
+    "neighbor_name": "GÜZELOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35222,
+    "neighbor_name": "GÜZELYAKA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35229,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35228,
+    "neighbor_name": "HACIİBADİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35189,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35230,
+    "neighbor_name": "HACIOSMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35201,
+    "neighbor_name": "HELVACILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35264,
+    "neighbor_name": "İHSANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35182,
+    "neighbor_name": "KADIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35202,
+    "neighbor_name": "KAHVECİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35291,
+    "neighbor_name": "KALAFATLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35248,
+    "neighbor_name": "KALAYCIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35253,
+    "neighbor_name": "KARAAHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35272,
+    "neighbor_name": "KARAKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35256,
+    "neighbor_name": "KARAMUSA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35223,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35210,
+    "neighbor_name": "KAYIKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35216,
+    "neighbor_name": "KERİMLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35281,
+    "neighbor_name": "KIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35203,
+    "neighbor_name": "KIZILBEL KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35270,
+    "neighbor_name": "KORAMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35279,
+    "neighbor_name": "MADENLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35247,
+    "neighbor_name": "MUHARREMŞAH KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35271,
+    "neighbor_name": "MUHSİNLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35205,
+    "neighbor_name": "MUSAUSTA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35183,
+    "neighbor_name": "RAMAZANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35289,
+    "neighbor_name": "SANDALLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35190,
+    "neighbor_name": "SARMAŞIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35214,
+    "neighbor_name": "SAZKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35257,
+    "neighbor_name": "SERDAROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35283,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35184,
+    "neighbor_name": "ŞEHLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35260,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35204,
+    "neighbor_name": "ŞEYHOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35238,
+    "neighbor_name": "TAŞÇILI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35292,
+    "neighbor_name": "TEMENLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35284,
+    "neighbor_name": "TORLAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35206,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35195,
+    "neighbor_name": "VELİKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35273,
+    "neighbor_name": "YAKADEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35218,
+    "neighbor_name": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35239,
+    "neighbor_name": "YAZIKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35199,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35250,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35293,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35268,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35282,
+    "neighbor_name": "YOLGEÇEN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35274,
+    "neighbor_name": "YUKARIDERE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35258,
+    "neighbor_name": "YUKARIGÖYNÜK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 704,
+    "district_name": "ÇAYCUMA",
+    "neighbor_id": 35232,
+    "neighbor_name": "YUKARIİHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35412,
+    "neighbor_name": "AĞALAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35391,
+    "neighbor_name": "ESKİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35447,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35392,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35397,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35437,
+    "neighbor_name": "ÇAYDEĞİRMENİ-ÇAY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 49829,
+    "neighbor_name": "ÇAYDEĞİRMENİ-HÜMMETOĞLU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35433,
+    "neighbor_name": "ÇAYDEĞİRMENİ-KEMERLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35443,
+    "neighbor_name": "ÇAYDEĞİRMENİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 49734,
+    "neighbor_name": "ÇAYDEĞİRMENİ-RECEP TAYYİP ERDOĞAN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35389,
+    "neighbor_name": "ÇAYDEĞİRMENİ-YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35390,
+    "neighbor_name": "ADATEPE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35448,
+    "neighbor_name": "AHMETOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35377,
+    "neighbor_name": "AKÇABEY KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35363,
+    "neighbor_name": "AKÇASU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35438,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35423,
+    "neighbor_name": "ALPARSLAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35430,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35378,
+    "neighbor_name": "BAKIRCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35403,
+    "neighbor_name": "BAŞLARKADI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35449,
+    "neighbor_name": "BILIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35434,
+    "neighbor_name": "BÖLÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35404,
+    "neighbor_name": "BURHANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35364,
+    "neighbor_name": "BÜKKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35369,
+    "neighbor_name": "ÇAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35370,
+    "neighbor_name": "ÇOLAKPEHLİVAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35411,
+    "neighbor_name": "ÇOMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35444,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35382,
+    "neighbor_name": "DEDEOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35398,
+    "neighbor_name": "DEREBULACA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35383,
+    "neighbor_name": "DURUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35450,
+    "neighbor_name": "EĞERCİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35413,
+    "neighbor_name": "ERENLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35365,
+    "neighbor_name": "ERMEKOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35358,
+    "neighbor_name": "EVEYİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35399,
+    "neighbor_name": "GÜMÜŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35414,
+    "neighbor_name": "GÜRBÜZLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35439,
+    "neighbor_name": "GÜRÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35372,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35359,
+    "neighbor_name": "HALİLBEYOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35384,
+    "neighbor_name": "HATİPLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35379,
+    "neighbor_name": "HIŞIROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35406,
+    "neighbor_name": "HÜSEYİNÇAVUŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35441,
+    "neighbor_name": "İSABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35371,
+    "neighbor_name": "İSLAMKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35373,
+    "neighbor_name": "KABACA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35405,
+    "neighbor_name": "KARABAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35431,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35374,
+    "neighbor_name": "KARAKOÇLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35400,
+    "neighbor_name": "KOMŞULAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35401,
+    "neighbor_name": "KOZLUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35367,
+    "neighbor_name": "KOZLUGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35415,
+    "neighbor_name": "KOZLUKADI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35440,
+    "neighbor_name": "KURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35360,
+    "neighbor_name": "KUZCA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35424,
+    "neighbor_name": "MADENCİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35435,
+    "neighbor_name": "MAHMUTOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35385,
+    "neighbor_name": "MEKEKLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35425,
+    "neighbor_name": "MUMCUOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35394,
+    "neighbor_name": "MÜFETTİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35375,
+    "neighbor_name": "MÜSTAKİMLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35386,
+    "neighbor_name": "NİZAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35418,
+    "neighbor_name": "OĞUZHAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35402,
+    "neighbor_name": "OSMANBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35427,
+    "neighbor_name": "ÖZBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35366,
+    "neighbor_name": "ÖZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35393,
+    "neighbor_name": "ÖZYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35361,
+    "neighbor_name": "PELİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35432,
+    "neighbor_name": "PINARÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35419,
+    "neighbor_name": "PURTULOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35380,
+    "neighbor_name": "SABUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35387,
+    "neighbor_name": "SARNAZ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35368,
+    "neighbor_name": "SERDAROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35420,
+    "neighbor_name": "SEYİSOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35409,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35421,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35407,
+    "neighbor_name": "TABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35416,
+    "neighbor_name": "TAŞKESEN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35395,
+    "neighbor_name": "TELLİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35428,
+    "neighbor_name": "TOHUMLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35396,
+    "neighbor_name": "TOSUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35362,
+    "neighbor_name": "TÜRKMENOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35381,
+    "neighbor_name": "VELİBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35410,
+    "neighbor_name": "YAĞMURCA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35442,
+    "neighbor_name": "YASSIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35422,
+    "neighbor_name": "YAZICIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35436,
+    "neighbor_name": "YAZICIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35445,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35388,
+    "neighbor_name": "YEŞİLADA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35376,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35408,
+    "neighbor_name": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35426,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35429,
+    "neighbor_name": "YILANLICA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 706,
+    "district_name": "DEVREK",
+    "neighbor_id": 35417,
+    "neighbor_name": "YILANLICAKUZ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34933,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34935,
+    "neighbor_name": "BAĞLIK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34934,
+    "neighbor_name": "BALI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34936,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35002,
+    "neighbor_name": "BELENYENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34931,
+    "neighbor_name": "BÖLÜCEK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34925,
+    "neighbor_name": "DAĞLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35019,
+    "neighbor_name": "ELMA TEPE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34972,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34959,
+    "neighbor_name": "GÜLDERE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34994,
+    "neighbor_name": "HAMZAFAKILI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34961,
+    "neighbor_name": "KAVAKLIK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34941,
+    "neighbor_name": "KEPEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35020,
+    "neighbor_name": "KESTANECİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34963,
+    "neighbor_name": "KIRMACI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35017,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35016,
+    "neighbor_name": "KIYICAK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34955,
+    "neighbor_name": "KİRMANLI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34928,
+    "neighbor_name": "KOCAALİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34979,
+    "neighbor_name": "KORUBAŞI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34954,
+    "neighbor_name": "KÖSELER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35005,
+    "neighbor_name": "MURTAZA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34899,
+    "neighbor_name": "MÜFTÜ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34942,
+    "neighbor_name": "ORHANLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34999,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34910,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34968,
+    "neighbor_name": "SARIKOKMAZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34937,
+    "neighbor_name": "SÜLEYMANLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34897,
+    "neighbor_name": "TOPÇALI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34969,
+    "neighbor_name": "UZUNÇAYIR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34900,
+    "neighbor_name": "UZUNMEHMET MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34993,
+    "neighbor_name": "GÜLÜÇ-BEKYERİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34932,
+    "neighbor_name": "GÜLÜÇ-ÇENGEL MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34917,
+    "neighbor_name": "GÜLÜÇ-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34984,
+    "neighbor_name": "GÜLÜÇ-ÖRENCİK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34940,
+    "neighbor_name": "KANDİLLİ-ARMUTÇUK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34926,
+    "neighbor_name": "KANDİLLİ-GEYİKBELİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34946,
+    "neighbor_name": "KANDİLLİ-GÖKÇELER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34919,
+    "neighbor_name": "KANDİLLİ-ŞEHİTLİK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34907,
+    "neighbor_name": "KANDİLLİ-YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34991,
+    "neighbor_name": "ORMANLI-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35022,
+    "neighbor_name": "ORMANLI-SARIKAYA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34974,
+    "neighbor_name": "ORMANLI-SEYİT AHMETLİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34915,
+    "neighbor_name": "ORMANLI-SİNİTLİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34911,
+    "neighbor_name": "ABDİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35015,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35001,
+    "neighbor_name": "AKKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34976,
+    "neighbor_name": "ALACABÜK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34945,
+    "neighbor_name": "ALAPLISOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34939,
+    "neighbor_name": "ARTIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34982,
+    "neighbor_name": "ASARLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34913,
+    "neighbor_name": "AŞAĞIHOCALAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34977,
+    "neighbor_name": "AŞAĞIKAYALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34912,
+    "neighbor_name": "AYDIN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34971,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34986,
+    "neighbor_name": "BAKIRLIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34951,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34904,
+    "neighbor_name": "BAŞÖRENDOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34957,
+    "neighbor_name": "BAŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34914,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34987,
+    "neighbor_name": "CEMALLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34938,
+    "neighbor_name": "ÇAMLIBEL KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35031,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34901,
+    "neighbor_name": "ÇAYLIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34947,
+    "neighbor_name": "ÇEVLİK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34924,
+    "neighbor_name": "ÇİĞDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34898,
+    "neighbor_name": "ÇÖMLEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34895,
+    "neighbor_name": "DAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35009,
+    "neighbor_name": "DANİŞMENTLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35007,
+    "neighbor_name": "DAVUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34978,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34905,
+    "neighbor_name": "DÜZPELİT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35003,
+    "neighbor_name": "ELMACI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34896,
+    "neighbor_name": "EMİRALİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34988,
+    "neighbor_name": "ESENKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34989,
+    "neighbor_name": "ESENLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34983,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34958,
+    "neighbor_name": "GEBE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34949,
+    "neighbor_name": "GÜLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34960,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35025,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34967,
+    "neighbor_name": "HACIOSMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34952,
+    "neighbor_name": "HACIUSLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34990,
+    "neighbor_name": "HALAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35029,
+    "neighbor_name": "HASANKAHYALAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34973,
+    "neighbor_name": "HASBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34906,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35024,
+    "neighbor_name": "İMRANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34996,
+    "neighbor_name": "İSKENDERLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35004,
+    "neighbor_name": "KARAKAVUZ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35008,
+    "neighbor_name": "KAYMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34908,
+    "neighbor_name": "KEŞKEK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34920,
+    "neighbor_name": "KETENCİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34953,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34927,
+    "neighbor_name": "KIZILCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34997,
+    "neighbor_name": "KİRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34962,
+    "neighbor_name": "KURTLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35010,
+    "neighbor_name": "KÜLAH KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35021,
+    "neighbor_name": "ORMANLI ORMANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34964,
+    "neighbor_name": "ORTACI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35011,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35012,
+    "neighbor_name": "OSMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35026,
+    "neighbor_name": "OVA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35014,
+    "neighbor_name": "ÖĞBERLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34998,
+    "neighbor_name": "PEMBECİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34909,
+    "neighbor_name": "PINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34902,
+    "neighbor_name": "RAMAZANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34929,
+    "neighbor_name": "RÜŞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35030,
+    "neighbor_name": "SAKALLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34918,
+    "neighbor_name": "SALTUKLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35018,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34992,
+    "neighbor_name": "SERİNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34980,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34930,
+    "neighbor_name": "SOĞANLIYÖRÜK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35027,
+    "neighbor_name": "SÜCÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35028,
+    "neighbor_name": "SÜLEYMANBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35013,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34950,
+    "neighbor_name": "ŞAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34903,
+    "neighbor_name": "TEPEÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34923,
+    "neighbor_name": "TERZİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35006,
+    "neighbor_name": "TOPALLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34916,
+    "neighbor_name": "TOYFANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35023,
+    "neighbor_name": "ULUDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34944,
+    "neighbor_name": "ÜÇKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34948,
+    "neighbor_name": "ÜVEYİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34965,
+    "neighbor_name": "VAKIF KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34970,
+    "neighbor_name": "VELİDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34921,
+    "neighbor_name": "YALNIZÇAM KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34966,
+    "neighbor_name": "YARAŞLIYÖRÜK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34981,
+    "neighbor_name": "YAZICILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 35000,
+    "neighbor_name": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34995,
+    "neighbor_name": "YENİDOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34956,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34922,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34943,
+    "neighbor_name": "YUKARIHOCALAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34985,
+    "neighbor_name": "YUNUSLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 699,
+    "district_name": "EREĞLİ",
+    "neighbor_id": 34975,
+    "neighbor_name": "ZINDANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35038,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35051,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35060,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 49993,
+    "neighbor_name": "MERKEZ-ÇUKUR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35042,
+    "neighbor_name": "ONMAYIS MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35052,
+    "neighbor_name": "ÜÇBURGU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35047,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35035,
+    "neighbor_name": "BAKACAKKADI-KADIOĞLU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35039,
+    "neighbor_name": "BAKACAKKADI-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35054,
+    "neighbor_name": "BAKACAKKADI-SATIBEYLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35053,
+    "neighbor_name": "AKTARLA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35059,
+    "neighbor_name": "ALİUSTA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35045,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35041,
+    "neighbor_name": "BAKİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35040,
+    "neighbor_name": "BODAÇ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35057,
+    "neighbor_name": "DAĞDEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35046,
+    "neighbor_name": "DUHANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35050,
+    "neighbor_name": "GAZİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35048,
+    "neighbor_name": "HACIMUSA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 49906,
+    "neighbor_name": "KARAHATİPLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35043,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35037,
+    "neighbor_name": "MUHARREMLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35049,
+    "neighbor_name": "NAMAZGAH KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35056,
+    "neighbor_name": "ÖRMECİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35036,
+    "neighbor_name": "PAZARLIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35032,
+    "neighbor_name": "SARAÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35033,
+    "neighbor_name": "UZUNAHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35058,
+    "neighbor_name": "VEYİSOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 700,
+    "district_name": "GÖKÇEBEY",
+    "neighbor_id": 35044,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35098,
+    "neighbor_name": "BELEDİYE SİTESİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35103,
+    "neighbor_name": "BÖLÜM MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35109,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35114,
+    "neighbor_name": "DAMARLI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35100,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35101,
+    "neighbor_name": "HİSAR ARKASI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35095,
+    "neighbor_name": "KARADON MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35112,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35113,
+    "neighbor_name": "SUBATAN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35117,
+    "neighbor_name": "ÇATALAĞZI-CUMA YANI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35116,
+    "neighbor_name": "ÇATALAĞZI-DOĞANCILAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35105,
+    "neighbor_name": "ÇATALAĞZI-HACIOĞLU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35106,
+    "neighbor_name": "ÇATALAĞZI-KIRIMSA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35102,
+    "neighbor_name": "ÇATALAĞZI-KOKURDAN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35107,
+    "neighbor_name": "ÇATALAĞZI-KUZYAKA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35118,
+    "neighbor_name": "ÇATALAĞZI-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35108,
+    "neighbor_name": "GELİK-AYİÇİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35115,
+    "neighbor_name": "GELİK-AYİÇİ MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35093,
+    "neighbor_name": "GELİK-ESEN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35099,
+    "neighbor_name": "GELİK-GELİK MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35111,
+    "neighbor_name": "GELİK-KIRAT MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35104,
+    "neighbor_name": "MUSLU-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35097,
+    "neighbor_name": "MUSLU-EMİRLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35119,
+    "neighbor_name": "MUSLU-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35094,
+    "neighbor_name": "GÖBÜ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35096,
+    "neighbor_name": "KURTKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35110,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 702,
+    "district_name": "KİLİMLİ",
+    "neighbor_id": 35120,
+    "neighbor_name": "TÜRKALİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35080,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35088,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35076,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35082,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35092,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35085,
+    "neighbor_name": "KILIÇ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35069,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35071,
+    "neighbor_name": "TAŞBACA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35072,
+    "neighbor_name": "YAHMA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35066,
+    "neighbor_name": "AKŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35081,
+    "neighbor_name": "AŞAĞIÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35090,
+    "neighbor_name": "BALÇIKLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35063,
+    "neighbor_name": "BOZCA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35073,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35079,
+    "neighbor_name": "ÇARDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35089,
+    "neighbor_name": "ÇIRGAN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35074,
+    "neighbor_name": "DAĞKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35075,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35084,
+    "neighbor_name": "EBEGÜMECİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35061,
+    "neighbor_name": "ENSEKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35062,
+    "neighbor_name": "FUTA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35067,
+    "neighbor_name": "GÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35077,
+    "neighbor_name": "KARGALAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35078,
+    "neighbor_name": "KIZILCAKESE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35068,
+    "neighbor_name": "KOZLUKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35064,
+    "neighbor_name": "KÖSERECİK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35091,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35086,
+    "neighbor_name": "SAKAKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35065,
+    "neighbor_name": "SEYFETLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35087,
+    "neighbor_name": "SİVRİLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35070,
+    "neighbor_name": "UZUNGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 701,
+    "district_name": "KOZLU",
+    "neighbor_id": 35083,
+    "neighbor_name": "ÜÇKÖY"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35163,
+    "neighbor_name": "ASMA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35168,
+    "neighbor_name": "BAĞLIK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35122,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35148,
+    "neighbor_name": "BAŞTARLA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35169,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35157,
+    "neighbor_name": "ÇAYDAMAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35178,
+    "neighbor_name": "ÇINARTEPE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35142,
+    "neighbor_name": "DİLAVER MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35173,
+    "neighbor_name": "İNAĞZI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35158,
+    "neighbor_name": "İNCİVEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35170,
+    "neighbor_name": "KARAELMAS MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35165,
+    "neighbor_name": "MEŞRUTİYET MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35175,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35124,
+    "neighbor_name": "ON TEMMUZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35167,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35172,
+    "neighbor_name": "TERAKKİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35161,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35144,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35177,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35137,
+    "neighbor_name": "BEYCUMA-BEYTEPE MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35164,
+    "neighbor_name": "BEYCUMA-BİRLİK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35138,
+    "neighbor_name": "BEYCUMA-ÇAMLIK MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35125,
+    "neighbor_name": "BEYCUMA-KASIMLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35130,
+    "neighbor_name": "BEYCUMA-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35153,
+    "neighbor_name": "BEYCUMA-MURATLI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35131,
+    "neighbor_name": "BEYCUMA-YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35126,
+    "neighbor_name": "ELVANPAZARCIK-CELEPÇİOĞLU MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35139,
+    "neighbor_name": "ELVANPAZARCIK-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35174,
+    "neighbor_name": "ELVANPAZARCIK-ÇALCA MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35156,
+    "neighbor_name": "ELVANPAZARCIK-ELVAN MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35140,
+    "neighbor_name": "ELVANPAZARCIK-HAYAT MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35134,
+    "neighbor_name": "ELVANPAZARCIK-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35149,
+    "neighbor_name": "ELVANPAZARCIK-TASMACI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35127,
+    "neighbor_name": "KARAMAN-KADI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35150,
+    "neighbor_name": "KARAMAN-KARAMANLAR MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35136,
+    "neighbor_name": "KARAMAN-MERKEZ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35145,
+    "neighbor_name": "KARAMAN-SATIKLI MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35181,
+    "neighbor_name": "KARAMAN-YENİ MAH."
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35179,
+    "neighbor_name": "ALANCIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35133,
+    "neighbor_name": "AYVATLAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35147,
+    "neighbor_name": "ÇAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35162,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35123,
+    "neighbor_name": "ECELER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35121,
+    "neighbor_name": "HACIALİ KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35154,
+    "neighbor_name": "HİMMETOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35132,
+    "neighbor_name": "KABALAKLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35180,
+    "neighbor_name": "KALEOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35135,
+    "neighbor_name": "KARADERE KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35143,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35146,
+    "neighbor_name": "KARDEŞLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35155,
+    "neighbor_name": "KELLER KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35128,
+    "neighbor_name": "KORUCAK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35141,
+    "neighbor_name": "KÖROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35151,
+    "neighbor_name": "KUMTARLA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35176,
+    "neighbor_name": "OLUKYANI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35152,
+    "neighbor_name": "OSMANLI KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35129,
+    "neighbor_name": "SAPÇA KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35171,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35166,
+    "neighbor_name": "SARIMSAK KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35159,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 54,
+    "city_name": "ZONGULDAK",
+    "district_id": 703,
+    "district_name": "ZONGULDAK MERKEZ",
+    "neighbor_id": 35160,
+    "neighbor_name": "TAŞÇILAR KÖYÜ"
+  }
+]

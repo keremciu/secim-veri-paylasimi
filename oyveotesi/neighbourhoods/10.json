@@ -1,0 +1,2178 @@
+[
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50630,
+    "neighbor_name": "ATADÖNMEZ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50559,
+    "neighbor_name": "DOĞANAY MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 49994,
+    "neighbor_name": "HALİM ŞENSES MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 49784,
+    "neighbor_name": "HİDAYET DOĞRUER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50552,
+    "neighbor_name": "HÜSEYİN ONBAŞI MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50603,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50617,
+    "neighbor_name": "KARAAHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50621,
+    "neighbor_name": "KÜÇÜKSARIKAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50631,
+    "neighbor_name": "KÜREBOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 975,
+    "district_name": "BAHŞILI",
+    "neighbor_id": 50970,
+    "neighbor_name": "SARIKAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6629,
+    "neighbor_name": "BALLI MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6642,
+    "neighbor_name": "OBA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6647,
+    "neighbor_name": "TOKİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6641,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6624,
+    "neighbor_name": "AKÇAKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6628,
+    "neighbor_name": "AŞAĞIKARAKISIK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6625,
+    "neighbor_name": "AYDINŞIH KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6631,
+    "neighbor_name": "BATTALOBA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6626,
+    "neighbor_name": "BEŞBIÇAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6630,
+    "neighbor_name": "BEYOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6639,
+    "neighbor_name": "BIYIKAYDIN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6644,
+    "neighbor_name": "DİKMEN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6640,
+    "neighbor_name": "ELDELEK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6636,
+    "neighbor_name": "HIDIRŞIH KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6645,
+    "neighbor_name": "HÜSEYİNOBA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6648,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6635,
+    "neighbor_name": "İZZETTİN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6619,
+    "neighbor_name": "KARALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6620,
+    "neighbor_name": "KARGIN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6621,
+    "neighbor_name": "KENANOBA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6649,
+    "neighbor_name": "KILEVLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6637,
+    "neighbor_name": "KIRLANGIÇ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6638,
+    "neighbor_name": "KOÇUBABA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6632,
+    "neighbor_name": "KÖSEDURAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6650,
+    "neighbor_name": "KULAKSIZ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6646,
+    "neighbor_name": "MEHMETBEYOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6622,
+    "neighbor_name": "SELAMLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6633,
+    "neighbor_name": "ULAKLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6634,
+    "neighbor_name": "UZUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6623,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6643,
+    "neighbor_name": "YENİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 145,
+    "district_name": "BALIŞEYH",
+    "neighbor_id": 6627,
+    "neighbor_name": "YUKARIKARAKISIK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6829,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6835,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6840,
+    "neighbor_name": "GÜLVEREN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6832,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6834,
+    "neighbor_name": "ALICIYENİYAPAN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6836,
+    "neighbor_name": "HACIYUSUFLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6841,
+    "neighbor_name": "HALİLDEDE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6833,
+    "neighbor_name": "İĞDEBELİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6842,
+    "neighbor_name": "KALDIRIM KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6843,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6844,
+    "neighbor_name": "KARAAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6837,
+    "neighbor_name": "KARABUCAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6830,
+    "neighbor_name": "KARAHACILI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6838,
+    "neighbor_name": "KARAYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6831,
+    "neighbor_name": "KEPİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6845,
+    "neighbor_name": "TİLKİLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 151,
+    "district_name": "ÇELEBİ",
+    "neighbor_id": 6839,
+    "neighbor_name": "YUKARIŞIH KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6730,
+    "neighbor_name": "AKTEPE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6747,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6760,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6766,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6750,
+    "neighbor_name": "GÜNDÜZ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6727,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6761,
+    "neighbor_name": "KARABEKİR MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6769,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6753,
+    "neighbor_name": "ÇERİKLİ-GÖKÇEBEL MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6729,
+    "neighbor_name": "ÇERİKLİ-MERKEZ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6731,
+    "neighbor_name": "ÇERİKLİ-SAKARYA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6749,
+    "neighbor_name": "ÇERİKLİ-YENİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6725,
+    "neighbor_name": "ÇERİKLİ-YERLİKENT MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6754,
+    "neighbor_name": "AKBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6734,
+    "neighbor_name": "ALCILI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6764,
+    "neighbor_name": "ARBİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6735,
+    "neighbor_name": "AŞAĞIİHSANGAZİLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6736,
+    "neighbor_name": "BARAKLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6746,
+    "neighbor_name": "BOZKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6765,
+    "neighbor_name": "BÜYÜKAFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6755,
+    "neighbor_name": "BÜYÜKYAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6737,
+    "neighbor_name": "COĞUL KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6767,
+    "neighbor_name": "ÇATALLIKARAKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6743,
+    "neighbor_name": "ÇATALLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6724,
+    "neighbor_name": "ÇONGAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6732,
+    "neighbor_name": "DAĞOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6751,
+    "neighbor_name": "DEREKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6722,
+    "neighbor_name": "DOĞANÖREN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6748,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6759,
+    "neighbor_name": "EVLİYALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6752,
+    "neighbor_name": "FADILOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6723,
+    "neighbor_name": "GÖZÜKIZILLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6733,
+    "neighbor_name": "HACIOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6738,
+    "neighbor_name": "HALİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6726,
+    "neighbor_name": "HEREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6758,
+    "neighbor_name": "İMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6762,
+    "neighbor_name": "KARAKÖSELİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6744,
+    "neighbor_name": "KARPUZ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6768,
+    "neighbor_name": "KAVAKKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6745,
+    "neighbor_name": "KOCABAŞ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6773,
+    "neighbor_name": "KURTOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6763,
+    "neighbor_name": "KUZAYYURT KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6756,
+    "neighbor_name": "KÜÇÜKAFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6757,
+    "neighbor_name": "MEŞEYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6739,
+    "neighbor_name": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6770,
+    "neighbor_name": "SARIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6742,
+    "neighbor_name": "ŞAHCALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6774,
+    "neighbor_name": "TAŞYAZI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6740,
+    "neighbor_name": "TATLICAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6741,
+    "neighbor_name": "TAVAÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6771,
+    "neighbor_name": "TEKKEKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6728,
+    "neighbor_name": "YAYLAYURT KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 148,
+    "district_name": "DELİCE",
+    "neighbor_id": 6772,
+    "neighbor_name": "YENİYAPAN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6652,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6653,
+    "neighbor_name": "HOCA AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6658,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6654,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6655,
+    "neighbor_name": "MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6656,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6657,
+    "neighbor_name": "YEŞİLEVLER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6660,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6651,
+    "neighbor_name": "AKKOŞAN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 146,
+    "district_name": "KARAKEÇİLİ",
+    "neighbor_id": 6659,
+    "neighbor_name": "SULUBÜK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6674,
+    "neighbor_name": "ALTUNTAŞ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6663,
+    "neighbor_name": "BOZKURT MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6691,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6696,
+    "neighbor_name": "MADEN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6671,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6719,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6720,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6714,
+    "neighbor_name": "AŞAĞIŞIH KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6668,
+    "neighbor_name": "BARAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6721,
+    "neighbor_name": "BARAKOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6703,
+    "neighbor_name": "BEŞLER KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6707,
+    "neighbor_name": "BÜYÜKCECELİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6716,
+    "neighbor_name": "CABATOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6675,
+    "neighbor_name": "CANKURTARAN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6676,
+    "neighbor_name": "CEBRAİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6677,
+    "neighbor_name": "CERİTKALE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6715,
+    "neighbor_name": "CERİTMÜMİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6680,
+    "neighbor_name": "CERİTOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6669,
+    "neighbor_name": "CİNALİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6701,
+    "neighbor_name": "ÇALIŞ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6685,
+    "neighbor_name": "ÇAMURABATMAZ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6686,
+    "neighbor_name": "ÇİPİDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6717,
+    "neighbor_name": "DAĞSOLAKLISI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6681,
+    "neighbor_name": "DANACIOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6687,
+    "neighbor_name": "EFENDİKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6688,
+    "neighbor_name": "EMİNEFENDİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6683,
+    "neighbor_name": "EROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6664,
+    "neighbor_name": "ESATMÜMİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6678,
+    "neighbor_name": "ESKİALİBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6695,
+    "neighbor_name": "GAZİBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6709,
+    "neighbor_name": "GÖÇBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6708,
+    "neighbor_name": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6672,
+    "neighbor_name": "GÜLKONAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6661,
+    "neighbor_name": "HACIALİOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6673,
+    "neighbor_name": "HACIÖMERSOLAKLISI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6710,
+    "neighbor_name": "HAYDARDEDE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6702,
+    "neighbor_name": "İNZİLOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6699,
+    "neighbor_name": "KAÇAKKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6698,
+    "neighbor_name": "KARAFAKILI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6665,
+    "neighbor_name": "KASIMAĞA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6711,
+    "neighbor_name": "KAVLAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6689,
+    "neighbor_name": "KAVURGALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6718,
+    "neighbor_name": "KAYALAKSOLAKLISI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6704,
+    "neighbor_name": "KEVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6670,
+    "neighbor_name": "KONURHACIOBASI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6712,
+    "neighbor_name": "KONUR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6697,
+    "neighbor_name": "KÖPRÜKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6692,
+    "neighbor_name": "KURŞUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6666,
+    "neighbor_name": "KUZUGÜDENLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6693,
+    "neighbor_name": "MÜSELLİM KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6700,
+    "neighbor_name": "OLUNLU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6713,
+    "neighbor_name": "ORTASÖKEN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6667,
+    "neighbor_name": "POLATYURDU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6662,
+    "neighbor_name": "SEYFLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6690,
+    "neighbor_name": "TAKAZLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6679,
+    "neighbor_name": "TURHANLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6684,
+    "neighbor_name": "ÜÇEVLER KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6682,
+    "neighbor_name": "ÜÇKUYU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6694,
+    "neighbor_name": "YENİALİBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6705,
+    "neighbor_name": "YENİYAPAN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 147,
+    "district_name": "KESKİN",
+    "neighbor_id": 6706,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6799,
+    "neighbor_name": "AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6781,
+    "neighbor_name": "AŞAĞIMAHMUTLAR MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6775,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6782,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6793,
+    "neighbor_name": "ÇALILIÖZ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6805,
+    "neighbor_name": "ÇULLU MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6783,
+    "neighbor_name": "ETİLER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6800,
+    "neighbor_name": "FABRİKALAR MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6811,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6784,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6806,
+    "neighbor_name": "GÜRLER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6790,
+    "neighbor_name": "GÜZELTEPE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6776,
+    "neighbor_name": "HÜSEYİN KAHYA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6807,
+    "neighbor_name": "KALETEPE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6794,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6808,
+    "neighbor_name": "KIRIKKÖYÜ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6791,
+    "neighbor_name": "KIZILIRMAK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6795,
+    "neighbor_name": "KİMESKİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6814,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6792,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6796,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6797,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6798,
+    "neighbor_name": "SELİM ÖZER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6802,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6803,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6809,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6779,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6810,
+    "neighbor_name": "YUVA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6788,
+    "neighbor_name": "HACILAR-ALTINOVA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6812,
+    "neighbor_name": "HACILAR-HACIBEY MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6785,
+    "neighbor_name": "HACILAR-SAĞLIK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6780,
+    "neighbor_name": "AHILI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6787,
+    "neighbor_name": "DAĞEVİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6789,
+    "neighbor_name": "HASANDEDE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6777,
+    "neighbor_name": "KARACAALİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6813,
+    "neighbor_name": "KAZMACA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6778,
+    "neighbor_name": "KIZILDERE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6801,
+    "neighbor_name": "PAZARCIK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6786,
+    "neighbor_name": "ULAŞ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 149,
+    "district_name": "KIRIKKALE MERKEZ",
+    "neighbor_id": 6804,
+    "neighbor_name": "YUKARIMAHMUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 50561,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6585,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6602,
+    "neighbor_name": "YENİHAYAT MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6592,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6608,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6579,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6594,
+    "neighbor_name": "YÜKSELEN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6588,
+    "neighbor_name": "AĞAYLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6604,
+    "neighbor_name": "AKKUYU KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6598,
+    "neighbor_name": "ALİŞEYHLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6576,
+    "neighbor_name": "AMBARDERE KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6582,
+    "neighbor_name": "AYVATLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6587,
+    "neighbor_name": "ÇAYOBA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6603,
+    "neighbor_name": "ÇEVRİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6580,
+    "neighbor_name": "DANACI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6583,
+    "neighbor_name": "DEREDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6605,
+    "neighbor_name": "FARAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6606,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6589,
+    "neighbor_name": "HAMZALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6595,
+    "neighbor_name": "İMAMOĞLUÇEŞMESİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6577,
+    "neighbor_name": "KALEKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6596,
+    "neighbor_name": "KIYIHALİLİNCELİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6599,
+    "neighbor_name": "KIYIKAVURGALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6607,
+    "neighbor_name": "KORUKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6581,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6590,
+    "neighbor_name": "SARIKIZLI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6600,
+    "neighbor_name": "SARIMBEY KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6601,
+    "neighbor_name": "SOFULARÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6591,
+    "neighbor_name": "YAĞBASAN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6597,
+    "neighbor_name": "YENİCELİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6586,
+    "neighbor_name": "YEŞİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 143,
+    "district_name": "SULAKYURT",
+    "neighbor_id": 6593,
+    "neighbor_name": "YEŞİLYAZI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6815,
+    "neighbor_name": "ALAADDİN MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 50550,
+    "neighbor_name": "BAYRAKTEPE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6826,
+    "neighbor_name": "DOĞANLIK MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6821,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6817,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 50584,
+    "neighbor_name": "HACIBEY MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6827,
+    "neighbor_name": "KADIOĞLU MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 50544,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6820,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6825,
+    "neighbor_name": "YEŞİL VADİ MAH."
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6816,
+    "neighbor_name": "BEDESTEN KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6818,
+    "neighbor_name": "HACIBALI KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6822,
+    "neighbor_name": "HİSARKÖY"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6823,
+    "neighbor_name": "IRMAK KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6824,
+    "neighbor_name": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6828,
+    "neighbor_name": "KILIÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 10,
+    "city_name": "KIRIKKALE",
+    "district_id": 150,
+    "district_name": "YAHŞİHAN",
+    "neighbor_id": 6819,
+    "neighbor_name": "MAHMUTLAR KÖYÜ"
+  }
+]

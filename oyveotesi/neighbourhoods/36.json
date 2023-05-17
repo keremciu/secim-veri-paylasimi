@@ -1,0 +1,6450 @@
+[
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23075,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23079,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23072,
+    "neighbor_name": "CAMİ ŞERİF MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23106,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23098,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23073,
+    "neighbor_name": "GÜNEŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23070,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23101,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23120,
+    "neighbor_name": "KİREMİTHANE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23065,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23059,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23085,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23086,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23087,
+    "neighbor_name": "NUSRATİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23113,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23100,
+    "neighbor_name": "TURGUTREİS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23067,
+    "neighbor_name": "ÜÇOCAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23082,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23068,
+    "neighbor_name": "ABDULLAH ŞAHUTOĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23088,
+    "neighbor_name": "ADANALIOĞLU LİMONLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23102,
+    "neighbor_name": "ADANALIOĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23061,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23062,
+    "neighbor_name": "AKDAM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23108,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23115,
+    "neighbor_name": "ANADOLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23093,
+    "neighbor_name": "BAĞCILAR-İHSANİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23094,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23063,
+    "neighbor_name": "BAHÇELİ AŞAĞIBURHAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23056,
+    "neighbor_name": "BAHÇELİ KÜRKÇÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23076,
+    "neighbor_name": "BAHÇELİ YUKARIBURHAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23103,
+    "neighbor_name": "BAHŞİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23083,
+    "neighbor_name": "BEKİRDE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23089,
+    "neighbor_name": "CAMİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23057,
+    "neighbor_name": "CİVANYAYLAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23116,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23107,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23118,
+    "neighbor_name": "ÇİLEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23090,
+    "neighbor_name": "DEMİRHİSAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23091,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23069,
+    "neighbor_name": "ESENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23110,
+    "neighbor_name": "EVCİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23109,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23104,
+    "neighbor_name": "HAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23119,
+    "neighbor_name": "HEBİLLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23111,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23096,
+    "neighbor_name": "IĞDIR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23080,
+    "neighbor_name": "KARACAİLYAS EMEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23084,
+    "neighbor_name": "KARACAİLYAS EVREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23077,
+    "neighbor_name": "KARACAİLYAS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23078,
+    "neighbor_name": "KARADUVAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23112,
+    "neighbor_name": "KAZANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23058,
+    "neighbor_name": "KÖSELERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23097,
+    "neighbor_name": "KULAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23117,
+    "neighbor_name": "MÜFİDE İLHAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23064,
+    "neighbor_name": "NACARLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23095,
+    "neighbor_name": "ÖZGÜRLÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23074,
+    "neighbor_name": "PARMAKKURDU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23099,
+    "neighbor_name": "PUĞKARACADAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23105,
+    "neighbor_name": "SARIİBRAHİMLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23060,
+    "neighbor_name": "ŞAKİRGÜLMEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23092,
+    "neighbor_name": "ŞEVKETSÜMER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23071,
+    "neighbor_name": "TOROSLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23081,
+    "neighbor_name": "YANPAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23066,
+    "neighbor_name": "YEŞİLÇİMEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 466,
+    "district_name": "AKDENİZ",
+    "neighbor_id": 23114,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23170,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23134,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23151,
+    "neighbor_name": "AKİNE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23167,
+    "neighbor_name": "ALATAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23144,
+    "neighbor_name": "ANITLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23125,
+    "neighbor_name": "AŞAĞIKÜKÜR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23121,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23168,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23145,
+    "neighbor_name": "BOĞUNTU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23126,
+    "neighbor_name": "BOZDOĞAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23159,
+    "neighbor_name": "ÇALTIBÜKÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23154,
+    "neighbor_name": "ÇAMLIPINARALANI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23165,
+    "neighbor_name": "ÇAMLIPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23143,
+    "neighbor_name": "ÇARIKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23139,
+    "neighbor_name": "ÇATALOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23132,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23175,
+    "neighbor_name": "ÇUKURABANOZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23160,
+    "neighbor_name": "DEMİRÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23161,
+    "neighbor_name": "EMİRŞAH MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23166,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23146,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23135,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23152,
+    "neighbor_name": "GERCEBAHŞİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23162,
+    "neighbor_name": "GÖKTAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23137,
+    "neighbor_name": "GÜLEÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23148,
+    "neighbor_name": "GÜNEYBAHŞİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23173,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23138,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23140,
+    "neighbor_name": "İSKELE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23174,
+    "neighbor_name": "KALINÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23122,
+    "neighbor_name": "KARAAĞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23129,
+    "neighbor_name": "KARAÇUKUR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23123,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23155,
+    "neighbor_name": "KARALARBAHŞİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23149,
+    "neighbor_name": "KAŞDİŞLEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23150,
+    "neighbor_name": "KILIÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23136,
+    "neighbor_name": "KIZILALİLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23147,
+    "neighbor_name": "KORUCUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23156,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23153,
+    "neighbor_name": "LALE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23163,
+    "neighbor_name": "MALAKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23142,
+    "neighbor_name": "ORMANCIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23133,
+    "neighbor_name": "OVABAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23176,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23124,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23171,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23157,
+    "neighbor_name": "SARIAĞAÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23127,
+    "neighbor_name": "SARIDANA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23172,
+    "neighbor_name": "SUGÖZÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23164,
+    "neighbor_name": "SULTAN ALAADDİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23130,
+    "neighbor_name": "TOROSLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23158,
+    "neighbor_name": "UÇARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23131,
+    "neighbor_name": "YALIEVLERİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23169,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 23128,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 467,
+    "district_name": "ANAMUR",
+    "neighbor_id": 49542,
+    "neighbor_name": "YUKARI KÜKÜR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22600,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22602,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22611,
+    "neighbor_name": "DURUHAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22612,
+    "neighbor_name": "ESKİYÜRÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22606,
+    "neighbor_name": "HACIBAHATTİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22603,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22607,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22613,
+    "neighbor_name": "KARASEKİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22608,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22614,
+    "neighbor_name": "PEMBECİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22604,
+    "neighbor_name": "TEKNECİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22605,
+    "neighbor_name": "YENİKAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22609,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22610,
+    "neighbor_name": "YENİYÜRÜKKAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 459,
+    "district_name": "AYDINCIK",
+    "neighbor_id": 22601,
+    "neighbor_name": "YENİYÜRÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22623,
+    "neighbor_name": "AKCAMİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22635,
+    "neighbor_name": "ARDIÇLITAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22617,
+    "neighbor_name": "BAHÇEKOYAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22628,
+    "neighbor_name": "BEYRELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22634,
+    "neighbor_name": "ÇOPURLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22627,
+    "neighbor_name": "ÇUBUKKOYAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22636,
+    "neighbor_name": "DENİZCİLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22624,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22629,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22637,
+    "neighbor_name": "ELMAKUZU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22625,
+    "neighbor_name": "GÖZCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22630,
+    "neighbor_name": "GÖZSÜZCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22618,
+    "neighbor_name": "GÜRLEVİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22638,
+    "neighbor_name": "KALEDİBİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22619,
+    "neighbor_name": "KARAİSALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22639,
+    "neighbor_name": "KIZILCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22631,
+    "neighbor_name": "KÖMÜRLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22620,
+    "neighbor_name": "KÖTEKLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22632,
+    "neighbor_name": "LENGER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22621,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22640,
+    "neighbor_name": "NARİNCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22622,
+    "neighbor_name": "SICAKYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22615,
+    "neighbor_name": "TEKEDÜZÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22616,
+    "neighbor_name": "TEKELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22633,
+    "neighbor_name": "TEKMEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 460,
+    "district_name": "BOZYAZI",
+    "neighbor_id": 22626,
+    "neighbor_name": "USTALAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23043,
+    "neighbor_name": "BAĞÇATAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23051,
+    "neighbor_name": "BELÇINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23047,
+    "neighbor_name": "CUMAYAKASI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23046,
+    "neighbor_name": "ÇAYIREKİNLİĞİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23044,
+    "neighbor_name": "DARIPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23048,
+    "neighbor_name": "FAKILAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23045,
+    "neighbor_name": "GİDEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23054,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23049,
+    "neighbor_name": "KESECİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23042,
+    "neighbor_name": "KORUCAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23052,
+    "neighbor_name": "KÖRMENLİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23055,
+    "neighbor_name": "SARIKAVAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23053,
+    "neighbor_name": "SARIKOYAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 465,
+    "district_name": "ÇAMLIYAYLA",
+    "neighbor_id": 23050,
+    "neighbor_name": "SEBİL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23203,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23177,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23210,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23204,
+    "neighbor_name": "ALATA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23226,
+    "neighbor_name": "ALİBEYLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23219,
+    "neighbor_name": "ARPAÇBAHŞİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23179,
+    "neighbor_name": "ARSLANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23215,
+    "neighbor_name": "AYAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23189,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23196,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23211,
+    "neighbor_name": "BATISANDAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23238,
+    "neighbor_name": "ÇAMLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23242,
+    "neighbor_name": "ÇERÇİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23234,
+    "neighbor_name": "ÇEŞMELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23247,
+    "neighbor_name": "ÇİFTEPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23188,
+    "neighbor_name": "ÇİRİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23227,
+    "neighbor_name": "DAĞLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23180,
+    "neighbor_name": "DOĞUSANDAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23197,
+    "neighbor_name": "ELBEYLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23212,
+    "neighbor_name": "ELVANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23181,
+    "neighbor_name": "ESENPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23205,
+    "neighbor_name": "EVDİLEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23198,
+    "neighbor_name": "FAKILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23216,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23213,
+    "neighbor_name": "GÜCÜŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23184,
+    "neighbor_name": "GÜNEYLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23199,
+    "neighbor_name": "GÜZELOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23239,
+    "neighbor_name": "HACIALANI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23237,
+    "neighbor_name": "HACIHALİLARPAÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23178,
+    "neighbor_name": "HARFİLLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23240,
+    "neighbor_name": "HÜSAMETLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23182,
+    "neighbor_name": "İLEMİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23185,
+    "neighbor_name": "KARAAHMETLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23228,
+    "neighbor_name": "KARAHIDIRLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23190,
+    "neighbor_name": "KARAKEŞLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23220,
+    "neighbor_name": "KARAYAKUP MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23243,
+    "neighbor_name": "KARGICAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23241,
+    "neighbor_name": "KARGIPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23217,
+    "neighbor_name": "KAYACI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23214,
+    "neighbor_name": "KIZILEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23245,
+    "neighbor_name": "KIZKALESİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23186,
+    "neighbor_name": "KOCAHASANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23206,
+    "neighbor_name": "KORAMŞALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23200,
+    "neighbor_name": "KOYUNCU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23193,
+    "neighbor_name": "KÖSBUCAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23201,
+    "neighbor_name": "KÖSERELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23229,
+    "neighbor_name": "KUŞLUCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23191,
+    "neighbor_name": "KÜSTÜLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23194,
+    "neighbor_name": "LİMONLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23236,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 49699,
+    "neighbor_name": "MERKEZ-TIRTAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23230,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23218,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23246,
+    "neighbor_name": "SARIYER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23223,
+    "neighbor_name": "SIRAÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23208,
+    "neighbor_name": "SİNAP MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23224,
+    "neighbor_name": "SORGUN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23183,
+    "neighbor_name": "ŞAHNA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23195,
+    "neighbor_name": "TABİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23225,
+    "neighbor_name": "TAPURELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23209,
+    "neighbor_name": "TOROS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23221,
+    "neighbor_name": "TOZLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23231,
+    "neighbor_name": "TÖMÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23192,
+    "neighbor_name": "TÜRBE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23222,
+    "neighbor_name": "ÜÇTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23235,
+    "neighbor_name": "ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23202,
+    "neighbor_name": "VEYSELLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23244,
+    "neighbor_name": "YAĞDA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23232,
+    "neighbor_name": "YARENLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23187,
+    "neighbor_name": "YENİYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 468,
+    "district_name": "ERDEMLİ",
+    "neighbor_id": 23233,
+    "neighbor_name": "YÜKSEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23267,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23275,
+    "neighbor_name": "AKOVA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23248,
+    "neighbor_name": "ARDIÇPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23295,
+    "neighbor_name": "ARIKUYUSU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23257,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23249,
+    "neighbor_name": "BEREKET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23280,
+    "neighbor_name": "BEYDİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23258,
+    "neighbor_name": "BOLYARAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23276,
+    "neighbor_name": "BOZAĞAÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23250,
+    "neighbor_name": "BÜYÜKECELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23278,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23255,
+    "neighbor_name": "ÇUKURASMA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23285,
+    "neighbor_name": "ÇUKURKONAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23287,
+    "neighbor_name": "DAYICIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23262,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23281,
+    "neighbor_name": "DELİKKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23268,
+    "neighbor_name": "DEMİRÖZÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23269,
+    "neighbor_name": "EMİRHACI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23270,
+    "neighbor_name": "GEZENDE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23259,
+    "neighbor_name": "GÖKTÜRK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23271,
+    "neighbor_name": "HACIPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23251,
+    "neighbor_name": "HALİFELER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23260,
+    "neighbor_name": "ILISU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23256,
+    "neighbor_name": "İSHAKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23261,
+    "neighbor_name": "KAVAKOLUĞU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23277,
+    "neighbor_name": "KAYRAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23288,
+    "neighbor_name": "KOÇAŞLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23282,
+    "neighbor_name": "KONUR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23272,
+    "neighbor_name": "KORUCUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23296,
+    "neighbor_name": "KÖSEÇOBANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23252,
+    "neighbor_name": "KURBAĞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23263,
+    "neighbor_name": "KUSKAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23297,
+    "neighbor_name": "MOLLAÖMERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23279,
+    "neighbor_name": "ÖRENPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23266,
+    "neighbor_name": "ÖRTÜLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23273,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23264,
+    "neighbor_name": "SARIKAVAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23289,
+    "neighbor_name": "SİPAHİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23286,
+    "neighbor_name": "ŞEYHÖMER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23274,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23290,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23253,
+    "neighbor_name": "TIRNAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23283,
+    "neighbor_name": "TOZKOVAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23291,
+    "neighbor_name": "ULUPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23294,
+    "neighbor_name": "ÜÇOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23292,
+    "neighbor_name": "YANIŞLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23284,
+    "neighbor_name": "YARMASU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23254,
+    "neighbor_name": "YASSIBAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23293,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 469,
+    "district_name": "GÜLNAR",
+    "neighbor_id": 23265,
+    "neighbor_name": "ZEYNE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23308,
+    "neighbor_name": "75.YIL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23330,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23324,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23325,
+    "neighbor_name": "ANAYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23300,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23331,
+    "neighbor_name": "BOZÖN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23301,
+    "neighbor_name": "CEMİLLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23302,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23333,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23334,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23329,
+    "neighbor_name": "ÇEVLİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23312,
+    "neighbor_name": "DAVULTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23320,
+    "neighbor_name": "DEMİRIŞIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23309,
+    "neighbor_name": "DENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23321,
+    "neighbor_name": "DOĞANÇAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23322,
+    "neighbor_name": "DOĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23318,
+    "neighbor_name": "ESENBAĞLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23310,
+    "neighbor_name": "ESKİ MEZİTLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23303,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23332,
+    "neighbor_name": "FINDIKPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23327,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23307,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23328,
+    "neighbor_name": "KALEKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23304,
+    "neighbor_name": "KOCAYER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23305,
+    "neighbor_name": "KUYULUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23335,
+    "neighbor_name": "KUZUCUBELEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23306,
+    "neighbor_name": "KUZUCU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23315,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23298,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23326,
+    "neighbor_name": "PELİTKOYAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23316,
+    "neighbor_name": "SARILAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23299,
+    "neighbor_name": "SEYMENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23311,
+    "neighbor_name": "ŞAHİN TEPESİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23336,
+    "neighbor_name": "TAKANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23319,
+    "neighbor_name": "TECE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23313,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23314,
+    "neighbor_name": "TOL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23317,
+    "neighbor_name": "VİRANŞEHİR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23337,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 470,
+    "district_name": "MEZİTLİ",
+    "neighbor_id": 23323,
+    "neighbor_name": "ZEYBEKLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22695,
+    "neighbor_name": "ALAÇAM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22719,
+    "neighbor_name": "AŞAĞIKÖSELERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22688,
+    "neighbor_name": "AYDINOĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22653,
+    "neighbor_name": "BAĞCAĞIZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22731,
+    "neighbor_name": "BALLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22720,
+    "neighbor_name": "BARABANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22689,
+    "neighbor_name": "BOZDOĞAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22714,
+    "neighbor_name": "BURUNKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22654,
+    "neighbor_name": "CERİTLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22655,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22686,
+    "neighbor_name": "ÇAĞLAYANGEDİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22685,
+    "neighbor_name": "ÇALTILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22730,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22706,
+    "neighbor_name": "ÇAMPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22694,
+    "neighbor_name": "ÇATAKBAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22649,
+    "neighbor_name": "ÇATALHARMAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22704,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22723,
+    "neighbor_name": "ÇİVİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22722,
+    "neighbor_name": "ÇORTAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22673,
+    "neighbor_name": "ÇÖMELEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22659,
+    "neighbor_name": "ÇUKURBAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22668,
+    "neighbor_name": "DAĞPAZARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22680,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22696,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22700,
+    "neighbor_name": "DERİNÇAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22707,
+    "neighbor_name": "DEVECİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22681,
+    "neighbor_name": "DİŞTAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22656,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22724,
+    "neighbor_name": "ELBEYLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22725,
+    "neighbor_name": "ELMAPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22715,
+    "neighbor_name": "ESENÇAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22716,
+    "neighbor_name": "EVREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22732,
+    "neighbor_name": "FAKIRCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22682,
+    "neighbor_name": "GEÇİMLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22646,
+    "neighbor_name": "GENÇALİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22717,
+    "neighbor_name": "GÖCEKLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22647,
+    "neighbor_name": "GÖKÇETAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22669,
+    "neighbor_name": "GÖKSU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22697,
+    "neighbor_name": "GÜLLÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22657,
+    "neighbor_name": "GÜME MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22641,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22690,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22701,
+    "neighbor_name": "HACIAHMETLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22708,
+    "neighbor_name": "HACIİLYASLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22648,
+    "neighbor_name": "HACINUHLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22702,
+    "neighbor_name": "HACISAİT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22670,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22738,
+    "neighbor_name": "HAYDARKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22674,
+    "neighbor_name": "HİSARKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22709,
+    "neighbor_name": "HOCALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22663,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22675,
+    "neighbor_name": "IRMAKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22710,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22687,
+    "neighbor_name": "İBRAHİMLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22691,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22650,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22733,
+    "neighbor_name": "KARACAOĞLAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22664,
+    "neighbor_name": "KARADİKEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22721,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22676,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22642,
+    "neighbor_name": "KAVAKÖZÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22651,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22665,
+    "neighbor_name": "KAYAÖNÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22671,
+    "neighbor_name": "KELCEKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22698,
+    "neighbor_name": "KEMENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22703,
+    "neighbor_name": "KIRKKAVAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22666,
+    "neighbor_name": "KIŞLAKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22643,
+    "neighbor_name": "KIZILALAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22734,
+    "neighbor_name": "KÖSELERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22677,
+    "neighbor_name": "KUMAÇUKURU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22739,
+    "neighbor_name": "KURTSUYU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22711,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22678,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22718,
+    "neighbor_name": "KÜRKÇÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22740,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22661,
+    "neighbor_name": "MİRAHOR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22667,
+    "neighbor_name": "MUCUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22741,
+    "neighbor_name": "NARLIDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22735,
+    "neighbor_name": "NARLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22705,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22727,
+    "neighbor_name": "ÖZKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22660,
+    "neighbor_name": "ÖZLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22683,
+    "neighbor_name": "PALANTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22692,
+    "neighbor_name": "PAMUKLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22652,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22684,
+    "neighbor_name": "SAKIZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22728,
+    "neighbor_name": "SARIVELİLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22742,
+    "neighbor_name": "SELAMLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22672,
+    "neighbor_name": "SUÇATI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22658,
+    "neighbor_name": "TEKELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22699,
+    "neighbor_name": "TOPKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22729,
+    "neighbor_name": "TOPLUCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22736,
+    "neighbor_name": "TUĞRUL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22693,
+    "neighbor_name": "YALNIZCABAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22644,
+    "neighbor_name": "YAPINTI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22737,
+    "neighbor_name": "YATIRTAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22679,
+    "neighbor_name": "YAZALANI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22645,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22712,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22662,
+    "neighbor_name": "YILDIZKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22713,
+    "neighbor_name": "YUKARIKÖSELERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 461,
+    "district_name": "MUT",
+    "neighbor_id": 22726,
+    "neighbor_name": "ZEYTİNÇUKURU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22788,
+    "neighbor_name": "AKDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22812,
+    "neighbor_name": "ARKUM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22768,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22747,
+    "neighbor_name": "ATAYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22753,
+    "neighbor_name": "ATİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22765,
+    "neighbor_name": "AYAŞTÜRKMENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22801,
+    "neighbor_name": "BAHÇEDERESİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22825,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22826,
+    "neighbor_name": "BALANDIZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22805,
+    "neighbor_name": "BAYINDIR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22795,
+    "neighbor_name": "BOLACALIKOYUNCU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22806,
+    "neighbor_name": "BUCAKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22796,
+    "neighbor_name": "BURUNUCU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22777,
+    "neighbor_name": "BÜKDEĞİRMENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22789,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22817,
+    "neighbor_name": "CANBAZLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22797,
+    "neighbor_name": "CILBAYIR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22823,
+    "neighbor_name": "ÇADIRLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22811,
+    "neighbor_name": "ÇALTIBOZKIR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22830,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22787,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22756,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22763,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22757,
+    "neighbor_name": "DEMİRCİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22802,
+    "neighbor_name": "EKŞİLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22807,
+    "neighbor_name": "EVKAFÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22778,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22790,
+    "neighbor_name": "GEDİKPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22758,
+    "neighbor_name": "GÖKBELEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22773,
+    "neighbor_name": "GÖKSU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22818,
+    "neighbor_name": "GÜLÜMPAŞALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22766,
+    "neighbor_name": "GÜNDÜZLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22781,
+    "neighbor_name": "HIRMANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22748,
+    "neighbor_name": "HÜSEYİNLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22749,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22745,
+    "neighbor_name": "İMAMBEKİRLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22800,
+    "neighbor_name": "İMAMLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22824,
+    "neighbor_name": "İMAMUŞAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22804,
+    "neighbor_name": "KABASAKALLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22784,
+    "neighbor_name": "KARAHACILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22803,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22791,
+    "neighbor_name": "KARGICAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22827,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22774,
+    "neighbor_name": "KEBEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22743,
+    "neighbor_name": "KEPEZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22767,
+    "neighbor_name": "KEŞLİTÜRKMENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22785,
+    "neighbor_name": "KICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22775,
+    "neighbor_name": "KIRTIL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22779,
+    "neighbor_name": "KIZILGEÇİT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22782,
+    "neighbor_name": "KOCAOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22820,
+    "neighbor_name": "KOCAPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22760,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 50645,
+    "neighbor_name": "MARA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22761,
+    "neighbor_name": "MUKADDEM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22814,
+    "neighbor_name": "NARLIKUYU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22786,
+    "neighbor_name": "NASRULLAH MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22759,
+    "neighbor_name": "NURU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22798,
+    "neighbor_name": "ORTAÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22821,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22816,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22764,
+    "neighbor_name": "ÖZBOYNUİNCELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22752,
+    "neighbor_name": "ÖZTÜRKMENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22783,
+    "neighbor_name": "PAZARKAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22808,
+    "neighbor_name": "PELİTPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22792,
+    "neighbor_name": "SABAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22809,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22828,
+    "neighbor_name": "SARIAYDIN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22822,
+    "neighbor_name": "SARICALAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22754,
+    "neighbor_name": "SAYAĞZI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22771,
+    "neighbor_name": "SAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22819,
+    "neighbor_name": "SENİR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22755,
+    "neighbor_name": "SEYDİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22793,
+    "neighbor_name": "SEYRANLIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22794,
+    "neighbor_name": "SÖKÜN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22762,
+    "neighbor_name": "SÖMEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22746,
+    "neighbor_name": "ŞAHMURLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22769,
+    "neighbor_name": "TAŞUCU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22770,
+    "neighbor_name": "TOROS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22744,
+    "neighbor_name": "TOSMURLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22810,
+    "neighbor_name": "TÜRKMENUŞAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22815,
+    "neighbor_name": "ULUGÖZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22776,
+    "neighbor_name": "UŞAKPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22780,
+    "neighbor_name": "UZUNCABURÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22799,
+    "neighbor_name": "YEĞENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22829,
+    "neighbor_name": "YENİBAHÇE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22772,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22750,
+    "neighbor_name": "YENİSU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 462,
+    "district_name": "SİLİFKE",
+    "neighbor_id": 22751,
+    "neighbor_name": "YEŞİLOVACIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22976,
+    "neighbor_name": "82EVLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22844,
+    "neighbor_name": "AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22902,
+    "neighbor_name": "ALTAYLILAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22963,
+    "neighbor_name": "ANIT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 50619,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22891,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22942,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22834,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22988,
+    "neighbor_name": "BEYDEĞİRMENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22912,
+    "neighbor_name": "CAMİNUR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22872,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22927,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22868,
+    "neighbor_name": "DUATEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22862,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22972,
+    "neighbor_name": "ESKİ ÖMERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22895,
+    "neighbor_name": "FAHRETTİN PAŞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22951,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22863,
+    "neighbor_name": "FERAHİMŞALVUZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22965,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22999,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22904,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22921,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23000,
+    "neighbor_name": "GÖZLÜKULE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22885,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22987,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22840,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22979,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22997,
+    "neighbor_name": "KIRKLARSIRTI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22906,
+    "neighbor_name": "KIZILMURAT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22874,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22901,
+    "neighbor_name": "ÖĞRETMENLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22916,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22957,
+    "neighbor_name": "ŞAHİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23006,
+    "neighbor_name": "ŞEHİTİSHAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22832,
+    "neighbor_name": "ŞEHİTKERİM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22922,
+    "neighbor_name": "ŞEHİTLER TEPESİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23005,
+    "neighbor_name": "ŞEHİTMUSTAFA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22968,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22939,
+    "neighbor_name": "TOZKOPARAN ZAHİT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22897,
+    "neighbor_name": "YARBAY ŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22994,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22956,
+    "neighbor_name": "YENİ ÖMERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22940,
+    "neighbor_name": "YEŞİLEVLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22851,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22889,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23002,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22964,
+    "neighbor_name": "AĞZIDELİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22949,
+    "neighbor_name": "AKARSU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22911,
+    "neighbor_name": "AKÇAKOCALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22924,
+    "neighbor_name": "AKGEDİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22882,
+    "neighbor_name": "ALADAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22941,
+    "neighbor_name": "ALİAĞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22950,
+    "neighbor_name": "ALİBEYLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22918,
+    "neighbor_name": "ALİEFENDİOĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22852,
+    "neighbor_name": "ALİFAKI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22871,
+    "neighbor_name": "ARDIÇLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22853,
+    "neighbor_name": "ARIKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22903,
+    "neighbor_name": "ATALAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22970,
+    "neighbor_name": "AVADAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22983,
+    "neighbor_name": "BAHARLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22867,
+    "neighbor_name": "BAHŞİŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22833,
+    "neighbor_name": "BALLICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22890,
+    "neighbor_name": "BALTALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22892,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22919,
+    "neighbor_name": "BEYLİCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22875,
+    "neighbor_name": "BOĞAZPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22845,
+    "neighbor_name": "BOLATLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23007,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22883,
+    "neighbor_name": "BÖĞRÜEĞRİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22971,
+    "neighbor_name": "BÜYÜKKÖSEBALCI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22989,
+    "neighbor_name": "CAMİLİMANDA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22905,
+    "neighbor_name": "CIRBIKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23008,
+    "neighbor_name": "CİN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22831,
+    "neighbor_name": "ÇAĞBAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22870,
+    "neighbor_name": "ÇAKIRLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22932,
+    "neighbor_name": "ÇAMALAN B.M MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22881,
+    "neighbor_name": "ÇAMTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22925,
+    "neighbor_name": "ÇATALCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22974,
+    "neighbor_name": "ÇAVDARLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22933,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22855,
+    "neighbor_name": "ÇEVRELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22893,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22966,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22934,
+    "neighbor_name": "ÇİRİŞTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22926,
+    "neighbor_name": "ÇOKAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22975,
+    "neighbor_name": "ÇÖPLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22910,
+    "neighbor_name": "ÇUKURBAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22835,
+    "neighbor_name": "DADALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22943,
+    "neighbor_name": "DAMLAMA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22913,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22854,
+    "neighbor_name": "DORAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22869,
+    "neighbor_name": "EGEMEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22984,
+    "neighbor_name": "EMİNLİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22985,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22837,
+    "neighbor_name": "ESENLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22856,
+    "neighbor_name": "ESKİŞEHİR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22864,
+    "neighbor_name": "GÖÇÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22838,
+    "neighbor_name": "GÖMMECE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23001,
+    "neighbor_name": "GÜLEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22992,
+    "neighbor_name": "GÜNYURDU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22977,
+    "neighbor_name": "HACIBOZAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22928,
+    "neighbor_name": "HACIHAMZALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22887,
+    "neighbor_name": "HALİTAĞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22920,
+    "neighbor_name": "HASANAĞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22990,
+    "neighbor_name": "HELEKE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22954,
+    "neighbor_name": "İBRİŞİM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22843,
+    "neighbor_name": "İNCİRGEDİĞİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22894,
+    "neighbor_name": "İNCİRLİKUYU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22857,
+    "neighbor_name": "İNKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22884,
+    "neighbor_name": "KABURGEDİĞİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22865,
+    "neighbor_name": "KADELLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22886,
+    "neighbor_name": "KAKLIKTAŞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22846,
+    "neighbor_name": "KALEBURCU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22898,
+    "neighbor_name": "KANBERHÜYÜĞÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22995,
+    "neighbor_name": "KARAÇERÇİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22876,
+    "neighbor_name": "KARADİKEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22938,
+    "neighbor_name": "KARADİRLİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22899,
+    "neighbor_name": "KARAKÜTÜK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22859,
+    "neighbor_name": "KARAYAYLA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22839,
+    "neighbor_name": "KARGILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22877,
+    "neighbor_name": "KARSAVRAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22986,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22996,
+    "neighbor_name": "KEFELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22908,
+    "neighbor_name": "KELAHMET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22944,
+    "neighbor_name": "KERİMLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22847,
+    "neighbor_name": "KEŞLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22945,
+    "neighbor_name": "KIRIT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22878,
+    "neighbor_name": "KIZILÇUKUR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22914,
+    "neighbor_name": "KOCAKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22967,
+    "neighbor_name": "KOÇMARLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22860,
+    "neighbor_name": "KONAKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22935,
+    "neighbor_name": "KOZOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22915,
+    "neighbor_name": "KÖRLÜ BEYİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22861,
+    "neighbor_name": "KÖSEBALCI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22841,
+    "neighbor_name": "KÖSELERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22946,
+    "neighbor_name": "KULAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22998,
+    "neighbor_name": "KUMDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22958,
+    "neighbor_name": "KURBANLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22896,
+    "neighbor_name": "KURTÇUKURU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22980,
+    "neighbor_name": "KUŞÇULAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22842,
+    "neighbor_name": "KÜTÜKLÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22936,
+    "neighbor_name": "MAHMUTAĞA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22858,
+    "neighbor_name": "MANTAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22981,
+    "neighbor_name": "MEŞELİK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22982,
+    "neighbor_name": "MURATLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22993,
+    "neighbor_name": "NEMİROĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22848,
+    "neighbor_name": "OLUKKOYAĞI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22923,
+    "neighbor_name": "ÖZBEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23004,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22929,
+    "neighbor_name": "PİRÖMERLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22909,
+    "neighbor_name": "SAĞLIKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22959,
+    "neighbor_name": "SANDAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22879,
+    "neighbor_name": "SANLICA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22888,
+    "neighbor_name": "SARIVELİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22955,
+    "neighbor_name": "SAYKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22947,
+    "neighbor_name": "SIRAKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22873,
+    "neighbor_name": "SİMİTHACILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22917,
+    "neighbor_name": "SUCULAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22907,
+    "neighbor_name": "TAKBAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22960,
+    "neighbor_name": "TAŞÇILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22948,
+    "neighbor_name": "TAŞKUYU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22866,
+    "neighbor_name": "TAŞOBASI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22961,
+    "neighbor_name": "TEKELİÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22953,
+    "neighbor_name": "TEPEÇAYLAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22952,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22978,
+    "neighbor_name": "TEPETAŞPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22900,
+    "neighbor_name": "TOPAKLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22969,
+    "neighbor_name": "TOPÇU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22962,
+    "neighbor_name": "ULAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23009,
+    "neighbor_name": "VERİMLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22849,
+    "neighbor_name": "YALAMIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22930,
+    "neighbor_name": "YANIKKIŞLA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22850,
+    "neighbor_name": "YARAMIŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22937,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22973,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22880,
+    "neighbor_name": "YENİÇAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22836,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22991,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 23003,
+    "neighbor_name": "YUNUSOĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 463,
+    "district_name": "TARSUS",
+    "neighbor_id": 22931,
+    "neighbor_name": "YÜKSEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23351,
+    "neighbor_name": "AKBELEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23378,
+    "neighbor_name": "ALADAĞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23373,
+    "neighbor_name": "ALSANCAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23374,
+    "neighbor_name": "ARSLANKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23352,
+    "neighbor_name": "BULUKLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23363,
+    "neighbor_name": "ÇAĞLARCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23372,
+    "neighbor_name": "ÇOPURLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23367,
+    "neighbor_name": "ÇUKUROVA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23338,
+    "neighbor_name": "DEĞNEK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23392,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23354,
+    "neighbor_name": "GÜZELYAYLA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23355,
+    "neighbor_name": "HAMZABEYLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23344,
+    "neighbor_name": "HOROZLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23400,
+    "neighbor_name": "HÜSEYİN OKAN MERZECİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23345,
+    "neighbor_name": "IŞIKTEPE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23379,
+    "neighbor_name": "KARAİSALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23348,
+    "neighbor_name": "KAVAKLIPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23358,
+    "neighbor_name": "KAYRAKKEŞLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23387,
+    "neighbor_name": "KERİMLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23359,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23382,
+    "neighbor_name": "MUSTAFA KEMAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23369,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23370,
+    "neighbor_name": "PORTAKAL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 49888,
+    "neighbor_name": "SADİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23360,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23389,
+    "neighbor_name": "TIRTAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23341,
+    "neighbor_name": "TOZKOPARAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23346,
+    "neighbor_name": "TURGUT TÜRKALP MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23401,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23384,
+    "neighbor_name": "YAVCA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23347,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23404,
+    "neighbor_name": "YUSUF KILIÇ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23385,
+    "neighbor_name": "YÜKSEKOLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23381,
+    "neighbor_name": "ZEKİ AYAN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23343,
+    "neighbor_name": "ALANYALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23396,
+    "neighbor_name": "ARPAÇSAKARLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23386,
+    "neighbor_name": "AYVAGEDİĞİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23376,
+    "neighbor_name": "BEKİRALANI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23361,
+    "neighbor_name": "ÇAĞDAŞKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23350,
+    "neighbor_name": "ÇAMLIDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23342,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23356,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23394,
+    "neighbor_name": "ÇELEBİLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23397,
+    "neighbor_name": "DALAKDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23368,
+    "neighbor_name": "DARISEKİSİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23388,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23353,
+    "neighbor_name": "DORUKLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23398,
+    "neighbor_name": "DÜĞDÜÖREN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23357,
+    "neighbor_name": "EVRENLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23399,
+    "neighbor_name": "GÖZNE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23364,
+    "neighbor_name": "GÜNEYKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23362,
+    "neighbor_name": "HALKKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23365,
+    "neighbor_name": "KAŞLI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23395,
+    "neighbor_name": "KEPİRLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23393,
+    "neighbor_name": "KIZILKAYA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23339,
+    "neighbor_name": "KORUCULAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23377,
+    "neighbor_name": "KORUKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23402,
+    "neighbor_name": "KURDALİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23349,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23383,
+    "neighbor_name": "MİTHAT TOROĞLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23366,
+    "neighbor_name": "MUSALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23371,
+    "neighbor_name": "RESULKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23340,
+    "neighbor_name": "SELÇUKLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23380,
+    "neighbor_name": "SOĞUCAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23391,
+    "neighbor_name": "ŞAHİNPINARI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23390,
+    "neighbor_name": "TOROSLAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 471,
+    "district_name": "TOROSLAR",
+    "neighbor_id": 23403,
+    "neighbor_name": "YALINAYAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23024,
+    "neighbor_name": "50. YIL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23015,
+    "neighbor_name": "AKKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23018,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23039,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23030,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23011,
+    "neighbor_name": "BATIKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23031,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23038,
+    "neighbor_name": "ÇAVAK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23041,
+    "neighbor_name": "ÇİFTLİKKÖY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23040,
+    "neighbor_name": "ÇUKURKEŞLİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23020,
+    "neighbor_name": "DEĞİRMENÇAY MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23025,
+    "neighbor_name": "DENİZ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23021,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23013,
+    "neighbor_name": "EĞRİÇAM MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23012,
+    "neighbor_name": "EMİRLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23035,
+    "neighbor_name": "FUATMOREL MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23026,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23036,
+    "neighbor_name": "GÖKÇEBELEN MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23027,
+    "neighbor_name": "GÜVENEVLER MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23019,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23029,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23034,
+    "neighbor_name": "İNSU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23016,
+    "neighbor_name": "KARAHACILI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23014,
+    "neighbor_name": "KOCAHAMZALI MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23032,
+    "neighbor_name": "KOCAVİLAYET MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 50632,
+    "neighbor_name": "KUZEYKENT MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23017,
+    "neighbor_name": "LİMONLUK MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23028,
+    "neighbor_name": "MENTEŞ MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23033,
+    "neighbor_name": "PALMİYE MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23037,
+    "neighbor_name": "PİRİREİS MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23022,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 36,
+    "city_name": "MERSİN",
+    "district_id": 464,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 23023,
+    "neighbor_name": "UZUNKAŞ MAH."
+  }
+]

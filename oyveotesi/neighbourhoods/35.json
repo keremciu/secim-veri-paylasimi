@@ -1,0 +1,3466 @@
+[
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22330,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22319,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22328,
+    "neighbor_name": "TOPKAYA MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22346,
+    "neighbor_name": "AKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22321,
+    "neighbor_name": "ASLAHANE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22338,
+    "neighbor_name": "BOYUNTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22344,
+    "neighbor_name": "BÜYÜKDURDURAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22331,
+    "neighbor_name": "BÜYÜKPİRVELİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22317,
+    "neighbor_name": "CAMUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22341,
+    "neighbor_name": "CEBECİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22337,
+    "neighbor_name": "ÇETİNDURAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22343,
+    "neighbor_name": "DEMİRKENT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22323,
+    "neighbor_name": "DURAKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22324,
+    "neighbor_name": "ESENYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22333,
+    "neighbor_name": "GEÇİTKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22318,
+    "neighbor_name": "HACIPİRİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22320,
+    "neighbor_name": "İBİŞKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22332,
+    "neighbor_name": "İNCEDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22325,
+    "neighbor_name": "KALKANKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22342,
+    "neighbor_name": "KARAHAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22339,
+    "neighbor_name": "KAYADÖVEN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22326,
+    "neighbor_name": "KAYAKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22335,
+    "neighbor_name": "KÜÇÜKAKÜZÜM KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22336,
+    "neighbor_name": "KÜÇÜKDURDURAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22334,
+    "neighbor_name": "KÜREKDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22345,
+    "neighbor_name": "SULAKBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22327,
+    "neighbor_name": "SÜNGÜDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22322,
+    "neighbor_name": "ŞAHNALAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22329,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 454,
+    "district_name": "AKYAKA",
+    "neighbor_id": 22340,
+    "neighbor_name": "YERLİKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22362,
+    "neighbor_name": "BAHÇELER MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22373,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22368,
+    "neighbor_name": "YALINÇAYIR MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22385,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22351,
+    "neighbor_name": "AKÇAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22381,
+    "neighbor_name": "AKÇALAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22350,
+    "neighbor_name": "AKMAZDAM KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22392,
+    "neighbor_name": "ARSLANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22352,
+    "neighbor_name": "ATCILAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22353,
+    "neighbor_name": "AYDINGÜN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22361,
+    "neighbor_name": "BACIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22376,
+    "neighbor_name": "BARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22356,
+    "neighbor_name": "BOZYİĞİT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22393,
+    "neighbor_name": "BURCALI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22394,
+    "neighbor_name": "BÜYÜKÇATMA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22395,
+    "neighbor_name": "CARCI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22396,
+    "neighbor_name": "CARCIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22375,
+    "neighbor_name": "ÇANAKSU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22363,
+    "neighbor_name": "DAĞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22364,
+    "neighbor_name": "DEĞİRMENKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22389,
+    "neighbor_name": "DOĞRUYOL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22386,
+    "neighbor_name": "GEDİKSATILMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22365,
+    "neighbor_name": "GÖLDALI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22390,
+    "neighbor_name": "GÖNÜLALAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22354,
+    "neighbor_name": "GÜLYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22359,
+    "neighbor_name": "GÜVERCİN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22382,
+    "neighbor_name": "HASANÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22391,
+    "neighbor_name": "KAKAÇ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22347,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22369,
+    "neighbor_name": "KARAURGAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22377,
+    "neighbor_name": "KARDEŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22370,
+    "neighbor_name": "KIRAÇ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22378,
+    "neighbor_name": "KOÇKÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22397,
+    "neighbor_name": "KUYUCUK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22383,
+    "neighbor_name": "KUZGUNLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22379,
+    "neighbor_name": "KÜÇÜKBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22371,
+    "neighbor_name": "KÜÇÜKÇATMA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22348,
+    "neighbor_name": "KÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22387,
+    "neighbor_name": "MELİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22372,
+    "neighbor_name": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22398,
+    "neighbor_name": "MEYDANCIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22360,
+    "neighbor_name": "OKÇUOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22349,
+    "neighbor_name": "POLATKÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22357,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22388,
+    "neighbor_name": "TAŞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22380,
+    "neighbor_name": "TAŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22374,
+    "neighbor_name": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22384,
+    "neighbor_name": "TAŞLIAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22355,
+    "neighbor_name": "TELEK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22366,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22367,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 455,
+    "district_name": "ARPAÇAY",
+    "neighbor_id": 22358,
+    "neighbor_name": "TOMARLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22425,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22401,
+    "neighbor_name": "DAĞPINAR-MERKEZ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22407,
+    "neighbor_name": "ALEM KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22422,
+    "neighbor_name": "ARPALI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22437,
+    "neighbor_name": "AŞAĞIBAŞKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22428,
+    "neighbor_name": "BACALI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22414,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22420,
+    "neighbor_name": "BAYIRBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22400,
+    "neighbor_name": "BOSTANKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22423,
+    "neighbor_name": "CELALKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22406,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22433,
+    "neighbor_name": "DERİNÖZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22421,
+    "neighbor_name": "DOLAYLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22413,
+    "neighbor_name": "DÜZGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22434,
+    "neighbor_name": "EREN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22429,
+    "neighbor_name": "GÜLHAYRAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22415,
+    "neighbor_name": "HALIKIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22399,
+    "neighbor_name": "HASANCAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22402,
+    "neighbor_name": "HİSARÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22416,
+    "neighbor_name": "KARABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22424,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22409,
+    "neighbor_name": "KİLİTTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22430,
+    "neighbor_name": "KOCAKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22408,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22403,
+    "neighbor_name": "MAHİRBEY KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22426,
+    "neighbor_name": "OYUKLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22410,
+    "neighbor_name": "SAKLICA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22435,
+    "neighbor_name": "SORGUÇKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22411,
+    "neighbor_name": "SORKUNLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22418,
+    "neighbor_name": "ŞATIROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22432,
+    "neighbor_name": "ŞENOL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22419,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22427,
+    "neighbor_name": "TÜRKMEŞEN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22404,
+    "neighbor_name": "UZUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22405,
+    "neighbor_name": "VARLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22412,
+    "neighbor_name": "YAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22417,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22436,
+    "neighbor_name": "YEMENÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 456,
+    "district_name": "DİGOR",
+    "neighbor_id": 22431,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22566,
+    "neighbor_name": "AŞAĞIDERE MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22560,
+    "neighbor_name": "AŞAĞI KÜMBET MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22593,
+    "neighbor_name": "BAYAM MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22570,
+    "neighbor_name": "HAZNEDAR MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22578,
+    "neighbor_name": "ŞAHİNDERE MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22543,
+    "neighbor_name": "TOPRAKKALE MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22556,
+    "neighbor_name": "YUKARI DERE MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22584,
+    "neighbor_name": "YUKARI KÜMBET MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22564,
+    "neighbor_name": "ZUVAR MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22559,
+    "neighbor_name": "AĞDAM KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 50536,
+    "neighbor_name": "AKÇAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22553,
+    "neighbor_name": "AKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22534,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22533,
+    "neighbor_name": "AKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22579,
+    "neighbor_name": "ALTUNGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22535,
+    "neighbor_name": "AŞAĞIKARAGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22590,
+    "neighbor_name": "AŞAĞITUT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22558,
+    "neighbor_name": "AYDINKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22575,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22580,
+    "neighbor_name": "BÜCÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22576,
+    "neighbor_name": "CAMUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22551,
+    "neighbor_name": "ÇALLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22552,
+    "neighbor_name": "ÇAYARASI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22569,
+    "neighbor_name": "ÇAYBÜK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22577,
+    "neighbor_name": "ÇENGİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22589,
+    "neighbor_name": "ÇEPERLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22599,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22545,
+    "neighbor_name": "ÇİLEHANE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22565,
+    "neighbor_name": "ÇUKURAYVA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22554,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22548,
+    "neighbor_name": "DENİZGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22573,
+    "neighbor_name": "DEVEBÜK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22585,
+    "neighbor_name": "DİBEKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22594,
+    "neighbor_name": "DONANDI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22595,
+    "neighbor_name": "DURANLAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22541,
+    "neighbor_name": "ESENKIR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 50960,
+    "neighbor_name": "GÜMÜŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22581,
+    "neighbor_name": "GÜNİNDİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 49897,
+    "neighbor_name": "GÜNİNDİYAYLASI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22546,
+    "neighbor_name": "KARABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22547,
+    "neighbor_name": "KARABONCUK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22549,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22571,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22542,
+    "neighbor_name": "KARAKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22567,
+    "neighbor_name": "KEŞİŞKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22596,
+    "neighbor_name": "KOZLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22597,
+    "neighbor_name": "KÖMÜRLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22537,
+    "neighbor_name": "KÖRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22563,
+    "neighbor_name": "KÖTEK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22536,
+    "neighbor_name": "KULOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22591,
+    "neighbor_name": "KURUYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22592,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22538,
+    "neighbor_name": "PASLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22557,
+    "neighbor_name": "ŞABAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22540,
+    "neighbor_name": "TAŞBİLEK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22598,
+    "neighbor_name": "TAŞBURUN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22582,
+    "neighbor_name": "TOMRUKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22574,
+    "neighbor_name": "TUNÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22572,
+    "neighbor_name": "ÜRKER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22555,
+    "neighbor_name": "YAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22583,
+    "neighbor_name": "YALNIZAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22587,
+    "neighbor_name": "YANKIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22550,
+    "neighbor_name": "YELLİKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22544,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22568,
+    "neighbor_name": "YOLKORUR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 458,
+    "district_name": "KAĞIZMAN",
+    "neighbor_id": 22588,
+    "neighbor_name": "YUKARIKARAGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22446,
+    "neighbor_name": "30 EKİM MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22473,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22478,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22509,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22503,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22504,
+    "neighbor_name": "BAYRAMPAŞA MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22524,
+    "neighbor_name": "BÜLBÜL MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22459,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22490,
+    "neighbor_name": "FEVZİÇAKMAK MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22476,
+    "neighbor_name": "HAFIZPAŞA MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22513,
+    "neighbor_name": "HALİTPAŞA MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22492,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22449,
+    "neighbor_name": "KALEİÇİ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22456,
+    "neighbor_name": "KARADAĞ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22450,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22530,
+    "neighbor_name": "ORTAKAPI MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22512,
+    "neighbor_name": "ÖRNEK MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22457,
+    "neighbor_name": "PAŞAÇAYIRI MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22445,
+    "neighbor_name": "SUKAPI MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22463,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22441,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22491,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22471,
+    "neighbor_name": "YUSUFPAŞA MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22507,
+    "neighbor_name": "AĞADEVE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22472,
+    "neighbor_name": "AKBABA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22464,
+    "neighbor_name": "AKDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22516,
+    "neighbor_name": "ALACA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22501,
+    "neighbor_name": "ALÇILI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22438,
+    "neighbor_name": "ANİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22502,
+    "neighbor_name": "ARAZOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22493,
+    "neighbor_name": "ARSLANİZİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22453,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22447,
+    "neighbor_name": "ATAYURT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22486,
+    "neighbor_name": "AYAKGEDİKLER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22454,
+    "neighbor_name": "AYDINALAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22494,
+    "neighbor_name": "AZAT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22523,
+    "neighbor_name": "BAŞGEDİKLER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22517,
+    "neighbor_name": "BAŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22458,
+    "neighbor_name": "BAYRAKTAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22487,
+    "neighbor_name": "BEKLER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22528,
+    "neighbor_name": "BOĞATEPE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 50598,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22488,
+    "neighbor_name": "BORLUK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22448,
+    "neighbor_name": "BOZKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22443,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22474,
+    "neighbor_name": "BÜYÜKAKÜZÜM KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22495,
+    "neighbor_name": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22477,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22515,
+    "neighbor_name": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22482,
+    "neighbor_name": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22442,
+    "neighbor_name": "ÇERME KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22506,
+    "neighbor_name": "ÇIĞIRGAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22452,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22489,
+    "neighbor_name": "DAVUL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22505,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22525,
+    "neighbor_name": "DİKME KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22466,
+    "neighbor_name": "ESENKENT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22455,
+    "neighbor_name": "ESENYAZI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22475,
+    "neighbor_name": "EŞMEYAZI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22518,
+    "neighbor_name": "GELİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22439,
+    "neighbor_name": "GÜDELİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22519,
+    "neighbor_name": "HACIHALİL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22520,
+    "neighbor_name": "HACIVELİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22529,
+    "neighbor_name": "HALEFOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22526,
+    "neighbor_name": "HAMZAGEREK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22496,
+    "neighbor_name": "HAPANLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22479,
+    "neighbor_name": "HASÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22508,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22460,
+    "neighbor_name": "KARAÇOBAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22527,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22467,
+    "neighbor_name": "KARAKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22514,
+    "neighbor_name": "KOCABAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22510,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22440,
+    "neighbor_name": "KÜÇÜKBOĞATEPE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22468,
+    "neighbor_name": "KÜÇÜKPİRVELİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22461,
+    "neighbor_name": "KÜÇÜKYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22444,
+    "neighbor_name": "KÜLVEREN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22480,
+    "neighbor_name": "KÜMBETLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22497,
+    "neighbor_name": "MAKSUTÇUK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22469,
+    "neighbor_name": "MEZRAA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22462,
+    "neighbor_name": "OĞUZLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22483,
+    "neighbor_name": "ORTAGEDİKLER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22522,
+    "neighbor_name": "ÖLÇÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22484,
+    "neighbor_name": "SOYLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22499,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22498,
+    "neighbor_name": "SUBATAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22451,
+    "neighbor_name": "TAZEKENT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22511,
+    "neighbor_name": "TEKNELİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22521,
+    "neighbor_name": "ÜÇBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22531,
+    "neighbor_name": "VERİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22532,
+    "neighbor_name": "YAĞIKESEN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22485,
+    "neighbor_name": "YALÇINLAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22470,
+    "neighbor_name": "YALINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22500,
+    "neighbor_name": "YILANLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 457,
+    "district_name": "KARS MERKEZ",
+    "neighbor_id": 22481,
+    "neighbor_name": "YÜCELEN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22175,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22193,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22213,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22214,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 50533,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22189,
+    "neighbor_name": "KAZIMKARABEKİR MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22200,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22212,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22188,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22169,
+    "neighbor_name": "AKKOZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22224,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22218,
+    "neighbor_name": "ALİSOFU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22225,
+    "neighbor_name": "ALTINBULAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22220,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22226,
+    "neighbor_name": "ASBUĞA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22184,
+    "neighbor_name": "AŞAĞISALLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22205,
+    "neighbor_name": "BALABANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22174,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22192,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22219,
+    "neighbor_name": "BELENCİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22209,
+    "neighbor_name": "BEŞYOL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 50856,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22195,
+    "neighbor_name": "BOZAT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22207,
+    "neighbor_name": "ÇAMYAZI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22223,
+    "neighbor_name": "ÇARDAKÇATI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22206,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22197,
+    "neighbor_name": "ÇOLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22180,
+    "neighbor_name": "EŞMEÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22196,
+    "neighbor_name": "GECİKMEZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22221,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22170,
+    "neighbor_name": "HAMAMLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22171,
+    "neighbor_name": "HANDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22208,
+    "neighbor_name": "İNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22191,
+    "neighbor_name": "İSİSU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22176,
+    "neighbor_name": "KALEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22177,
+    "neighbor_name": "KARAKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22201,
+    "neighbor_name": "KARAKURT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22202,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22185,
+    "neighbor_name": "KARAURGAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 49471,
+    "neighbor_name": "KAYALIBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22181,
+    "neighbor_name": "KAZANTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22210,
+    "neighbor_name": "KAZIKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22178,
+    "neighbor_name": "KOÇOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22227,
+    "neighbor_name": "KOZAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22228,
+    "neighbor_name": "KÖROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22179,
+    "neighbor_name": "KURBANÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22203,
+    "neighbor_name": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22229,
+    "neighbor_name": "ODALAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22172,
+    "neighbor_name": "ORTAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22186,
+    "neighbor_name": "PARMAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22204,
+    "neighbor_name": "SIRATAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22182,
+    "neighbor_name": "SIRBASAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22211,
+    "neighbor_name": "SÜNGÜTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22194,
+    "neighbor_name": "ŞEHİTEMİN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22217,
+    "neighbor_name": "ŞEHİTHALİT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22215,
+    "neighbor_name": "TAŞLIGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22187,
+    "neighbor_name": "TOPKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22216,
+    "neighbor_name": "UZUNGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22190,
+    "neighbor_name": "YAĞBASAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22198,
+    "neighbor_name": "YARKAYA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22173,
+    "neighbor_name": "YAYIKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22183,
+    "neighbor_name": "YENİGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22222,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 451,
+    "district_name": "SARIKAMIŞ",
+    "neighbor_id": 22199,
+    "neighbor_name": "YUKARISALLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22247,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22249,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22285,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22283,
+    "neighbor_name": "AKÇAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22253,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22278,
+    "neighbor_name": "AKYAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22235,
+    "neighbor_name": "ALİSOFU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22230,
+    "neighbor_name": "AŞAĞIDAMLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22231,
+    "neighbor_name": "AŞAĞIKOTANLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22271,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22264,
+    "neighbor_name": "BAYBURT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22270,
+    "neighbor_name": "BAYKARA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22236,
+    "neighbor_name": "BENLİAHMET KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22232,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22279,
+    "neighbor_name": "BOZKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22272,
+    "neighbor_name": "BÖLÜKBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22233,
+    "neighbor_name": "BÜYÜKDERE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22284,
+    "neighbor_name": "BÜYÜK OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22242,
+    "neighbor_name": "CAVLAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22277,
+    "neighbor_name": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22282,
+    "neighbor_name": "ÇIPLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22254,
+    "neighbor_name": "DARBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22280,
+    "neighbor_name": "DÖLBENTLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22273,
+    "neighbor_name": "ESKİGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22237,
+    "neighbor_name": "ESKİGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22259,
+    "neighbor_name": "GELİNALAN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22244,
+    "neighbor_name": "GÜRBÜZLER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22248,
+    "neighbor_name": "HASBEY KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22261,
+    "neighbor_name": "İĞDİR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22243,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22245,
+    "neighbor_name": "KARAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22256,
+    "neighbor_name": "KARAHAMZA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22265,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22257,
+    "neighbor_name": "KATRANLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22238,
+    "neighbor_name": "KAYNARLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22234,
+    "neighbor_name": "KEKEÇ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22258,
+    "neighbor_name": "KIRKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22266,
+    "neighbor_name": "KOŞAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22239,
+    "neighbor_name": "KOYUNYURDU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22240,
+    "neighbor_name": "LALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22275,
+    "neighbor_name": "MOLLAMUSTAFA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22267,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22250,
+    "neighbor_name": "ORTAKALE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22268,
+    "neighbor_name": "SARIGÜN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22251,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22269,
+    "neighbor_name": "TOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22246,
+    "neighbor_name": "TUYGUN KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22276,
+    "neighbor_name": "YALNIZÇAM KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22252,
+    "neighbor_name": "YAMAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22241,
+    "neighbor_name": "YASSICA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22281,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22263,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22260,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22274,
+    "neighbor_name": "YOLGEÇMEZ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22255,
+    "neighbor_name": "YUKARIDAMLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 452,
+    "district_name": "SELİM",
+    "neighbor_id": 22262,
+    "neighbor_name": "YUKARIKOTANLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22296,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22290,
+    "neighbor_name": "İNKILAP MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22309,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22297,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22291,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22300,
+    "neighbor_name": "AYNALI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22294,
+    "neighbor_name": "BÜYÜKÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22295,
+    "neighbor_name": "ÇAMÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22308,
+    "neighbor_name": "ÇIĞRIKLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22292,
+    "neighbor_name": "DOYUMLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22307,
+    "neighbor_name": "ERDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22304,
+    "neighbor_name": "ERMİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22305,
+    "neighbor_name": "GÖLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22301,
+    "neighbor_name": "HARMANLI KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22289,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22299,
+    "neighbor_name": "İNCİLİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22314,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22302,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22311,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22293,
+    "neighbor_name": "KAYALIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22306,
+    "neighbor_name": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22287,
+    "neighbor_name": "KIRÇİÇEĞİ KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22286,
+    "neighbor_name": "KIRKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22312,
+    "neighbor_name": "KİZİROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22288,
+    "neighbor_name": "KURUGÖL KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22303,
+    "neighbor_name": "KÜÇÜKÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22313,
+    "neighbor_name": "ORTALAR KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22298,
+    "neighbor_name": "PORSUKLU KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22310,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22315,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 35,
+    "city_name": "KARS",
+    "district_id": 453,
+    "district_name": "SUSUZ",
+    "neighbor_id": 22316,
+    "neighbor_name": "YOLBOYU KÖYÜ"
+  }
+]

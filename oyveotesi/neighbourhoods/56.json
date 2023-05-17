@@ -1,0 +1,1818 @@
+[
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35768,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35789,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 50588,
+    "neighbor_name": "NECMETTİN ERBAKAN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35792,
+    "neighbor_name": "YALÇIN NANE MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35775,
+    "neighbor_name": "AKÇAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35776,
+    "neighbor_name": "ALAHAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35784,
+    "neighbor_name": "AŞAĞIBEYLERBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35790,
+    "neighbor_name": "BEŞİRİYE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35793,
+    "neighbor_name": "ÇANGALLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35774,
+    "neighbor_name": "ÇILDIROBA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35791,
+    "neighbor_name": "ERİKLİYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35769,
+    "neighbor_name": "GEÇERLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35777,
+    "neighbor_name": "GÜNECE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35770,
+    "neighbor_name": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35787,
+    "neighbor_name": "HAVUZLUÇAM KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35778,
+    "neighbor_name": "KALBURSAİT KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35788,
+    "neighbor_name": "KARACURUN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35771,
+    "neighbor_name": "KARAÇAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35779,
+    "neighbor_name": "KILCAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35783,
+    "neighbor_name": "MERCANLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35772,
+    "neighbor_name": "SAĞLICAK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35767,
+    "neighbor_name": "SELMİNCİK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35773,
+    "neighbor_name": "TAŞLIBAKAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35780,
+    "neighbor_name": "TURANLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35785,
+    "neighbor_name": "UĞURLAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35786,
+    "neighbor_name": "YAĞIZKÖY"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 716,
+    "district_name": "ELBEYLİ",
+    "neighbor_id": 35781,
+    "neighbor_name": "YENİDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35796,
+    "neighbor_name": "ABDİOYMAĞI MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35886,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35869,
+    "neighbor_name": "ALBAY İBRAHİM KARAOĞLANOĞLU MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35850,
+    "neighbor_name": "ALTINÜZÜM MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35834,
+    "neighbor_name": "ASLAN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35802,
+    "neighbor_name": "AŞIT MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35865,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35866,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35797,
+    "neighbor_name": "BİLALİ HABEŞ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35807,
+    "neighbor_name": "BÖLÜK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35879,
+    "neighbor_name": "BÜYÜKKÜTAH MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35845,
+    "neighbor_name": "CANPOLAT PAŞA MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35867,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35893,
+    "neighbor_name": "ÇAYLAK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35908,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35798,
+    "neighbor_name": "DEVECİLER MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35881,
+    "neighbor_name": "DOĞAN GÜREŞ PAŞA MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35841,
+    "neighbor_name": "EBULÜLE MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35803,
+    "neighbor_name": "EKREM ÇETİN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35851,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35827,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35861,
+    "neighbor_name": "HACI GÜMÜŞ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35909,
+    "neighbor_name": "HACI İLYAS MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35809,
+    "neighbor_name": "HAKVERDİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35919,
+    "neighbor_name": "HASAN KAMİL DEMİRBAŞ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35875,
+    "neighbor_name": "HELVACIOĞLU MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35901,
+    "neighbor_name": "HİNDİOĞLU MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35810,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35913,
+    "neighbor_name": "İNNAPLI KÜTAH MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35889,
+    "neighbor_name": "İSLAMBEY MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35848,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35799,
+    "neighbor_name": "KANUNİ SULTAN SÜLEYMAN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35899,
+    "neighbor_name": "KARAALİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35887,
+    "neighbor_name": "KARTALBEY MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35794,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35800,
+    "neighbor_name": "KETENCİLER MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35816,
+    "neighbor_name": "MARAŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 49416,
+    "neighbor_name": "MEHMET ABDİ BULUT MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35862,
+    "neighbor_name": "MEHMET RIFAT KAZANCIOĞLU MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35833,
+    "neighbor_name": "MEHMET SANLI MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35858,
+    "neighbor_name": "MERCİDABIK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35805,
+    "neighbor_name": "MEŞETLİK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35882,
+    "neighbor_name": "MIHALİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35917,
+    "neighbor_name": "MUALLİM RIFAT BİLGE MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35877,
+    "neighbor_name": "MULLAHAMİT MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35900,
+    "neighbor_name": "MÜCAHİTLER MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35828,
+    "neighbor_name": "MÜSLÜMANBEY MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35843,
+    "neighbor_name": "NACAROĞLU MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35902,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35826,
+    "neighbor_name": "NAMIK ÜNLER PAŞA MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35883,
+    "neighbor_name": "NECMETTİN ERBAKAN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35839,
+    "neighbor_name": "NEDİM ÖKMEN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35847,
+    "neighbor_name": "NURETTİN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35853,
+    "neighbor_name": "OKÇULAR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35897,
+    "neighbor_name": "OSMAN GAZİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35876,
+    "neighbor_name": "OYLUM MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35815,
+    "neighbor_name": "ÖNCÜ PINAR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35916,
+    "neighbor_name": "POLAT PAŞA MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35820,
+    "neighbor_name": "SARAÇ MEHMET ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35854,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35910,
+    "neighbor_name": "ŞEHİT SAKIP MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35868,
+    "neighbor_name": "ŞIH ABDULLAH MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35872,
+    "neighbor_name": "ŞIH AHMET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35823,
+    "neighbor_name": "ŞIHLAR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35873,
+    "neighbor_name": "ŞIH MEHMET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35836,
+    "neighbor_name": "ŞÖRHABİL MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35835,
+    "neighbor_name": "TABAKHANE MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35884,
+    "neighbor_name": "TEKYE MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35871,
+    "neighbor_name": "TIRIKLI MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 49792,
+    "neighbor_name": "TOSYALI MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35829,
+    "neighbor_name": "VAİZ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35896,
+    "neighbor_name": "YAŞAR AKTÜRK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35903,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35817,
+    "neighbor_name": "YEDİ ARALIK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35892,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35821,
+    "neighbor_name": "ZEYTİNLİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35874,
+    "neighbor_name": "ACAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35905,
+    "neighbor_name": "AKÇABAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35849,
+    "neighbor_name": "AKINCI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35831,
+    "neighbor_name": "ALATEPE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35918,
+    "neighbor_name": "ARPAKESMEZ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35894,
+    "neighbor_name": "BAŞMAĞARA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35819,
+    "neighbor_name": "BEŞENLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35855,
+    "neighbor_name": "BEŞİKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35806,
+    "neighbor_name": "BOZCAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35878,
+    "neighbor_name": "BULAMAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35914,
+    "neighbor_name": "BÜYÜKKONAK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35837,
+    "neighbor_name": "CERİTLER KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35818,
+    "neighbor_name": "ÇAKKALLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35857,
+    "neighbor_name": "ÇALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35885,
+    "neighbor_name": "ÇERÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35822,
+    "neighbor_name": "ÇÖRTEN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35859,
+    "neighbor_name": "ÇUKUROBA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35852,
+    "neighbor_name": "DELİÇAY KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35898,
+    "neighbor_name": "DELİOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35906,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35880,
+    "neighbor_name": "DEMİRIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35860,
+    "neighbor_name": "DOĞANÇAY KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35907,
+    "neighbor_name": "DÖLEK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35846,
+    "neighbor_name": "DURUCA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35812,
+    "neighbor_name": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35804,
+    "neighbor_name": "GÖZKAYA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35808,
+    "neighbor_name": "GÜLBABA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35813,
+    "neighbor_name": "GÜMÜŞSUYU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35838,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35814,
+    "neighbor_name": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35824,
+    "neighbor_name": "HICIPOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35863,
+    "neighbor_name": "HİSAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35840,
+    "neighbor_name": "İNANLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35890,
+    "neighbor_name": "KAPDEĞİRMENİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35915,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35895,
+    "neighbor_name": "KARAÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35825,
+    "neighbor_name": "KARAMELİK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35832,
+    "neighbor_name": "KOCABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35801,
+    "neighbor_name": "KUSKUNKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35811,
+    "neighbor_name": "KUZUİNİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35911,
+    "neighbor_name": "KÜÇÜKKONAK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35842,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35888,
+    "neighbor_name": "MAĞARACIK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 49820,
+    "neighbor_name": "MEHMETALİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35920,
+    "neighbor_name": "MISIRCIK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35891,
+    "neighbor_name": "NARLICA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35870,
+    "neighbor_name": "SAATLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35912,
+    "neighbor_name": "SÜNGÜTEPE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35844,
+    "neighbor_name": "TAHTALI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35795,
+    "neighbor_name": "TANBIRALI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35856,
+    "neighbor_name": "TOPDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35830,
+    "neighbor_name": "UZUNLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 717,
+    "district_name": "KİLİS MERKEZ",
+    "neighbor_id": 35864,
+    "neighbor_name": "YAVUZLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35715,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35726,
+    "neighbor_name": "MURATHÜYÜĞÜ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35705,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35734,
+    "neighbor_name": "AĞCAKENT KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35723,
+    "neighbor_name": "AŞAĞIBADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35702,
+    "neighbor_name": "AŞAĞIKALECİK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35696,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35716,
+    "neighbor_name": "BELENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35697,
+    "neighbor_name": "BOZKAYA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35725,
+    "neighbor_name": "ÇAYIRALTI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35714,
+    "neighbor_name": "ÇINARKÖY"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35744,
+    "neighbor_name": "DORUCAK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35717,
+    "neighbor_name": "DUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35718,
+    "neighbor_name": "FERİCEK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35719,
+    "neighbor_name": "FIRLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35708,
+    "neighbor_name": "GEÇİTBOYU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35731,
+    "neighbor_name": "GÖKMUSA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35707,
+    "neighbor_name": "GÖZLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35732,
+    "neighbor_name": "GÜNDEĞER KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35709,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35740,
+    "neighbor_name": "HASANCALI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35741,
+    "neighbor_name": "HAYDARLAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35739,
+    "neighbor_name": "HÜSEYİNOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35703,
+    "neighbor_name": "KARADUT KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35704,
+    "neighbor_name": "KARBEYAZ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35720,
+    "neighbor_name": "KAYAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35710,
+    "neighbor_name": "KAYNAKLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35721,
+    "neighbor_name": "KIZILKENT KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35742,
+    "neighbor_name": "KOÇCAĞIZ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35698,
+    "neighbor_name": "KOLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35711,
+    "neighbor_name": "KOZLUBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35727,
+    "neighbor_name": "KÖRAHMETHÜYÜĞÜ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35722,
+    "neighbor_name": "KURTARAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35735,
+    "neighbor_name": "KÜRTÜNCÜ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35699,
+    "neighbor_name": "MADENYOLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35706,
+    "neighbor_name": "SABANLI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35743,
+    "neighbor_name": "ŞENLİKÇE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35728,
+    "neighbor_name": "TAHTALIKARADUT KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35712,
+    "neighbor_name": "TOKAÇGEMRİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35729,
+    "neighbor_name": "TOPALLAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35713,
+    "neighbor_name": "UĞURTEPE KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35730,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35724,
+    "neighbor_name": "YASTICA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35733,
+    "neighbor_name": "YEDİGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35736,
+    "neighbor_name": "YEŞİLOBA KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35700,
+    "neighbor_name": "YUKARIBADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35701,
+    "neighbor_name": "YUKARIKALECİK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35737,
+    "neighbor_name": "YUVABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 714,
+    "district_name": "MUSABEYLİ",
+    "neighbor_id": 35738,
+    "neighbor_name": "ZEYTİNBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35765,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35752,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35762,
+    "neighbor_name": "EKREM ÇETİN MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35751,
+    "neighbor_name": "KAYMAKAM KÜRŞAT AĞCA MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35763,
+    "neighbor_name": "SOSYAL KONUTLAR MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35764,
+    "neighbor_name": "ŞEHİT ALİ MAH."
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35758,
+    "neighbor_name": "BAĞARASI KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35766,
+    "neighbor_name": "BEKTAŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35759,
+    "neighbor_name": "BELENÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35750,
+    "neighbor_name": "DÜMBÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35753,
+    "neighbor_name": "EĞLEN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35754,
+    "neighbor_name": "KIZILGÖL KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35760,
+    "neighbor_name": "ÖMERCİK KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35749,
+    "neighbor_name": "ÖMEROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35746,
+    "neighbor_name": "POLATBEY KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35755,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35756,
+    "neighbor_name": "TAŞLIALAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35761,
+    "neighbor_name": "ÜRÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35747,
+    "neighbor_name": "YENİYAPAN KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35748,
+    "neighbor_name": "YENİYURT KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35757,
+    "neighbor_name": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 56,
+    "city_name": "KİLİS",
+    "district_id": 715,
+    "district_name": "POLATELİ",
+    "neighbor_id": 35745,
+    "neighbor_name": "YILANCA KÖYÜ"
+  }
+]

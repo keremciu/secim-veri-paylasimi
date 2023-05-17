@@ -1,0 +1,2562 @@
+[
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47567,
+    "neighbor_name": "BALA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47565,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47557,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47568,
+    "neighbor_name": "KIRAÇ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47559,
+    "neighbor_name": "KUM MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47560,
+    "neighbor_name": "SAKARCA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47566,
+    "neighbor_name": "AŞAĞIYUMRUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47561,
+    "neighbor_name": "ÇAMLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47562,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47563,
+    "neighbor_name": "HİSAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47569,
+    "neighbor_name": "KİPRİT KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47570,
+    "neighbor_name": "MAMAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47558,
+    "neighbor_name": "YAZIR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47564,
+    "neighbor_name": "YEŞİLBAŞKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 939,
+    "district_name": "AĞLASUN",
+    "neighbor_id": 47571,
+    "neighbor_name": "YUMRUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47551,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47549,
+    "neighbor_name": "HEYBELİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47548,
+    "neighbor_name": "TAŞYAKA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47552,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47555,
+    "neighbor_name": "ASMABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47556,
+    "neighbor_name": "BALLIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47553,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47554,
+    "neighbor_name": "ÇÖRTEN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 938,
+    "district_name": "ALTINYAYLA",
+    "neighbor_id": 47550,
+    "neighbor_name": "KIZILYAKA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47592,
+    "neighbor_name": "ALAATTİN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47577,
+    "neighbor_name": "ATİLLA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47604,
+    "neighbor_name": "BARBOROS MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47582,
+    "neighbor_name": "CAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47601,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47632,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47623,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47612,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47616,
+    "neighbor_name": "KARAYVATLAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47583,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47618,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47619,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47591,
+    "neighbor_name": "OĞUZHAN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47624,
+    "neighbor_name": "ONAÇ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47629,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47608,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47609,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47576,
+    "neighbor_name": "YETMİŞ EVLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47625,
+    "neighbor_name": "YÖRÜKLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47626,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47575,
+    "neighbor_name": "KIZILKAYA-AVDAN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47595,
+    "neighbor_name": "KIZILKAYA-PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47628,
+    "neighbor_name": "KIZILKAYA-YENİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47586,
+    "neighbor_name": "KIZILKAYA-YUVA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47581,
+    "neighbor_name": "KOCAALİLER-CAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47587,
+    "neighbor_name": "KOCAALİLER-GÖKALAN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47588,
+    "neighbor_name": "KOCAALİLER-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47589,
+    "neighbor_name": "KOCAALİLER-PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47634,
+    "neighbor_name": "ALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47597,
+    "neighbor_name": "ANBAHAN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47622,
+    "neighbor_name": "AVDANCIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47572,
+    "neighbor_name": "BELÖREN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47627,
+    "neighbor_name": "BEŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47614,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47631,
+    "neighbor_name": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47602,
+    "neighbor_name": "ÇOBANPINARI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47580,
+    "neighbor_name": "DAĞARCIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47615,
+    "neighbor_name": "DUTALANI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47610,
+    "neighbor_name": "ELSAZI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47605,
+    "neighbor_name": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47603,
+    "neighbor_name": "İNCİRDERE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47606,
+    "neighbor_name": "KARAALİLER KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47613,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47573,
+    "neighbor_name": "KARAOT KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47584,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47594,
+    "neighbor_name": "KARASEKİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47585,
+    "neighbor_name": "KARGI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47574,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 50304,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47617,
+    "neighbor_name": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47611,
+    "neighbor_name": "KESTEL KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47598,
+    "neighbor_name": "KIZILCAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47596,
+    "neighbor_name": "KIZILLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47607,
+    "neighbor_name": "KIZILSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47590,
+    "neighbor_name": "KUŞBABA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47578,
+    "neighbor_name": "KUYUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47630,
+    "neighbor_name": "SEYDİKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47620,
+    "neighbor_name": "SUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47599,
+    "neighbor_name": "TAŞYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47600,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47579,
+    "neighbor_name": "ÜRKÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47633,
+    "neighbor_name": "ÜZÜMLÜBEL KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 940,
+    "district_name": "BUCAK",
+    "neighbor_id": 47621,
+    "neighbor_name": "YÜREĞİL KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47738,
+    "neighbor_name": "AKIN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47745,
+    "neighbor_name": "ARMAĞAN İLCİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47689,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47714,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47726,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47739,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47755,
+    "neighbor_name": "BOZKURT MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47720,
+    "neighbor_name": "BURÇ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47692,
+    "neighbor_name": "CEMİL MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47744,
+    "neighbor_name": "ÇEŞMEDAMI MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47679,
+    "neighbor_name": "DEĞİRMENLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47716,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47759,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47750,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47741,
+    "neighbor_name": "HIZIR İLYAS MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47695,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47708,
+    "neighbor_name": "KARASENİR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47735,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47722,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47704,
+    "neighbor_name": "KUYU MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47686,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47709,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47717,
+    "neighbor_name": "NECATİ BEY MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47687,
+    "neighbor_name": "ÖZGÜR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47718,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47710,
+    "neighbor_name": "RECEP MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47697,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47736,
+    "neighbor_name": "SİNAN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47758,
+    "neighbor_name": "ŞEKER EVLERİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47737,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47763,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47699,
+    "neighbor_name": "ÜÇDİBEK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47753,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47681,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47719,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47725,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47688,
+    "neighbor_name": "AKYAKA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47713,
+    "neighbor_name": "AKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47732,
+    "neighbor_name": "ASKERİYE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47690,
+    "neighbor_name": "AŞAĞI MÜSLÜMLER KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47700,
+    "neighbor_name": "AZİZİYE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47683,
+    "neighbor_name": "BAŞMAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47701,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47749,
+    "neighbor_name": "BEREKET KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47740,
+    "neighbor_name": "BEŞKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47715,
+    "neighbor_name": "BOĞAZİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47691,
+    "neighbor_name": "BOZLAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47684,
+    "neighbor_name": "BÜĞDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47727,
+    "neighbor_name": "CİMBİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47724,
+    "neighbor_name": "ÇALLICA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47698,
+    "neighbor_name": "ÇATAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47706,
+    "neighbor_name": "ÇENDİK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47754,
+    "neighbor_name": "ÇİNE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47707,
+    "neighbor_name": "DÜĞER KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47746,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47733,
+    "neighbor_name": "GÖKÇEBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47728,
+    "neighbor_name": "GÜNALAN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47721,
+    "neighbor_name": "GÜNEYYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47734,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47685,
+    "neighbor_name": "HALICILAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47682,
+    "neighbor_name": "İĞDELİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47764,
+    "neighbor_name": "İLYAS KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47760,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47742,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47747,
+    "neighbor_name": "KARAÇAL KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47751,
+    "neighbor_name": "KARAKENT KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47756,
+    "neighbor_name": "KARTALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47761,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47696,
+    "neighbor_name": "KAYAALTI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47757,
+    "neighbor_name": "KAYIŞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47762,
+    "neighbor_name": "KOCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47702,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47730,
+    "neighbor_name": "KÖKEZ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47752,
+    "neighbor_name": "KUMLUCA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47729,
+    "neighbor_name": "KURNA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47703,
+    "neighbor_name": "KURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47711,
+    "neighbor_name": "SARIOVA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47748,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47731,
+    "neighbor_name": "SULUDERE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47705,
+    "neighbor_name": "TAŞKAPI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47693,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47743,
+    "neighbor_name": "YARIKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47680,
+    "neighbor_name": "YASSIGÜME KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47694,
+    "neighbor_name": "YAYLABELİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47723,
+    "neighbor_name": "YAZIKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 943,
+    "district_name": "BURDUR MERKEZ",
+    "neighbor_id": 47712,
+    "neighbor_name": "YEŞİLDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47676,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47664,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47670,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47666,
+    "neighbor_name": "KOCAPINAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47660,
+    "neighbor_name": "MENEVŞELİK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47661,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47675,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47678,
+    "neighbor_name": "SÖĞÜT-ÇEŞME MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47662,
+    "neighbor_name": "SÖĞÜT-FATİH MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47677,
+    "neighbor_name": "SÖĞÜT-PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47673,
+    "neighbor_name": "SÖĞÜT-YEŞİL MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47663,
+    "neighbor_name": "ANBARCIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47672,
+    "neighbor_name": "BÖLMEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47665,
+    "neighbor_name": "BÜYÜKALAN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47671,
+    "neighbor_name": "İSHAKKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47667,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47668,
+    "neighbor_name": "KAYACIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47669,
+    "neighbor_name": "KIZILLAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47658,
+    "neighbor_name": "KOZAĞACI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47659,
+    "neighbor_name": "KÜÇÜKALAN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 942,
+    "district_name": "ÇAVDIR",
+    "neighbor_id": 47674,
+    "neighbor_name": "YAZIR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47544,
+    "neighbor_name": "CAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47546,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47543,
+    "neighbor_name": "BAĞSARAY KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47542,
+    "neighbor_name": "ÇEBİŞ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47545,
+    "neighbor_name": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47547,
+    "neighbor_name": "KUZKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47540,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 937,
+    "district_name": "ÇELTİKÇİ",
+    "neighbor_id": 47541,
+    "neighbor_name": "TEKKEKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47770,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47779,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47780,
+    "neighbor_name": "ÇEŞME MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47767,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47782,
+    "neighbor_name": "HORZUM MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47775,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47776,
+    "neighbor_name": "MERKEZ CAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47783,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47784,
+    "neighbor_name": "ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 49462,
+    "neighbor_name": "YUSUFÇA-YUSUFÇA MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47765,
+    "neighbor_name": "ASMALI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47785,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47766,
+    "neighbor_name": "ELMALIYURT KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47786,
+    "neighbor_name": "EVCİLER KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47781,
+    "neighbor_name": "HİSARARDI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47769,
+    "neighbor_name": "İBECİK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47768,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47774,
+    "neighbor_name": "KARGALI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47777,
+    "neighbor_name": "SORKUN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47773,
+    "neighbor_name": "UYLUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47771,
+    "neighbor_name": "YAMADI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 944,
+    "district_name": "GÖLHİSAR",
+    "neighbor_id": 47778,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47480,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47477,
+    "neighbor_name": "CAFER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47492,
+    "neighbor_name": "CAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47488,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47493,
+    "neighbor_name": "EŞELER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47478,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47482,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47490,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47486,
+    "neighbor_name": "KARAMAN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47495,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47496,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47489,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47491,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47481,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47487,
+    "neighbor_name": "KAĞILCIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47483,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47484,
+    "neighbor_name": "KILAVUZLAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47485,
+    "neighbor_name": "KILÇAN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47479,
+    "neighbor_name": "MANCA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 935,
+    "district_name": "KARAMANLI",
+    "neighbor_id": 47494,
+    "neighbor_name": "MÜRSELLER KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47789,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47791,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47792,
+    "neighbor_name": "YENİ CAMİİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47787,
+    "neighbor_name": "AKÇAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47788,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47793,
+    "neighbor_name": "BELENLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47794,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47795,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47790,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 945,
+    "district_name": "KEMER",
+    "neighbor_id": 47796,
+    "neighbor_name": "YAKALAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47643,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47657,
+    "neighbor_name": "EŞELER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47650,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47651,
+    "neighbor_name": "GÖKTÜRK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47641,
+    "neighbor_name": "KIR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47642,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47644,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47645,
+    "neighbor_name": "YOKUŞ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47637,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47656,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47638,
+    "neighbor_name": "BAYRAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47639,
+    "neighbor_name": "BELKAYA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47648,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47647,
+    "neighbor_name": "ÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47649,
+    "neighbor_name": "ECE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47652,
+    "neighbor_name": "HASANPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47635,
+    "neighbor_name": "KARAMUSA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47636,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47653,
+    "neighbor_name": "SEYDİLER KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47654,
+    "neighbor_name": "YAYLAKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47655,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47640,
+    "neighbor_name": "YUVA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 941,
+    "district_name": "TEFENNİ",
+    "neighbor_id": 47646,
+    "neighbor_name": "YUVALAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47526,
+    "neighbor_name": "BAHCELİEVLER MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47508,
+    "neighbor_name": "DEĞİRMEN MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47532,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47533,
+    "neighbor_name": "KARAATLI MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47536,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47529,
+    "neighbor_name": "KOYUNLAR ÇEŞME MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47534,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47530,
+    "neighbor_name": "AKÇAKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47519,
+    "neighbor_name": "ALANKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47525,
+    "neighbor_name": "ARMUT KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47512,
+    "neighbor_name": "AŞAĞI KIRLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47535,
+    "neighbor_name": "BAŞKUYU KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47520,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47521,
+    "neighbor_name": "BAYIRBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47500,
+    "neighbor_name": "BEDİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47507,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47513,
+    "neighbor_name": "BÜYÜKYAKA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47506,
+    "neighbor_name": "ÇALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47524,
+    "neighbor_name": "ÇARDAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47515,
+    "neighbor_name": "ÇELTEK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47499,
+    "neighbor_name": "ÇUVALLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47501,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47531,
+    "neighbor_name": "DOĞANBABA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47527,
+    "neighbor_name": "DÜDEN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47516,
+    "neighbor_name": "ELDEN KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47509,
+    "neighbor_name": "GENÇALİ KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47522,
+    "neighbor_name": "GÖKÇEYAKA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47510,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47502,
+    "neighbor_name": "HARMANLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47528,
+    "neighbor_name": "HOROZKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47523,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47517,
+    "neighbor_name": "İĞDİR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47503,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47504,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47518,
+    "neighbor_name": "NİYAZLAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47537,
+    "neighbor_name": "ONACAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47538,
+    "neighbor_name": "ORHANLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47505,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47514,
+    "neighbor_name": "SALDA KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47497,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47498,
+    "neighbor_name": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47539,
+    "neighbor_name": "YARIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 79,
+    "city_name": "BURDUR",
+    "district_id": 936,
+    "district_name": "YEŞİLOVA",
+    "neighbor_id": 47511,
+    "neighbor_name": "YUKARI KIRLI KÖYÜ"
+  }
+]

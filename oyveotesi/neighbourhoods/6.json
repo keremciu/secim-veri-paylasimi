@@ -1,0 +1,7698 @@
+[
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 66,
+    "district_name": "ADALAR",
+    "neighbor_id": 3106,
+    "neighbor_name": "BURGAZADA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 66,
+    "district_name": "ADALAR",
+    "neighbor_id": 3107,
+    "neighbor_name": "HEYBELİADA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 66,
+    "district_name": "ADALAR",
+    "neighbor_id": 3108,
+    "neighbor_name": "KINALIADA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 66,
+    "district_name": "ADALAR",
+    "neighbor_id": 3109,
+    "neighbor_name": "MADEN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 66,
+    "district_name": "ADALAR",
+    "neighbor_id": 3110,
+    "neighbor_name": "NİZAM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3698,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3699,
+    "neighbor_name": "ANADOLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3707,
+    "neighbor_name": "ARNAVUTKÖY MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3702,
+    "neighbor_name": "BAKLALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3675,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3708,
+    "neighbor_name": "BOĞAZKÖY İSTİKLAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3690,
+    "neighbor_name": "BOLLUCA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3694,
+    "neighbor_name": "BOYALIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3706,
+    "neighbor_name": "ÇİLİNGİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3684,
+    "neighbor_name": "DELİKLİKAYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3695,
+    "neighbor_name": "DURSUNKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3703,
+    "neighbor_name": "DURUSU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3678,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3691,
+    "neighbor_name": "HACIMAŞLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3685,
+    "neighbor_name": "HADIMKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3696,
+    "neighbor_name": "HARAÇÇI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3709,
+    "neighbor_name": "HASTANE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3710,
+    "neighbor_name": "HİCRET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3697,
+    "neighbor_name": "İMRAHOR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3683,
+    "neighbor_name": "İSLAMBEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3692,
+    "neighbor_name": "KARABURUN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3693,
+    "neighbor_name": "KARLIBAYIR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3676,
+    "neighbor_name": "MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3686,
+    "neighbor_name": "MAVİGÖL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3687,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3688,
+    "neighbor_name": "MERKEZ ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3704,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3711,
+    "neighbor_name": "NENEHATUN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3681,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3677,
+    "neighbor_name": "SAZLIBOSNA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3689,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3700,
+    "neighbor_name": "TAYAKADIN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3701,
+    "neighbor_name": "TERKOS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3705,
+    "neighbor_name": "YASSIÖREN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3679,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3682,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3712,
+    "neighbor_name": "YEŞİLBAYIR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 90,
+    "district_name": "ARNAVUTKÖY",
+    "neighbor_id": 3680,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2944,
+    "neighbor_name": "FERHATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2931,
+    "neighbor_name": "İÇERENKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2941,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2934,
+    "neighbor_name": "KAYIŞDAĞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2935,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2943,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2936,
+    "neighbor_name": "YENİ ÇAMLICA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2937,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2932,
+    "neighbor_name": "AŞIKVEYSEL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2938,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2933,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2939,
+    "neighbor_name": "ESATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2945,
+    "neighbor_name": "FETİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2942,
+    "neighbor_name": "KÜÇÜKBAKKALKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2940,
+    "neighbor_name": "MUSTAFA KEMAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2930,
+    "neighbor_name": "ÖRNEK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 59,
+    "district_name": "ATAŞEHİR",
+    "neighbor_id": 2946,
+    "neighbor_name": "YENİSAHRA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3558,
+    "neighbor_name": "AMBARLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3559,
+    "neighbor_name": "CİHANGİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3564,
+    "neighbor_name": "DENİZKÖŞKLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3560,
+    "neighbor_name": "GÜMÜŞPALA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3566,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3565,
+    "neighbor_name": "FİRUZKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3561,
+    "neighbor_name": "MUSTAFA KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3562,
+    "neighbor_name": "TAHTAKALE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3563,
+    "neighbor_name": "ÜNİVERSİTE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 85,
+    "district_name": "AVCILAR",
+    "neighbor_id": 3567,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2831,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2818,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2823,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2810,
+    "neighbor_name": "SANCAKTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2811,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2824,
+    "neighbor_name": "YENİGÜN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2826,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2825,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2815,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2816,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2830,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2812,
+    "neighbor_name": "YILDIZTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2813,
+    "neighbor_name": "15 TEMMUZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2820,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2814,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2817,
+    "neighbor_name": "MAHMUTBEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2819,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2827,
+    "neighbor_name": "100. YIL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2828,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2829,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2821,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 54,
+    "district_name": "BAĞCILAR",
+    "neighbor_id": 2822,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3274,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3271,
+    "neighbor_name": "SİYAVUŞPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3266,
+    "neighbor_name": "SOĞANLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3269,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3265,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3275,
+    "neighbor_name": "KOCASİNAN MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3273,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3272,
+    "neighbor_name": "ÇOBANÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3270,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3267,
+    "neighbor_name": "YENİBOSNA MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 72,
+    "district_name": "BAHÇELİEVLER",
+    "neighbor_id": 3268,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3121,
+    "neighbor_name": "ATAKÖY 1. KISIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3123,
+    "neighbor_name": "ATAKÖY 2-5-6. KISIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3111,
+    "neighbor_name": "ATAKÖY 3-4-11. KISIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3124,
+    "neighbor_name": "ATAKÖY 7-8-9-10. KISIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3112,
+    "neighbor_name": "BASINKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3117,
+    "neighbor_name": "CEVİZLİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3125,
+    "neighbor_name": "KARTALTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3113,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3118,
+    "neighbor_name": "SAKIZAĞACI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3116,
+    "neighbor_name": "ŞENLİKKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3122,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3114,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3119,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3115,
+    "neighbor_name": "ZEYTİNLİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 67,
+    "district_name": "BAKIRKÖY",
+    "neighbor_id": 3120,
+    "neighbor_name": "ZUHURATBABA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3338,
+    "neighbor_name": "BAŞAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3344,
+    "neighbor_name": "BAŞAKŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3340,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3341,
+    "neighbor_name": "ŞAMLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3347,
+    "neighbor_name": "ALTINŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3343,
+    "neighbor_name": "BAHÇEŞEHİR 1. KISIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3342,
+    "neighbor_name": "BAHÇEŞEHİR 2. KISIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3339,
+    "neighbor_name": "GÜVERCİNTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3346,
+    "neighbor_name": "ŞAHİNTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 74,
+    "district_name": "BAŞAKŞEHİR",
+    "neighbor_id": 3345,
+    "neighbor_name": "ZİYA GÖKALP MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3496,
+    "neighbor_name": "ALTINTEPSİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3495,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3492,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 50499,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3499,
+    "neighbor_name": "TERAZİDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3494,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3500,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3497,
+    "neighbor_name": "CEVATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3491,
+    "neighbor_name": "KARTALTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3493,
+    "neighbor_name": "MURATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 80,
+    "district_name": "BAYRAMPAŞA",
+    "neighbor_id": 3501,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2997,
+    "neighbor_name": "ABBASAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3012,
+    "neighbor_name": "AKAT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2998,
+    "neighbor_name": "ARNAVUTKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3006,
+    "neighbor_name": "BALMUMCU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3007,
+    "neighbor_name": "BEBEK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3013,
+    "neighbor_name": "CİHANNÜMA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3014,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2999,
+    "neighbor_name": "ETİLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2992,
+    "neighbor_name": "GAYRETTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3005,
+    "neighbor_name": "KONAKLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3008,
+    "neighbor_name": "KURUÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2993,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2994,
+    "neighbor_name": "LEVAZIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2995,
+    "neighbor_name": "LEVENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 2996,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3002,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3003,
+    "neighbor_name": "NİSBETİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3004,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3009,
+    "neighbor_name": "SİNANPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3000,
+    "neighbor_name": "TÜRKALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3010,
+    "neighbor_name": "ULUS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3011,
+    "neighbor_name": "VİŞNEZADE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 61,
+    "district_name": "BEŞİKTAŞ",
+    "neighbor_id": 3001,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2988,
+    "neighbor_name": "ACARLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2981,
+    "neighbor_name": "AKBABA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2955,
+    "neighbor_name": "ALİBAHADIR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2982,
+    "neighbor_name": "ANADOLUFENERİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2961,
+    "neighbor_name": "ANADOLU HİSARI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2956,
+    "neighbor_name": "ANADOLU KAVAĞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2966,
+    "neighbor_name": "BAKLACI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2971,
+    "neighbor_name": "BOZHANE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2980,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2973,
+    "neighbor_name": "ÇAMLIBAHÇE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2989,
+    "neighbor_name": "ÇENGELDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2949,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2974,
+    "neighbor_name": "ÇİĞDEM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2990,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2967,
+    "neighbor_name": "DERESEKİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2951,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2962,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2976,
+    "neighbor_name": "GÖKSU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2950,
+    "neighbor_name": "GÖLLÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2947,
+    "neighbor_name": "GÖRELE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2972,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2983,
+    "neighbor_name": "GÜMÜŞSUYU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2969,
+    "neighbor_name": "İNCİRKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2970,
+    "neighbor_name": "İSHAKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2957,
+    "neighbor_name": "KANLICA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2968,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2958,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2984,
+    "neighbor_name": "KILIÇLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2963,
+    "neighbor_name": "MAHMUTŞEVKETPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2977,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2952,
+    "neighbor_name": "ORTAÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2975,
+    "neighbor_name": "ÖĞÜMCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2979,
+    "neighbor_name": "ÖRNEKKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2953,
+    "neighbor_name": "PAŞABAHÇE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2978,
+    "neighbor_name": "PAŞAMANDIRA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2954,
+    "neighbor_name": "POLONEZKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2985,
+    "neighbor_name": "POYRAZKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2987,
+    "neighbor_name": "RİVA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2986,
+    "neighbor_name": "RÜZGARLIBAHÇE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2959,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2964,
+    "neighbor_name": "TOKATKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2960,
+    "neighbor_name": "YALIKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2965,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2991,
+    "neighbor_name": "YENİ MAHALLE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 60,
+    "district_name": "BEYKOZ",
+    "neighbor_id": 2948,
+    "neighbor_name": "ZERZAVATÇI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3575,
+    "neighbor_name": "ADNAN KAHVECİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3572,
+    "neighbor_name": "BÜYÜKŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3577,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3573,
+    "neighbor_name": "DEREAĞZI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3574,
+    "neighbor_name": "GÜRPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3576,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3568,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3569,
+    "neighbor_name": "MARMARA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3570,
+    "neighbor_name": "SAHİL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 86,
+    "district_name": "BEYLİKDÜZÜ",
+    "neighbor_id": 3571,
+    "neighbor_name": "YAKUPLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3388,
+    "neighbor_name": "ARAP CAMİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3356,
+    "neighbor_name": "ASMALI MESCİT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3350,
+    "neighbor_name": "BEDRETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3372,
+    "neighbor_name": "BEREKETZADE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3380,
+    "neighbor_name": "BOSTAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3389,
+    "neighbor_name": "BÜLBÜL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3357,
+    "neighbor_name": "CİHANGİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3363,
+    "neighbor_name": "ÇATMA MESCİT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3385,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3358,
+    "neighbor_name": "EMEKYEMEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3361,
+    "neighbor_name": "EVLİYA ÇELEBİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3390,
+    "neighbor_name": "FİRUZAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3353,
+    "neighbor_name": "GÜMÜŞSUYU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3373,
+    "neighbor_name": "HACIAHMET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3391,
+    "neighbor_name": "HACIMİMİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3382,
+    "neighbor_name": "HÜSEYİNAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3369,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3383,
+    "neighbor_name": "KADIMEHMET EFENDİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3354,
+    "neighbor_name": "KALYONCU KULLUĞU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3384,
+    "neighbor_name": "KAMER HATUN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3365,
+    "neighbor_name": "KAPTANPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3392,
+    "neighbor_name": "KATİPMUSTAFA ÇELEBİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3374,
+    "neighbor_name": "KEMANKEŞ KARAMUSTAFAPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3386,
+    "neighbor_name": "KILIÇALİ PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3377,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3359,
+    "neighbor_name": "KULOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3349,
+    "neighbor_name": "KÜÇÜK PİYALE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3378,
+    "neighbor_name": "MÜEYYETZADE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3370,
+    "neighbor_name": "ÖMER AVNİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3360,
+    "neighbor_name": "PÜRTELAŞ HASAN EFENDİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3348,
+    "neighbor_name": "SURURİ MEHMET EFENDİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3364,
+    "neighbor_name": "ŞAHKULU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3355,
+    "neighbor_name": "ŞEHİT MUHTAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3367,
+    "neighbor_name": "TOMTOM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3368,
+    "neighbor_name": "YAHYA KAHYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3379,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3351,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3352,
+    "neighbor_name": "FETİHTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3381,
+    "neighbor_name": "HALICIOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3375,
+    "neighbor_name": "KEÇECİ PİRİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3366,
+    "neighbor_name": "KULAKSIZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3371,
+    "neighbor_name": "ÖRNEKTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3376,
+    "neighbor_name": "PİRİPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3362,
+    "neighbor_name": "PİYALEPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 75,
+    "district_name": "BEYOĞLU",
+    "neighbor_id": 3387,
+    "neighbor_name": "SÜTLÜCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3598,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3599,
+    "neighbor_name": "AHMEDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3592,
+    "neighbor_name": "ALKENT 2000 MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3586,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3600,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3579,
+    "neighbor_name": "CELALİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3587,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3585,
+    "neighbor_name": "ÇAKMAKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3593,
+    "neighbor_name": "DİZDARİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3588,
+    "neighbor_name": "EKİNOBA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3601,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3580,
+    "neighbor_name": "GÜZELCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3594,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3596,
+    "neighbor_name": "KAMİLOBA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3595,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3581,
+    "neighbor_name": "KUMBURGAZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3582,
+    "neighbor_name": "MİMAROBA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 50502,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3589,
+    "neighbor_name": "MURAT ÇESME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3597,
+    "neighbor_name": "PINARTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3591,
+    "neighbor_name": "SİNANOBA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3583,
+    "neighbor_name": "TÜRKOBA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3578,
+    "neighbor_name": "ULUS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 87,
+    "district_name": "BÜYÜKÇEKMECE",
+    "neighbor_id": 3584,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3478,
+    "neighbor_name": "AKALAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3488,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3479,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3480,
+    "neighbor_name": "BAHŞAYİŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3489,
+    "neighbor_name": "BAŞAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3473,
+    "neighbor_name": "BELGRAT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3474,
+    "neighbor_name": "CELEPKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3452,
+    "neighbor_name": "ÇAKIL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3471,
+    "neighbor_name": "ÇANAKÇA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3464,
+    "neighbor_name": "ÇİFTLİKKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3465,
+    "neighbor_name": "DAĞYENİCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3475,
+    "neighbor_name": "ELBASAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3470,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3460,
+    "neighbor_name": "FERHATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3476,
+    "neighbor_name": "GÖKÇEALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3477,
+    "neighbor_name": "GÜMÜŞPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3461,
+    "neighbor_name": "HALLAÇLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3490,
+    "neighbor_name": "HİSARBEYLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3458,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3453,
+    "neighbor_name": "İNCEĞİZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3459,
+    "neighbor_name": "İZZETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3463,
+    "neighbor_name": "KABAKÇA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3483,
+    "neighbor_name": "KALEİÇİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3468,
+    "neighbor_name": "KALFA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3466,
+    "neighbor_name": "KARACAKÖY MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3467,
+    "neighbor_name": "KARAMANDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3454,
+    "neighbor_name": "KESTANELİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3486,
+    "neighbor_name": "KIZILCAALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3484,
+    "neighbor_name": "MURATBEY MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3469,
+    "neighbor_name": "NAKKAŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3455,
+    "neighbor_name": "OKLALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3485,
+    "neighbor_name": "ORMANLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3487,
+    "neighbor_name": "OVAYENİCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3482,
+    "neighbor_name": "ÖRCÜNLÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3472,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3456,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3481,
+    "neighbor_name": "YALIKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3462,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 79,
+    "district_name": "ÇATALCA",
+    "neighbor_id": 3457,
+    "neighbor_name": "YAZLIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3728,
+    "neighbor_name": "ALEMDAĞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3729,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3732,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3716,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3721,
+    "neighbor_name": "ÇATALMEŞE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3717,
+    "neighbor_name": "EKŞİOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3718,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3723,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3725,
+    "neighbor_name": "HÜSEYİNLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3733,
+    "neighbor_name": "KİRAZLIDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3713,
+    "neighbor_name": "KOÇULLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3726,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3730,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3714,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3727,
+    "neighbor_name": "NİŞANTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3722,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3731,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3724,
+    "neighbor_name": "SIRAPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3715,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3719,
+    "neighbor_name": "SULTANÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 91,
+    "district_name": "ÇEKMEKÖY",
+    "neighbor_id": 3720,
+    "neighbor_name": "TAŞDELEN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3610,
+    "neighbor_name": "ÇİFTE HAVUZLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3617,
+    "neighbor_name": "DAVUTPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3611,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3608,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3605,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3602,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3613,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3603,
+    "neighbor_name": "NİNE HATUN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3616,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 50508,
+    "neighbor_name": "15 TEMMUZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3607,
+    "neighbor_name": "BİRLİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3612,
+    "neighbor_name": "HAVAALANI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3606,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3609,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3604,
+    "neighbor_name": "ORUÇREİS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3614,
+    "neighbor_name": "TUNA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 88,
+    "district_name": "ESENLER",
+    "neighbor_id": 3615,
+    "neighbor_name": "TURGUT REİS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3156,
+    "neighbor_name": "AKEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3164,
+    "neighbor_name": "AKŞEMSEDDİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3135,
+    "neighbor_name": "BALIKYOLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3168,
+    "neighbor_name": "İNCİRTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3147,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3159,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3138,
+    "neighbor_name": "SAADETDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3144,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3139,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3162,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3148,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3136,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3126,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3127,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3153,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3166,
+    "neighbor_name": "MEHTERÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3133,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3143,
+    "neighbor_name": "PİRİ REİS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3161,
+    "neighbor_name": "TALATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3163,
+    "neighbor_name": "ÜÇEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3155,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3149,
+    "neighbor_name": "ARDIÇLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3131,
+    "neighbor_name": "AŞIK VEYSEL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3152,
+    "neighbor_name": "BAĞLARÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3145,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3132,
+    "neighbor_name": "ESENKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3128,
+    "neighbor_name": "KOZA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3134,
+    "neighbor_name": "ORHAN GAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3146,
+    "neighbor_name": "ÖRNEK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3142,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3154,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3129,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3157,
+    "neighbor_name": "AKÇABURGAZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3158,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3150,
+    "neighbor_name": "BARBAROS HAYRETTİN PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3151,
+    "neighbor_name": "BATTALGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3141,
+    "neighbor_name": "GÖKEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3165,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3140,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3167,
+    "neighbor_name": "NECİP FAZIL KISAKÜREK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3137,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3160,
+    "neighbor_name": "SELAHADDİN EYYUBİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 68,
+    "district_name": "ESENYURT",
+    "neighbor_id": 3130,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 49499,
+    "neighbor_name": "5.LEVENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3407,
+    "neighbor_name": "DEFTERDAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3417,
+    "neighbor_name": "DÜĞMECİLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 49652,
+    "neighbor_name": "EMNİYETTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3408,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3418,
+    "neighbor_name": "GÜZELTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3420,
+    "neighbor_name": "İSLAMBEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3404,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3412,
+    "neighbor_name": "NİŞANCI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3400,
+    "neighbor_name": "RAMİ CUMA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3413,
+    "neighbor_name": "RAMİ YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3405,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3401,
+    "neighbor_name": "SİLAHTARAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3397,
+    "neighbor_name": "TOPÇULAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3416,
+    "neighbor_name": "AĞAÇLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3410,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3415,
+    "neighbor_name": "AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3402,
+    "neighbor_name": "ALİBEYKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3414,
+    "neighbor_name": "ÇIRÇIR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3409,
+    "neighbor_name": "ÇİFTALAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3411,
+    "neighbor_name": "GÖKTÜRK MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3419,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3394,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3399,
+    "neighbor_name": "KARADOLAP MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3393,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3395,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3398,
+    "neighbor_name": "ODAYERİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3396,
+    "neighbor_name": "PİRİNÇÇİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 76,
+    "district_name": "EYÜPSULTAN",
+    "neighbor_id": 3406,
+    "neighbor_name": "YEŞİLPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3672,
+    "neighbor_name": "AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3640,
+    "neighbor_name": "ALİ KUŞÇU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3665,
+    "neighbor_name": "AYVANSARAY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3633,
+    "neighbor_name": "BALAT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3629,
+    "neighbor_name": "BİNBİRDİREK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3666,
+    "neighbor_name": "CİBALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3661,
+    "neighbor_name": "EMİN SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3622,
+    "neighbor_name": "İSKENDERPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3647,
+    "neighbor_name": "KATİP KASIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3643,
+    "neighbor_name": "KÜÇÜK AYASOFYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3631,
+    "neighbor_name": "MESİHPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3667,
+    "neighbor_name": "MİMAR HAYRETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3670,
+    "neighbor_name": "MİMAR KEMALETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3669,
+    "neighbor_name": "MUHSİNE HATUN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3671,
+    "neighbor_name": "NİŞANCA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3636,
+    "neighbor_name": "SARAÇ İSHAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3660,
+    "neighbor_name": "ŞEHSUVAR BEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3664,
+    "neighbor_name": "YAVUZ SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3635,
+    "neighbor_name": "ZEYREK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3639,
+    "neighbor_name": "ALEMDAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3673,
+    "neighbor_name": "ATİKALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3645,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3625,
+    "neighbor_name": "CANKURTARAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3630,
+    "neighbor_name": "DERVİŞ ALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3618,
+    "neighbor_name": "HIRKA-İ ŞERİF MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3642,
+    "neighbor_name": "HOBYAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3653,
+    "neighbor_name": "HOCAPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3658,
+    "neighbor_name": "KARAGÜMRÜK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3620,
+    "neighbor_name": "MEVLANAKAPI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3621,
+    "neighbor_name": "MOLLA FENARİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3634,
+    "neighbor_name": "MOLLA GÜRANİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3644,
+    "neighbor_name": "RÜSTEMPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3663,
+    "neighbor_name": "SULTAN AHMET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3624,
+    "neighbor_name": "SURURİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3674,
+    "neighbor_name": "ŞEHREMİNİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3648,
+    "neighbor_name": "TAHTAKALE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3638,
+    "neighbor_name": "TAYA HATUN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3668,
+    "neighbor_name": "TOPKAPI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3649,
+    "neighbor_name": "AKSARAY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3641,
+    "neighbor_name": "BALABANAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3650,
+    "neighbor_name": "CERRAHPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3652,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3626,
+    "neighbor_name": "HACI KADIN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3657,
+    "neighbor_name": "HASEKİ SULTAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3619,
+    "neighbor_name": "HOCA GIYASETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3662,
+    "neighbor_name": "KALENDERHANE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3654,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3646,
+    "neighbor_name": "KOCA MUSTAFAPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3623,
+    "neighbor_name": "MERCAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3632,
+    "neighbor_name": "MOLLA HÜSREV MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3656,
+    "neighbor_name": "SEYYİD ÖMER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3627,
+    "neighbor_name": "SİLİVRİKAPI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3637,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3659,
+    "neighbor_name": "SÜMBÜL EFENDİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3651,
+    "neighbor_name": "YAVUZ SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 89,
+    "district_name": "FATİH",
+    "neighbor_id": 3628,
+    "neighbor_name": "YEDİKULE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3425,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3434,
+    "neighbor_name": "KARLITEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3422,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3424,
+    "neighbor_name": "PAZARİÇİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3428,
+    "neighbor_name": "SARIGÖL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3429,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3430,
+    "neighbor_name": "YILDIZTABYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3432,
+    "neighbor_name": "BARBAROS HAYRETTİN PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3433,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3421,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3431,
+    "neighbor_name": "ŞEMSİPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3436,
+    "neighbor_name": "YENİ MAHALLE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3426,
+    "neighbor_name": "KARADENİZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3427,
+    "neighbor_name": "KARAYOLLARI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3435,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 77,
+    "district_name": "GAZİOSMANPAŞA",
+    "neighbor_id": 3423,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3508,
+    "neighbor_name": "ABDURRAHMAN NAFİZ GÜRMAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3510,
+    "neighbor_name": "GENÇOSMAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3503,
+    "neighbor_name": "MEHMET NESİH ÖZMEN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3506,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3504,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3507,
+    "neighbor_name": "TOZKOPARAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3509,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3502,
+    "neighbor_name": "GÜNEŞTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3511,
+    "neighbor_name": "GÜVEN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3512,
+    "neighbor_name": "HAZNEDAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 81,
+    "district_name": "GÜNGÖREN",
+    "neighbor_id": 3505,
+    "neighbor_name": "MAREŞAL ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3020,
+    "neighbor_name": "ACIBADEM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3015,
+    "neighbor_name": "CAFERAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3026,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3032,
+    "neighbor_name": "EĞİTİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3033,
+    "neighbor_name": "FİKİRTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3034,
+    "neighbor_name": "HASANPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3029,
+    "neighbor_name": "KOŞUYOLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3018,
+    "neighbor_name": "OSMANAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3023,
+    "neighbor_name": "RASİMPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3027,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3016,
+    "neighbor_name": "FENERBAHÇE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3028,
+    "neighbor_name": "FENERYOLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3030,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3017,
+    "neighbor_name": "MERDİVENKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3024,
+    "neighbor_name": "ZÜHTÜPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3019,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3021,
+    "neighbor_name": "BOSTANCI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3022,
+    "neighbor_name": "CADDEBOSTAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3035,
+    "neighbor_name": "KOZYATAĞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3031,
+    "neighbor_name": "SAHRAYICEDİT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 62,
+    "district_name": "KADIKÖY",
+    "neighbor_id": 3025,
+    "neighbor_name": "SUADİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2865,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2858,
+    "neighbor_name": "GÜRSEL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2852,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2869,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2862,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2860,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2870,
+    "neighbor_name": "NURTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2855,
+    "neighbor_name": "TALATPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2864,
+    "neighbor_name": "YAHYA KEMAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2857,
+    "neighbor_name": "ÇELİKTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2867,
+    "neighbor_name": "EMNİYET EVLERİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2868,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2859,
+    "neighbor_name": "HARMANTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2853,
+    "neighbor_name": "ORTABAYIR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2861,
+    "neighbor_name": "SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2854,
+    "neighbor_name": "SULTAN SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2866,
+    "neighbor_name": "ŞİRİNTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2856,
+    "neighbor_name": "TELSİZLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 56,
+    "district_name": "KAĞITHANE",
+    "neighbor_id": 2863,
+    "neighbor_name": "YEŞİLCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2838,
+    "neighbor_name": "ATALAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2848,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2847,
+    "neighbor_name": "ÇAVUŞOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2844,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2833,
+    "neighbor_name": "KARLIKTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2850,
+    "neighbor_name": "KORDONBOYU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2834,
+    "neighbor_name": "ORHANTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2839,
+    "neighbor_name": "PETROL İŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2846,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2832,
+    "neighbor_name": "CEVİZLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2849,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2843,
+    "neighbor_name": "GÜMÜŞPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2851,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2835,
+    "neighbor_name": "SOĞANLIK YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2840,
+    "neighbor_name": "TOPSELVİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2845,
+    "neighbor_name": "UĞUR MUMCU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2836,
+    "neighbor_name": "YAKACIK ÇARŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2841,
+    "neighbor_name": "YAKACIK YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2842,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 55,
+    "district_name": "KARTAL",
+    "neighbor_id": 2837,
+    "neighbor_name": "YUNUS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2876,
+    "neighbor_name": "CENNET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2886,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2871,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2890,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2880,
+    "neighbor_name": "KANARYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2883,
+    "neighbor_name": "YENİ MAHALLE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2884,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2885,
+    "neighbor_name": "BEŞYOL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2879,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2887,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2889,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2877,
+    "neighbor_name": "KARTALTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2873,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2874,
+    "neighbor_name": "SÖĞÜTLÜ ÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2882,
+    "neighbor_name": "SULTAN MURAT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2875,
+    "neighbor_name": "TEVFİKBEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2891,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2878,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2872,
+    "neighbor_name": "HALKALI MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2881,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 57,
+    "district_name": "KÜÇÜKÇEKMECE",
+    "neighbor_id": 2888,
+    "neighbor_name": "YARIMBURGAZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3050,
+    "neighbor_name": "ALTAYÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3051,
+    "neighbor_name": "ALTINTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3048,
+    "neighbor_name": "FEYZULLAH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3040,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3053,
+    "neighbor_name": "KÜÇÜKYALI MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3046,
+    "neighbor_name": "AYDINEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3052,
+    "neighbor_name": "BAŞIBÜYÜK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3047,
+    "neighbor_name": "BÜYÜKBAKKALKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3045,
+    "neighbor_name": "ÇINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3037,
+    "neighbor_name": "İDEALTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3044,
+    "neighbor_name": "ZÜMRÜTEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3042,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3038,
+    "neighbor_name": "CEVİZLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3039,
+    "neighbor_name": "ESENKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3043,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3049,
+    "neighbor_name": "GÜLENSU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3041,
+    "neighbor_name": "GÜLSUYU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 63,
+    "district_name": "MALTEPE",
+    "neighbor_id": 3036,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3193,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3176,
+    "neighbor_name": "BATI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3198,
+    "neighbor_name": "ÇINARDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3169,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3177,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3170,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3172,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3174,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3175,
+    "neighbor_name": "SAPAN BAĞLARI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3180,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3203,
+    "neighbor_name": "YEŞİLBAĞLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3199,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3204,
+    "neighbor_name": "ÇAMÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3195,
+    "neighbor_name": "ESENLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3201,
+    "neighbor_name": "ESENYALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3184,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3190,
+    "neighbor_name": "GÜZELYALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3179,
+    "neighbor_name": "KAVAKPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3197,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3200,
+    "neighbor_name": "BALLICA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3183,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3194,
+    "neighbor_name": "EMİRLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3178,
+    "neighbor_name": "ERTUĞRUL GAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3202,
+    "neighbor_name": "GÖÇBEYLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3185,
+    "neighbor_name": "GÜLLÜ BAĞLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3171,
+    "neighbor_name": "HARMANDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3196,
+    "neighbor_name": "KURNA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3191,
+    "neighbor_name": "KURTDOĞMUŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3181,
+    "neighbor_name": "KURTKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3182,
+    "neighbor_name": "RAMAZANOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3186,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3187,
+    "neighbor_name": "SÜLÜNTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3192,
+    "neighbor_name": "ŞEYHLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3188,
+    "neighbor_name": "VELİBABA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3173,
+    "neighbor_name": "YAYALAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 69,
+    "district_name": "PENDİK",
+    "neighbor_id": 3189,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3057,
+    "neighbor_name": "ABDURRAHMANGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3063,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3066,
+    "neighbor_name": "HİLAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3062,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3059,
+    "neighbor_name": "KEMAL TÜRKLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3069,
+    "neighbor_name": "MERVE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3055,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3056,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3071,
+    "neighbor_name": "SAFA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3061,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3072,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3068,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3064,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3058,
+    "neighbor_name": "EYÜP SULTAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3065,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3054,
+    "neighbor_name": "MECLİS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3070,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3060,
+    "neighbor_name": "SARIGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 64,
+    "district_name": "SANCAKTEPE",
+    "neighbor_id": 3067,
+    "neighbor_name": "VEYSEL KARANİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 49539,
+    "neighbor_name": "BAHÇEKÖY KEMER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2915,
+    "neighbor_name": "BAHÇEKÖY MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2925,
+    "neighbor_name": "BAHÇEKÖY YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2903,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2917,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2923,
+    "neighbor_name": "ÇAYIRBAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2900,
+    "neighbor_name": "DEMİRCİKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2902,
+    "neighbor_name": "FERAHEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2918,
+    "neighbor_name": "GARİPÇE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2894,
+    "neighbor_name": "GÜMÜŞDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2895,
+    "neighbor_name": "KAZIM KARABEKİR PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2919,
+    "neighbor_name": "KISIRKAYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2926,
+    "neighbor_name": "KİREÇBURNU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2896,
+    "neighbor_name": "KOCATAŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 49525,
+    "neighbor_name": "KUMKÖY (KİLYOS) MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2897,
+    "neighbor_name": "MADEN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2911,
+    "neighbor_name": "PTT EVLERİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2913,
+    "neighbor_name": "RUMELİFENERİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 49531,
+    "neighbor_name": "RUMELİKAVAĞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 49805,
+    "neighbor_name": "SARIYER MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2921,
+    "neighbor_name": "TARABYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2927,
+    "neighbor_name": "USKUMRUKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2907,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2922,
+    "neighbor_name": "ZEKERİYAKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2924,
+    "neighbor_name": "AYAZAĞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2916,
+    "neighbor_name": "BALTALİMANI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2928,
+    "neighbor_name": "ÇAMLITEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2892,
+    "neighbor_name": "DARÜŞŞAFAKA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2909,
+    "neighbor_name": "EMİRGAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2901,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2904,
+    "neighbor_name": "HUZUR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2929,
+    "neighbor_name": "İSTİNYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2898,
+    "neighbor_name": "MASLAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2910,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2906,
+    "neighbor_name": "POLİGON MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2920,
+    "neighbor_name": "REŞİTPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 49773,
+    "neighbor_name": "RUMELİHİSARI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 58,
+    "district_name": "SARIYER",
+    "neighbor_id": 2914,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3335,
+    "neighbor_name": "AĞAÇDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3276,
+    "neighbor_name": "AĞVA MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3325,
+    "neighbor_name": "AHMETLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3310,
+    "neighbor_name": "AKÇAKESE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3304,
+    "neighbor_name": "ALACALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3326,
+    "neighbor_name": "AVCIKORU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3296,
+    "neighbor_name": "BALİBEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3290,
+    "neighbor_name": "BIÇKIDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3336,
+    "neighbor_name": "BOZGOCA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3313,
+    "neighbor_name": "BUCAKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3295,
+    "neighbor_name": "ÇATAKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3288,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3302,
+    "neighbor_name": "ÇAYIRBAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3289,
+    "neighbor_name": "ÇELEBİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3284,
+    "neighbor_name": "ÇENGİLLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3337,
+    "neighbor_name": "DARLIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3297,
+    "neighbor_name": "DEĞİRMENÇAYIRI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3279,
+    "neighbor_name": "DOĞANCILI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3298,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3327,
+    "neighbor_name": "ESENCELİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3328,
+    "neighbor_name": "GEREDELİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3292,
+    "neighbor_name": "GÖÇE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3293,
+    "neighbor_name": "GÖKMAŞLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3291,
+    "neighbor_name": "GÖKSU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3311,
+    "neighbor_name": "HACI KASIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3307,
+    "neighbor_name": "HACILLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3316,
+    "neighbor_name": "HASANLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3315,
+    "neighbor_name": "İMRENDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3309,
+    "neighbor_name": "İMRENLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3287,
+    "neighbor_name": "İSAKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3280,
+    "neighbor_name": "KABAKOZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3282,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3305,
+    "neighbor_name": "KALEM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3306,
+    "neighbor_name": "KARABEYLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3312,
+    "neighbor_name": "KARACAKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3299,
+    "neighbor_name": "KARAKİRAZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3330,
+    "neighbor_name": "KARAMANDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3322,
+    "neighbor_name": "KERVANSARAY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3331,
+    "neighbor_name": "KIZILCA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3314,
+    "neighbor_name": "KORUCU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3285,
+    "neighbor_name": "KÖMÜRLÜK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3323,
+    "neighbor_name": "KUMBABA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3308,
+    "neighbor_name": "KURFALLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3294,
+    "neighbor_name": "KURNA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3317,
+    "neighbor_name": "MEŞRUTİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3281,
+    "neighbor_name": "ORUÇOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3319,
+    "neighbor_name": "OSMANKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3286,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3329,
+    "neighbor_name": "SAHİLKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3277,
+    "neighbor_name": "SATMAZLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3332,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3318,
+    "neighbor_name": "SOĞULLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3333,
+    "neighbor_name": "SORTULLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3324,
+    "neighbor_name": "ŞUAYİPLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3278,
+    "neighbor_name": "TEKE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3320,
+    "neighbor_name": "ULUPELİT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3303,
+    "neighbor_name": "ÜVEZLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3283,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3321,
+    "neighbor_name": "YAYLALI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3334,
+    "neighbor_name": "YAZIMANAYIR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3300,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 73,
+    "district_name": "ŞİLE",
+    "neighbor_id": 3301,
+    "neighbor_name": "YEŞİLVADİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3228,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3211,
+    "neighbor_name": "ALİBEY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3218,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3219,
+    "neighbor_name": "BEKİRLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3213,
+    "neighbor_name": "BEYCİLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3229,
+    "neighbor_name": "BÜYÜK ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3212,
+    "neighbor_name": "BÜYÜK KILIÇLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3238,
+    "neighbor_name": "BÜYÜK SİNEKLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3226,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 50033,
+    "neighbor_name": "ÇANTA BALABAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 50146,
+    "neighbor_name": "ÇANTA SANCAKTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3217,
+    "neighbor_name": "ÇAYIRDERE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3221,
+    "neighbor_name": "ÇELTİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3222,
+    "neighbor_name": "DANAMANDIRA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 49720,
+    "neighbor_name": "DEĞİRMENKÖY FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 49644,
+    "neighbor_name": "DEĞİRMENKÖY İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3220,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3232,
+    "neighbor_name": "FENER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3239,
+    "neighbor_name": "GAZİTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3227,
+    "neighbor_name": "GÜMÜŞYAKA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3205,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 49433,
+    "neighbor_name": "KAVAKLI HÜRRİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 49632,
+    "neighbor_name": "KAVAKLI İSTİKLAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3231,
+    "neighbor_name": "KURFALLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3206,
+    "neighbor_name": "KÜÇÜK KILIÇLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3214,
+    "neighbor_name": "KÜÇÜK SİNEKLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3215,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3207,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3235,
+    "neighbor_name": "PİRİ MEHMET PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3223,
+    "neighbor_name": "SAYALAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3224,
+    "neighbor_name": "SELİMPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3236,
+    "neighbor_name": "SEMİZKUMLAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3216,
+    "neighbor_name": "SEYMEN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3209,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 70,
+    "district_name": "SİLİVRİ",
+    "neighbor_id": 3237,
+    "neighbor_name": "YOLÇATI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3253,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3254,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3255,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3256,
+    "neighbor_name": "FULYA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3249,
+    "neighbor_name": "GÜLBAHAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3262,
+    "neighbor_name": "HALASKARGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3244,
+    "neighbor_name": "HARBİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3259,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3260,
+    "neighbor_name": "İZZET PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3245,
+    "neighbor_name": "MECİDİYEKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3264,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3257,
+    "neighbor_name": "MEŞRUTİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3241,
+    "neighbor_name": "TEŞVİKİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3261,
+    "neighbor_name": "BOZKURT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3246,
+    "neighbor_name": "DUATEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3247,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3248,
+    "neighbor_name": "ESKİŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3240,
+    "neighbor_name": "FERİKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3242,
+    "neighbor_name": "HALİDE EDİP ADIVAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3243,
+    "neighbor_name": "HALİL RIFAT PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3250,
+    "neighbor_name": "KAPTANPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3263,
+    "neighbor_name": "KUŞTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3251,
+    "neighbor_name": "MAHMUT ŞEVKET PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3252,
+    "neighbor_name": "PAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 71,
+    "district_name": "ŞİŞLİ",
+    "neighbor_id": 3258,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3526,
+    "neighbor_name": "ABDURRAHMANGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3519,
+    "neighbor_name": "AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3513,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3514,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3515,
+    "neighbor_name": "HASANPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3522,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3520,
+    "neighbor_name": "NECİP FAZIL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3516,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3525,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3527,
+    "neighbor_name": "ADİL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3517,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3518,
+    "neighbor_name": "BATTALGAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3521,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3523,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 82,
+    "district_name": "SULTANBEYLİ",
+    "neighbor_id": 3524,
+    "neighbor_name": "TURGUT REİS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3439,
+    "neighbor_name": "50. YIL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3448,
+    "neighbor_name": "75. YIL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3440,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3443,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3447,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3441,
+    "neighbor_name": "ZÜBEYDE HANIM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3437,
+    "neighbor_name": "CEBECİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3449,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3438,
+    "neighbor_name": "ESKİ HABİPLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3444,
+    "neighbor_name": "HABİBLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3442,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3450,
+    "neighbor_name": "MALKOÇOĞLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3445,
+    "neighbor_name": "SULTANÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3451,
+    "neighbor_name": "UĞUR MUMCU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 78,
+    "district_name": "SULTANGAZİ",
+    "neighbor_id": 3446,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3542,
+    "neighbor_name": "AKFIRAT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3538,
+    "neighbor_name": "ANADOLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3539,
+    "neighbor_name": "AYDINLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3535,
+    "neighbor_name": "AYDINTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3528,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3529,
+    "neighbor_name": "EVLİYA ÇELEBİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3540,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3534,
+    "neighbor_name": "İÇMELER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3544,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3536,
+    "neighbor_name": "MESCİT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3530,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3537,
+    "neighbor_name": "ORHANLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3531,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3532,
+    "neighbor_name": "POSTANE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3541,
+    "neighbor_name": "ŞİFA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3543,
+    "neighbor_name": "TEPEÖREN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 83,
+    "district_name": "TUZLA",
+    "neighbor_id": 3533,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3757,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3745,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3753,
+    "neighbor_name": "ELMALIKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3767,
+    "neighbor_name": "ESENEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3740,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3758,
+    "neighbor_name": "HEKİMBAŞI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3763,
+    "neighbor_name": "İNKILAP MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3741,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3748,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3768,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3737,
+    "neighbor_name": "TANTAVİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3743,
+    "neighbor_name": "TOPAĞACI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3735,
+    "neighbor_name": "YAMANEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3765,
+    "neighbor_name": "ARMAĞANEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3756,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3739,
+    "neighbor_name": "CEMİL MERİÇ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3744,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3762,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 49655,
+    "neighbor_name": "FİNANSKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3747,
+    "neighbor_name": "IHLAMURKUYU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3764,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3734,
+    "neighbor_name": "SİTE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3738,
+    "neighbor_name": "TEPEÜSTÜ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 50515,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3749,
+    "neighbor_name": "ADEM YAVUZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3752,
+    "neighbor_name": "ALTINŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3766,
+    "neighbor_name": "AŞAĞI DUDULLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3746,
+    "neighbor_name": "ESENKENT MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3754,
+    "neighbor_name": "ESENŞEHİR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3759,
+    "neighbor_name": "HUZUR MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3750,
+    "neighbor_name": "MADENLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3751,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3755,
+    "neighbor_name": "NECİP FAZIL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3742,
+    "neighbor_name": "PARSELLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3736,
+    "neighbor_name": "ŞERİFALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3760,
+    "neighbor_name": "TATLISU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 92,
+    "district_name": "ÜMRANİYE",
+    "neighbor_id": 3761,
+    "neighbor_name": "YUKARI DUDULLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3077,
+    "neighbor_name": "AHMEDİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3100,
+    "neighbor_name": "AZİZ MAHMUT HÜDAYİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3086,
+    "neighbor_name": "İCADİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3092,
+    "neighbor_name": "KUZGUNCUK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3089,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3097,
+    "neighbor_name": "MURATREİS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3078,
+    "neighbor_name": "SALACAK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3104,
+    "neighbor_name": "SELAMİ ALİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3093,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3098,
+    "neighbor_name": "SULTANTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3099,
+    "neighbor_name": "VALİDE-İ ATİK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3105,
+    "neighbor_name": "ZEYNEP KAMİL MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3087,
+    "neighbor_name": "ALTUNİZADE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3088,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3080,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3102,
+    "neighbor_name": "BEYLERBEYİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3090,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3103,
+    "neighbor_name": "ÇENGELKÖY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3095,
+    "neighbor_name": "GÜZELTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3073,
+    "neighbor_name": "KANDİLLİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3085,
+    "neighbor_name": "KİRAZLITEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3081,
+    "neighbor_name": "KULELİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3074,
+    "neighbor_name": "KÜÇÜKSU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3084,
+    "neighbor_name": "KÜPLÜCE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3096,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3079,
+    "neighbor_name": "YAVUZTÜRK MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3076,
+    "neighbor_name": "ACIBADEM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3082,
+    "neighbor_name": "BULGURLU MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3101,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3094,
+    "neighbor_name": "FERAH MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3083,
+    "neighbor_name": "KISIKLI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3091,
+    "neighbor_name": "KÜÇÜK ÇAMLICA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 65,
+    "district_name": "ÜSKÜDAR",
+    "neighbor_id": 3075,
+    "neighbor_name": "ÜNALAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3553,
+    "neighbor_name": "GÖKALP MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3545,
+    "neighbor_name": "KAZLIÇEŞME MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3548,
+    "neighbor_name": "NURİPAŞA MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3549,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3555,
+    "neighbor_name": "VELİEFENDİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3551,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3556,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3552,
+    "neighbor_name": "BEŞTELSİZ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3557,
+    "neighbor_name": "ÇIRPICI MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3546,
+    "neighbor_name": "MALTEPE MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3547,
+    "neighbor_name": "MERKEZEFENDİ MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3554,
+    "neighbor_name": "SEYİTNİZAM MAH."
+  },
+  {
+    "city_id": 6,
+    "city_name": "İSTANBUL",
+    "district_id": 84,
+    "district_name": "ZEYTİNBURNU",
+    "neighbor_id": 3550,
+    "neighbor_name": "TELSİZ MAH."
+  }
+]

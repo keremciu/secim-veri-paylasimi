@@ -1,0 +1,5370 @@
+[
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45771,
+    "neighbor_name": "AKÇAY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45806,
+    "neighbor_name": "AKSEKİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45789,
+    "neighbor_name": "AKYAKA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45763,
+    "neighbor_name": "ALAMUT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45781,
+    "neighbor_name": "ALHİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45782,
+    "neighbor_name": "ALTINTAŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45774,
+    "neighbor_name": "AMASYA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45795,
+    "neighbor_name": "ASMA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45772,
+    "neighbor_name": "BAŞALAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45792,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45796,
+    "neighbor_name": "ÇAMLIDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45809,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45786,
+    "neighbor_name": "DÖMEN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45801,
+    "neighbor_name": "DUTAĞAÇ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45775,
+    "neighbor_name": "EYMİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45803,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45768,
+    "neighbor_name": "GÜNEYYAKA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45776,
+    "neighbor_name": "GÜRE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45791,
+    "neighbor_name": "GÜVENİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45804,
+    "neighbor_name": "HAYDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45802,
+    "neighbor_name": "HIDIRBABA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45777,
+    "neighbor_name": "HIŞIMLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45797,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45787,
+    "neighbor_name": "KAKKALAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45783,
+    "neighbor_name": "KAMIŞLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45778,
+    "neighbor_name": "KARAAHMETLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 50231,
+    "neighbor_name": "KARABAĞLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45793,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45769,
+    "neighbor_name": "KAZANDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45779,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45760,
+    "neighbor_name": "KILAVUZLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45794,
+    "neighbor_name": "KIZILCA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45773,
+    "neighbor_name": "KIZILTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45808,
+    "neighbor_name": "KONAKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45811,
+    "neighbor_name": "KOYUNCULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45798,
+    "neighbor_name": "KÖRTEKE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45761,
+    "neighbor_name": "MADRAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45764,
+    "neighbor_name": "OLUKBAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45770,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45788,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45784,
+    "neighbor_name": "ÖRENTAHT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45785,
+    "neighbor_name": "ÖRMEPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45800,
+    "neighbor_name": "ÖRTÜLÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45765,
+    "neighbor_name": "PINARLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45766,
+    "neighbor_name": "SEKİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45759,
+    "neighbor_name": "SIRMA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45790,
+    "neighbor_name": "TÜTÜNCÜLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45780,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45812,
+    "neighbor_name": "YAZIKENT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45805,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45767,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45810,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45807,
+    "neighbor_name": "YEŞİLÇAM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45799,
+    "neighbor_name": "YEŞİL YENİCE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 900,
+    "district_name": "BOZDOĞAN",
+    "neighbor_id": 45762,
+    "neighbor_name": "ZİYARETLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46226,
+    "neighbor_name": "ERİCEK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46231,
+    "neighbor_name": "FESLEK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46236,
+    "neighbor_name": "GELENBE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46227,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46239,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46234,
+    "neighbor_name": "KAMİLPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46232,
+    "neighbor_name": "KAYABURNU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46228,
+    "neighbor_name": "KIZILDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46235,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46229,
+    "neighbor_name": "MURATDAĞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46237,
+    "neighbor_name": "ORTAKÇI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46230,
+    "neighbor_name": "SAVCILLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46233,
+    "neighbor_name": "ÜÇEYLÜL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 912,
+    "district_name": "BUHARKENT",
+    "neighbor_id": 46238,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45894,
+    "neighbor_name": "AKÇAOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45866,
+    "neighbor_name": "AKDAM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45867,
+    "neighbor_name": "ALABAYIR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45872,
+    "neighbor_name": "ALTINABAT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45904,
+    "neighbor_name": "ALTINOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45876,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45873,
+    "neighbor_name": "BAHÇEARASI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45855,
+    "neighbor_name": "BEDİRLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45900,
+    "neighbor_name": "BEREKET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45877,
+    "neighbor_name": "BÖLÜNTÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45861,
+    "neighbor_name": "BUCAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45868,
+    "neighbor_name": "CAMIZAĞILI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45909,
+    "neighbor_name": "CUMALI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45847,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45846,
+    "neighbor_name": "ÇALTI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45853,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45845,
+    "neighbor_name": "ÇÖĞÜRLÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45881,
+    "neighbor_name": "DERELİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45901,
+    "neighbor_name": "DOĞANYURT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45882,
+    "neighbor_name": "DORUMLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45905,
+    "neighbor_name": "DUTLUOLUK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45862,
+    "neighbor_name": "ELDERESİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45885,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45902,
+    "neighbor_name": "ESKİÇİNE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45859,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45869,
+    "neighbor_name": "GÖKYAKA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45903,
+    "neighbor_name": "HACIPAŞALAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45895,
+    "neighbor_name": "HALLAÇLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45863,
+    "neighbor_name": "HAMİTABAT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45856,
+    "neighbor_name": "HASANLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45841,
+    "neighbor_name": "İBRAHİMKAVAĞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45896,
+    "neighbor_name": "KABALAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45897,
+    "neighbor_name": "KABATAŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45890,
+    "neighbor_name": "KADILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45865,
+    "neighbor_name": "KAHRAMAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45910,
+    "neighbor_name": "KARAHAYIT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45887,
+    "neighbor_name": "KARAKOLLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45911,
+    "neighbor_name": "KARANFİLLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45891,
+    "neighbor_name": "KARĞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45848,
+    "neighbor_name": "KASAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45892,
+    "neighbor_name": "KAVŞIT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45857,
+    "neighbor_name": "KIRKIŞIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45874,
+    "neighbor_name": "KIRKSAKALLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45883,
+    "neighbor_name": "KIZILGÜNEY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45906,
+    "neighbor_name": "KİRAZDERESİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45912,
+    "neighbor_name": "KURUKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45864,
+    "neighbor_name": "MUTAFLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45858,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45880,
+    "neighbor_name": "ÖZEREN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45843,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45899,
+    "neighbor_name": "SARAÇLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45875,
+    "neighbor_name": "SARIKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45842,
+    "neighbor_name": "SARIOĞLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45907,
+    "neighbor_name": "SARNIÇ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45908,
+    "neighbor_name": "SEFERLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45884,
+    "neighbor_name": "SOĞANCILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45851,
+    "neighbor_name": "SOĞUKOLUK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45849,
+    "neighbor_name": "SÖĞÜTÇÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45898,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45893,
+    "neighbor_name": "ŞEVKETİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45844,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45870,
+    "neighbor_name": "TATARMEMİŞLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45860,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45878,
+    "neighbor_name": "TOPÇAM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45879,
+    "neighbor_name": "UMURKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45854,
+    "neighbor_name": "ÜNLÜCE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45888,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45850,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45886,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45889,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45852,
+    "neighbor_name": "YOLBOYU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 902,
+    "district_name": "ÇİNE",
+    "neighbor_id": 45871,
+    "neighbor_name": "YÖRÜKLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46344,
+    "neighbor_name": "AKBÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46341,
+    "neighbor_name": "AKKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46340,
+    "neighbor_name": "AK-YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46334,
+    "neighbor_name": "ALTINKUM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46335,
+    "neighbor_name": "BALAT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46336,
+    "neighbor_name": "BATIKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46330,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46343,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46337,
+    "neighbor_name": "DENİZKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46345,
+    "neighbor_name": "EFELER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46331,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46342,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46338,
+    "neighbor_name": "MAVİŞEHİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46332,
+    "neighbor_name": "MERSİNDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46339,
+    "neighbor_name": "YALIKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 915,
+    "district_name": "DİDİM",
+    "neighbor_id": 46333,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46358,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46365,
+    "neighbor_name": "ALANLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46366,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46401,
+    "neighbor_name": "AŞAĞIKAYACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46409,
+    "neighbor_name": "ATA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46367,
+    "neighbor_name": "BADEMLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46424,
+    "neighbor_name": "BALTAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46377,
+    "neighbor_name": "BÖCEK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46391,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46415,
+    "neighbor_name": "ÇAYYÜZÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46351,
+    "neighbor_name": "ÇEŞTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46352,
+    "neighbor_name": "ÇİFTLİKKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46378,
+    "neighbor_name": "DALAMA BUCAĞI YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46379,
+    "neighbor_name": "DALAMA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46403,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46410,
+    "neighbor_name": "DOĞAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46384,
+    "neighbor_name": "EĞRİKAVAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46425,
+    "neighbor_name": "EMİRDOĞAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46355,
+    "neighbor_name": "GÖDRENLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46417,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46406,
+    "neighbor_name": "GÖLHİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46380,
+    "neighbor_name": "GÜZELHİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46393,
+    "neighbor_name": "ILICABAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46356,
+    "neighbor_name": "İLYASDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46376,
+    "neighbor_name": "İMAMKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46357,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46394,
+    "neighbor_name": "KARAHAYIT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46382,
+    "neighbor_name": "KENGER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46385,
+    "neighbor_name": "KIRIKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46412,
+    "neighbor_name": "KOCAGÜR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46399,
+    "neighbor_name": "KOZALAKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46370,
+    "neighbor_name": "KULOĞULLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46404,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46420,
+    "neighbor_name": "KUYUCULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46396,
+    "neighbor_name": "MESUTLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46347,
+    "neighbor_name": "MUSLUCA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46364,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46389,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46421,
+    "neighbor_name": "OSMAN YOZGATLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46400,
+    "neighbor_name": "PINARDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46397,
+    "neighbor_name": "SAVRANDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46348,
+    "neighbor_name": "SERÇEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46390,
+    "neighbor_name": "SIRALILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46363,
+    "neighbor_name": "ŞAHNALI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46383,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46423,
+    "neighbor_name": "TEPEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46408,
+    "neighbor_name": "TERZİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46362,
+    "neighbor_name": "UMURLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46413,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46372,
+    "neighbor_name": "YEDİ EYLÜL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46414,
+    "neighbor_name": "YILMAZKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46427,
+    "neighbor_name": "YUKARIKAYACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46349,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46428,
+    "neighbor_name": "ALATEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46353,
+    "neighbor_name": "AMBARCIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46398,
+    "neighbor_name": "BALIKKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46402,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46359,
+    "neighbor_name": "DAĞEYMİRİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46368,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46354,
+    "neighbor_name": "EFELER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46373,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46369,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46360,
+    "neighbor_name": "GÖZPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46346,
+    "neighbor_name": "HASANEFENDİ-RAMAZAN PAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46392,
+    "neighbor_name": "HOROZKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46411,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46426,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46407,
+    "neighbor_name": "KALFAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46418,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46419,
+    "neighbor_name": "KARDEŞKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46381,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46374,
+    "neighbor_name": "KIZILCAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46395,
+    "neighbor_name": "KONUKLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46361,
+    "neighbor_name": "KÖPRÜLÜ-VEYSİPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46386,
+    "neighbor_name": "KUYULU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46371,
+    "neighbor_name": "MERKEZ BUCAĞI YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46405,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46375,
+    "neighbor_name": "MEŞRUTİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46388,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46422,
+    "neighbor_name": "OVAEYMİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46416,
+    "neighbor_name": "ŞEVKETİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46350,
+    "neighbor_name": "ZEYBEK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 916,
+    "district_name": "EFELER",
+    "neighbor_id": 46387,
+    "neighbor_name": "ZEYTİNKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46039,
+    "neighbor_name": "ABDURRAHMANLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46047,
+    "neighbor_name": "ALANGÜLLÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46048,
+    "neighbor_name": "BALATÇIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46043,
+    "neighbor_name": "BOZKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46040,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46038,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46058,
+    "neighbor_name": "ÇARIKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46055,
+    "neighbor_name": "DAĞKARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46051,
+    "neighbor_name": "DAĞYENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46068,
+    "neighbor_name": "DAMPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46065,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46041,
+    "neighbor_name": "GÜMÜŞKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46069,
+    "neighbor_name": "GÜMÜŞYENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46044,
+    "neighbor_name": "HABİBLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46042,
+    "neighbor_name": "HIDIRBEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46060,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46052,
+    "neighbor_name": "KARAAĞAÇLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46056,
+    "neighbor_name": "KIZILCAGEDİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46061,
+    "neighbor_name": "KIZILCAPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46070,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46049,
+    "neighbor_name": "MEŞELİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46062,
+    "neighbor_name": "MORALI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46071,
+    "neighbor_name": "MURSALLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46053,
+    "neighbor_name": "NAİPLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46045,
+    "neighbor_name": "NEŞETİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46057,
+    "neighbor_name": "ORTAKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46054,
+    "neighbor_name": "ÖMERBEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46063,
+    "neighbor_name": "PARK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46036,
+    "neighbor_name": "REİSKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46066,
+    "neighbor_name": "SELATİN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46064,
+    "neighbor_name": "TEKİN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46067,
+    "neighbor_name": "TURANLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46046,
+    "neighbor_name": "UZUNKUM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46059,
+    "neighbor_name": "ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46050,
+    "neighbor_name": "YEDİEYLÜL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 906,
+    "district_name": "GERMENCİK",
+    "neighbor_id": 46037,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46213,
+    "neighbor_name": "ACARLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46221,
+    "neighbor_name": "AKÇEŞME MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46207,
+    "neighbor_name": "ARPADERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46222,
+    "neighbor_name": "ARZULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46217,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46218,
+    "neighbor_name": "BEYKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46201,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46205,
+    "neighbor_name": "DEREAĞZI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46198,
+    "neighbor_name": "EĞREK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46224,
+    "neighbor_name": "ERBEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46219,
+    "neighbor_name": "GERENKOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46214,
+    "neighbor_name": "HACIALİOBASI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46199,
+    "neighbor_name": "HAMİTLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46206,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46223,
+    "neighbor_name": "İKİZDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46212,
+    "neighbor_name": "İSAFAKILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46220,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46208,
+    "neighbor_name": "KARABAĞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46202,
+    "neighbor_name": "KARAGÖZLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46203,
+    "neighbor_name": "KÖPRÜOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46200,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46225,
+    "neighbor_name": "OSMANBÜKÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 50230,
+    "neighbor_name": "PALAMUT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46209,
+    "neighbor_name": "SANDIKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46210,
+    "neighbor_name": "SINIRTEKE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46204,
+    "neighbor_name": "ŞİRİNDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46211,
+    "neighbor_name": "YAZIDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 911,
+    "district_name": "İNCİRLİOVA",
+    "neighbor_id": 46216,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46268,
+    "neighbor_name": "ALEMLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46269,
+    "neighbor_name": "AŞAĞIGÖRLE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46275,
+    "neighbor_name": "ATAEYMİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46251,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46244,
+    "neighbor_name": "BAHÇEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46270,
+    "neighbor_name": "BEREKETLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46265,
+    "neighbor_name": "BİNGEÇ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46248,
+    "neighbor_name": "BÜYÜKDAĞLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46240,
+    "neighbor_name": "CABİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46262,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46252,
+    "neighbor_name": "ÇAMARASI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46253,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46255,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46276,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46256,
+    "neighbor_name": "DİKMEN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46263,
+    "neighbor_name": "ESENÇAY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46241,
+    "neighbor_name": "GEYRE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46277,
+    "neighbor_name": "GÖRLE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46271,
+    "neighbor_name": "GÜZELBEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46264,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46245,
+    "neighbor_name": "HACIHIDIRLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46272,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46242,
+    "neighbor_name": "KARABAĞLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46249,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46273,
+    "neighbor_name": "KÜÇÜKDAĞLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46258,
+    "neighbor_name": "NARGEDİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46274,
+    "neighbor_name": "PALAMUTÇUK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46259,
+    "neighbor_name": "TEKELİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46246,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46266,
+    "neighbor_name": "YAYKIN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46260,
+    "neighbor_name": "YAYLALI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46250,
+    "neighbor_name": "YAZIR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46257,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46247,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46243,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46254,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46267,
+    "neighbor_name": "YOLALTI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 913,
+    "district_name": "KARACASU",
+    "neighbor_id": 46261,
+    "neighbor_name": "YOLÜSTÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46078,
+    "neighbor_name": "ABAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46088,
+    "neighbor_name": "AKÇAABAT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46079,
+    "neighbor_name": "BAYRAKTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46072,
+    "neighbor_name": "CUMALAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46085,
+    "neighbor_name": "ÇOBANİSA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46089,
+    "neighbor_name": "EKTİRLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46081,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46073,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46093,
+    "neighbor_name": "HATIPKIŞLA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46094,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46090,
+    "neighbor_name": "KOĞUK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46074,
+    "neighbor_name": "MERİÇLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46091,
+    "neighbor_name": "MUTLUCA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46083,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46092,
+    "neighbor_name": "OVAPINARI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46086,
+    "neighbor_name": "ÖMERLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46087,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46075,
+    "neighbor_name": "TEKELER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46082,
+    "neighbor_name": "TÜTÜNLÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46076,
+    "neighbor_name": "ULUKONAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46084,
+    "neighbor_name": "UMCULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46080,
+    "neighbor_name": "YAĞŞILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 907,
+    "district_name": "KARPUZLU",
+    "neighbor_id": 46077,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46291,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46284,
+    "neighbor_name": "AKMESCİT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46322,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46307,
+    "neighbor_name": "BAĞARCIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46314,
+    "neighbor_name": "BAĞCILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46285,
+    "neighbor_name": "BIYIKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46286,
+    "neighbor_name": "BİRCİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46329,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46308,
+    "neighbor_name": "BOYDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46300,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46287,
+    "neighbor_name": "CİNCİN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46306,
+    "neighbor_name": "ÇAKIRBEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46282,
+    "neighbor_name": "ÇAKMAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46327,
+    "neighbor_name": "ÇALLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46298,
+    "neighbor_name": "ÇEŞMEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46313,
+    "neighbor_name": "ÇULHALAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46288,
+    "neighbor_name": "DEDEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46323,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46289,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46299,
+    "neighbor_name": "EVSEKLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46301,
+    "neighbor_name": "GAFFARLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46315,
+    "neighbor_name": "GÖZKAYA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46302,
+    "neighbor_name": "GÜDÜŞLÜ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46303,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46316,
+    "neighbor_name": "HACIHAMZALAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46309,
+    "neighbor_name": "HALİLBEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46304,
+    "neighbor_name": "HAYDARLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46317,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46295,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46318,
+    "neighbor_name": "KARADUT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46324,
+    "neighbor_name": "KASAPLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46283,
+    "neighbor_name": "KIZILCABÖLÜK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46325,
+    "neighbor_name": "KIZILKAYA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46319,
+    "neighbor_name": "KULLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46278,
+    "neighbor_name": "KUŞLARBELEN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46290,
+    "neighbor_name": "MERSİNBELEN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46320,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46279,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46296,
+    "neighbor_name": "SAPALAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46297,
+    "neighbor_name": "SATILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46326,
+    "neighbor_name": "SOBUCA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46293,
+    "neighbor_name": "ŞAHİNCİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46328,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46280,
+    "neighbor_name": "TAŞKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46294,
+    "neighbor_name": "TEKELİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46310,
+    "neighbor_name": "TIĞILLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46281,
+    "neighbor_name": "TİMİNCİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46311,
+    "neighbor_name": "YAĞCIDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46321,
+    "neighbor_name": "YAĞHANLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46305,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46312,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 914,
+    "district_name": "KOÇARLI",
+    "neighbor_id": 46292,
+    "neighbor_name": "ZEYTİNKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45835,
+    "neighbor_name": "AHATLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45836,
+    "neighbor_name": "AKÇAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45832,
+    "neighbor_name": "ALTIEYLÜL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45839,
+    "neighbor_name": "BAKLAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45816,
+    "neighbor_name": "BAŞÇAYIR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45814,
+    "neighbor_name": "BEYKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45833,
+    "neighbor_name": "CUMADERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45824,
+    "neighbor_name": "CUMAYANI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45822,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45823,
+    "neighbor_name": "ÇİFTLİKKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45820,
+    "neighbor_name": "GÖKKİRİŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45828,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45817,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45829,
+    "neighbor_name": "ILIDAĞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45830,
+    "neighbor_name": "KARATEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45834,
+    "neighbor_name": "KETENYERİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45825,
+    "neighbor_name": "KIRAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45821,
+    "neighbor_name": "KIZILCAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45840,
+    "neighbor_name": "KIZILCAYER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45831,
+    "neighbor_name": "KOÇAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45826,
+    "neighbor_name": "MENTEŞELER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45827,
+    "neighbor_name": "MEZEKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45818,
+    "neighbor_name": "OVAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45813,
+    "neighbor_name": "SARIÇAM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45837,
+    "neighbor_name": "SERDAROĞLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45819,
+    "neighbor_name": "SOĞUKKUYU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45838,
+    "neighbor_name": "UZUNDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 901,
+    "district_name": "KÖŞK",
+    "neighbor_id": 45815,
+    "neighbor_name": "YAVUZKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45917,
+    "neighbor_name": "ALACAMESCİT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45929,
+    "neighbor_name": "BAYRAKLIDEDE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45922,
+    "neighbor_name": "CAFERLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45913,
+    "neighbor_name": "CAMİATİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45923,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45921,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45934,
+    "neighbor_name": "ÇINARKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45925,
+    "neighbor_name": "DAĞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45924,
+    "neighbor_name": "DAVUTLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45935,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45914,
+    "neighbor_name": "EGE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45926,
+    "neighbor_name": "GÜZELÇAMLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45927,
+    "neighbor_name": "HACIFEYZULLAH MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45916,
+    "neighbor_name": "İKİÇEŞMELİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45928,
+    "neighbor_name": "KADIKALESİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45918,
+    "neighbor_name": "KADINLAR DENİZİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45931,
+    "neighbor_name": "KARAOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45919,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45932,
+    "neighbor_name": "SOĞUCAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45930,
+    "neighbor_name": "TÜRKMEN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45933,
+    "neighbor_name": "YAVANSU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45915,
+    "neighbor_name": "YAYLAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 903,
+    "district_name": "KUŞADASI",
+    "neighbor_id": 45920,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46102,
+    "neighbor_name": "AKSAZ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46103,
+    "neighbor_name": "AYDINOĞLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46125,
+    "neighbor_name": "AZİZABAT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46116,
+    "neighbor_name": "BAŞARAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46104,
+    "neighbor_name": "BELENOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46097,
+    "neighbor_name": "BEŞEYLÜL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46113,
+    "neighbor_name": "BEŞEYLÜL (MERKEZ) MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46117,
+    "neighbor_name": "BUCAKKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46109,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46108,
+    "neighbor_name": "ÇAMDİBİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46096,
+    "neighbor_name": "ÇOBANİSA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46128,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46121,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46098,
+    "neighbor_name": "GENCELLİDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46122,
+    "neighbor_name": "GENCELLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46110,
+    "neighbor_name": "HORSUNLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46120,
+    "neighbor_name": "İĞDECİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46118,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46111,
+    "neighbor_name": "KAYRAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46099,
+    "neighbor_name": "KURTULUŞ (HORSUNLU) MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46112,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46123,
+    "neighbor_name": "MUSAKOLU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46129,
+    "neighbor_name": "MUSTAFAPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46100,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46127,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46130,
+    "neighbor_name": "PAMUCAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46126,
+    "neighbor_name": "PAMUKÖREN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46106,
+    "neighbor_name": "SARICAOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46105,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46095,
+    "neighbor_name": "YAKUPPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46119,
+    "neighbor_name": "YAMALAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46101,
+    "neighbor_name": "YAYLALI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46124,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46115,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46107,
+    "neighbor_name": "YÖRE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 908,
+    "district_name": "KUYUCAK",
+    "neighbor_id": 46114,
+    "neighbor_name": "YUKARIYAKACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45938,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45969,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45961,
+    "neighbor_name": "ALTINTAŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46010,
+    "neighbor_name": "APAKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45955,
+    "neighbor_name": "ARSLANLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45956,
+    "neighbor_name": "AŞAĞIÖRENCİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46000,
+    "neighbor_name": "AŞAĞIYAKACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45994,
+    "neighbor_name": "AYDOĞDU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46014,
+    "neighbor_name": "BAĞCILLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45970,
+    "neighbor_name": "BAYINDIR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45990,
+    "neighbor_name": "BEĞERLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45989,
+    "neighbor_name": "BEKİRLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45971,
+    "neighbor_name": "BEREKETLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46001,
+    "neighbor_name": "BOZYURT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45980,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45993,
+    "neighbor_name": "ÇAPAHASAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46017,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45937,
+    "neighbor_name": "ÇAYLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45945,
+    "neighbor_name": "ÇOBANLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46011,
+    "neighbor_name": "DALLICA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45972,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45991,
+    "neighbor_name": "DEREAĞZI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45957,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46012,
+    "neighbor_name": "DUALAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45976,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45962,
+    "neighbor_name": "DURASILLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45965,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45958,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46002,
+    "neighbor_name": "EYCELLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45939,
+    "neighbor_name": "GEDİKALTI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45995,
+    "neighbor_name": "GEDİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45981,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45940,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46015,
+    "neighbor_name": "HAMZALLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46003,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45996,
+    "neighbor_name": "HAYDARLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45947,
+    "neighbor_name": "HİSARCIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45942,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46007,
+    "neighbor_name": "İSABEYLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45944,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45966,
+    "neighbor_name": "KAHVEDERESİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45992,
+    "neighbor_name": "KARAÇAY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45967,
+    "neighbor_name": "KARAHALLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45948,
+    "neighbor_name": "KARDEŞKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45997,
+    "neighbor_name": "KAŞIKÇILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46013,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45982,
+    "neighbor_name": "KESTEL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45951,
+    "neighbor_name": "KETENDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46016,
+    "neighbor_name": "KETENOVA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45949,
+    "neighbor_name": "KIRCAKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45952,
+    "neighbor_name": "KIZILDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45983,
+    "neighbor_name": "KOCAKESİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45968,
+    "neighbor_name": "KOZDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45978,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45941,
+    "neighbor_name": "KUŞÇULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45950,
+    "neighbor_name": "MESCİTLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45984,
+    "neighbor_name": "OCAKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45953,
+    "neighbor_name": "OVACIK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46008,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45986,
+    "neighbor_name": "PİRLİBEY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45985,
+    "neighbor_name": "PROF.MUAMMER AKSOY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45943,
+    "neighbor_name": "RAHMANLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46004,
+    "neighbor_name": "SAİLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45954,
+    "neighbor_name": "SAMAİLLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45936,
+    "neighbor_name": "SEVİNDİKLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45973,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45999,
+    "neighbor_name": "ŞİMŞELLİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45975,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45979,
+    "neighbor_name": "TOYGAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46005,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45963,
+    "neighbor_name": "UZUNÇAM MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45987,
+    "neighbor_name": "YALINKUYU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45946,
+    "neighbor_name": "YAYLAPINAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45977,
+    "neighbor_name": "YAZIRLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45964,
+    "neighbor_name": "YELLİCE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45974,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45998,
+    "neighbor_name": "YENİ SANAYİİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45960,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45959,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46009,
+    "neighbor_name": "YILDIZTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 46006,
+    "neighbor_name": "YUKARIÖRENCİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 904,
+    "district_name": "NAZİLLİ",
+    "neighbor_id": 45988,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46136,
+    "neighbor_name": "AĞAÇLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46145,
+    "neighbor_name": "AKÇAKAYA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46141,
+    "neighbor_name": "AKÇAKONAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46158,
+    "neighbor_name": "ARGAVLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46170,
+    "neighbor_name": "ARSLANYAYLASI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46150,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46177,
+    "neighbor_name": "ATBURGAZI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46142,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46159,
+    "neighbor_name": "AVŞAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46178,
+    "neighbor_name": "BAĞARASI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46143,
+    "neighbor_name": "BAYIRDAMI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46166,
+    "neighbor_name": "BURUNKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46160,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46139,
+    "neighbor_name": "ÇALIKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46172,
+    "neighbor_name": "ÇALIŞLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46140,
+    "neighbor_name": "ÇAVDAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46169,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46146,
+    "neighbor_name": "DEMİRÇAY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46137,
+    "neighbor_name": "DOĞANBEY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46151,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46153,
+    "neighbor_name": "GÖLBENT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46179,
+    "neighbor_name": "GÜLLÜBAHÇE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46154,
+    "neighbor_name": "GÜNEYYAKA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46155,
+    "neighbor_name": "GÜZELTEPE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46138,
+    "neighbor_name": "KARAATLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46156,
+    "neighbor_name": "KARACAHAYIT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46131,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46132,
+    "neighbor_name": "KAYGILLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46157,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46147,
+    "neighbor_name": "KİSİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46173,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46161,
+    "neighbor_name": "KÖPRÜALAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46167,
+    "neighbor_name": "NALBANTLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46144,
+    "neighbor_name": "ÖZBAŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46174,
+    "neighbor_name": "PAMUKÇULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46133,
+    "neighbor_name": "SARIKEMER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46152,
+    "neighbor_name": "SAVUCA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46134,
+    "neighbor_name": "SAYRAKÇI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46148,
+    "neighbor_name": "SAZLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46175,
+    "neighbor_name": "SERÇİN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46176,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46171,
+    "neighbor_name": "TUZBURGAZI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46162,
+    "neighbor_name": "YAMAÇ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46163,
+    "neighbor_name": "YENİCAMİİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46168,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46149,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46135,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46164,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 909,
+    "district_name": "SÖKE",
+    "neighbor_id": 46165,
+    "neighbor_name": "YUVACA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46026,
+    "neighbor_name": "ATÇA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46021,
+    "neighbor_name": "BEŞEYLÜL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46018,
+    "neighbor_name": "DEMİRHAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46027,
+    "neighbor_name": "ESKİHİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46028,
+    "neighbor_name": "GÜVENDİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46031,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46020,
+    "neighbor_name": "İNCEALAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46032,
+    "neighbor_name": "KABACA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46029,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46033,
+    "neighbor_name": "KILAVUZLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46022,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46023,
+    "neighbor_name": "MALGAÇEMİR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46034,
+    "neighbor_name": "MALGAÇMUSTAFA MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46024,
+    "neighbor_name": "REKMEZ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46035,
+    "neighbor_name": "SALAVATLI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46030,
+    "neighbor_name": "UZUNLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46025,
+    "neighbor_name": "YAĞDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 905,
+    "district_name": "SULTANHİSAR",
+    "neighbor_id": 46019,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46180,
+    "neighbor_name": "ALHAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46193,
+    "neighbor_name": "ALİOĞULLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46185,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46188,
+    "neighbor_name": "ÇAVDAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46192,
+    "neighbor_name": "ÇULHAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46194,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46189,
+    "neighbor_name": "DİRECİK MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46186,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46195,
+    "neighbor_name": "DONDURAN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46187,
+    "neighbor_name": "EĞRİDERE MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46181,
+    "neighbor_name": "HACIKÖSELER MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46190,
+    "neighbor_name": "HAMZABALİ MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46182,
+    "neighbor_name": "HÜKÜMET MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46191,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46183,
+    "neighbor_name": "KARAÇAKAL MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46184,
+    "neighbor_name": "KOYUNLAR MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46196,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 76,
+    "city_name": "AYDIN",
+    "district_id": 910,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 46197,
+    "neighbor_name": "YENİ MAH."
+  }
+]

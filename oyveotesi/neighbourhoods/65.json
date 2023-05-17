@@ -1,0 +1,1586 @@
+[
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42049,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42062,
+    "neighbor_name": "HACI ALİ EFENDİ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42059,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42060,
+    "neighbor_name": "YAKUDİYE MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42056,
+    "neighbor_name": "AKBULUT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42054,
+    "neighbor_name": "ALACA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42045,
+    "neighbor_name": "AŞAĞIKIRZI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42055,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42048,
+    "neighbor_name": "ÇATIKSU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42043,
+    "neighbor_name": "ÇAYIRKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42058,
+    "neighbor_name": "ÇİĞDEMLİK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42050,
+    "neighbor_name": "DUMLU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42065,
+    "neighbor_name": "ERİKDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42051,
+    "neighbor_name": "GÜMÜŞDAMLA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42061,
+    "neighbor_name": "GÜNBULDU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42052,
+    "neighbor_name": "İNCİLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42063,
+    "neighbor_name": "KAVLATAN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42064,
+    "neighbor_name": "KILIÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42057,
+    "neighbor_name": "PINARGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42041,
+    "neighbor_name": "SIRATAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42046,
+    "neighbor_name": "SORKUNLU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42066,
+    "neighbor_name": "SULUDERE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42044,
+    "neighbor_name": "ŞALCILAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42042,
+    "neighbor_name": "YANOBA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42053,
+    "neighbor_name": "YAPRACIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42047,
+    "neighbor_name": "YAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 818,
+    "district_name": "AYDINTEPE",
+    "neighbor_id": 42040,
+    "neighbor_name": "YUKARIKIRZI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42139,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42080,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42067,
+    "neighbor_name": "GENÇOSMAN MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42163,
+    "neighbor_name": "HALFİKALE (KALEARDI) MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42158,
+    "neighbor_name": "KADIZADE MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42096,
+    "neighbor_name": "KARASAKAL MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42144,
+    "neighbor_name": "MEHMET ÇELEBİ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42142,
+    "neighbor_name": "ŞEYHHAYRAN MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42118,
+    "neighbor_name": "ŞİNGAH MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42070,
+    "neighbor_name": "TUZCUZADE MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42102,
+    "neighbor_name": "UZUNGAZİ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42117,
+    "neighbor_name": "VELİŞABAN MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42104,
+    "neighbor_name": "VEYSEL MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42126,
+    "neighbor_name": "ZAHİT MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42072,
+    "neighbor_name": "ARPALI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42134,
+    "neighbor_name": "ARPALI-ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42098,
+    "neighbor_name": "ARPALI-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42157,
+    "neighbor_name": "ADABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42107,
+    "neighbor_name": "AĞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42119,
+    "neighbor_name": "AKÇAKUZU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42092,
+    "neighbor_name": "AKDURAN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42101,
+    "neighbor_name": "AKSAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42077,
+    "neighbor_name": "AKŞAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42181,
+    "neighbor_name": "ALAPELİT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42169,
+    "neighbor_name": "ALIÇLIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42143,
+    "neighbor_name": "ARDIÇGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42189,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42182,
+    "neighbor_name": "ARSLANDEDE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42173,
+    "neighbor_name": "AŞAĞIÇIMAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42147,
+    "neighbor_name": "AŞAĞIKIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42199,
+    "neighbor_name": "AŞAĞIPINARLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42106,
+    "neighbor_name": "AYDINCIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42073,
+    "neighbor_name": "BALCA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42177,
+    "neighbor_name": "BALKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42174,
+    "neighbor_name": "BALLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42190,
+    "neighbor_name": "BAŞÇIMAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42196,
+    "neighbor_name": "BAYIRTEPE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42175,
+    "neighbor_name": "BAYRAKTAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42170,
+    "neighbor_name": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42138,
+    "neighbor_name": "ÇAKIRBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42109,
+    "neighbor_name": "ÇALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42076,
+    "neighbor_name": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42097,
+    "neighbor_name": "ÇAMLIKOZ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42133,
+    "neighbor_name": "ÇAYIRÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42103,
+    "neighbor_name": "ÇAYIRYOLU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42145,
+    "neighbor_name": "ÇERÇİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42194,
+    "neighbor_name": "ÇİĞDEMTEPE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42071,
+    "neighbor_name": "ÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42084,
+    "neighbor_name": "DAĞÇATI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42099,
+    "neighbor_name": "DAĞTARLA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42172,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42110,
+    "neighbor_name": "DARICA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42192,
+    "neighbor_name": "DEĞİRMENCİK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42135,
+    "neighbor_name": "DEMİRIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42171,
+    "neighbor_name": "DEMİRKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42151,
+    "neighbor_name": "DİKMETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42074,
+    "neighbor_name": "DÖVMEKAYA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42127,
+    "neighbor_name": "ERENLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42191,
+    "neighbor_name": "GENÇOSMAN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42128,
+    "neighbor_name": "GEZ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42166,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42100,
+    "neighbor_name": "GÖKLER KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42165,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42081,
+    "neighbor_name": "GÖLDERE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42148,
+    "neighbor_name": "GÖLOBA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42068,
+    "neighbor_name": "GÜDER KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42202,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42078,
+    "neighbor_name": "GÜMÜŞSU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42197,
+    "neighbor_name": "GÜNEYDERE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42184,
+    "neighbor_name": "GÜZELCE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42162,
+    "neighbor_name": "HACIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42095,
+    "neighbor_name": "HARMANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42120,
+    "neighbor_name": "HELVA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42079,
+    "neighbor_name": "HEYBETEPE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42093,
+    "neighbor_name": "IĞDIR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42113,
+    "neighbor_name": "KABAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42183,
+    "neighbor_name": "KARLICA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42129,
+    "neighbor_name": "KARŞIGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42164,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42121,
+    "neighbor_name": "KAVAKYANI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42136,
+    "neighbor_name": "KEMERTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42122,
+    "neighbor_name": "KIRATLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42089,
+    "neighbor_name": "KIRKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42075,
+    "neighbor_name": "KİTRE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42159,
+    "neighbor_name": "KOÇBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42123,
+    "neighbor_name": "KONURSU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42198,
+    "neighbor_name": "KOP KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42149,
+    "neighbor_name": "KOPUZ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42160,
+    "neighbor_name": "KOZLUK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42153,
+    "neighbor_name": "KURBANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42085,
+    "neighbor_name": "KURUGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42161,
+    "neighbor_name": "MADEN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42086,
+    "neighbor_name": "MANAS KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42069,
+    "neighbor_name": "MASAT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42179,
+    "neighbor_name": "MUTLU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42114,
+    "neighbor_name": "NİŞANTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42140,
+    "neighbor_name": "ORTAÇIMAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42130,
+    "neighbor_name": "ORUÇBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42185,
+    "neighbor_name": "OZANSU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42156,
+    "neighbor_name": "ÖRENCE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42146,
+    "neighbor_name": "PAMUKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42111,
+    "neighbor_name": "PELİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42167,
+    "neighbor_name": "PETEKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42186,
+    "neighbor_name": "POLATLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42178,
+    "neighbor_name": "RÜŞTÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42090,
+    "neighbor_name": "SAKIZLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42112,
+    "neighbor_name": "SALKIMSU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42176,
+    "neighbor_name": "SANCAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42150,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42141,
+    "neighbor_name": "SARIHAN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42131,
+    "neighbor_name": "SARIMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42091,
+    "neighbor_name": "SEYDİYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42203,
+    "neighbor_name": "SIĞIRCI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42187,
+    "neighbor_name": "SIRAKAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42115,
+    "neighbor_name": "SOĞUKGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42180,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42195,
+    "neighbor_name": "TAHT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42193,
+    "neighbor_name": "TAŞBURUN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42188,
+    "neighbor_name": "TAŞÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42124,
+    "neighbor_name": "TAŞKESEN KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42108,
+    "neighbor_name": "TAŞOCAĞI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42087,
+    "neighbor_name": "TEPETARLA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42168,
+    "neighbor_name": "TOMLACIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42116,
+    "neighbor_name": "UĞRAK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42132,
+    "neighbor_name": "UĞURGELDİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42152,
+    "neighbor_name": "ULUÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42105,
+    "neighbor_name": "ÜZENGİLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42154,
+    "neighbor_name": "YANIKÇAM KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42082,
+    "neighbor_name": "YAYLALAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42137,
+    "neighbor_name": "YAYLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42088,
+    "neighbor_name": "YAZYURDU KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42083,
+    "neighbor_name": "YEDİGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42125,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42204,
+    "neighbor_name": "YERLİCE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42201,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42094,
+    "neighbor_name": "YOLALTI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42200,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 819,
+    "district_name": "BAYBURT MERKEZ",
+    "neighbor_id": 42155,
+    "neighbor_name": "YUKARIKIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42219,
+    "neighbor_name": "ÇİFTETAŞ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42211,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42226,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42224,
+    "neighbor_name": "ŞİRİN MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42221,
+    "neighbor_name": "GÖKÇEDERE-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42210,
+    "neighbor_name": "GÖKÇEDERE-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42235,
+    "neighbor_name": "GÖKÇEDERE-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42216,
+    "neighbor_name": "AKYAKA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42234,
+    "neighbor_name": "BAYRAMPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42220,
+    "neighbor_name": "BEŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42223,
+    "neighbor_name": "ÇAĞILLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42206,
+    "neighbor_name": "ÇAKIRÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42215,
+    "neighbor_name": "ÇATALÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42231,
+    "neighbor_name": "ÇİMENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42225,
+    "neighbor_name": "DAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42237,
+    "neighbor_name": "DEVETAŞI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42232,
+    "neighbor_name": "DİKMETAŞ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42217,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42207,
+    "neighbor_name": "EYMÜR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42208,
+    "neighbor_name": "GÜÇLÜ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42212,
+    "neighbor_name": "GÜVERCİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42236,
+    "neighbor_name": "IŞIKOVA KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42209,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42233,
+    "neighbor_name": "KARAYAŞMAK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42222,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42213,
+    "neighbor_name": "OTLUKBELİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42227,
+    "neighbor_name": "PETEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42214,
+    "neighbor_name": "PINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42228,
+    "neighbor_name": "SERENLİ KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42218,
+    "neighbor_name": "YAKUPABDAL KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42229,
+    "neighbor_name": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42230,
+    "neighbor_name": "YELPINAR KÖYÜ"
+  },
+  {
+    "city_id": 65,
+    "city_name": "BAYBURT",
+    "district_id": 820,
+    "district_name": "DEMİRÖZÜ",
+    "neighbor_id": 42205,
+    "neighbor_name": "YUKARIPINARLI KÖYÜ"
+  }
+]

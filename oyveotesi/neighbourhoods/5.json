@@ -1,0 +1,5354 @@
+[
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2687,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2720,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2684,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2679,
+    "neighbor_name": "AŞAĞIÇAMURDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2688,
+    "neighbor_name": "AŞAĞIKARTALLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2695,
+    "neighbor_name": "BALIKLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2712,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2689,
+    "neighbor_name": "BOYBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2721,
+    "neighbor_name": "BOZAĞA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2696,
+    "neighbor_name": "BÖLÜKOVA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2690,
+    "neighbor_name": "BÜYÜKGELENGEÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2722,
+    "neighbor_name": "BÜYÜKYAYLAKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2710,
+    "neighbor_name": "CENNETPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2704,
+    "neighbor_name": "ÇATAKSU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2703,
+    "neighbor_name": "ÇAYKENT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2693,
+    "neighbor_name": "ÇAYÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2727,
+    "neighbor_name": "ÇİLHOROZ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2694,
+    "neighbor_name": "ÇİLLİGÖL KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2705,
+    "neighbor_name": "DOĞANYUVA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2697,
+    "neighbor_name": "DOLUCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2699,
+    "neighbor_name": "ESENDORUK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2691,
+    "neighbor_name": "EŞMEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2713,
+    "neighbor_name": "GELİNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2723,
+    "neighbor_name": "GÖLLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2700,
+    "neighbor_name": "HARMANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2724,
+    "neighbor_name": "HASTARLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2714,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2706,
+    "neighbor_name": "KÜÇÜKGELENGEÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2717,
+    "neighbor_name": "MAZLUMAĞA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2680,
+    "neighbor_name": "MİRZAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2715,
+    "neighbor_name": "OĞULTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2718,
+    "neighbor_name": "ORTAÇAT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2707,
+    "neighbor_name": "OZANLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2681,
+    "neighbor_name": "PAŞAYURDU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2716,
+    "neighbor_name": "PINARLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2701,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2708,
+    "neighbor_name": "SARIGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2702,
+    "neighbor_name": "SAYGILI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2682,
+    "neighbor_name": "SIRATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2685,
+    "neighbor_name": "TOPRAKKALE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2719,
+    "neighbor_name": "TOSUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2686,
+    "neighbor_name": "TURNAÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2709,
+    "neighbor_name": "VERİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2725,
+    "neighbor_name": "YAYLAKENT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2692,
+    "neighbor_name": "YAYLALAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2726,
+    "neighbor_name": "YAZIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2711,
+    "neighbor_name": "YEŞİLYAKA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2678,
+    "neighbor_name": "YUKARIÇAMURDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2683,
+    "neighbor_name": "YUKARIKARTALLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 52,
+    "district_name": "ÇAYIRLI",
+    "neighbor_id": 2698,
+    "neighbor_name": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2586,
+    "neighbor_name": "AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50369,
+    "neighbor_name": "AKTOPRAK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50363,
+    "neighbor_name": "AKYAZI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50373,
+    "neighbor_name": "ALSANCAK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2454,
+    "neighbor_name": "ARSLANLI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2496,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49718,
+    "neighbor_name": "AZİZ BABA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2587,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2505,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50371,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2565,
+    "neighbor_name": "BAŞBAĞLAR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50391,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50399,
+    "neighbor_name": "BAYRAK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50360,
+    "neighbor_name": "BOZYAZI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50516,
+    "neighbor_name": "BUĞDAYLI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50370,
+    "neighbor_name": "BULUTLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50152,
+    "neighbor_name": "BÜYÜKÇAKIRMAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50400,
+    "neighbor_name": "CEMAL GÜRSEL MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2578,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2526,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49925,
+    "neighbor_name": "ÇUKURKUYU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49961,
+    "neighbor_name": "DAVARLI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50429,
+    "neighbor_name": "DEMETEVLER MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49546,
+    "neighbor_name": "DEMİRKENT MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50388,
+    "neighbor_name": "DEREYURT MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2478,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2528,
+    "neighbor_name": "ERSEVENLER MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50385,
+    "neighbor_name": "ERTUĞRUL GAZİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50416,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2591,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50408,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50372,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2475,
+    "neighbor_name": "GÜLABİBEY MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50428,
+    "neighbor_name": "GÜLLÜCE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2567,
+    "neighbor_name": "HALİTPAŞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50423,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49410,
+    "neighbor_name": "HANCI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50364,
+    "neighbor_name": "HOCA AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2467,
+    "neighbor_name": "HOCABEY MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49512,
+    "neighbor_name": "HÜRREMPALANGASI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50357,
+    "neighbor_name": "IŞIKPINAR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2513,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2536,
+    "neighbor_name": "İZZETPAŞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2552,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49633,
+    "neighbor_name": "KAVAKYOLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2593,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49760,
+    "neighbor_name": "KEKLİKKAYASI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2482,
+    "neighbor_name": "KIZILAY MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49834,
+    "neighbor_name": "KURUTİLEK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50368,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2471,
+    "neighbor_name": "MENGÜCELİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2516,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49622,
+    "neighbor_name": "MUNZUR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50386,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50387,
+    "neighbor_name": "OSMAN GAZİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50382,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50362,
+    "neighbor_name": "ÖZGÜRLÜK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50351,
+    "neighbor_name": "PAŞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50367,
+    "neighbor_name": "SANCAK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50401,
+    "neighbor_name": "SARIGÖL MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50406,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50396,
+    "neighbor_name": "ŞEHİT CENGİZ TOPEL MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49490,
+    "neighbor_name": "ŞEHİT SERHAT MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 49855,
+    "neighbor_name": "ŞEHİT SERHAT YURTBAŞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2563,
+    "neighbor_name": "TAKSİM MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50413,
+    "neighbor_name": "TERZİBABA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50076,
+    "neighbor_name": "ULALAR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50463,
+    "neighbor_name": "ÜÇKONAK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50359,
+    "neighbor_name": "YALNIZBAĞ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2517,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 50366,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2548,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2553,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2575,
+    "neighbor_name": "ÇAĞLAYAN-ATATÜRK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2465,
+    "neighbor_name": "ÇAĞLAYAN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2469,
+    "neighbor_name": "ÇAĞLAYAN-DEREBAĞ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2521,
+    "neighbor_name": "ÇAĞLAYAN-ERDENE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2534,
+    "neighbor_name": "ÇAĞLAYAN-MERTEKLİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2460,
+    "neighbor_name": "ÇAĞLAYAN-ŞELALE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2554,
+    "neighbor_name": "ÇAĞLAYAN-YAMAÇLI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2561,
+    "neighbor_name": "MOLLAKÖY-ATATÜRK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2456,
+    "neighbor_name": "MOLLAKÖY-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2539,
+    "neighbor_name": "MOLLAKÖY-MAHMUTLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2492,
+    "neighbor_name": "MOLLAKÖY-TEPECİK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2472,
+    "neighbor_name": "MOLLAKÖY-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2523,
+    "neighbor_name": "AĞILÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2541,
+    "neighbor_name": "AHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2488,
+    "neighbor_name": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2462,
+    "neighbor_name": "BAHÇELİKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2527,
+    "neighbor_name": "BAHÇEYAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2559,
+    "neighbor_name": "BALIBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2542,
+    "neighbor_name": "BALLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2455,
+    "neighbor_name": "BALTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2576,
+    "neighbor_name": "BEŞSARAY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2474,
+    "neighbor_name": "BİNKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2466,
+    "neighbor_name": "CAFERLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2588,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2520,
+    "neighbor_name": "ÇATALARMUT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2571,
+    "neighbor_name": "ÇATALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2484,
+    "neighbor_name": "ÇUBUKLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2589,
+    "neighbor_name": "DEĞİRMENKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2537,
+    "neighbor_name": "EKİNCİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2566,
+    "neighbor_name": "EKMEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2502,
+    "neighbor_name": "ELMAKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2498,
+    "neighbor_name": "ERGAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2506,
+    "neighbor_name": "GANİEFENDİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2514,
+    "neighbor_name": "GÖLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2579,
+    "neighbor_name": "GÖYNE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2457,
+    "neighbor_name": "GÜMÜŞTARLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2531,
+    "neighbor_name": "GÜNBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2458,
+    "neighbor_name": "GÜNEBAKAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2551,
+    "neighbor_name": "GÜRLEVİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2538,
+    "neighbor_name": "HACIALİPALANGASI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2573,
+    "neighbor_name": "HANCIÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2511,
+    "neighbor_name": "HANİDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2489,
+    "neighbor_name": "HEYBELİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2459,
+    "neighbor_name": "ILIDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2574,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2470,
+    "neighbor_name": "KARADİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2556,
+    "neighbor_name": "KARATUŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2545,
+    "neighbor_name": "KILIÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2485,
+    "neighbor_name": "KİLİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2504,
+    "neighbor_name": "KOÇYATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2479,
+    "neighbor_name": "KONAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2530,
+    "neighbor_name": "KÜÇÜKÇAKIRMAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2594,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2518,
+    "neighbor_name": "OĞLAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2499,
+    "neighbor_name": "ORTAYURT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2585,
+    "neighbor_name": "PEKMEZLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2493,
+    "neighbor_name": "PINARÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2562,
+    "neighbor_name": "SAZLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2480,
+    "neighbor_name": "SAZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2490,
+    "neighbor_name": "SOĞUKOLUK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2486,
+    "neighbor_name": "SÖĞÜTÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2512,
+    "neighbor_name": "SÜTPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2581,
+    "neighbor_name": "TANDIRLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2525,
+    "neighbor_name": "TATLISU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2560,
+    "neighbor_name": "TÜRKMENOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2569,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2487,
+    "neighbor_name": "ÜREK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2468,
+    "neighbor_name": "YALINCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2510,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2491,
+    "neighbor_name": "YEŞİLÇAT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 50,
+    "district_name": "ERZİNCAN MERKEZ",
+    "neighbor_id": 2558,
+    "neighbor_name": "YEŞİLÇAY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2392,
+    "neighbor_name": "ABDULLAH PAŞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2403,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2443,
+    "neighbor_name": "İBRAHİM ÇEÇEN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2390,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2421,
+    "neighbor_name": "AĞILDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2440,
+    "neighbor_name": "AKÇAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2434,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2417,
+    "neighbor_name": "ATMA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2399,
+    "neighbor_name": "BAĞCUĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2412,
+    "neighbor_name": "BAĞIŞTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2396,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2408,
+    "neighbor_name": "BALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2418,
+    "neighbor_name": "BOYALIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2431,
+    "neighbor_name": "BOZÇALI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2423,
+    "neighbor_name": "BOZYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2402,
+    "neighbor_name": "BÜRÜNCEK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2432,
+    "neighbor_name": "BÜYÜKARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2426,
+    "neighbor_name": "BÜYÜKGÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2414,
+    "neighbor_name": "BÜYÜKKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2407,
+    "neighbor_name": "ÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2430,
+    "neighbor_name": "ÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2424,
+    "neighbor_name": "ÇAYYAKA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2395,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2446,
+    "neighbor_name": "ÇİLESİZ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2401,
+    "neighbor_name": "ÇOBANLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2425,
+    "neighbor_name": "ÇÖPLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2437,
+    "neighbor_name": "ÇÖREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2427,
+    "neighbor_name": "DİKMEN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2400,
+    "neighbor_name": "DOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2409,
+    "neighbor_name": "DORUKSARAY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2413,
+    "neighbor_name": "DOSTAL KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2448,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2447,
+    "neighbor_name": "İSLAMKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2422,
+    "neighbor_name": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 50430,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2449,
+    "neighbor_name": "KAYACIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2415,
+    "neighbor_name": "KAYMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2438,
+    "neighbor_name": "KONUKÇU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2419,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2441,
+    "neighbor_name": "KURUÇAY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2404,
+    "neighbor_name": "KUZKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2420,
+    "neighbor_name": "KÜÇÜKARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2394,
+    "neighbor_name": "LEVENTPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2445,
+    "neighbor_name": "ORTATEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2433,
+    "neighbor_name": "ÖZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2410,
+    "neighbor_name": "SABIRLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2428,
+    "neighbor_name": "SARIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2439,
+    "neighbor_name": "SARIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2411,
+    "neighbor_name": "SULARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2398,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2405,
+    "neighbor_name": "TABANLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2442,
+    "neighbor_name": "TURGUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2416,
+    "neighbor_name": "UĞUR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2406,
+    "neighbor_name": "ULUYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2391,
+    "neighbor_name": "YAKUPLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2435,
+    "neighbor_name": "YALINGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2429,
+    "neighbor_name": "YAYLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 49,
+    "district_name": "İLİÇ",
+    "neighbor_id": 2436,
+    "neighbor_name": "YILMAZ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2746,
+    "neighbor_name": "AŞAĞIGEDİK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2749,
+    "neighbor_name": "BEKLİMÇAY MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2732,
+    "neighbor_name": "CİRGİŞİN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2765,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2787,
+    "neighbor_name": "GÖĞÜSBAĞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2783,
+    "neighbor_name": "KARŞIBAĞ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2736,
+    "neighbor_name": "MEKTEPÖNÜ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2744,
+    "neighbor_name": "ORTAGEDİK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2745,
+    "neighbor_name": "PÖRHENKBAŞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2755,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2803,
+    "neighbor_name": "AĞAÇSARAY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2808,
+    "neighbor_name": "AKBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2798,
+    "neighbor_name": "AKÇA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2738,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2756,
+    "neighbor_name": "AKYÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2751,
+    "neighbor_name": "ALP KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2731,
+    "neighbor_name": "ATMA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2771,
+    "neighbor_name": "AYRANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2730,
+    "neighbor_name": "BEŞİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2764,
+    "neighbor_name": "BOĞAZİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2752,
+    "neighbor_name": "BOZOĞLAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2792,
+    "neighbor_name": "CEVİZLİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2763,
+    "neighbor_name": "ÇAKIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2777,
+    "neighbor_name": "ÇALGI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2778,
+    "neighbor_name": "ÇALIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2779,
+    "neighbor_name": "ÇAMLIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2772,
+    "neighbor_name": "ÇİĞDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2802,
+    "neighbor_name": "DEDEK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2739,
+    "neighbor_name": "DEDEOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2791,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2741,
+    "neighbor_name": "DİKYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2766,
+    "neighbor_name": "DOĞANBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2740,
+    "neighbor_name": "DOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2793,
+    "neighbor_name": "DUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2804,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2794,
+    "neighbor_name": "ERİÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2733,
+    "neighbor_name": "ESİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2788,
+    "neighbor_name": "ESKİBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2805,
+    "neighbor_name": "GEDİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2742,
+    "neighbor_name": "GÖKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2795,
+    "neighbor_name": "GÖLKAYNAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2753,
+    "neighbor_name": "GÜLBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2728,
+    "neighbor_name": "HAKBİLİR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2780,
+    "neighbor_name": "İNCEDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2796,
+    "neighbor_name": "KARACA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2782,
+    "neighbor_name": "KARADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2757,
+    "neighbor_name": "KARDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2758,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2759,
+    "neighbor_name": "KAZANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2781,
+    "neighbor_name": "KEDEK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2734,
+    "neighbor_name": "KEMERYAKA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2735,
+    "neighbor_name": "KERER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2784,
+    "neighbor_name": "KIRIKDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2799,
+    "neighbor_name": "KOÇKAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2760,
+    "neighbor_name": "KONUKSEVER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2806,
+    "neighbor_name": "KORUYOLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2761,
+    "neighbor_name": "KÖMÜR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2767,
+    "neighbor_name": "KUTLUOVA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2807,
+    "neighbor_name": "KÜPLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2750,
+    "neighbor_name": "MAKSUTUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2785,
+    "neighbor_name": "MERMERLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2789,
+    "neighbor_name": "MEZRA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2768,
+    "neighbor_name": "MURATBOYNU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2737,
+    "neighbor_name": "OĞUZ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2762,
+    "neighbor_name": "OLUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2773,
+    "neighbor_name": "ÖZDAMAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2769,
+    "neighbor_name": "PARMAKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2774,
+    "neighbor_name": "SARIYAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2770,
+    "neighbor_name": "SERİNGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2775,
+    "neighbor_name": "SÜREK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2747,
+    "neighbor_name": "ŞAHİNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2776,
+    "neighbor_name": "TANDIRBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2800,
+    "neighbor_name": "TAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2748,
+    "neighbor_name": "TAŞBULAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2754,
+    "neighbor_name": "TUZLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2790,
+    "neighbor_name": "ULUÇINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2809,
+    "neighbor_name": "YAĞCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2729,
+    "neighbor_name": "YAHŞILAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2797,
+    "neighbor_name": "YARDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2801,
+    "neighbor_name": "YASTIKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 53,
+    "district_name": "KEMAH",
+    "neighbor_id": 2786,
+    "neighbor_name": "YÜCEBELEN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2182,
+    "neighbor_name": "ARİKİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2149,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2165,
+    "neighbor_name": "DÖRTYOLAĞZI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 50389,
+    "neighbor_name": "ESERTEPE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2188,
+    "neighbor_name": "GENÇAĞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2171,
+    "neighbor_name": "HACI YUSUF MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2189,
+    "neighbor_name": "HALİLAĞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2201,
+    "neighbor_name": "İSHAKPAŞA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2172,
+    "neighbor_name": "NAİP MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2168,
+    "neighbor_name": "SANDIKBAĞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2181,
+    "neighbor_name": "TAŞDİBİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2193,
+    "neighbor_name": "ADAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2183,
+    "neighbor_name": "AĞIL KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2197,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2185,
+    "neighbor_name": "AKSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2170,
+    "neighbor_name": "APÇAĞA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2158,
+    "neighbor_name": "ARMAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2159,
+    "neighbor_name": "ARSLANOBA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2202,
+    "neighbor_name": "AŞAĞIUMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2145,
+    "neighbor_name": "AVCI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2175,
+    "neighbor_name": "BALKIRI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2210,
+    "neighbor_name": "BAŞARI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2206,
+    "neighbor_name": "BAŞBAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2198,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2176,
+    "neighbor_name": "BOYLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2207,
+    "neighbor_name": "BUĞDAYPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2209,
+    "neighbor_name": "ÇAKIRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2192,
+    "neighbor_name": "ÇALDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2151,
+    "neighbor_name": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2144,
+    "neighbor_name": "ÇAT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2184,
+    "neighbor_name": "ÇİT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2152,
+    "neighbor_name": "DALLICA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2146,
+    "neighbor_name": "DEMİR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2194,
+    "neighbor_name": "DİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2141,
+    "neighbor_name": "DOLUNAY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2177,
+    "neighbor_name": "DUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2142,
+    "neighbor_name": "EFELER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2187,
+    "neighbor_name": "ERGÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2195,
+    "neighbor_name": "GÖZAYDIN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2154,
+    "neighbor_name": "GÜLDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2178,
+    "neighbor_name": "GÜMÜŞÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2179,
+    "neighbor_name": "GÜNYOLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2150,
+    "neighbor_name": "HARMANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2200,
+    "neighbor_name": "KABATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2161,
+    "neighbor_name": "KARAKOÇLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2204,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2162,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2190,
+    "neighbor_name": "KEKİKPINARI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2196,
+    "neighbor_name": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2208,
+    "neighbor_name": "KOCAÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2205,
+    "neighbor_name": "KOZLUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2191,
+    "neighbor_name": "KUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2167,
+    "neighbor_name": "KUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2147,
+    "neighbor_name": "OCAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2166,
+    "neighbor_name": "SALİHLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2199,
+    "neighbor_name": "SANDIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2169,
+    "neighbor_name": "SIRAKONAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2180,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2157,
+    "neighbor_name": "ŞAHİNLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2148,
+    "neighbor_name": "TOPKAPI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2163,
+    "neighbor_name": "TOYBELEN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2155,
+    "neighbor_name": "TUĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2173,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2153,
+    "neighbor_name": "YAZMAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2156,
+    "neighbor_name": "YEŞİLYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2174,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2143,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2160,
+    "neighbor_name": "YILDIZLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2186,
+    "neighbor_name": "YUKARIUMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 45,
+    "district_name": "KEMALİYE",
+    "neighbor_id": 2164,
+    "neighbor_name": "YUVA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2223,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2216,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2214,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2222,
+    "neighbor_name": "AĞAMÇAĞAM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2221,
+    "neighbor_name": "AVCIÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2215,
+    "neighbor_name": "BOĞAZLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2224,
+    "neighbor_name": "KARADİVAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2219,
+    "neighbor_name": "KÜÇÜKOTLUKBELİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2213,
+    "neighbor_name": "ÖRDEKHACI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2217,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2220,
+    "neighbor_name": "UMURLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2218,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 46,
+    "district_name": "OTLUKBELİ",
+    "neighbor_id": 2212,
+    "neighbor_name": "YEŞİLBÜK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 49599,
+    "neighbor_name": "BİNALİ YILDIRIM MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2253,
+    "neighbor_name": "CAMİİŞERİF MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2267,
+    "neighbor_name": "HAKOĞLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 49922,
+    "neighbor_name": "HÖKÜMET MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2241,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2280,
+    "neighbor_name": "AĞMUSA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2233,
+    "neighbor_name": "AKARSU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2321,
+    "neighbor_name": "AKBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2322,
+    "neighbor_name": "AKÇİĞDEM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2225,
+    "neighbor_name": "ALACATLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2250,
+    "neighbor_name": "ALAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2323,
+    "neighbor_name": "ALAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2262,
+    "neighbor_name": "ALTKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2248,
+    "neighbor_name": "ARDIÇLIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2296,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2258,
+    "neighbor_name": "ARPAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2290,
+    "neighbor_name": "ASLANYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2285,
+    "neighbor_name": "AŞAĞISÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2234,
+    "neighbor_name": "AŞUT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2279,
+    "neighbor_name": "AVŞARÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2291,
+    "neighbor_name": "AYDINCIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2324,
+    "neighbor_name": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2292,
+    "neighbor_name": "BABAASLAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2266,
+    "neighbor_name": "BAKACAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2259,
+    "neighbor_name": "BALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2251,
+    "neighbor_name": "BAŞTOSUN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2286,
+    "neighbor_name": "BİÇER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2228,
+    "neighbor_name": "BOSTANDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2252,
+    "neighbor_name": "BÖLÜKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2283,
+    "neighbor_name": "CENGERLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2238,
+    "neighbor_name": "ÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2335,
+    "neighbor_name": "ÇAMDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2244,
+    "neighbor_name": "ÇAMLIMÜLK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2276,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2295,
+    "neighbor_name": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2320,
+    "neighbor_name": "ÇAT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2277,
+    "neighbor_name": "ÇIRAGEDİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2315,
+    "neighbor_name": "ÇİÇEKALİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2245,
+    "neighbor_name": "ÇUKURÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2227,
+    "neighbor_name": "ÇUKURYAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2270,
+    "neighbor_name": "DAMLACA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2303,
+    "neighbor_name": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2242,
+    "neighbor_name": "DİŞTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2254,
+    "neighbor_name": "DİYARLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2229,
+    "neighbor_name": "DOĞANDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2271,
+    "neighbor_name": "DOLAYLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2281,
+    "neighbor_name": "EKECİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2235,
+    "neighbor_name": "ERECEK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2337,
+    "neighbor_name": "GAZİPINARI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2328,
+    "neighbor_name": "GEMECİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2341,
+    "neighbor_name": "GÖKSEKİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2345,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2255,
+    "neighbor_name": "GÜLENSU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2293,
+    "neighbor_name": "GÜMÜŞAKAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2230,
+    "neighbor_name": "GÜNYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2236,
+    "neighbor_name": "GÜVENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2294,
+    "neighbor_name": "HACIKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2284,
+    "neighbor_name": "HALİTLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2342,
+    "neighbor_name": "KABULLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2239,
+    "neighbor_name": "KAÇAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2231,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2226,
+    "neighbor_name": "KALKANCI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2325,
+    "neighbor_name": "KAMBERAĞA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2306,
+    "neighbor_name": "KANDİL KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2287,
+    "neighbor_name": "KANLITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2309,
+    "neighbor_name": "KARASU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2272,
+    "neighbor_name": "KARAYAPRAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2333,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2273,
+    "neighbor_name": "KAZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2343,
+    "neighbor_name": "KEÇEGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2304,
+    "neighbor_name": "KERSEN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2346,
+    "neighbor_name": "KIRANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2237,
+    "neighbor_name": "KIRIKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2305,
+    "neighbor_name": "KIRKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2246,
+    "neighbor_name": "KIZILENİŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2329,
+    "neighbor_name": "KOÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2263,
+    "neighbor_name": "KONAKKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2247,
+    "neighbor_name": "KÖÇEVİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2316,
+    "neighbor_name": "KUZULUK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2347,
+    "neighbor_name": "KÜRELİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2317,
+    "neighbor_name": "LALELİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2297,
+    "neighbor_name": "LEVENTLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2256,
+    "neighbor_name": "MADENDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2243,
+    "neighbor_name": "MENDEMEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2298,
+    "neighbor_name": "MENDEMEKÖYÇUKURU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2310,
+    "neighbor_name": "MERKEZ KALKANCI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2348,
+    "neighbor_name": "MURATÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2338,
+    "neighbor_name": "OLGUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2274,
+    "neighbor_name": "ONURLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2307,
+    "neighbor_name": "ORTAGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2278,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2326,
+    "neighbor_name": "PERÇEM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2260,
+    "neighbor_name": "PINARYOLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2330,
+    "neighbor_name": "RESULLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2311,
+    "neighbor_name": "SAĞLIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2249,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2268,
+    "neighbor_name": "SARHAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2264,
+    "neighbor_name": "SARIBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2327,
+    "neighbor_name": "SARIKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2349,
+    "neighbor_name": "SIRALI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2299,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2232,
+    "neighbor_name": "ŞAHALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2261,
+    "neighbor_name": "ŞAHVERDİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2313,
+    "neighbor_name": "ŞAİP KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2331,
+    "neighbor_name": "TEKNECİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2300,
+    "neighbor_name": "TEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2240,
+    "neighbor_name": "TOPAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2318,
+    "neighbor_name": "TUZLUÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2301,
+    "neighbor_name": "TÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2312,
+    "neighbor_name": "ULUCAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2275,
+    "neighbor_name": "ULUDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2336,
+    "neighbor_name": "ÜÇÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2332,
+    "neighbor_name": "YAYLABELİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2340,
+    "neighbor_name": "YAYLAPINARI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2344,
+    "neighbor_name": "YAZIGEDİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2257,
+    "neighbor_name": "YAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2308,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2314,
+    "neighbor_name": "YENİYURT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2265,
+    "neighbor_name": "YILDIZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2289,
+    "neighbor_name": "YUKARISÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2282,
+    "neighbor_name": "YUKARIYENİKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2302,
+    "neighbor_name": "YURTBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 47,
+    "district_name": "REFAHİYE",
+    "neighbor_id": 2319,
+    "neighbor_name": "YUVADAĞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2647,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2616,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2676,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2641,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2673,
+    "neighbor_name": "MAMAHATUN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2625,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2651,
+    "neighbor_name": "ÇADIRKAYA-CAMİİ KEBİR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2631,
+    "neighbor_name": "ÇADIRKAYA-GÖZELER MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2634,
+    "neighbor_name": "ÇADIRKAYA-YENİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2639,
+    "neighbor_name": "KARGIN-CAMİİ ŞERİF MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2665,
+    "neighbor_name": "KARGIN-İSTASYON MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2612,
+    "neighbor_name": "KARGIN-SUCUALİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 49794,
+    "neighbor_name": "KARGIN-ŞEHİT AHMET AYTEKİN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2672,
+    "neighbor_name": "KARGIN-YOLLARÜSTÜ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2661,
+    "neighbor_name": "MERCAN-AKŞEMSETTİN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2613,
+    "neighbor_name": "MERCAN-ATATÜRK MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2635,
+    "neighbor_name": "MERCAN-FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2622,
+    "neighbor_name": "AĞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2608,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2654,
+    "neighbor_name": "AKYURT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2602,
+    "neighbor_name": "ALTINKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2674,
+    "neighbor_name": "ARMUTLUK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2675,
+    "neighbor_name": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2632,
+    "neighbor_name": "BALYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2669,
+    "neighbor_name": "BAŞBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2642,
+    "neighbor_name": "BEĞENDİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2617,
+    "neighbor_name": "BEŞGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2670,
+    "neighbor_name": "BEŞKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2596,
+    "neighbor_name": "BEYKONAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2618,
+    "neighbor_name": "BULMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2648,
+    "neighbor_name": "BÜKLÜMDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 50410,
+    "neighbor_name": "ÇALKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2646,
+    "neighbor_name": "ÇATAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2653,
+    "neighbor_name": "ÇAYIRDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2667,
+    "neighbor_name": "ÇUKURYURT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2643,
+    "neighbor_name": "DALLICA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2655,
+    "neighbor_name": "DARITEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2619,
+    "neighbor_name": "DOLUCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2623,
+    "neighbor_name": "EDEBÜK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2597,
+    "neighbor_name": "ELALDI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2660,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2598,
+    "neighbor_name": "ESENEVLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2609,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2610,
+    "neighbor_name": "GAFUREFENDİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2599,
+    "neighbor_name": "GEDİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2636,
+    "neighbor_name": "GEVENLİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2633,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2611,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2637,
+    "neighbor_name": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2663,
+    "neighbor_name": "GÜZBULAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2600,
+    "neighbor_name": "HACIBAYRAM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2664,
+    "neighbor_name": "ILISU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2668,
+    "neighbor_name": "İKİZLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2671,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2601,
+    "neighbor_name": "KARACAKIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2656,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2638,
+    "neighbor_name": "KARAHÜSEYİN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 49856,
+    "neighbor_name": "KAVAKLIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2657,
+    "neighbor_name": "KEMERÇAM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2677,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2658,
+    "neighbor_name": "KONARLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 50417,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2649,
+    "neighbor_name": "KURUKOL KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2659,
+    "neighbor_name": "KUZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2603,
+    "neighbor_name": "KÜÇÜKAĞA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2628,
+    "neighbor_name": "KÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2629,
+    "neighbor_name": "MANTARLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2630,
+    "neighbor_name": "MUSTAFABEY KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2604,
+    "neighbor_name": "MÜFTÜOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2624,
+    "neighbor_name": "OĞULVEREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2662,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2644,
+    "neighbor_name": "SAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2652,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2605,
+    "neighbor_name": "ŞENGÜL KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2666,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2645,
+    "neighbor_name": "TOPALHASAN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2621,
+    "neighbor_name": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2606,
+    "neighbor_name": "YALINKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2607,
+    "neighbor_name": "YASTIKKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2626,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2620,
+    "neighbor_name": "YAYLAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2614,
+    "neighbor_name": "YAYLIM KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2595,
+    "neighbor_name": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2627,
+    "neighbor_name": "YENİBUCAK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2650,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 51,
+    "district_name": "TERCAN",
+    "neighbor_id": 2615,
+    "neighbor_name": "YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2376,
+    "neighbor_name": "BABACAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2358,
+    "neighbor_name": "BAHÇEŞEHİR MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2350,
+    "neighbor_name": "CİMİNLİ BABA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2374,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2361,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2366,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2387,
+    "neighbor_name": "GEYİKLİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 50365,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 50415,
+    "neighbor_name": "MUHSİN YAZICIOĞLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2356,
+    "neighbor_name": "ORUÇLU MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2353,
+    "neighbor_name": "PİRİ SAMİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2372,
+    "neighbor_name": "TERZİBABA MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2354,
+    "neighbor_name": "ÜÇLER MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 50394,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2381,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2375,
+    "neighbor_name": "ALTINBAŞAK-BÜYÜK KADAĞAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2362,
+    "neighbor_name": "ALTINBAŞAK-FIRAT MAHELLESİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2383,
+    "neighbor_name": "ALTINBAŞAK-İSTASYON MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 50051,
+    "neighbor_name": "ALTINBAŞAK-KÜÇÜKKADAĞAN MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2363,
+    "neighbor_name": "ALTINBAŞAK-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2352,
+    "neighbor_name": "ALTINBAŞAK-SÜLEYMANLI MAHELLESİ MAH."
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2384,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2364,
+    "neighbor_name": "BAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2359,
+    "neighbor_name": "BALABANLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2377,
+    "neighbor_name": "BAYIRBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2365,
+    "neighbor_name": "BULANIK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2385,
+    "neighbor_name": "BÜYÜKKÖY"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2357,
+    "neighbor_name": "ÇADIRTEPE KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2373,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2382,
+    "neighbor_name": "ÇARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2360,
+    "neighbor_name": "ÇAYIRYAZI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2378,
+    "neighbor_name": "DEMİRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2351,
+    "neighbor_name": "DENİZDAMI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2386,
+    "neighbor_name": "DEREBÜK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2355,
+    "neighbor_name": "ESENYURT KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2369,
+    "neighbor_name": "GÖLLER KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2367,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2370,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2379,
+    "neighbor_name": "KUREYŞLİSARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2388,
+    "neighbor_name": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2368,
+    "neighbor_name": "OTLUK KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2380,
+    "neighbor_name": "PELİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2371,
+    "neighbor_name": "PINARLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 5,
+    "city_name": "ERZİNCAN",
+    "district_id": 48,
+    "district_name": "ÜZÜMLÜ",
+    "neighbor_id": 2389,
+    "neighbor_name": "PİŞKİDAĞ KÖYÜ"
+  }
+]

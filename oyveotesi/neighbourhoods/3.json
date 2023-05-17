@@ -1,0 +1,1586 @@
+[
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1130,
+    "neighbor_name": "ARAS MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1133,
+    "neighbor_name": "KARASU MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1134,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1123,
+    "neighbor_name": "KÖPRÜLER MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1137,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1127,
+    "neighbor_name": "ADETLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1128,
+    "neighbor_name": "AŞAĞIARATAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1142,
+    "neighbor_name": "AŞAĞIÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1129,
+    "neighbor_name": "AŞAĞIÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1147,
+    "neighbor_name": "AŞAĞITOPRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1138,
+    "neighbor_name": "BABACAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1122,
+    "neighbor_name": "EMİNCE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1143,
+    "neighbor_name": "GÖDEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1131,
+    "neighbor_name": "HACIAĞA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1144,
+    "neighbor_name": "HASANHAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1132,
+    "neighbor_name": "KARAHACILI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1135,
+    "neighbor_name": "KIRÇİÇEĞİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1136,
+    "neighbor_name": "KOLİKENT KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1124,
+    "neighbor_name": "RAMAZANKENT KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1141,
+    "neighbor_name": "SARAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1139,
+    "neighbor_name": "TAZEKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1145,
+    "neighbor_name": "YENİDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1146,
+    "neighbor_name": "YUKARIARATAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1125,
+    "neighbor_name": "YUKARIÇAMURLU KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1126,
+    "neighbor_name": "YUKARIÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 23,
+    "district_name": "ARALIK",
+    "neighbor_id": 1140,
+    "neighbor_name": "YUKARITOPRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1161,
+    "neighbor_name": "14 KASIM MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1188,
+    "neighbor_name": "ALİ KAMERLİ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1195,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1190,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1169,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1181,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1199,
+    "neighbor_name": "HAKVEYİS MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1163,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1158,
+    "neighbor_name": "KONAKLI MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1184,
+    "neighbor_name": "ÖZGÜR MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1160,
+    "neighbor_name": "PİR SULTAN ABDAL MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1183,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1157,
+    "neighbor_name": "TOPÇULAR MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1189,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1191,
+    "neighbor_name": "HALFELİ-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1193,
+    "neighbor_name": "HALFELİ-ÖZVATAN MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1200,
+    "neighbor_name": "HALFELİ-SAİD NURSİ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1182,
+    "neighbor_name": "HALFELİ-TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1152,
+    "neighbor_name": "HALFELİ-YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1167,
+    "neighbor_name": "HOŞHABER-FARUKTOKA MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1176,
+    "neighbor_name": "HOŞHABER-YENİ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 49669,
+    "neighbor_name": "MELEKLİ-KARABAĞ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1156,
+    "neighbor_name": "MELEKLİ-MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1159,
+    "neighbor_name": "MELEKLİ-NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1180,
+    "neighbor_name": "AĞAVER KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1198,
+    "neighbor_name": "AKYUMAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1194,
+    "neighbor_name": "ALİBEYKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 49705,
+    "neighbor_name": "ASMA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1185,
+    "neighbor_name": "AŞAĞIÇARIKÇI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1154,
+    "neighbor_name": "AŞAĞIERHACI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1174,
+    "neighbor_name": "BAYRAKTUTAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50024,
+    "neighbor_name": "BENDEMURAT KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1170,
+    "neighbor_name": "ÇAKIRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1151,
+    "neighbor_name": "ÇALPALA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50044,
+    "neighbor_name": "ÇİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 49425,
+    "neighbor_name": "ELMAGÖL KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1196,
+    "neighbor_name": "ENGİNALAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1175,
+    "neighbor_name": "EVCİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1155,
+    "neighbor_name": "GÜLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50497,
+    "neighbor_name": "GÜNGÖRMEZ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1166,
+    "neighbor_name": "HAKMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1201,
+    "neighbor_name": "HARMANDÖVEN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1162,
+    "neighbor_name": "KADIKIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50491,
+    "neighbor_name": "KARAGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1177,
+    "neighbor_name": "KARAKUYU KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1148,
+    "neighbor_name": "KASIMCAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50485,
+    "neighbor_name": "KAVAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1164,
+    "neighbor_name": "KAZANCI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1186,
+    "neighbor_name": "KUZUGÜDEN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1192,
+    "neighbor_name": "KÜLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1171,
+    "neighbor_name": "MEZRAA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1172,
+    "neighbor_name": "NECEFALİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50498,
+    "neighbor_name": "NİŞANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1153,
+    "neighbor_name": "OBAKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 49887,
+    "neighbor_name": "ÖRÜŞMÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1173,
+    "neighbor_name": "PANİK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 50495,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 49731,
+    "neighbor_name": "SARIÇOBAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1187,
+    "neighbor_name": "SUVEREN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1149,
+    "neighbor_name": "TACİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1168,
+    "neighbor_name": "TAŞLICA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1150,
+    "neighbor_name": "YAYCI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1179,
+    "neighbor_name": "YUKARIÇARIKCI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1165,
+    "neighbor_name": "YÜZBAŞILAR KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 24,
+    "district_name": "IĞDIR MERKEZ",
+    "neighbor_id": 1197,
+    "neighbor_name": "ZOR KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1203,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1218,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1208,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1212,
+    "neighbor_name": "AŞAĞIALİCAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1209,
+    "neighbor_name": "BAYATDOĞANŞALI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1202,
+    "neighbor_name": "BEKİRHANLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1216,
+    "neighbor_name": "BULAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1217,
+    "neighbor_name": "CENNETABAT KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1210,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 50514,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1221,
+    "neighbor_name": "İSLAMKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1204,
+    "neighbor_name": "KACARDOĞANŞALI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1219,
+    "neighbor_name": "KERİMBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1213,
+    "neighbor_name": "KOÇKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1214,
+    "neighbor_name": "MÜRŞİTALİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1205,
+    "neighbor_name": "ORTA ALİCAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1207,
+    "neighbor_name": "ŞIRACI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1206,
+    "neighbor_name": "TAŞBURUN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1220,
+    "neighbor_name": "YAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1215,
+    "neighbor_name": "YUKARIALİCAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 25,
+    "district_name": "KARAKOYUNLU",
+    "neighbor_id": 1211,
+    "neighbor_name": "ZÜLFİKARKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1279,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1247,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1249,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1266,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1262,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1254,
+    "neighbor_name": "ABBASGÖL KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1263,
+    "neighbor_name": "AĞABEY KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50477,
+    "neighbor_name": "AKDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1250,
+    "neighbor_name": "AKDİZ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1240,
+    "neighbor_name": "AKOLUK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50143,
+    "neighbor_name": "ALHANLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1245,
+    "neighbor_name": "ALİKÖSE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1225,
+    "neighbor_name": "ARSLANLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50484,
+    "neighbor_name": "AŞAĞIAKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1259,
+    "neighbor_name": "AŞAĞICİVANLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1258,
+    "neighbor_name": "AŞAĞI ÇIYRIKLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1222,
+    "neighbor_name": "AŞAĞIKATIRLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1232,
+    "neighbor_name": "AŞAĞISUTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49919,
+    "neighbor_name": "BADİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50049,
+    "neighbor_name": "BAĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1246,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1233,
+    "neighbor_name": "BAHÇELİMEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1276,
+    "neighbor_name": "BEYOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50531,
+    "neighbor_name": "BOSTANLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49590,
+    "neighbor_name": "BURUKSU KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1234,
+    "neighbor_name": "CANDERVİŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1239,
+    "neighbor_name": "ÇIRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50487,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1223,
+    "neighbor_name": "DOĞANYURT KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1267,
+    "neighbor_name": "EĞREKDERE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50488,
+    "neighbor_name": "ELMALIK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1271,
+    "neighbor_name": "GAZİLER KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1255,
+    "neighbor_name": "GEDİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1260,
+    "neighbor_name": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1235,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1261,
+    "neighbor_name": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49717,
+    "neighbor_name": "HADIMLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1226,
+    "neighbor_name": "HAMURKESEN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49966,
+    "neighbor_name": "HASANKENT KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49791,
+    "neighbor_name": "İNCE KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1236,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1280,
+    "neighbor_name": "KALAÇA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1256,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1228,
+    "neighbor_name": "KANDİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1229,
+    "neighbor_name": "KARABULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1272,
+    "neighbor_name": "KARACÖREN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50512,
+    "neighbor_name": "KARAKOYUN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1237,
+    "neighbor_name": "KARANLIK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50504,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49755,
+    "neighbor_name": "KAYAKIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50494,
+    "neighbor_name": "KAYAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1264,
+    "neighbor_name": "KAZKOPARAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1251,
+    "neighbor_name": "KELEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50493,
+    "neighbor_name": "KILIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1265,
+    "neighbor_name": "KIRKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49515,
+    "neighbor_name": "KIZNEFER KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1273,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50496,
+    "neighbor_name": "KULA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49727,
+    "neighbor_name": "KUMBULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49983,
+    "neighbor_name": "KURUAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1248,
+    "neighbor_name": "KÜÇÜKOVA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1230,
+    "neighbor_name": "LALELİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 50019,
+    "neighbor_name": "MOLLAKAMER KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1243,
+    "neighbor_name": "NAHIRKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1268,
+    "neighbor_name": "OMBULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1274,
+    "neighbor_name": "ORTABUCAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1277,
+    "neighbor_name": "OSMANKÖY"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1227,
+    "neighbor_name": "PİRDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1281,
+    "neighbor_name": "SARIABDAL KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1241,
+    "neighbor_name": "SARIBULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1244,
+    "neighbor_name": "SOĞUKBULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1257,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1269,
+    "neighbor_name": "SÜRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1238,
+    "neighbor_name": "TAŞUÇAN KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1275,
+    "neighbor_name": "TEZEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1231,
+    "neighbor_name": "TURABİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1252,
+    "neighbor_name": "TUTAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49801,
+    "neighbor_name": "UĞRUCA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1270,
+    "neighbor_name": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49901,
+    "neighbor_name": "ÜNLENDİ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1224,
+    "neighbor_name": "YAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1242,
+    "neighbor_name": "YASSIBULAK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1282,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1253,
+    "neighbor_name": "YUKARIAKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 1278,
+    "neighbor_name": "YUKARICİVANLI KÖYÜ"
+  },
+  {
+    "city_id": 3,
+    "city_name": "IĞDIR",
+    "district_id": 26,
+    "district_name": "TUZLUCA",
+    "neighbor_id": 49578,
+    "neighbor_name": "YÜCEOTAK KÖYÜ"
+  }
+]

@@ -1,0 +1,3146 @@
+[
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42667,
+    "neighbor_name": "AYAZLI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42687,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42699,
+    "neighbor_name": "HACI YUSUFLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42652,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42684,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42696,
+    "neighbor_name": "YALI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42697,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42678,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42653,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42685,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42672,
+    "neighbor_name": "ALTUNÇAY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42666,
+    "neighbor_name": "ARABACI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42654,
+    "neighbor_name": "BALATLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42673,
+    "neighbor_name": "BEYHANLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42686,
+    "neighbor_name": "BEYÖREN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42701,
+    "neighbor_name": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42691,
+    "neighbor_name": "ÇİÇEKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42661,
+    "neighbor_name": "DADALI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42679,
+    "neighbor_name": "DAVUTAĞA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42655,
+    "neighbor_name": "DEREDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42698,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42668,
+    "neighbor_name": "DİLAVER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42656,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42674,
+    "neighbor_name": "DÖNGELLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42657,
+    "neighbor_name": "EDİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42680,
+    "neighbor_name": "ESMAHANIM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42675,
+    "neighbor_name": "FAKILLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42676,
+    "neighbor_name": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42662,
+    "neighbor_name": "HASANÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42688,
+    "neighbor_name": "HEMŞİN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42700,
+    "neighbor_name": "KALKIN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42689,
+    "neighbor_name": "KARATAVUK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42669,
+    "neighbor_name": "KEPENÇ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42677,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42683,
+    "neighbor_name": "KİRAZLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42690,
+    "neighbor_name": "KOÇAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42658,
+    "neighbor_name": "KOÇULLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42663,
+    "neighbor_name": "KURUGÖL KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42651,
+    "neighbor_name": "KURUKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42664,
+    "neighbor_name": "KÜPLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42692,
+    "neighbor_name": "MELENAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42693,
+    "neighbor_name": "NAZIMBEY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42665,
+    "neighbor_name": "ORTANCA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42670,
+    "neighbor_name": "PAŞALAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42694,
+    "neighbor_name": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42695,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42659,
+    "neighbor_name": "TAHİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42681,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42671,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42660,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 832,
+    "district_name": "AKÇAKOCA",
+    "neighbor_id": 42682,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42628,
+    "neighbor_name": "ARABACI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42643,
+    "neighbor_name": "MAHİRAĞA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42637,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42648,
+    "neighbor_name": "TOPÇULAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42645,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42633,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42647,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42627,
+    "neighbor_name": "ALACAMESCİT KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42634,
+    "neighbor_name": "BIÇKIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42636,
+    "neighbor_name": "ÇALILIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42638,
+    "neighbor_name": "DİKMELİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42635,
+    "neighbor_name": "DÖNGELLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42650,
+    "neighbor_name": "ESENLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42629,
+    "neighbor_name": "HIZARDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42649,
+    "neighbor_name": "İSHAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42625,
+    "neighbor_name": "KAFYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42630,
+    "neighbor_name": "KARAÇÖRTLEN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42626,
+    "neighbor_name": "KIRKHARMAN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42642,
+    "neighbor_name": "KİRAZTARLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42641,
+    "neighbor_name": "KUŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42624,
+    "neighbor_name": "PIRPIR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42631,
+    "neighbor_name": "SARIMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42632,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42644,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42646,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42639,
+    "neighbor_name": "YENİVAKIF KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 831,
+    "district_name": "ÇİLİMLİ",
+    "neighbor_id": 42640,
+    "neighbor_name": "YUKARIKARAKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42708,
+    "neighbor_name": "ÇEVRİK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42726,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42727,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42703,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42712,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42704,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42718,
+    "neighbor_name": "AVLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42705,
+    "neighbor_name": "BÜYÜKMELEN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42724,
+    "neighbor_name": "ÇAMLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42717,
+    "neighbor_name": "ÇELİKDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42710,
+    "neighbor_name": "DOKUZDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42719,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42720,
+    "neighbor_name": "HAMASCIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42713,
+    "neighbor_name": "HARMANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42725,
+    "neighbor_name": "IĞDIR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42714,
+    "neighbor_name": "KIZILÜZÜM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42706,
+    "neighbor_name": "MISIRLIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42715,
+    "neighbor_name": "ORDULUKARADERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42721,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42711,
+    "neighbor_name": "SIRTPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42716,
+    "neighbor_name": "SUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42702,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42709,
+    "neighbor_name": "ÜVEZBELİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42722,
+    "neighbor_name": "YENİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42723,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 833,
+    "district_name": "CUMAYERİ",
+    "neighbor_id": 42707,
+    "neighbor_name": "YUKARIAVLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42749,
+    "neighbor_name": "AĞAKÖYÜ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42849,
+    "neighbor_name": "AKINLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42779,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42730,
+    "neighbor_name": "ARAPÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42882,
+    "neighbor_name": "AZİZİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42765,
+    "neighbor_name": "AZMİMİLLİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42814,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42800,
+    "neighbor_name": "BEYCİLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42783,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42739,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42776,
+    "neighbor_name": "CEDİDİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42826,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42805,
+    "neighbor_name": "ÇAKIRLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42799,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42791,
+    "neighbor_name": "ÇAMLIEVLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42729,
+    "neighbor_name": "ÇAVUŞLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42782,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42845,
+    "neighbor_name": "ÇİFTEPINARLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42858,
+    "neighbor_name": "DARICI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42815,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42732,
+    "neighbor_name": "DEMETEVLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42808,
+    "neighbor_name": "DERELİTÜTÜNCÜ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42787,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42871,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42807,
+    "neighbor_name": "FEVZİÇAKMAK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42773,
+    "neighbor_name": "GÜZELBAHÇE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42852,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42885,
+    "neighbor_name": "KARACA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42796,
+    "neighbor_name": "KARA HACIMUSA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42834,
+    "neighbor_name": "KAZUKOĞLU MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42771,
+    "neighbor_name": "KİREMİTOCAĞI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42728,
+    "neighbor_name": "KOÇYAZI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42770,
+    "neighbor_name": "KÖRPEŞLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42847,
+    "neighbor_name": "KUYUMCUHACIALİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42767,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42844,
+    "neighbor_name": "MERGİÇ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42836,
+    "neighbor_name": "NALBANTOĞLU MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42822,
+    "neighbor_name": "NUSRETTİN MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42735,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42781,
+    "neighbor_name": "SALLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42816,
+    "neighbor_name": "SANCAKLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42864,
+    "neighbor_name": "SARAYYERİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42823,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42866,
+    "neighbor_name": "ŞEHİT BAYRAM GÖKMEN MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42762,
+    "neighbor_name": "ŞEHİT HÜSEYİN KIL MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42788,
+    "neighbor_name": "ŞEHİT KEMAL IŞILDAK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42856,
+    "neighbor_name": "ŞEHİT MURAT DEMİR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42817,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42831,
+    "neighbor_name": "ŞIRALIK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42819,
+    "neighbor_name": "TERZİALİLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42737,
+    "neighbor_name": "TOKUŞLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42877,
+    "neighbor_name": "UZUNMUSTAFA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42778,
+    "neighbor_name": "YAHYALAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42888,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42854,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42837,
+    "neighbor_name": "YUKARI YAHYALAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42780,
+    "neighbor_name": "BEYKÖY-BEYTEPE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42883,
+    "neighbor_name": "BEYKÖY-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 49443,
+    "neighbor_name": "BEYKÖY-DEĞİRMENBAŞI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42786,
+    "neighbor_name": "BEYKÖY-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42758,
+    "neighbor_name": "BEYKÖY-KÜLTÜR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42876,
+    "neighbor_name": "BEYKÖY-YENİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42775,
+    "neighbor_name": "BOĞAZİÇİ-BALLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42870,
+    "neighbor_name": "BOĞAZİÇİ-ÇAYIRTARLA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42755,
+    "neighbor_name": "BOĞAZİÇİ-DOKUZPINAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42824,
+    "neighbor_name": "BOĞAZİÇİ-ŞEKERPINAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42869,
+    "neighbor_name": "BOĞAZİÇİ-YAZLIK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42868,
+    "neighbor_name": "BOĞAZİÇİ-YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42867,
+    "neighbor_name": "AKBIYIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42832,
+    "neighbor_name": "AKTARLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42748,
+    "neighbor_name": "AKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42785,
+    "neighbor_name": "ALTINPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42833,
+    "neighbor_name": "ASAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42875,
+    "neighbor_name": "AYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42890,
+    "neighbor_name": "AYDINPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42757,
+    "neighbor_name": "AYNALI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42857,
+    "neighbor_name": "BAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42753,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42754,
+    "neighbor_name": "BATAKLI ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42774,
+    "neighbor_name": "BOSTANLIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42738,
+    "neighbor_name": "BÜYÜKAÇMA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42798,
+    "neighbor_name": "ÇAKIRHACI İBRAHİM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42862,
+    "neighbor_name": "ÇALICUMA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42859,
+    "neighbor_name": "ÇAMLISU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42766,
+    "neighbor_name": "ÇINARDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42761,
+    "neighbor_name": "ÇINARLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42792,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42891,
+    "neighbor_name": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42777,
+    "neighbor_name": "DERDİN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42846,
+    "neighbor_name": "DEVELİ BESNİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42838,
+    "neighbor_name": "DOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42827,
+    "neighbor_name": "DURAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42750,
+    "neighbor_name": "DÜVERDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42828,
+    "neighbor_name": "DÜZ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42851,
+    "neighbor_name": "EMİNAÇMA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42742,
+    "neighbor_name": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42772,
+    "neighbor_name": "ESENÇAM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42806,
+    "neighbor_name": "ESENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42850,
+    "neighbor_name": "ESKİ MENGENCİK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42884,
+    "neighbor_name": "FINDIKLI AKSU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42801,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42795,
+    "neighbor_name": "GÖLORMANI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42842,
+    "neighbor_name": "GÜLDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42802,
+    "neighbor_name": "GÜMÜŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42843,
+    "neighbor_name": "GÜNBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42839,
+    "neighbor_name": "GÜNDOLAMASI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42872,
+    "neighbor_name": "GÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42809,
+    "neighbor_name": "HACI AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42733,
+    "neighbor_name": "HACI ALİLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42731,
+    "neighbor_name": "HASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42879,
+    "neighbor_name": "HATİPLİ KETENCİLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42743,
+    "neighbor_name": "HOCAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42860,
+    "neighbor_name": "İHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42741,
+    "neighbor_name": "İSLAHİYE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42756,
+    "neighbor_name": "İSTİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42784,
+    "neighbor_name": "KABALAK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42769,
+    "neighbor_name": "KADIOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42763,
+    "neighbor_name": "KALEDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42751,
+    "neighbor_name": "KARADERE HASANAĞA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42744,
+    "neighbor_name": "KAVAKBIÇKI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42820,
+    "neighbor_name": "KAYMAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42873,
+    "neighbor_name": "KEMERKASIM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42853,
+    "neighbor_name": "KIZILCIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42811,
+    "neighbor_name": "KİRAZLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42874,
+    "neighbor_name": "KONAKLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42810,
+    "neighbor_name": "KOZLUK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42745,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42734,
+    "neighbor_name": "KURTSUYU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42752,
+    "neighbor_name": "KUŞAÇMASI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42829,
+    "neighbor_name": "KUTLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42886,
+    "neighbor_name": "KÜÇÜKAHMET KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42835,
+    "neighbor_name": "KÜÇÜKMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42861,
+    "neighbor_name": "MAMURE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42818,
+    "neighbor_name": "MUNCURLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42821,
+    "neighbor_name": "MURADİYEMENGENCİK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42793,
+    "neighbor_name": "MUSABABA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42848,
+    "neighbor_name": "NASIRLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42812,
+    "neighbor_name": "NUHLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42803,
+    "neighbor_name": "OSMANCA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42813,
+    "neighbor_name": "OTLUOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42736,
+    "neighbor_name": "OVAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42764,
+    "neighbor_name": "OZANLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42881,
+    "neighbor_name": "ÖZYANIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42863,
+    "neighbor_name": "PAŞAKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42746,
+    "neighbor_name": "PAŞAORMANI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42887,
+    "neighbor_name": "PINARLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42830,
+    "neighbor_name": "SAMANDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42880,
+    "neighbor_name": "SANCAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42804,
+    "neighbor_name": "SİNİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42840,
+    "neighbor_name": "SUNCUK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42865,
+    "neighbor_name": "ŞAZİYE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42794,
+    "neighbor_name": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42740,
+    "neighbor_name": "TURAPLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42789,
+    "neighbor_name": "UĞUR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42855,
+    "neighbor_name": "ÜÇYOL KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42747,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42790,
+    "neighbor_name": "YAYAKBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42841,
+    "neighbor_name": "YAYLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42878,
+    "neighbor_name": "YENİ AYNALI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42759,
+    "neighbor_name": "YENİ KARAKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42768,
+    "neighbor_name": "YENİ TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42760,
+    "neighbor_name": "YEŞİLÇAM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42889,
+    "neighbor_name": "YEŞİLÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 834,
+    "district_name": "DÜZCE MERKEZ",
+    "neighbor_id": 42797,
+    "neighbor_name": "YÖRÜK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42893,
+    "neighbor_name": "AÇMA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42898,
+    "neighbor_name": "CUMAKIRI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42904,
+    "neighbor_name": "ESEN MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42916,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42896,
+    "neighbor_name": "İMAMLAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42912,
+    "neighbor_name": "KUYUDÜZÜ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42921,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42894,
+    "neighbor_name": "YAZIPINAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42913,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42908,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42892,
+    "neighbor_name": "AÇMA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42909,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42897,
+    "neighbor_name": "BAKACAK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42910,
+    "neighbor_name": "BEKİROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42914,
+    "neighbor_name": "ÇAMLIBEL KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42907,
+    "neighbor_name": "ÇAY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42915,
+    "neighbor_name": "DEĞİRMENTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42905,
+    "neighbor_name": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42902,
+    "neighbor_name": "HACISÜLEYMANBEY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42920,
+    "neighbor_name": "HACIYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42911,
+    "neighbor_name": "HAMAMÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42922,
+    "neighbor_name": "İÇMELER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42899,
+    "neighbor_name": "KEMERYANI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42917,
+    "neighbor_name": "MUHAPDEDE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42901,
+    "neighbor_name": "SAÇMALIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42900,
+    "neighbor_name": "SARIDERE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42906,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42918,
+    "neighbor_name": "YAZLIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42903,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42895,
+    "neighbor_name": "YUNUSEFENDİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 835,
+    "district_name": "GÖLYAKA",
+    "neighbor_id": 42919,
+    "neighbor_name": "ZEKERİYA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42534,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42535,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42543,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42548,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42539,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42545,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42538,
+    "neighbor_name": "ADAKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42546,
+    "neighbor_name": "ARDIÇDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42551,
+    "neighbor_name": "ÇAYBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42547,
+    "neighbor_name": "DEDEDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42540,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42552,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42541,
+    "neighbor_name": "HACIKADİRLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42530,
+    "neighbor_name": "HALİLBEY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42542,
+    "neighbor_name": "KAHVELERYANI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42553,
+    "neighbor_name": "KIYIKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42531,
+    "neighbor_name": "PAZARCIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42549,
+    "neighbor_name": "SELAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42536,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42544,
+    "neighbor_name": "SULTANİYE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42532,
+    "neighbor_name": "YAKABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42533,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42550,
+    "neighbor_name": "YILDIZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 828,
+    "district_name": "GÜMÜŞOVA",
+    "neighbor_id": 42537,
+    "neighbor_name": "YONGALIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42570,
+    "neighbor_name": "ÇELE MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42561,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42576,
+    "neighbor_name": "KARAÇALI MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42573,
+    "neighbor_name": "KUMLUCA MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42557,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42568,
+    "neighbor_name": "SARIYER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42580,
+    "neighbor_name": "ŞİMŞİR MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42554,
+    "neighbor_name": "ALTUNKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42574,
+    "neighbor_name": "BIÇKIYANI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42571,
+    "neighbor_name": "ÇAKIRSAYVAN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42560,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42569,
+    "neighbor_name": "ÇAMOLUK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42578,
+    "neighbor_name": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42566,
+    "neighbor_name": "DARIYERİBAKACAK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42575,
+    "neighbor_name": "DARIYERİHASANBEY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42556,
+    "neighbor_name": "DARIYERİMENGENCİK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42555,
+    "neighbor_name": "DARIYERİ YÖRÜKLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42567,
+    "neighbor_name": "DİPSİZGÖL KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42562,
+    "neighbor_name": "FINDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42572,
+    "neighbor_name": "HACIAZİZLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42558,
+    "neighbor_name": "MURATBEY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42577,
+    "neighbor_name": "SARIÇÖKEK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42563,
+    "neighbor_name": "SAZKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42564,
+    "neighbor_name": "TAVAK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42579,
+    "neighbor_name": "ÜÇKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42559,
+    "neighbor_name": "YENİYURT KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 829,
+    "district_name": "KAYNAŞLI",
+    "neighbor_id": 42565,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42610,
+    "neighbor_name": "AHMETÇİLER MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42591,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42613,
+    "neighbor_name": "MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42615,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42605,
+    "neighbor_name": "AKÇAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42604,
+    "neighbor_name": "AKSAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42584,
+    "neighbor_name": "ASAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42592,
+    "neighbor_name": "AYDINYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42593,
+    "neighbor_name": "BEKİRLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42590,
+    "neighbor_name": "ÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42599,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42603,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42611,
+    "neighbor_name": "DİBEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42618,
+    "neighbor_name": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42606,
+    "neighbor_name": "DUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42612,
+    "neighbor_name": "GAZİLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42621,
+    "neighbor_name": "GELENÖZ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42619,
+    "neighbor_name": "GERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42622,
+    "neighbor_name": "GÖKÇEAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42607,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42585,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42620,
+    "neighbor_name": "HACIYERİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42597,
+    "neighbor_name": "HEBELER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42594,
+    "neighbor_name": "HOCAKÖY"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42587,
+    "neighbor_name": "HOCATMAN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42595,
+    "neighbor_name": "HOŞAFOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42623,
+    "neighbor_name": "İĞNELER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42586,
+    "neighbor_name": "KARAKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42581,
+    "neighbor_name": "KIRIK KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42608,
+    "neighbor_name": "KOCAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42596,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42600,
+    "neighbor_name": "MENGEN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42614,
+    "neighbor_name": "NAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42582,
+    "neighbor_name": "ORHANGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42588,
+    "neighbor_name": "REDİFLER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42601,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42616,
+    "neighbor_name": "TIRAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42583,
+    "neighbor_name": "TUĞRUL KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42617,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42609,
+    "neighbor_name": "YAYLATEPE KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42598,
+    "neighbor_name": "YENİYER KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42589,
+    "neighbor_name": "YILGIN KÖYÜ"
+  },
+  {
+    "city_id": 67,
+    "city_name": "DÜZCE",
+    "district_id": 830,
+    "district_name": "YIĞILCA",
+    "neighbor_id": 42602,
+    "neighbor_name": "YOĞUNPELİT KÖYÜ"
+  }
+]

@@ -1,0 +1,1426 @@
+[
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43336,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43330,
+    "neighbor_name": "EMİRŞABAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43332,
+    "neighbor_name": "YEŞİL ÇEŞME MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43329,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43333,
+    "neighbor_name": "ÇIĞLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43337,
+    "neighbor_name": "GÜNDEŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43331,
+    "neighbor_name": "NARLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 846,
+    "district_name": "ÇUKURCA",
+    "neighbor_id": 43334,
+    "neighbor_name": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50443,
+    "neighbor_name": "BALKAYA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50462,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50005,
+    "neighbor_name": "GÜRMEŞE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50454,
+    "neighbor_name": "HACIBEY MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50440,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50448,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50071,
+    "neighbor_name": "RİZE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 49417,
+    "neighbor_name": "ÜÇYAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 49819,
+    "neighbor_name": "VAPURTEPE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50450,
+    "neighbor_name": "ANADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50442,
+    "neighbor_name": "GELİŞEN KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50469,
+    "neighbor_name": "ORTAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 973,
+    "district_name": "DERECİK",
+    "neighbor_id": 50451,
+    "neighbor_name": "USLU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43254,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43240,
+    "neighbor_name": "BERÇELAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43256,
+    "neighbor_name": "BİÇER MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43255,
+    "neighbor_name": "BULAK MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43242,
+    "neighbor_name": "DAĞGÖL MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43247,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43231,
+    "neighbor_name": "HALİFE DERVİŞ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43248,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43266,
+    "neighbor_name": "KEKLİKPINAR MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43268,
+    "neighbor_name": "KIRAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43269,
+    "neighbor_name": "MEDRESE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43244,
+    "neighbor_name": "MERZAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43260,
+    "neighbor_name": "PEHLİVAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43238,
+    "neighbor_name": "SÜMBÜL MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43261,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43263,
+    "neighbor_name": "DURANKAYA-BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 49635,
+    "neighbor_name": "DURANKAYA-BİÇENEK MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 49812,
+    "neighbor_name": "DURANKAYA-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 49923,
+    "neighbor_name": "DURANKAYA-ÇAYLICA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 49637,
+    "neighbor_name": "DURANKAYA-KÖYİÇİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43264,
+    "neighbor_name": "DURANKAYA-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43251,
+    "neighbor_name": "DURANKAYA-YENİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43246,
+    "neighbor_name": "AĞAÇDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43227,
+    "neighbor_name": "AKBULUT KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43228,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50445,
+    "neighbor_name": "AKKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43253,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43262,
+    "neighbor_name": "AŞAĞI DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43239,
+    "neighbor_name": "BAĞIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43229,
+    "neighbor_name": "BAYKÖY"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50480,
+    "neighbor_name": "BOYBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43230,
+    "neighbor_name": "CEVİZDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43257,
+    "neighbor_name": "CEYLANLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43232,
+    "neighbor_name": "ÇALTIKORU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43245,
+    "neighbor_name": "ÇANAKLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43259,
+    "neighbor_name": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43234,
+    "neighbor_name": "DEMİRTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43250,
+    "neighbor_name": "DOĞANYURT KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43235,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43267,
+    "neighbor_name": "GEÇİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43252,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43241,
+    "neighbor_name": "IŞIK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43225,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50481,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50490,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43265,
+    "neighbor_name": "KAVALKÖY"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50439,
+    "neighbor_name": "KAYMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43236,
+    "neighbor_name": "KIRIKDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43243,
+    "neighbor_name": "KONAK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50460,
+    "neighbor_name": "OĞUL KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43249,
+    "neighbor_name": "OLGUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43237,
+    "neighbor_name": "OTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 49675,
+    "neighbor_name": "ÖRDEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50452,
+    "neighbor_name": "PINARCA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43258,
+    "neighbor_name": "SARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43226,
+    "neighbor_name": "TAŞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 43233,
+    "neighbor_name": "ÜZÜMCÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 844,
+    "district_name": "HAKKARİ MERKEZ",
+    "neighbor_id": 50492,
+    "neighbor_name": "YONCALI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43340,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43358,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43343,
+    "neighbor_name": "MODA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43365,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43359,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43339,
+    "neighbor_name": "ALAN KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43347,
+    "neighbor_name": "ALTINSU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43360,
+    "neighbor_name": "BAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43363,
+    "neighbor_name": "BEYYURDU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43354,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 50064,
+    "neighbor_name": "BOZYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 49912,
+    "neighbor_name": "ÇALIŞKANLAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43346,
+    "neighbor_name": "ÇATALCA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 50501,
+    "neighbor_name": "ÇUBUKLU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43352,
+    "neighbor_name": "GÜNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43361,
+    "neighbor_name": "KAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43338,
+    "neighbor_name": "KONUR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43350,
+    "neighbor_name": "KORGAN KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43355,
+    "neighbor_name": "ÖVEÇ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43353,
+    "neighbor_name": "TEKELİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43364,
+    "neighbor_name": "TÜTÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 49730,
+    "neighbor_name": "UĞURAÇAN KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 43345,
+    "neighbor_name": "YAYLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 847,
+    "district_name": "ŞEMDİNLİ",
+    "neighbor_id": 49844,
+    "neighbor_name": "YUFKALI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43278,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43293,
+    "neighbor_name": "DİZE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43273,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43281,
+    "neighbor_name": "ESEN YURT MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43326,
+    "neighbor_name": "ESKİ KIŞLA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43274,
+    "neighbor_name": "GÜNGÖR MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43317,
+    "neighbor_name": "İPEK MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43270,
+    "neighbor_name": "MEZARLIK MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43280,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43323,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43325,
+    "neighbor_name": "BÜYÜKÇİFTLİK-KEREM ZEYDAN MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43308,
+    "neighbor_name": "BÜYÜKÇİFTLİK-MERKEZ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43277,
+    "neighbor_name": "BÜYÜKÇİFTLİK-YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 49841,
+    "neighbor_name": "ESENDERE-GÜVENLİ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43303,
+    "neighbor_name": "ESENDERE-MERKEZ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 49847,
+    "neighbor_name": "ESENDERE-SARIYILDIZ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50018,
+    "neighbor_name": "ESENDERE-YILMAZ MAH."
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43296,
+    "neighbor_name": "ADAKLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50455,
+    "neighbor_name": "AKALIN KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43314,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43318,
+    "neighbor_name": "AKOCAK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43299,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50476,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43272,
+    "neighbor_name": "ALTINOLUK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43319,
+    "neighbor_name": "ARMUTDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43291,
+    "neighbor_name": "AŞAĞIULUYOL KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 49932,
+    "neighbor_name": "BAĞDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50145,
+    "neighbor_name": "BATAKLIK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43306,
+    "neighbor_name": "BEŞATLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50080,
+    "neighbor_name": "BEŞBULAK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43320,
+    "neighbor_name": "BOSTANCIK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43285,
+    "neighbor_name": "BÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50002,
+    "neighbor_name": "BULAKLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43310,
+    "neighbor_name": "ÇATMA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43305,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43292,
+    "neighbor_name": "DAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43300,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43302,
+    "neighbor_name": "DEĞERLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50465,
+    "neighbor_name": "DEMİRKONAK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50470,
+    "neighbor_name": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43295,
+    "neighbor_name": "DİLEKTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50457,
+    "neighbor_name": "DOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43294,
+    "neighbor_name": "GÖKYURT KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43297,
+    "neighbor_name": "GÜÇLÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43321,
+    "neighbor_name": "GÜLDALI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43312,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43327,
+    "neighbor_name": "GÜRDERE KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43282,
+    "neighbor_name": "GÜRKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43324,
+    "neighbor_name": "İNANLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43328,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43283,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43286,
+    "neighbor_name": "KARABEY KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43322,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43301,
+    "neighbor_name": "KAZAN KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50486,
+    "neighbor_name": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43275,
+    "neighbor_name": "KISIKLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43287,
+    "neighbor_name": "KOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43288,
+    "neighbor_name": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43289,
+    "neighbor_name": "KÖŞKÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43304,
+    "neighbor_name": "ONBAŞILAR KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43284,
+    "neighbor_name": "ORTAÇ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43311,
+    "neighbor_name": "ÖRNEKKÖY"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43315,
+    "neighbor_name": "PINARGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50503,
+    "neighbor_name": "SALKIMLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43316,
+    "neighbor_name": "SARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50513,
+    "neighbor_name": "SERİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43290,
+    "neighbor_name": "SUÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 50468,
+    "neighbor_name": "SÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43279,
+    "neighbor_name": "TATLI KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43307,
+    "neighbor_name": "TUĞLU KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43313,
+    "neighbor_name": "VEZİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43309,
+    "neighbor_name": "YENİIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43271,
+    "neighbor_name": "YEŞİLTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43276,
+    "neighbor_name": "YONCALIK KÖYÜ"
+  },
+  {
+    "city_id": 69,
+    "city_name": "HAKKARİ",
+    "district_id": 845,
+    "district_name": "YÜKSEKOVA",
+    "neighbor_id": 43298,
+    "neighbor_name": "YÜREKLİ KÖYÜ"
+  }
+]

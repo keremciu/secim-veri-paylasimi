@@ -1,0 +1,5242 @@
+[
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7842,
+    "neighbor_name": "13 MART MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7796,
+    "neighbor_name": "ACAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7843,
+    "neighbor_name": "AHMETLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7848,
+    "neighbor_name": "AKBAĞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7874,
+    "neighbor_name": "AKINCI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7803,
+    "neighbor_name": "ALAKUŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7830,
+    "neighbor_name": "ALIMLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7815,
+    "neighbor_name": "AMBAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7863,
+    "neighbor_name": "ARAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7831,
+    "neighbor_name": "ARPATEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7833,
+    "neighbor_name": "AŞAĞIYENİKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7832,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7804,
+    "neighbor_name": "AYTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7822,
+    "neighbor_name": "BAĞLICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7816,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7856,
+    "neighbor_name": "BUĞDAY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7823,
+    "neighbor_name": "CEVİZLİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7792,
+    "neighbor_name": "CEVİZPINARI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7875,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7827,
+    "neighbor_name": "ÇABUK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7814,
+    "neighbor_name": "ÇAĞLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7855,
+    "neighbor_name": "ÇALIŞLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7847,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7867,
+    "neighbor_name": "ÇAYIRPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7868,
+    "neighbor_name": "ÇIPLAKTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7828,
+    "neighbor_name": "ÇİFTLİKKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7820,
+    "neighbor_name": "ÇUKURYURT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7797,
+    "neighbor_name": "DARA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7805,
+    "neighbor_name": "DİBEKTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7869,
+    "neighbor_name": "DİYARBAKIR KAPI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7824,
+    "neighbor_name": "DÜZLÜK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7859,
+    "neighbor_name": "ELMABAHÇE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7849,
+    "neighbor_name": "EMİNETTİN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7851,
+    "neighbor_name": "ENSAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7844,
+    "neighbor_name": "EROĞLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7864,
+    "neighbor_name": "ERYERİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7845,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7865,
+    "neighbor_name": "ESKİKALE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7857,
+    "neighbor_name": "GÖKÇE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7817,
+    "neighbor_name": "GÖLLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7860,
+    "neighbor_name": "GÜL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7870,
+    "neighbor_name": "GÜNEYLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7838,
+    "neighbor_name": "GÜRAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7871,
+    "neighbor_name": "HAMZABEY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7861,
+    "neighbor_name": "HATUNLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7818,
+    "neighbor_name": "HAYDAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7872,
+    "neighbor_name": "HÜYÜKLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7829,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7793,
+    "neighbor_name": "KABALA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7811,
+    "neighbor_name": "KARADEMİR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7806,
+    "neighbor_name": "KAYACAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7839,
+    "neighbor_name": "KONAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7819,
+    "neighbor_name": "KOTEK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7794,
+    "neighbor_name": "KUMLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7834,
+    "neighbor_name": "KUYULU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7846,
+    "neighbor_name": "KÜÇÜKKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7835,
+    "neighbor_name": "LATİFİYE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7812,
+    "neighbor_name": "MEDRESE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7876,
+    "neighbor_name": "NECMETTİN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7798,
+    "neighbor_name": "NUR (AKINCI) MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7858,
+    "neighbor_name": "NUR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7877,
+    "neighbor_name": "OFİS MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7807,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7879,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7825,
+    "neighbor_name": "SAKALAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7808,
+    "neighbor_name": "SARAÇOĞLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7809,
+    "neighbor_name": "SAVURKAPI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 50626,
+    "neighbor_name": "SULAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7866,
+    "neighbor_name": "SULTANKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7821,
+    "neighbor_name": "ŞAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7880,
+    "neighbor_name": "ŞEHİDİYE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 50675,
+    "neighbor_name": "TANDIR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7852,
+    "neighbor_name": "TEKER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7813,
+    "neighbor_name": "TİLKİTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7853,
+    "neighbor_name": "TOZAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7810,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7878,
+    "neighbor_name": "YALIM MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7840,
+    "neighbor_name": "YARDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7836,
+    "neighbor_name": "YAYLABAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7850,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7799,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7841,
+    "neighbor_name": "YAYLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7795,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7854,
+    "neighbor_name": "YENİKAPI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7826,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7862,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7800,
+    "neighbor_name": "YOLBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7837,
+    "neighbor_name": "YUKARIAYDINLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7873,
+    "neighbor_name": "YUKARIHATUNLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7801,
+    "neighbor_name": "YUKARIYENİKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 166,
+    "district_name": "ARTUKLU",
+    "neighbor_id": 7802,
+    "neighbor_name": "YÜCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7440,
+    "neighbor_name": "AKYOL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7448,
+    "neighbor_name": "ALAYUNT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7453,
+    "neighbor_name": "ALTINOLUK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7441,
+    "neighbor_name": "ALTIYOL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7443,
+    "neighbor_name": "BAĞÖZÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7442,
+    "neighbor_name": "BAHÇEBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 50112,
+    "neighbor_name": "BATUR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7435,
+    "neighbor_name": "BEĞENDİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7454,
+    "neighbor_name": "BOSTANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7431,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7432,
+    "neighbor_name": "ÇELİKKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7433,
+    "neighbor_name": "GÜRIŞIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7449,
+    "neighbor_name": "ILISU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7444,
+    "neighbor_name": "KARABAYIR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 49714,
+    "neighbor_name": "KARTALKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7436,
+    "neighbor_name": "KILAVUZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 49426,
+    "neighbor_name": "KISMETLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7434,
+    "neighbor_name": "SAFA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7437,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7450,
+    "neighbor_name": "SUÇATI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7451,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7438,
+    "neighbor_name": "TANYERİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7445,
+    "neighbor_name": "TAVŞANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7452,
+    "neighbor_name": "TEMELLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7446,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 50581,
+    "neighbor_name": "YILMAZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 160,
+    "district_name": "DARGEÇİT",
+    "neighbor_id": 7439,
+    "neighbor_name": "YONCALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7934,
+    "neighbor_name": "ADAKENT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7928,
+    "neighbor_name": "ADAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7904,
+    "neighbor_name": "AHMETLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7891,
+    "neighbor_name": "AKÇAY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7905,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 50590,
+    "neighbor_name": "ALAGÖZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7898,
+    "neighbor_name": "ALANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7908,
+    "neighbor_name": "ALİBEY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7935,
+    "neighbor_name": "AMBARLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7909,
+    "neighbor_name": "AŞAĞIMEZRA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7952,
+    "neighbor_name": "ATLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7881,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7941,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7921,
+    "neighbor_name": "BALLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7915,
+    "neighbor_name": "BALOVA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7892,
+    "neighbor_name": "BAŞARAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7948,
+    "neighbor_name": "BAYIRKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7922,
+    "neighbor_name": "BAYRAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7911,
+    "neighbor_name": "BEŞBUDAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7882,
+    "neighbor_name": "BOYAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7949,
+    "neighbor_name": "BOZBAYIR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7893,
+    "neighbor_name": "BOZOK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7954,
+    "neighbor_name": "BÖĞREK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7953,
+    "neighbor_name": "BURÇKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7912,
+    "neighbor_name": "CEVİZPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7932,
+    "neighbor_name": "ÇADIRLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7900,
+    "neighbor_name": "ÇAĞIL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7924,
+    "neighbor_name": "ÇATALTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7925,
+    "neighbor_name": "ÇAYKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7919,
+    "neighbor_name": "ÇUKURSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7950,
+    "neighbor_name": "DAĞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7906,
+    "neighbor_name": "DEMİRLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7894,
+    "neighbor_name": "DENKTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7942,
+    "neighbor_name": "DERİNSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7885,
+    "neighbor_name": "DİKMEN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7883,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7887,
+    "neighbor_name": "DUMANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7936,
+    "neighbor_name": "DUMLUCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7888,
+    "neighbor_name": "DÜZTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7929,
+    "neighbor_name": "GÖKTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7889,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7943,
+    "neighbor_name": "HAYIRLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7907,
+    "neighbor_name": "HİSARALTI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7944,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7902,
+    "neighbor_name": "ISSIZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7920,
+    "neighbor_name": "İNCESU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7884,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7930,
+    "neighbor_name": "KANATLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7938,
+    "neighbor_name": "KARABURUN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7903,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 50695,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7951,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7955,
+    "neighbor_name": "KOÇYİĞİT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7916,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7939,
+    "neighbor_name": "KONUK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7886,
+    "neighbor_name": "KOVALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7940,
+    "neighbor_name": "KOVANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 50613,
+    "neighbor_name": "KÖSEVELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7890,
+    "neighbor_name": "KURUÇAY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7910,
+    "neighbor_name": "KUŞÇU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7945,
+    "neighbor_name": "KUTLUCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7895,
+    "neighbor_name": "KUYULU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7917,
+    "neighbor_name": "KÜÇÜKPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7899,
+    "neighbor_name": "MEŞELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7913,
+    "neighbor_name": "ORTACA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 50573,
+    "neighbor_name": "PINARCIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7918,
+    "neighbor_name": "PİRİNÇLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7931,
+    "neighbor_name": "SOĞUKKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7946,
+    "neighbor_name": "SÖĞÜTÖZÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7923,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7927,
+    "neighbor_name": "ŞAHVERDİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7933,
+    "neighbor_name": "ŞEREFLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7896,
+    "neighbor_name": "TAŞIT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7914,
+    "neighbor_name": "TEPEBAĞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7926,
+    "neighbor_name": "ÜÇKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7901,
+    "neighbor_name": "ÜÇTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7897,
+    "neighbor_name": "YAZICIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7947,
+    "neighbor_name": "YUKARIMEZRA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 167,
+    "district_name": "DERİK",
+    "neighbor_id": 7937,
+    "neighbor_name": "ZEYTİNPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7495,
+    "neighbor_name": "AKALIN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7525,
+    "neighbor_name": "AKÇA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7528,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7608,
+    "neighbor_name": "AKDOĞAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7511,
+    "neighbor_name": "AKKOÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7555,
+    "neighbor_name": "AKTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7578,
+    "neighbor_name": "AKTULGA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7516,
+    "neighbor_name": "AKYAZI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7547,
+    "neighbor_name": "AKYÜZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7524,
+    "neighbor_name": "AKZİYARET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7542,
+    "neighbor_name": "ALAKUŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7500,
+    "neighbor_name": "ALEMDAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7548,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7579,
+    "neighbor_name": "ALTINTOPRAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7543,
+    "neighbor_name": "ARAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7580,
+    "neighbor_name": "ARIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7482,
+    "neighbor_name": "ARITEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7559,
+    "neighbor_name": "ASLANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7466,
+    "neighbor_name": "AŞAĞIAZIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7465,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7517,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7533,
+    "neighbor_name": "ATMACA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7529,
+    "neighbor_name": "BAĞRIBÜTÜN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7560,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7512,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7518,
+    "neighbor_name": "BAŞAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7479,
+    "neighbor_name": "BEKTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50637,
+    "neighbor_name": "BELLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7496,
+    "neighbor_name": "BEŞDEĞİRMEN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7489,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 49602,
+    "neighbor_name": "BEŞİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7526,
+    "neighbor_name": "BOZHÖYÜK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7570,
+    "neighbor_name": "BÜYÜKAYRIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7497,
+    "neighbor_name": "BÜYÜKBOĞAZİYE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7609,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7581,
+    "neighbor_name": "BÜYÜKTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7467,
+    "neighbor_name": "CANTAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7475,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7503,
+    "neighbor_name": "ÇAĞIL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7585,
+    "neighbor_name": "ÇAKIR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7569,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7504,
+    "neighbor_name": "ÇAMLIDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50597,
+    "neighbor_name": "ÇANAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7588,
+    "neighbor_name": "ÇATALCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7532,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50610,
+    "neighbor_name": "ÇETİNKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7589,
+    "neighbor_name": "ÇETİNLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7540,
+    "neighbor_name": "ÇINARCIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7505,
+    "neighbor_name": "ÇIPLAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7462,
+    "neighbor_name": "ÇİMENLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 49921,
+    "neighbor_name": "ÇİTLİBAĞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7565,
+    "neighbor_name": "DAMLALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7506,
+    "neighbor_name": "DEMET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7605,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7601,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7549,
+    "neighbor_name": "DEMİRLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7491,
+    "neighbor_name": "DİKMEN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7498,
+    "neighbor_name": "DOĞANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7574,
+    "neighbor_name": "DORA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7457,
+    "neighbor_name": "DOYURAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7483,
+    "neighbor_name": "DÖRTYOL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7557,
+    "neighbor_name": "DUNAYSIR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7545,
+    "neighbor_name": "DÜĞÜRK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7575,
+    "neighbor_name": "EKİNLİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7513,
+    "neighbor_name": "ELBEYLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7530,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7571,
+    "neighbor_name": "ERİKLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7455,
+    "neighbor_name": "EROĞLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7507,
+    "neighbor_name": "ERSOYLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7606,
+    "neighbor_name": "ESENLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7550,
+    "neighbor_name": "ESKİN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7566,
+    "neighbor_name": "EŞME MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7485,
+    "neighbor_name": "EYMİRLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7594,
+    "neighbor_name": "FINDIKTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7576,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7476,
+    "neighbor_name": "GÖLLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7595,
+    "neighbor_name": "GÖZLÜCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7607,
+    "neighbor_name": "GÜÇLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7527,
+    "neighbor_name": "GÜMÜŞDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7508,
+    "neighbor_name": "GÜNEŞTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7558,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7551,
+    "neighbor_name": "GÜNLÜCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50593,
+    "neighbor_name": "GÜRMEŞE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7567,
+    "neighbor_name": "HACIHASAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50860,
+    "neighbor_name": "HACIYUSUF MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7537,
+    "neighbor_name": "HAKVERDİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7520,
+    "neighbor_name": "HALKALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7577,
+    "neighbor_name": "HARMANDÜZÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7521,
+    "neighbor_name": "HAZNEDAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7538,
+    "neighbor_name": "HOCAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7596,
+    "neighbor_name": "ILICAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7546,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50547,
+    "neighbor_name": "IŞIKÖREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7590,
+    "neighbor_name": "İKİKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50604,
+    "neighbor_name": "İKİZLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7600,
+    "neighbor_name": "İNANDI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7586,
+    "neighbor_name": "İPEK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7568,
+    "neighbor_name": "KAHRAMAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7534,
+    "neighbor_name": "KALAYCIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7458,
+    "neighbor_name": "KARABENT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7492,
+    "neighbor_name": "KARAKULAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7493,
+    "neighbor_name": "KARAKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7478,
+    "neighbor_name": "KAŞIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7477,
+    "neighbor_name": "KATARLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7468,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7597,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7602,
+    "neighbor_name": "KENGERLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7539,
+    "neighbor_name": "KILDUMAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7514,
+    "neighbor_name": "KIRKKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50618,
+    "neighbor_name": "KİLİMLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7471,
+    "neighbor_name": "KOCALAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7519,
+    "neighbor_name": "KOÇHİSAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7461,
+    "neighbor_name": "KOÇLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7603,
+    "neighbor_name": "KONUKLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7591,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7494,
+    "neighbor_name": "KÖRSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7552,
+    "neighbor_name": "KÜÇÜKAYRIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7463,
+    "neighbor_name": "KÜÇÜKBOĞAZİYE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7610,
+    "neighbor_name": "KÜPLÜCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50578,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7486,
+    "neighbor_name": "MEZOPOTAMYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7587,
+    "neighbor_name": "ODAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7561,
+    "neighbor_name": "OFİS MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7572,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50560,
+    "neighbor_name": "OTLUK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50898,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7535,
+    "neighbor_name": "RIHANİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7472,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7473,
+    "neighbor_name": "SANCARLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7499,
+    "neighbor_name": "SANDIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7553,
+    "neighbor_name": "SARICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7604,
+    "neighbor_name": "SARUHAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50571,
+    "neighbor_name": "SELAHATTİN EYYUBİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7582,
+    "neighbor_name": "SEVİMLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7522,
+    "neighbor_name": "SÜREKLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50037,
+    "neighbor_name": "ŞAHKULUBEY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7541,
+    "neighbor_name": "ŞENYURT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7583,
+    "neighbor_name": "TANRIVERDİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7536,
+    "neighbor_name": "TARLABAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7515,
+    "neighbor_name": "TAŞLICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50596,
+    "neighbor_name": "TATLICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7554,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7469,
+    "neighbor_name": "TIRAŞLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7584,
+    "neighbor_name": "TİMURÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7487,
+    "neighbor_name": "TOSUNLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7502,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7523,
+    "neighbor_name": "TUZLUCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7488,
+    "neighbor_name": "ULAŞLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50607,
+    "neighbor_name": "ULUKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7573,
+    "neighbor_name": "UZUNKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7564,
+    "neighbor_name": "ÜÇEVLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7484,
+    "neighbor_name": "ÜLKER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7562,
+    "neighbor_name": "YALINKILIÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7531,
+    "neighbor_name": "YAMAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50696,
+    "neighbor_name": "YAMANLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50563,
+    "neighbor_name": "YARIMCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7592,
+    "neighbor_name": "YAŞARKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7563,
+    "neighbor_name": "YAYIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7464,
+    "neighbor_name": "YAYLIM MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50572,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7480,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7598,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 50624,
+    "neighbor_name": "YEŞİLLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 49766,
+    "neighbor_name": "YOLALDI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7456,
+    "neighbor_name": "YOLDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7510,
+    "neighbor_name": "YOLÜSTÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7593,
+    "neighbor_name": "YONCALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7481,
+    "neighbor_name": "YUKARIAZIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7490,
+    "neighbor_name": "YUMRUTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7474,
+    "neighbor_name": "YUMURCAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7470,
+    "neighbor_name": "YURTDERİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 49846,
+    "neighbor_name": "YURTÖZÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7509,
+    "neighbor_name": "YÜCELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7460,
+    "neighbor_name": "YÜKSEKTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 49948,
+    "neighbor_name": "ZERGAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 161,
+    "district_name": "KIZILTEPE",
+    "neighbor_id": 7599,
+    "neighbor_name": "ZİYARET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7970,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7978,
+    "neighbor_name": "ARIKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7963,
+    "neighbor_name": "ARISU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 8002,
+    "neighbor_name": "ATALAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7971,
+    "neighbor_name": "ATLICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7994,
+    "neighbor_name": "AYKUT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7972,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7986,
+    "neighbor_name": "BALPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7983,
+    "neighbor_name": "BİLGE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7969,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 8000,
+    "neighbor_name": "ÇAYÖNÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 50752,
+    "neighbor_name": "DERECİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7997,
+    "neighbor_name": "DİKYAMAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7996,
+    "neighbor_name": "DURAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7973,
+    "neighbor_name": "EKİNCİLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7956,
+    "neighbor_name": "ENGİN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7987,
+    "neighbor_name": "ERDALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7957,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7965,
+    "neighbor_name": "GÜMÜŞPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7988,
+    "neighbor_name": "GÜMÜŞYUVA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7984,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7989,
+    "neighbor_name": "GÜRGÖZE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7966,
+    "neighbor_name": "IŞIKYAKA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7995,
+    "neighbor_name": "İKİSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7967,
+    "neighbor_name": "KARAALANİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7974,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7958,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7990,
+    "neighbor_name": "KAYALAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 50059,
+    "neighbor_name": "KEBAPÇI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7975,
+    "neighbor_name": "KEMERLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 50564,
+    "neighbor_name": "KIŞLAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7976,
+    "neighbor_name": "KOCAKENT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7991,
+    "neighbor_name": "KONUR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7959,
+    "neighbor_name": "MEŞELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 50569,
+    "neighbor_name": "ORTAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 8001,
+    "neighbor_name": "ÖMÜRLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7977,
+    "neighbor_name": "POYRAZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7998,
+    "neighbor_name": "SAĞMAL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7968,
+    "neighbor_name": "SAKIZLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7962,
+    "neighbor_name": "ŞANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7964,
+    "neighbor_name": "ŞENYUVA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7960,
+    "neighbor_name": "TANRIYOLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7980,
+    "neighbor_name": "TARLACIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7985,
+    "neighbor_name": "ULUTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7979,
+    "neighbor_name": "ÜRÜNLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7982,
+    "neighbor_name": "YAĞMUR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 50984,
+    "neighbor_name": "YALINAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7992,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7999,
+    "neighbor_name": "YETKİNLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7981,
+    "neighbor_name": "YUKARIKONAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7993,
+    "neighbor_name": "YUKARIOCAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 168,
+    "district_name": "MAZIDAĞI",
+    "neighbor_id": 7961,
+    "neighbor_name": "YÜCEBAĞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7646,
+    "neighbor_name": "ACIRLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7676,
+    "neighbor_name": "ADAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7625,
+    "neighbor_name": "AKÇAKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7637,
+    "neighbor_name": "ALTINTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7615,
+    "neighbor_name": "ANITLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7659,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7647,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7630,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7668,
+    "neighbor_name": "BARDAKÇI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7631,
+    "neighbor_name": "BARIŞTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7648,
+    "neighbor_name": "BAŞYURT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7655,
+    "neighbor_name": "BUDAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7641,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7619,
+    "neighbor_name": "ÇALDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7636,
+    "neighbor_name": "ÇALPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7624,
+    "neighbor_name": "ÇAMYURT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7667,
+    "neighbor_name": "ÇANDARLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7620,
+    "neighbor_name": "ÇAVUŞLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7674,
+    "neighbor_name": "ÇAYIRLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7621,
+    "neighbor_name": "DANIŞMAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7677,
+    "neighbor_name": "DOĞANÇAY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7626,
+    "neighbor_name": "DOĞANYAZI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7672,
+    "neighbor_name": "DOLUNAY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7616,
+    "neighbor_name": "DÜZGEÇİT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7660,
+    "neighbor_name": "DÜZOBA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7642,
+    "neighbor_name": "EĞLENCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7651,
+    "neighbor_name": "ELBEĞENDİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7617,
+    "neighbor_name": "ERİŞTİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7618,
+    "neighbor_name": "GELİNKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7643,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7622,
+    "neighbor_name": "GÜLGÖZE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7638,
+    "neighbor_name": "GÜLVEREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7652,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7678,
+    "neighbor_name": "GÜVEN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7649,
+    "neighbor_name": "HANLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7656,
+    "neighbor_name": "HARMANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7663,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7658,
+    "neighbor_name": "İKİZDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7629,
+    "neighbor_name": "İZBIRAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7611,
+    "neighbor_name": "KAYALAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7645,
+    "neighbor_name": "KAYALIPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7669,
+    "neighbor_name": "KUTLUBEY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7644,
+    "neighbor_name": "MERCİMEKLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7679,
+    "neighbor_name": "NARLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7612,
+    "neighbor_name": "ORTACA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7632,
+    "neighbor_name": "ORTAÇARŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7664,
+    "neighbor_name": "OYUKLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7670,
+    "neighbor_name": "PELİTLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7650,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7623,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7673,
+    "neighbor_name": "SARIKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7665,
+    "neighbor_name": "SEYİTLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7640,
+    "neighbor_name": "SİVRİCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7639,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7662,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7633,
+    "neighbor_name": "TAŞLIBURÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7653,
+    "neighbor_name": "TEPELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7613,
+    "neighbor_name": "TOPTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7614,
+    "neighbor_name": "TULGALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7628,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7627,
+    "neighbor_name": "ÜÇAĞIL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7634,
+    "neighbor_name": "YAYVANTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7661,
+    "neighbor_name": "YEMİŞLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 50638,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7666,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7671,
+    "neighbor_name": "YEŞİLÖZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7635,
+    "neighbor_name": "YOLBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7657,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7654,
+    "neighbor_name": "YUVALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 162,
+    "district_name": "MİDYAT",
+    "neighbor_id": 7675,
+    "neighbor_name": "ZİYARET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7693,
+    "neighbor_name": "8 MART MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7736,
+    "neighbor_name": "ABDULKADİRPAŞA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7704,
+    "neighbor_name": "AÇIKKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7687,
+    "neighbor_name": "AÇIKYOL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 49780,
+    "neighbor_name": "AKAĞIL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7717,
+    "neighbor_name": "AKARSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7694,
+    "neighbor_name": "AKÇATARLA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7722,
+    "neighbor_name": "BAHÇEBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7706,
+    "neighbor_name": "BAKACIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7723,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7731,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50879,
+    "neighbor_name": "BEYLİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7680,
+    "neighbor_name": "BÜYÜKKARDEŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7730,
+    "neighbor_name": "ÇAĞLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7703,
+    "neighbor_name": "ÇALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7725,
+    "neighbor_name": "ÇATALÖZÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50797,
+    "neighbor_name": "ÇİĞDEM MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50605,
+    "neighbor_name": "ÇİLESİZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 49992,
+    "neighbor_name": "ÇÖLOVA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7705,
+    "neighbor_name": "DAĞİÇİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7718,
+    "neighbor_name": "DALLIAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 49641,
+    "neighbor_name": "DEMİRTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7688,
+    "neighbor_name": "DEVRİM MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7733,
+    "neighbor_name": "DİBEK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7684,
+    "neighbor_name": "DİCLE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50601,
+    "neighbor_name": "DOĞANLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7689,
+    "neighbor_name": "DURAKBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7695,
+    "neighbor_name": "DURUCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7732,
+    "neighbor_name": "DÜZCE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7727,
+    "neighbor_name": "ESKİHİSAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7712,
+    "neighbor_name": "ESKİYOL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7707,
+    "neighbor_name": "FIRAT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7699,
+    "neighbor_name": "GIRNAVAS MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7709,
+    "neighbor_name": "GİRMELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7700,
+    "neighbor_name": "GÖRENTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50636,
+    "neighbor_name": "GÜNEBAKAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 49474,
+    "neighbor_name": "GÜNELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50665,
+    "neighbor_name": "GÜNYURDU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7737,
+    "neighbor_name": "GÜRÜN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7708,
+    "neighbor_name": "GÜVENLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7696,
+    "neighbor_name": "HASANTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7738,
+    "neighbor_name": "HEYBELİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7716,
+    "neighbor_name": "İKİZTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7726,
+    "neighbor_name": "İPEKYOLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50591,
+    "neighbor_name": "KALECİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7710,
+    "neighbor_name": "KANTAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7728,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7685,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7724,
+    "neighbor_name": "KOCADAĞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7690,
+    "neighbor_name": "KURUKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7713,
+    "neighbor_name": "KUYULAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7681,
+    "neighbor_name": "KÜÇÜKKARDEŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7682,
+    "neighbor_name": "MOR YAKUP MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50612,
+    "neighbor_name": "NERGİZLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7729,
+    "neighbor_name": "ODABAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7701,
+    "neighbor_name": "SELAHADDİN EYYUBİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 49924,
+    "neighbor_name": "SINIRTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7697,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7734,
+    "neighbor_name": "TAŞKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 50122,
+    "neighbor_name": "TEKAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7686,
+    "neighbor_name": "TEPEALTI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7719,
+    "neighbor_name": "TEPEÖREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7735,
+    "neighbor_name": "TEPEÜSTÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7698,
+    "neighbor_name": "TURGUTKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7715,
+    "neighbor_name": "ÜÇKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7683,
+    "neighbor_name": "ÜÇYOL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7739,
+    "neighbor_name": "YANDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7702,
+    "neighbor_name": "YAZYURDU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7720,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7711,
+    "neighbor_name": "YENİTURAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7721,
+    "neighbor_name": "YERKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7691,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7692,
+    "neighbor_name": "YOLBİLEN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 49503,
+    "neighbor_name": "YOLİNDİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 163,
+    "district_name": "NUSAYBİN",
+    "neighbor_id": 7714,
+    "neighbor_name": "ZEYNELABİDİN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8031,
+    "neighbor_name": "ALIÇLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8032,
+    "neighbor_name": "ANITTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8021,
+    "neighbor_name": "BEŞİKKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8003,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8006,
+    "neighbor_name": "ÇINARALTI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8004,
+    "neighbor_name": "FISTIKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8007,
+    "neighbor_name": "GÖLLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8005,
+    "neighbor_name": "GÜZELAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8038,
+    "neighbor_name": "İKİPINAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8015,
+    "neighbor_name": "KAYABALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8011,
+    "neighbor_name": "KAYADERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8008,
+    "neighbor_name": "KAYAÜSTÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8035,
+    "neighbor_name": "KAYNAKKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8016,
+    "neighbor_name": "KOCAKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8009,
+    "neighbor_name": "KOCASIRT MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 50577,
+    "neighbor_name": "MUTLUCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8017,
+    "neighbor_name": "ÖZTAŞ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8036,
+    "neighbor_name": "PINARCIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8027,
+    "neighbor_name": "SALİHKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8023,
+    "neighbor_name": "SİVRİTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8037,
+    "neighbor_name": "SULAKDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8034,
+    "neighbor_name": "ŞAFAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8012,
+    "neighbor_name": "TAŞGEDİK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8024,
+    "neighbor_name": "TAŞLICA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8033,
+    "neighbor_name": "TAVUKLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8028,
+    "neighbor_name": "TEKKUYU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8013,
+    "neighbor_name": "TOKDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 50703,
+    "neighbor_name": "TOPAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8019,
+    "neighbor_name": "YAYLATEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 169,
+    "district_name": "ÖMERLİ",
+    "neighbor_id": 8014,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7757,
+    "neighbor_name": "AKYÜREK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7744,
+    "neighbor_name": "ARMUTALAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7768,
+    "neighbor_name": "BAĞYAKA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7763,
+    "neighbor_name": "BAŞAĞAÇ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7776,
+    "neighbor_name": "BAŞKAVAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7751,
+    "neighbor_name": "BENGİSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7746,
+    "neighbor_name": "ÇINARÖNÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7740,
+    "neighbor_name": "DEREİÇİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7741,
+    "neighbor_name": "DURUSU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7747,
+    "neighbor_name": "ERKURAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7748,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7742,
+    "neighbor_name": "HARMANTEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7764,
+    "neighbor_name": "HİSARKAYA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7777,
+    "neighbor_name": "İÇÖREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7756,
+    "neighbor_name": "İŞGÖREN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7745,
+    "neighbor_name": "KAPLAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 50684,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7762,
+    "neighbor_name": "KAYACIKLAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7752,
+    "neighbor_name": "KAYATEPE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7765,
+    "neighbor_name": "KIRBALI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7760,
+    "neighbor_name": "KIRKDİREK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7769,
+    "neighbor_name": "KOCAHÜYÜK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7749,
+    "neighbor_name": "KOŞUYOLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 50594,
+    "neighbor_name": "KÖPRÜLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7743,
+    "neighbor_name": "ORMANCIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7753,
+    "neighbor_name": "PINARDERE MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7761,
+    "neighbor_name": "SAFA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7754,
+    "neighbor_name": "SANCAKLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7770,
+    "neighbor_name": "SERENLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7758,
+    "neighbor_name": "SEYDİN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7759,
+    "neighbor_name": "SOYLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7755,
+    "neighbor_name": "SÜRGÜCÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7767,
+    "neighbor_name": "ŞENOCAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7771,
+    "neighbor_name": "TAŞLIK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7772,
+    "neighbor_name": "TOKLUCA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7750,
+    "neighbor_name": "ÜÇERLİ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7775,
+    "neighbor_name": "ÜÇKAVAK MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7773,
+    "neighbor_name": "YAYLAYANI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 50660,
+    "neighbor_name": "YAZIR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7766,
+    "neighbor_name": "YENİLMEZ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 164,
+    "district_name": "SAVUR",
+    "neighbor_id": 7774,
+    "neighbor_name": "YEŞİLALAN MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7778,
+    "neighbor_name": "ALIÇLI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7779,
+    "neighbor_name": "BAHÇEBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7783,
+    "neighbor_name": "BÜLBÜL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7780,
+    "neighbor_name": "DEREYANI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7786,
+    "neighbor_name": "GÜL MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7787,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7788,
+    "neighbor_name": "KOYUNLU MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7781,
+    "neighbor_name": "KÜTÜKLÜ MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7789,
+    "neighbor_name": "OVAKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7782,
+    "neighbor_name": "SANCAR MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7790,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7784,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7785,
+    "neighbor_name": "UZUNKÖY MAH."
+  },
+  {
+    "city_id": 12,
+    "city_name": "MARDİN",
+    "district_id": 165,
+    "district_name": "YEŞİLLİ",
+    "neighbor_id": 7791,
+    "neighbor_name": "ZEYTİNLİ MAH."
+  }
+]

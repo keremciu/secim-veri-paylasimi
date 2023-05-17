@@ -1,0 +1,2258 @@
+[
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35558,
+    "neighbor_name": "ALİÇAVUŞ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35562,
+    "neighbor_name": "ELKİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35556,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50964,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35550,
+    "neighbor_name": "AKARSU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 49455,
+    "neighbor_name": "AKÇAYOL KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50832,
+    "neighbor_name": "AŞAĞIDERE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35551,
+    "neighbor_name": "AYVALIK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35552,
+    "neighbor_name": "BAŞARAN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35559,
+    "neighbor_name": "BEŞAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35565,
+    "neighbor_name": "BOĞAZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35553,
+    "neighbor_name": "BOLAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35560,
+    "neighbor_name": "BÖLÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35566,
+    "neighbor_name": "CEVİZAĞACI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35568,
+    "neighbor_name": "ÇIĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35561,
+    "neighbor_name": "DAĞALTI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 49704,
+    "neighbor_name": "DOĞANYOL KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50952,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35554,
+    "neighbor_name": "GÜNEYYAKA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35555,
+    "neighbor_name": "GÜNYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50923,
+    "neighbor_name": "ILICAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50802,
+    "neighbor_name": "KOYUNOBA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35557,
+    "neighbor_name": "MEZRA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35563,
+    "neighbor_name": "MUTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 49679,
+    "neighbor_name": "ORTALI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35564,
+    "neighbor_name": "OYMAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50764,
+    "neighbor_name": "PİRİNÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 50115,
+    "neighbor_name": "SÖĞÜTCE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35567,
+    "neighbor_name": "TOPTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 709,
+    "district_name": "BEYTÜŞŞEBAP",
+    "neighbor_id": 35549,
+    "neighbor_name": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35590,
+    "neighbor_name": "ALİ BEY MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35606,
+    "neighbor_name": "CUDİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35571,
+    "neighbor_name": "DAĞ KAPI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35593,
+    "neighbor_name": "DİCLE MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35608,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35581,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35603,
+    "neighbor_name": "NUR MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35583,
+    "neighbor_name": "SUR MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35597,
+    "neighbor_name": "ŞAH MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35600,
+    "neighbor_name": "YAFES MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35591,
+    "neighbor_name": "AŞAĞIÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35605,
+    "neighbor_name": "AŞAĞIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35595,
+    "neighbor_name": "BAĞLARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35596,
+    "neighbor_name": "BOZALAN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35570,
+    "neighbor_name": "ÇAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35578,
+    "neighbor_name": "ÇATAL KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35569,
+    "neighbor_name": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35572,
+    "neighbor_name": "DİRSEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35592,
+    "neighbor_name": "DÜZOVA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35607,
+    "neighbor_name": "ERDEM KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35594,
+    "neighbor_name": "GÜÇLÜ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35584,
+    "neighbor_name": "GÜRSU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35579,
+    "neighbor_name": "HAVUZLU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35573,
+    "neighbor_name": "KATRAN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35585,
+    "neighbor_name": "KAYA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35574,
+    "neighbor_name": "KEBELİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35580,
+    "neighbor_name": "KERUH KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35598,
+    "neighbor_name": "KOCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35582,
+    "neighbor_name": "KOÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35575,
+    "neighbor_name": "KORUCU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35586,
+    "neighbor_name": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35609,
+    "neighbor_name": "KUŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35587,
+    "neighbor_name": "SULAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35588,
+    "neighbor_name": "TAŞHÖYÜK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35604,
+    "neighbor_name": "TEPEÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35599,
+    "neighbor_name": "UĞUR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35576,
+    "neighbor_name": "ULAŞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35577,
+    "neighbor_name": "VARLIK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35601,
+    "neighbor_name": "YAKACIK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35602,
+    "neighbor_name": "YALINTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 710,
+    "district_name": "CİZRE",
+    "neighbor_id": 35589,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35626,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35625,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35628,
+    "neighbor_name": "FINDIK-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35622,
+    "neighbor_name": "FINDIK-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35623,
+    "neighbor_name": "FINDIK-GÜMÜŞYAZI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35610,
+    "neighbor_name": "FINDIK-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35619,
+    "neighbor_name": "AKÇAKUŞAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35630,
+    "neighbor_name": "AKDİZGİN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35613,
+    "neighbor_name": "BOYUNCUK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35629,
+    "neighbor_name": "ÇEVRİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35618,
+    "neighbor_name": "ÇOBANKAZANI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35614,
+    "neighbor_name": "DAĞYELİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35627,
+    "neighbor_name": "DAMLABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35620,
+    "neighbor_name": "DAMLARCA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35621,
+    "neighbor_name": "DÜĞÜNYURDU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35615,
+    "neighbor_name": "KOÇTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35624,
+    "neighbor_name": "ORMANİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35611,
+    "neighbor_name": "SAĞKOL KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35616,
+    "neighbor_name": "TAŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35617,
+    "neighbor_name": "YAĞIZOYMAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 35612,
+    "neighbor_name": "YAĞMURKUYUSU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 711,
+    "district_name": "GÜÇLÜKONAK",
+    "neighbor_id": 50020,
+    "neighbor_name": "YATAĞANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35503,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35487,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35494,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35478,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35500,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35457,
+    "neighbor_name": "KARALAR-ŞAMİL MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35456,
+    "neighbor_name": "KARALAR-TEMEL MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35486,
+    "neighbor_name": "SIRTKÖY-DİCLE MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35498,
+    "neighbor_name": "SIRTKÖY-FIRAT MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35460,
+    "neighbor_name": "AÇMA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35501,
+    "neighbor_name": "AKDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35480,
+    "neighbor_name": "AKKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35481,
+    "neighbor_name": "AKSOY KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35493,
+    "neighbor_name": "ALAKAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 49681,
+    "neighbor_name": "BAŞAKKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35455,
+    "neighbor_name": "BEREKETLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50922,
+    "neighbor_name": "BOZBURUN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35504,
+    "neighbor_name": "BOZKIR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35492,
+    "neighbor_name": "ÇIĞIR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50974,
+    "neighbor_name": "ÇINARLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35470,
+    "neighbor_name": "ÇUKURLU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35496,
+    "neighbor_name": "DİRSEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35502,
+    "neighbor_name": "DUMANLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35508,
+    "neighbor_name": "DURUKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50814,
+    "neighbor_name": "GEDİK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35461,
+    "neighbor_name": "GÜZELOVA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35485,
+    "neighbor_name": "HABERLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50000,
+    "neighbor_name": "HENDEKKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35462,
+    "neighbor_name": "IŞIK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35488,
+    "neighbor_name": "KAŞIKÇI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35471,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35451,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35505,
+    "neighbor_name": "KENTLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35463,
+    "neighbor_name": "KIRCA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35452,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35468,
+    "neighbor_name": "KÖYCEĞİZ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35482,
+    "neighbor_name": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35509,
+    "neighbor_name": "KUYULU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 49580,
+    "neighbor_name": "MAĞARAKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50834,
+    "neighbor_name": "OCAKLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35510,
+    "neighbor_name": "OKÇU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50815,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35464,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35499,
+    "neighbor_name": "OYALI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35497,
+    "neighbor_name": "OYMAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35479,
+    "neighbor_name": "ÖĞÜNDÜK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35475,
+    "neighbor_name": "ÖZBEK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35467,
+    "neighbor_name": "ÖZEN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50006,
+    "neighbor_name": "PEÇENEK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35465,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50812,
+    "neighbor_name": "SARIKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35483,
+    "neighbor_name": "SULAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35469,
+    "neighbor_name": "TEKEKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35489,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35472,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35506,
+    "neighbor_name": "TOKLU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35473,
+    "neighbor_name": "TOPRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35476,
+    "neighbor_name": "UÇARLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35507,
+    "neighbor_name": "UĞRAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35453,
+    "neighbor_name": "ULAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35495,
+    "neighbor_name": "ÜÇOK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35477,
+    "neighbor_name": "VARIMLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35474,
+    "neighbor_name": "YAĞMURCA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35490,
+    "neighbor_name": "YALAZ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35491,
+    "neighbor_name": "YARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35484,
+    "neighbor_name": "YAVŞAN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35458,
+    "neighbor_name": "YAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35454,
+    "neighbor_name": "YAZMAN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50780,
+    "neighbor_name": "YOLAÇAN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 50827,
+    "neighbor_name": "YÖRÜK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35466,
+    "neighbor_name": "YUVALI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 707,
+    "district_name": "İDİL",
+    "neighbor_id": 35459,
+    "neighbor_name": "YÜKSEKKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35647,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35664,
+    "neighbor_name": "BAŞAK MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35655,
+    "neighbor_name": "CUDİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35634,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35642,
+    "neighbor_name": "DİCLE MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35662,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35658,
+    "neighbor_name": "NUH MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35641,
+    "neighbor_name": "OFİS MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35646,
+    "neighbor_name": "ŞHT. HARUN BOY MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35651,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35657,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35665,
+    "neighbor_name": "BAŞVERİMLİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35666,
+    "neighbor_name": "BAŞVERİMLİ-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35644,
+    "neighbor_name": "ÇALIŞKAN-ATATÜRK MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35652,
+    "neighbor_name": "ÇALIŞKAN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35637,
+    "neighbor_name": "ÇALIŞKAN-FATİH MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35653,
+    "neighbor_name": "ÇALIŞKAN-VATAN MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35635,
+    "neighbor_name": "GÖRÜMLÜ-BOĞAZ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35661,
+    "neighbor_name": "GÖRÜMLÜ-YENİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35648,
+    "neighbor_name": "GÖRÜMLÜ-YOLAĞIZI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35638,
+    "neighbor_name": "AKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 50810,
+    "neighbor_name": "AKYILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35639,
+    "neighbor_name": "BİRLİKKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35667,
+    "neighbor_name": "BOSTANCI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35633,
+    "neighbor_name": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35654,
+    "neighbor_name": "ÇARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35632,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35660,
+    "neighbor_name": "DAMLACA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 50916,
+    "neighbor_name": "DEDELER KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35656,
+    "neighbor_name": "DORUKLU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 50917,
+    "neighbor_name": "ESENLİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35649,
+    "neighbor_name": "KAPILI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35663,
+    "neighbor_name": "KAVAKÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35636,
+    "neighbor_name": "KAVALLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 50792,
+    "neighbor_name": "KÖSRELİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35640,
+    "neighbor_name": "MAHMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35643,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 49449,
+    "neighbor_name": "OVAKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35659,
+    "neighbor_name": "ÖZGEN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35631,
+    "neighbor_name": "PINARÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35645,
+    "neighbor_name": "ÜÇAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 35650,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 712,
+    "district_name": "SİLOPİ",
+    "neighbor_id": 50801,
+    "neighbor_name": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35519,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35547,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35548,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35539,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35544,
+    "neighbor_name": "DİCLE MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35534,
+    "neighbor_name": "GAZİ PAŞA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35535,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35533,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35538,
+    "neighbor_name": "ŞEHRİNUH MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35528,
+    "neighbor_name": "VAKIFKENT MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35517,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35536,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35529,
+    "neighbor_name": "BALVEREN-AYDINLAR MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35530,
+    "neighbor_name": "BALVEREN-HATİPLER MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35543,
+    "neighbor_name": "BALVEREN-ŞAFAK MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35526,
+    "neighbor_name": "BALVEREN-YAYLA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35515,
+    "neighbor_name": "KASRİK-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35513,
+    "neighbor_name": "KASRİK-BOĞAZ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35540,
+    "neighbor_name": "KASRİK-YENİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35523,
+    "neighbor_name": "KUMÇATI-AŞAĞI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35511,
+    "neighbor_name": "KUMÇATI-ATATÜRK MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35532,
+    "neighbor_name": "KUMÇATI-ÇADIRLI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35527,
+    "neighbor_name": "KUMÇATI-ÇAVUŞHAN MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35516,
+    "neighbor_name": "KUMÇATI-NASIRHAN MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35512,
+    "neighbor_name": "AKÇAY KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 50895,
+    "neighbor_name": "ARAKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 49561,
+    "neighbor_name": "ATBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 50874,
+    "neighbor_name": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35524,
+    "neighbor_name": "BAŞAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 50891,
+    "neighbor_name": "DAĞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35541,
+    "neighbor_name": "GEÇİTBOYU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35520,
+    "neighbor_name": "GÜNEYCE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35514,
+    "neighbor_name": "GÜNEYÇAM KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35518,
+    "neighbor_name": "İKİZCE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35525,
+    "neighbor_name": "KAVUNCU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35545,
+    "neighbor_name": "KAYABOYUN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35521,
+    "neighbor_name": "KIRKKUYU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35531,
+    "neighbor_name": "KIZILSU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35522,
+    "neighbor_name": "KOÇBEYİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 50104,
+    "neighbor_name": "KÖRÜKLÜKAYA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35546,
+    "neighbor_name": "TOPTEPE KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35542,
+    "neighbor_name": "YENİASLANBAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 708,
+    "district_name": "ŞIRNAK MERKEZ",
+    "neighbor_id": 35537,
+    "neighbor_name": "YOĞURTÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 49723,
+    "neighbor_name": "BULAKBAŞI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35672,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35673,
+    "neighbor_name": "KILABAN MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35676,
+    "neighbor_name": "KÜÇÜKÇAY MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35680,
+    "neighbor_name": "ÖDÜL MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35687,
+    "neighbor_name": "ÖZELLİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35670,
+    "neighbor_name": "YEŞİLYOVA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35694,
+    "neighbor_name": "HİLAL-GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35692,
+    "neighbor_name": "HİLAL-ŞEHAN MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35690,
+    "neighbor_name": "HİLAL-YILDIZ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35671,
+    "neighbor_name": "ŞENOBA-AYYILDIZ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35695,
+    "neighbor_name": "ŞENOBA-BAŞKAYA MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35691,
+    "neighbor_name": "ŞENOBA-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35684,
+    "neighbor_name": "ŞENOBA-GAZİ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35678,
+    "neighbor_name": "UZUNGEÇİT-AYYILDIZ MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35686,
+    "neighbor_name": "UZUNGEÇİT-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35683,
+    "neighbor_name": "UZUNGEÇİT-TANİN MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35679,
+    "neighbor_name": "UZUNGEÇİT-YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35674,
+    "neighbor_name": "ANDAÇ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 50950,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 50826,
+    "neighbor_name": "BAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35681,
+    "neighbor_name": "BALLI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35668,
+    "neighbor_name": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35675,
+    "neighbor_name": "GÜLYAZI KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 50850,
+    "neighbor_name": "IŞIKVEREN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35688,
+    "neighbor_name": "İNCELER KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35682,
+    "neighbor_name": "ORTABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35669,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35685,
+    "neighbor_name": "ORTASU KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35677,
+    "neighbor_name": "TAŞDELEN KÖYÜ"
+  },
+  {
+    "city_id": 55,
+    "city_name": "ŞIRNAK",
+    "district_id": 713,
+    "district_name": "ULUDERE",
+    "neighbor_id": 35693,
+    "neighbor_name": "YEMİŞLİ KÖYÜ"
+  }
+]

@@ -1,0 +1,5714 @@
+[
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23625,
+    "neighbor_name": "AKİN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23626,
+    "neighbor_name": "ALEVKIŞLA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23628,
+    "neighbor_name": "GANİŞEYH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23630,
+    "neighbor_name": "GİRİNCİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23632,
+    "neighbor_name": "GÖMÜRGEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23622,
+    "neighbor_name": "GÖMÜRGEN YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23633,
+    "neighbor_name": "GÜMÜŞSU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23629,
+    "neighbor_name": "KULULU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23635,
+    "neighbor_name": "MANAVUZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23631,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23627,
+    "neighbor_name": "ŞEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23636,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23623,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23634,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 476,
+    "district_name": "AKKIŞLA",
+    "neighbor_id": 23624,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23694,
+    "neighbor_name": "AĞCALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23650,
+    "neighbor_name": "AKÇATI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23654,
+    "neighbor_name": "AKMESCİT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23673,
+    "neighbor_name": "ASMAKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23689,
+    "neighbor_name": "BAYRAMLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23670,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23682,
+    "neighbor_name": "BÜYÜKTUZHİSAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23683,
+    "neighbor_name": "CAMİİCEDİT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23661,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23690,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23666,
+    "neighbor_name": "DAĞARDI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23681,
+    "neighbor_name": "DERVİŞAĞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23651,
+    "neighbor_name": "DOĞANLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23652,
+    "neighbor_name": "EKİNCİLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23691,
+    "neighbor_name": "ELBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23684,
+    "neighbor_name": "EMİRÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23655,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23685,
+    "neighbor_name": "GERGEME MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23653,
+    "neighbor_name": "GİRVELİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23669,
+    "neighbor_name": "GÜLLÜCE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23674,
+    "neighbor_name": "HAZARŞAH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23665,
+    "neighbor_name": "İBRAHİMBEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23680,
+    "neighbor_name": "İĞDECİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23675,
+    "neighbor_name": "KAHVECİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23676,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23671,
+    "neighbor_name": "KARAHIDIR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23662,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23663,
+    "neighbor_name": "KARATAY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23667,
+    "neighbor_name": "KARDEŞLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23672,
+    "neighbor_name": "KOYUNABDAL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23656,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23657,
+    "neighbor_name": "KÖSEHACILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23677,
+    "neighbor_name": "MUSAŞEYH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23678,
+    "neighbor_name": "PİRAHMET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23668,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23658,
+    "neighbor_name": "SAMAĞIR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23659,
+    "neighbor_name": "SIVGIN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23686,
+    "neighbor_name": "SULTANHANI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23679,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23687,
+    "neighbor_name": "TOPSÖĞÜT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23664,
+    "neighbor_name": "YAĞMURBEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 49937,
+    "neighbor_name": "YAKUTİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23688,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23660,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23692,
+    "neighbor_name": "YENİ SÜKSÜN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 478,
+    "district_name": "BÜNYAN",
+    "neighbor_id": 23693,
+    "neighbor_name": "YÜNÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23858,
+    "neighbor_name": "ABDULBAKİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23861,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23849,
+    "neighbor_name": "AŞAĞIEVEREK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23838,
+    "neighbor_name": "AŞIK SEYRANİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23813,
+    "neighbor_name": "AYŞEPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23871,
+    "neighbor_name": "AYVAZHACI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23841,
+    "neighbor_name": "BAHÇEBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23818,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23824,
+    "neighbor_name": "BÜYÜKKÜNYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23853,
+    "neighbor_name": "CAMİİCEDİT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23808,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23822,
+    "neighbor_name": "ÇADIRYERİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23847,
+    "neighbor_name": "ÇATALOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23830,
+    "neighbor_name": "ÇAYIRÖZÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23865,
+    "neighbor_name": "ÇAYLICA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23848,
+    "neighbor_name": "ÇOMAKLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23807,
+    "neighbor_name": "ÇÖTEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23817,
+    "neighbor_name": "ÇUKURYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23802,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23814,
+    "neighbor_name": "DEREŞİMLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23854,
+    "neighbor_name": "DEVELİ CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23867,
+    "neighbor_name": "E.CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23809,
+    "neighbor_name": "EPÇE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23801,
+    "neighbor_name": "EŞELİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23868,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23835,
+    "neighbor_name": "FENESEAŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23842,
+    "neighbor_name": "FENESEYUKARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23855,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23797,
+    "neighbor_name": "GÖMEDİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23839,
+    "neighbor_name": "GÜMÜŞÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23856,
+    "neighbor_name": "GÜNEYAŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23843,
+    "neighbor_name": "GÜNEYYUKARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23803,
+    "neighbor_name": "HARMAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23804,
+    "neighbor_name": "HAVADAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23831,
+    "neighbor_name": "HOŞÇA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23844,
+    "neighbor_name": "HÜSEYİNLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23850,
+    "neighbor_name": "İBRAHİMAĞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23870,
+    "neighbor_name": "İNCESU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23823,
+    "neighbor_name": "İZMİRLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23805,
+    "neighbor_name": "KABAKLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23866,
+    "neighbor_name": "KALEKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23859,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23829,
+    "neighbor_name": "KILIÇKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23821,
+    "neighbor_name": "KIZIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23820,
+    "neighbor_name": "KOPÇULLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23819,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23815,
+    "neighbor_name": "KÖSELER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23828,
+    "neighbor_name": "KULPAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23862,
+    "neighbor_name": "KÜÇÜKKÜNYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23845,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23799,
+    "neighbor_name": "MİLLİDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23798,
+    "neighbor_name": "MUSTAFA ASIM KÖKSAL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23852,
+    "neighbor_name": "ÖKSÜT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23863,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23834,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23825,
+    "neighbor_name": "SARICA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23869,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23810,
+    "neighbor_name": "SATI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 50148,
+    "neighbor_name": "SİNDELHÖYÜK CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 49511,
+    "neighbor_name": "SİNDELHÖYÜK FATİH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 49660,
+    "neighbor_name": "SİNDELHÖYÜK YENİCE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23860,
+    "neighbor_name": "SOYSALLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23812,
+    "neighbor_name": "ŞAHMELİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23857,
+    "neighbor_name": "ŞHT.ÜSTĞM.HASAN ŞAHAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23851,
+    "neighbor_name": "ŞIHLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23800,
+    "neighbor_name": "TAŞCI BUCAK MERKEZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23864,
+    "neighbor_name": "TOMBAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23840,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23827,
+    "neighbor_name": "YAZIBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23846,
+    "neighbor_name": "YEDEK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23837,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23832,
+    "neighbor_name": "YENİHAYAT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23811,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23836,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23816,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23806,
+    "neighbor_name": "YÜZEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 483,
+    "district_name": "DEVELİ",
+    "neighbor_id": 23833,
+    "neighbor_name": "ZİLE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23699,
+    "neighbor_name": "ACIRLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23706,
+    "neighbor_name": "ALPARSLAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23707,
+    "neighbor_name": "BEYLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 49987,
+    "neighbor_name": "BÜYÜKTORAMAN HÜRRİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 49593,
+    "neighbor_name": "BÜYÜKTORAMAN İSTİKLAL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23709,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23700,
+    "neighbor_name": "DARILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23698,
+    "neighbor_name": "İSABEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23701,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23702,
+    "neighbor_name": "KARAŞEYH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 50036,
+    "neighbor_name": "KAYAPINAR CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 49722,
+    "neighbor_name": "KAYAPINAR FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23695,
+    "neighbor_name": "KEPİÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23703,
+    "neighbor_name": "KURUHÜYÜK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23696,
+    "neighbor_name": "MENTEŞE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23705,
+    "neighbor_name": "SİLAHTAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 479,
+    "district_name": "FELAHİYE",
+    "neighbor_id": 23697,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23715,
+    "neighbor_name": "AKDAM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23716,
+    "neighbor_name": "AKYAZI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23719,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23717,
+    "neighbor_name": "BEĞENDİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23720,
+    "neighbor_name": "ERCİYES MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23710,
+    "neighbor_name": "HÜRMETCİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23711,
+    "neighbor_name": "KARPUZSEKİSİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23721,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23712,
+    "neighbor_name": "SAKARÇİFTLİĞİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23713,
+    "neighbor_name": "YEDİAĞAÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23714,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 480,
+    "district_name": "HACILAR",
+    "neighbor_id": 23718,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23786,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23767,
+    "neighbor_name": "BAHÇESARAY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23779,
+    "neighbor_name": "BULGURCU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23793,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23789,
+    "neighbor_name": "DOKUZPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23772,
+    "neighbor_name": "FIRINÖNÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23773,
+    "neighbor_name": "GARİPÇE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23790,
+    "neighbor_name": "GÖNENKENT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23794,
+    "neighbor_name": "HAMURCU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23766,
+    "neighbor_name": "KARAHÜYÜK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23780,
+    "neighbor_name": "KARAKOYUNLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23781,
+    "neighbor_name": "KARAMUSTAFAPAŞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23787,
+    "neighbor_name": "KIZILÖREN AŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23795,
+    "neighbor_name": "KIZILÖREN ÖTEBATAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23782,
+    "neighbor_name": "KIZILÖREN TABAKLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23783,
+    "neighbor_name": "KÜLLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23770,
+    "neighbor_name": "ÖRENŞEHİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23784,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23788,
+    "neighbor_name": "SARIKÜRKLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23796,
+    "neighbor_name": "SEMERKENT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23791,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23775,
+    "neighbor_name": "SÜKSÜN CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23777,
+    "neighbor_name": "SÜKSÜN HÜRRİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23776,
+    "neighbor_name": "SÜKSÜN ZAFER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23785,
+    "neighbor_name": "ŞEYHŞABAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23778,
+    "neighbor_name": "TAHİRİNLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23771,
+    "neighbor_name": "ÜÇKUYU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23768,
+    "neighbor_name": "VALİ İHSAN ARAS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23769,
+    "neighbor_name": "YARIM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 482,
+    "district_name": "İNCESU",
+    "neighbor_id": 23792,
+    "neighbor_name": "YENİ CAMİİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23928,
+    "neighbor_name": "AHİ EVRAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23940,
+    "neighbor_name": "AKİN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23887,
+    "neighbor_name": "ALSANCAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23941,
+    "neighbor_name": "AMARAT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50548,
+    "neighbor_name": "ARGINCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23924,
+    "neighbor_name": "BARSAMA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23935,
+    "neighbor_name": "BEYAZŞEHİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23969,
+    "neighbor_name": "BOYACI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23894,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23926,
+    "neighbor_name": "BUĞDAYLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50554,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23872,
+    "neighbor_name": "CIRGALAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 49477,
+    "neighbor_name": "ÇEVRİL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23978,
+    "neighbor_name": "DADAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23883,
+    "neighbor_name": "DORUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 49774,
+    "neighbor_name": "EBİÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23876,
+    "neighbor_name": "ELAGÖZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 49749,
+    "neighbor_name": "EMMİLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50570,
+    "neighbor_name": "ERKİLET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50543,
+    "neighbor_name": "ERTUĞRUL GAZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23921,
+    "neighbor_name": "EYİM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23873,
+    "neighbor_name": "FEVZİOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 49968,
+    "neighbor_name": "GENERAL EMİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23878,
+    "neighbor_name": "GÖMEÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50640,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23927,
+    "neighbor_name": "HASAN ARPA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23905,
+    "neighbor_name": "HASANCI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23952,
+    "neighbor_name": "HIRKAKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23884,
+    "neighbor_name": "HOCA AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23879,
+    "neighbor_name": "HÖBEK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23885,
+    "neighbor_name": "KARAHÖYÜK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23917,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23918,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23911,
+    "neighbor_name": "KIZIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23912,
+    "neighbor_name": "KOCASİNAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23898,
+    "neighbor_name": "KUŞCAĞIZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23959,
+    "neighbor_name": "KUŞÇU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 49782,
+    "neighbor_name": "MAHZEMİN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23902,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23880,
+    "neighbor_name": "MOLLAHACI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23933,
+    "neighbor_name": "OBRUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50538,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23914,
+    "neighbor_name": "SALUR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23981,
+    "neighbor_name": "SANCAKTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23956,
+    "neighbor_name": "SARAY BOSNA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23892,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23881,
+    "neighbor_name": "SEYRANİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23915,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23972,
+    "neighbor_name": "TALATPAŞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50680,
+    "neighbor_name": "TAŞHAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23895,
+    "neighbor_name": "UĞUREVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23923,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23982,
+    "neighbor_name": "YAKUT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50549,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23919,
+    "neighbor_name": "YAZIR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23962,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23950,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23893,
+    "neighbor_name": "YILDIZEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23937,
+    "neighbor_name": "YÜREĞİL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23938,
+    "neighbor_name": "ZÜMRÜT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23920,
+    "neighbor_name": "AKCATEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23951,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23973,
+    "neighbor_name": "BAYRAMHACI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23957,
+    "neighbor_name": "BEYDEĞİRMENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23925,
+    "neighbor_name": "BOĞAZKÖPRÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23889,
+    "neighbor_name": "DÜVER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23942,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23896,
+    "neighbor_name": "ERCİYESEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23965,
+    "neighbor_name": "ESKİÖMERLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23908,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 49444,
+    "neighbor_name": "GEVHER NESİBE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23874,
+    "neighbor_name": "HACI SAKİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23980,
+    "neighbor_name": "HİMMETDEDE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23955,
+    "neighbor_name": "KALKANCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23971,
+    "neighbor_name": "KARAKİMSE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23961,
+    "neighbor_name": "KAŞKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23922,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23875,
+    "neighbor_name": "MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23913,
+    "neighbor_name": "MOLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23903,
+    "neighbor_name": "ORUÇREİS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23909,
+    "neighbor_name": "OYMAAĞAÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23891,
+    "neighbor_name": "SAHABİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23949,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23882,
+    "neighbor_name": "ŞEKER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23886,
+    "neighbor_name": "TURGUT REİS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50545,
+    "neighbor_name": "YAVUZLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23977,
+    "neighbor_name": "YEMLİHA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23963,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23945,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23916,
+    "neighbor_name": "YUKARIHASİNLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 50553,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23899,
+    "neighbor_name": "YUVALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 484,
+    "district_name": "KOCASİNAN",
+    "neighbor_id": 23939,
+    "neighbor_name": "ZİYAGÖKALP MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23990,
+    "neighbor_name": "ALPASLAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24047,
+    "neighbor_name": "BATTALGAZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24034,
+    "neighbor_name": "BECEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24066,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 50557,
+    "neighbor_name": "DANİŞMENTGAZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24024,
+    "neighbor_name": "ERENKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24048,
+    "neighbor_name": "ESENYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24036,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 50551,
+    "neighbor_name": "HİSARCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24008,
+    "neighbor_name": "HUNAT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24025,
+    "neighbor_name": "KILIÇASLAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 49768,
+    "neighbor_name": "KIRANARDI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24011,
+    "neighbor_name": "KÖŞK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23995,
+    "neighbor_name": "OSMANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23999,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 49585,
+    "neighbor_name": "TACETTİNVELİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24001,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24014,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24042,
+    "neighbor_name": "30 AĞUSTOS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24057,
+    "neighbor_name": "ALTINOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24023,
+    "neighbor_name": "ANAFARTALAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24028,
+    "neighbor_name": "ANBAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24053,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24035,
+    "neighbor_name": "EĞRİBUCAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24054,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24056,
+    "neighbor_name": "GÜLÜK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24027,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23998,
+    "neighbor_name": "KAZIMKARABEKİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24032,
+    "neighbor_name": "KEYKUBAT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24009,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24059,
+    "neighbor_name": "OSMAN KAVUNCU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24018,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24061,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23989,
+    "neighbor_name": "TINAZTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24063,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24046,
+    "neighbor_name": "AĞIRNAS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24015,
+    "neighbor_name": "BAĞPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24029,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 49724,
+    "neighbor_name": "BÜYÜK BÜRÜNGÜZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24002,
+    "neighbor_name": "DEMOKRASİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24007,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24030,
+    "neighbor_name": "GERMİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24031,
+    "neighbor_name": "GESİ FATİH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 49463,
+    "neighbor_name": "GESİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24058,
+    "neighbor_name": "GÖKKENT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 50615,
+    "neighbor_name": "GÜRPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24037,
+    "neighbor_name": "GÜZELKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24060,
+    "neighbor_name": "İLDEM CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24050,
+    "neighbor_name": "KAYABAĞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 49725,
+    "neighbor_name": "KÜÇÜK BÜRÜNGÜZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 50565,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24005,
+    "neighbor_name": "SARIMSAKLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23988,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 50540,
+    "neighbor_name": "ŞİRİNTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24052,
+    "neighbor_name": "TAVLUSUN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24040,
+    "neighbor_name": "TURAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 24062,
+    "neighbor_name": "VEKSE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 485,
+    "district_name": "MELİKGAZİ",
+    "neighbor_id": 23997,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23643,
+    "neighbor_name": "ALPARSLAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23644,
+    "neighbor_name": "AŞAĞI BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23637,
+    "neighbor_name": "BAHÇELİ EVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23645,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23646,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23638,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23639,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23640,
+    "neighbor_name": "KERMELİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23647,
+    "neighbor_name": "KÜPELİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23641,
+    "neighbor_name": "TAŞLIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23648,
+    "neighbor_name": "TUĞLAŞAH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23642,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 477,
+    "district_name": "ÖZVATAN",
+    "neighbor_id": 23649,
+    "neighbor_name": "YUKARI BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23500,
+    "neighbor_name": "AKÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23477,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23516,
+    "neighbor_name": "ALAGAZİLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23506,
+    "neighbor_name": "ALAMESCİT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23498,
+    "neighbor_name": "ALTIKESEK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23478,
+    "neighbor_name": "ARSLANBEYLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23502,
+    "neighbor_name": "ARTMAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23436,
+    "neighbor_name": "AŞAĞIBEYÇAYIRI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23406,
+    "neighbor_name": "AŞAĞIBORANDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23479,
+    "neighbor_name": "AŞAĞIKARAGÖZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23491,
+    "neighbor_name": "AŞAĞIKIZILÇEVLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23411,
+    "neighbor_name": "AVŞARPOTUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23501,
+    "neighbor_name": "AYGÖRMEZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23503,
+    "neighbor_name": "BAHÇECİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23504,
+    "neighbor_name": "BESEREK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23517,
+    "neighbor_name": "BÜYÜKGÜMÜŞGÜN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23431,
+    "neighbor_name": "BÜYÜKGÜRLEĞEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23522,
+    "neighbor_name": "BÜYÜKKABAKTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23416,
+    "neighbor_name": "BÜYÜKKARAMANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23421,
+    "neighbor_name": "BÜYÜKKARAMUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23432,
+    "neighbor_name": "BÜYÜKKÖMARMUT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23486,
+    "neighbor_name": "BÜYÜKPOTUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23407,
+    "neighbor_name": "CABE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23507,
+    "neighbor_name": "CİNAHMET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23440,
+    "neighbor_name": "CİNLİÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23476,
+    "neighbor_name": "ÇAKILKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23425,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23468,
+    "neighbor_name": "ÇÖRDÜKLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23420,
+    "neighbor_name": "ÇUKURYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23482,
+    "neighbor_name": "DEMİRCİLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23487,
+    "neighbor_name": "DEMİRCİÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23508,
+    "neighbor_name": "DEVEDERESİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23412,
+    "neighbor_name": "DİKİLİTAŞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23526,
+    "neighbor_name": "DİLCİLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23484,
+    "neighbor_name": "EĞRİSÖĞÜT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23427,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23488,
+    "neighbor_name": "EMEĞİL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23523,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23483,
+    "neighbor_name": "ESKİTEKKE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23510,
+    "neighbor_name": "ESKİYASSIPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23471,
+    "neighbor_name": "FAKIEKİNCİLİĞİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23460,
+    "neighbor_name": "GEBELEK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23422,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23461,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23492,
+    "neighbor_name": "GÜMÜŞGÜN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23408,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23445,
+    "neighbor_name": "HALİTBEYÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23505,
+    "neighbor_name": "HAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23452,
+    "neighbor_name": "HASIRCI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23494,
+    "neighbor_name": "HASSA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23409,
+    "neighbor_name": "HAYRİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23446,
+    "neighbor_name": "HİLMİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23441,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23435,
+    "neighbor_name": "İĞDELİPAYASLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23490,
+    "neighbor_name": "İNLİÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23415,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23453,
+    "neighbor_name": "KADILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23423,
+    "neighbor_name": "KAFTANGİYEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23413,
+    "neighbor_name": "KAMAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23462,
+    "neighbor_name": "KARABOĞAZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23524,
+    "neighbor_name": "KARAHACILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23472,
+    "neighbor_name": "KARAHALKA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23457,
+    "neighbor_name": "KARAKUYU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23511,
+    "neighbor_name": "KAVAKKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23525,
+    "neighbor_name": "KAVLAKLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23442,
+    "neighbor_name": "KAYAALTI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23428,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23473,
+    "neighbor_name": "KAYAÖNÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23465,
+    "neighbor_name": "KAYNAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23454,
+    "neighbor_name": "KAZANCIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23437,
+    "neighbor_name": "KERİMOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23447,
+    "neighbor_name": "KILIÇKIŞLA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23466,
+    "neighbor_name": "KILIÇMEHMET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23509,
+    "neighbor_name": "KIRKGEÇİT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23518,
+    "neighbor_name": "KIRKPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23474,
+    "neighbor_name": "KIZILDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23512,
+    "neighbor_name": "KIZILHAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23480,
+    "neighbor_name": "KIZILÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23495,
+    "neighbor_name": "KURBAĞALIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23519,
+    "neighbor_name": "KURTTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23520,
+    "neighbor_name": "KUŞÇULAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23467,
+    "neighbor_name": "KÜÇÜKKÖMARMUT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23410,
+    "neighbor_name": "KÜÇÜKPOTUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23463,
+    "neighbor_name": "MALAKKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23418,
+    "neighbor_name": "MELİKGAZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23433,
+    "neighbor_name": "METHİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23513,
+    "neighbor_name": "OLUKKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23455,
+    "neighbor_name": "ORUÇOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23470,
+    "neighbor_name": "ÖRENŞEHİR BUCAK MERKEZİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23521,
+    "neighbor_name": "PANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23424,
+    "neighbor_name": "PAŞALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23464,
+    "neighbor_name": "PAZARÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23456,
+    "neighbor_name": "PAZARSU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23481,
+    "neighbor_name": "PULPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23429,
+    "neighbor_name": "SAÇAYAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23515,
+    "neighbor_name": "SAÇLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23443,
+    "neighbor_name": "SERİNYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23496,
+    "neighbor_name": "SOLAKLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23475,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23449,
+    "neighbor_name": "ŞABANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23485,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23438,
+    "neighbor_name": "TAHTAKÖPRÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23439,
+    "neighbor_name": "TAŞLIGEÇİT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23469,
+    "neighbor_name": "TAŞLIOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23444,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23430,
+    "neighbor_name": "TERSAKAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23489,
+    "neighbor_name": "TÖZGÜN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23499,
+    "neighbor_name": "UZUNPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23514,
+    "neighbor_name": "UZUNYOL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23426,
+    "neighbor_name": "ÜÇPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23448,
+    "neighbor_name": "YAĞLIPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23458,
+    "neighbor_name": "YAHYABEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23493,
+    "neighbor_name": "YARIMTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23497,
+    "neighbor_name": "YENİCAMİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23419,
+    "neighbor_name": "YENİOCAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23459,
+    "neighbor_name": "YEREGEÇEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23434,
+    "neighbor_name": "YUKARIBEYÇAYIRI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23405,
+    "neighbor_name": "YUKARIBORANDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23450,
+    "neighbor_name": "YUKARIKARAGÖZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23414,
+    "neighbor_name": "YUKARIKIZILÇEVLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 472,
+    "district_name": "PINARBAŞI",
+    "neighbor_id": 23451,
+    "neighbor_name": "YUSUFLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23529,
+    "neighbor_name": "ALAMETTİN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23546,
+    "neighbor_name": "BAKARCAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23551,
+    "neighbor_name": "BURUNÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23532,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23540,
+    "neighbor_name": "DÜZENCİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23547,
+    "neighbor_name": "EBÜLHAYIR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23535,
+    "neighbor_name": "GAZİLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23548,
+    "neighbor_name": "GÜZELYAZI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 50542,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23536,
+    "neighbor_name": "ILICA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23543,
+    "neighbor_name": "İĞDELİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23537,
+    "neighbor_name": "KADILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23530,
+    "neighbor_name": "KALEKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23541,
+    "neighbor_name": "KARAÖZÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23533,
+    "neighbor_name": "KARPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23538,
+    "neighbor_name": "KEKLİKOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23544,
+    "neighbor_name": "KIZILPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23528,
+    "neighbor_name": "MURATBEYLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23539,
+    "neighbor_name": "ÖMERHACILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23534,
+    "neighbor_name": "ÖMÜRLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23545,
+    "neighbor_name": "PALAS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23542,
+    "neighbor_name": "SOFUMAHMUT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23527,
+    "neighbor_name": "ŞENYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23549,
+    "neighbor_name": "TATILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23553,
+    "neighbor_name": "ÜZERLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23531,
+    "neighbor_name": "YAHYALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23552,
+    "neighbor_name": "YERLİKUYU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 473,
+    "district_name": "SARIOĞLAN",
+    "neighbor_id": 23550,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23744,
+    "neighbor_name": "AKOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23752,
+    "neighbor_name": "ALTISÖĞÜT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23737,
+    "neighbor_name": "AVŞAROBASI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23758,
+    "neighbor_name": "AYRANLIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23738,
+    "neighbor_name": "BAHÇELİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23753,
+    "neighbor_name": "BÜYÜK ÖRTÜLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23725,
+    "neighbor_name": "BÜYÜK SÖBEÇİMEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23742,
+    "neighbor_name": "ÇAĞŞAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23724,
+    "neighbor_name": "ÇATALPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23757,
+    "neighbor_name": "ÇAVDAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23732,
+    "neighbor_name": "ÇÖREKDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23759,
+    "neighbor_name": "DALLIKAVAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23726,
+    "neighbor_name": "DAMIZLIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23727,
+    "neighbor_name": "DARIDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23763,
+    "neighbor_name": "DAYOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23739,
+    "neighbor_name": "DEĞİRMENTAŞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23730,
+    "neighbor_name": "FETTAHDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23764,
+    "neighbor_name": "GÜMÜŞALİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23749,
+    "neighbor_name": "GÜNESEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23733,
+    "neighbor_name": "İMİRZAAĞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23751,
+    "neighbor_name": "İNCEDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23743,
+    "neighbor_name": "İNCEMAĞARA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23754,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23731,
+    "neighbor_name": "KARAYURT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23740,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23745,
+    "neighbor_name": "KIRKISRAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23755,
+    "neighbor_name": "KISKAÇLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23728,
+    "neighbor_name": "KIZILPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23746,
+    "neighbor_name": "KURDİNİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23760,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23747,
+    "neighbor_name": "KUŞÇU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23756,
+    "neighbor_name": "KÜÇÜK KABAKTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23741,
+    "neighbor_name": "KÜÇÜK ÖRTÜLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23729,
+    "neighbor_name": "KÜÇÜK SÖBEÇİMEN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23765,
+    "neighbor_name": "MOLLAHÜSEYİNLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23750,
+    "neighbor_name": "OĞLAKKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23748,
+    "neighbor_name": "ÖRDEKLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23734,
+    "neighbor_name": "SANCAKAĞIL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23722,
+    "neighbor_name": "TAVLA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23761,
+    "neighbor_name": "TEKNELİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23735,
+    "neighbor_name": "YAYLACI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23723,
+    "neighbor_name": "YEDİOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23762,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 481,
+    "district_name": "SARIZ",
+    "neighbor_id": 23736,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23571,
+    "neighbor_name": "AKÇAKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23557,
+    "neighbor_name": "ALAYBEYLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23576,
+    "neighbor_name": "ARDIÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23566,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 49609,
+    "neighbor_name": "BAŞAKPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23554,
+    "neighbor_name": "CEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23583,
+    "neighbor_name": "ÇATAKDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23584,
+    "neighbor_name": "ÇEVLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23578,
+    "neighbor_name": "ÇÖMLEKÇİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23560,
+    "neighbor_name": "ENDÜRLÜK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23577,
+    "neighbor_name": "HAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23561,
+    "neighbor_name": "HARMAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23586,
+    "neighbor_name": "KAMBER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23580,
+    "neighbor_name": "KEPEZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23555,
+    "neighbor_name": "KİÇİKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23563,
+    "neighbor_name": "KOÇCAĞIZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23567,
+    "neighbor_name": "KURUKÖPRÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23568,
+    "neighbor_name": "MENGÜCEK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23564,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23585,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23558,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23573,
+    "neighbor_name": "SAKALTUTAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23569,
+    "neighbor_name": "SOSUN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23574,
+    "neighbor_name": "SÜLEYMANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23581,
+    "neighbor_name": "TABLAKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23582,
+    "neighbor_name": "YAMAÇLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23556,
+    "neighbor_name": "YAZYURDU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23570,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23565,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 474,
+    "district_name": "TALAS",
+    "neighbor_id": 23575,
+    "neighbor_name": "ZİNCİDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24121,
+    "neighbor_name": "AKDERE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24076,
+    "neighbor_name": "AKMEZAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24095,
+    "neighbor_name": "ARSLANTAŞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24081,
+    "neighbor_name": "AVŞARSÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24082,
+    "neighbor_name": "BEKTAŞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24069,
+    "neighbor_name": "BOSTANLIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24111,
+    "neighbor_name": "BÖKE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24096,
+    "neighbor_name": "BÜYÜKCANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24104,
+    "neighbor_name": "CULHA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24097,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24098,
+    "neighbor_name": "CÜCÜN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24110,
+    "neighbor_name": "ÇANAKPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24093,
+    "neighbor_name": "ÇAYİNLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24075,
+    "neighbor_name": "ÇUKURAĞAÇ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24105,
+    "neighbor_name": "DADALOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24083,
+    "neighbor_name": "DAĞYURDU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24070,
+    "neighbor_name": "EKİNLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24072,
+    "neighbor_name": "EMİRUŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24112,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24071,
+    "neighbor_name": "GÜLVEREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24099,
+    "neighbor_name": "GÜZELCE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24078,
+    "neighbor_name": "GÜZELSU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24106,
+    "neighbor_name": "HACIPAŞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24073,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24092,
+    "neighbor_name": "İCADİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24103,
+    "neighbor_name": "İMAMKULLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24116,
+    "neighbor_name": "İNCİLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24084,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24100,
+    "neighbor_name": "KAPUKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24113,
+    "neighbor_name": "KARAMUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24090,
+    "neighbor_name": "KARAÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24091,
+    "neighbor_name": "KESİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24119,
+    "neighbor_name": "KEVENAĞIL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24114,
+    "neighbor_name": "KIZILÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24101,
+    "neighbor_name": "KÖMÜR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24079,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24085,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24122,
+    "neighbor_name": "KUŞCAĞIZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24074,
+    "neighbor_name": "KÜÇÜKCANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24107,
+    "neighbor_name": "MELİKÖREN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24080,
+    "neighbor_name": "PUSATLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24094,
+    "neighbor_name": "SARIMEHMETLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24115,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24109,
+    "neighbor_name": "SÜVEGENLER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24108,
+    "neighbor_name": "ŞIHBARAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24120,
+    "neighbor_name": "ŞİRAZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24102,
+    "neighbor_name": "TAHTAKEMER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24087,
+    "neighbor_name": "TATAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24117,
+    "neighbor_name": "TOKLAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24088,
+    "neighbor_name": "TURANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24077,
+    "neighbor_name": "ÜÇKONAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24118,
+    "neighbor_name": "YAVUZSELİM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24089,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 486,
+    "district_name": "TOMARZA",
+    "neighbor_id": 24086,
+    "neighbor_name": "YEŞİLBAĞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24150,
+    "neighbor_name": "100.YIL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24124,
+    "neighbor_name": "75.YIL MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24151,
+    "neighbor_name": "AĞCAŞAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24125,
+    "neighbor_name": "AVLAĞA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24135,
+    "neighbor_name": "BALCIÇAKIRI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24156,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24136,
+    "neighbor_name": "BÜYÜKÇAKIR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24130,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24134,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24144,
+    "neighbor_name": "ÇAVDARUŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24158,
+    "neighbor_name": "ÇİĞİLLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24162,
+    "neighbor_name": "ÇUBUKHARMANI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24163,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24157,
+    "neighbor_name": "DELİALİUŞAĞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24126,
+    "neighbor_name": "DENİZOVASI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24159,
+    "neighbor_name": "DEREBAĞ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24131,
+    "neighbor_name": "DİKME MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24152,
+    "neighbor_name": "FETULLAH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24145,
+    "neighbor_name": "FEVZİÇAKMAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24160,
+    "neighbor_name": "GAZİBEYLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24149,
+    "neighbor_name": "İLYASLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24147,
+    "neighbor_name": "İSMET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24153,
+    "neighbor_name": "KAPUZBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24140,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24154,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24146,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24141,
+    "neighbor_name": "KOCAHACILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24132,
+    "neighbor_name": "KOPÇU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24137,
+    "neighbor_name": "KUZOLUK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24138,
+    "neighbor_name": "MADAZI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24155,
+    "neighbor_name": "MUSTAFABEYLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24127,
+    "neighbor_name": "SAZAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24142,
+    "neighbor_name": "SENİRKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24148,
+    "neighbor_name": "SEYDİLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24143,
+    "neighbor_name": "SÜLEYMANFAKILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24128,
+    "neighbor_name": "TAŞHAN MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24133,
+    "neighbor_name": "ULUPINAR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24129,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24123,
+    "neighbor_name": "YERKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24161,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 487,
+    "district_name": "YAHYALI",
+    "neighbor_id": 24139,
+    "neighbor_name": "YULARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23608,
+    "neighbor_name": "AKKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23609,
+    "neighbor_name": "ARAPLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23601,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23602,
+    "neighbor_name": "BEYLERYUKARI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23591,
+    "neighbor_name": "BÜGET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23616,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23617,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23590,
+    "neighbor_name": "ÇADIRKAYA MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23610,
+    "neighbor_name": "DERBENTBAŞI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23603,
+    "neighbor_name": "DOĞANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23587,
+    "neighbor_name": "ERDEMLİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23618,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23607,
+    "neighbor_name": "FEVZİOĞLU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23604,
+    "neighbor_name": "GÜLBAYIR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23611,
+    "neighbor_name": "GÜNEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23594,
+    "neighbor_name": "GÜZELÖZ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23615,
+    "neighbor_name": "İÇMECE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23597,
+    "neighbor_name": "İDRİS MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23612,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23605,
+    "neighbor_name": "KARACABEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23592,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23619,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23588,
+    "neighbor_name": "KELER MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23620,
+    "neighbor_name": "KEŞLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23613,
+    "neighbor_name": "KOVALI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23621,
+    "neighbor_name": "KÖŞK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23595,
+    "neighbor_name": "KUŞÇU MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23589,
+    "neighbor_name": "KUZEY MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23614,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23593,
+    "neighbor_name": "MUSAHACILI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23598,
+    "neighbor_name": "OVAÇİFTLİK MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23599,
+    "neighbor_name": "SOĞANLI MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23596,
+    "neighbor_name": "YAVUZ SELİM MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23606,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 37,
+    "city_name": "KAYSERİ",
+    "district_id": 475,
+    "district_name": "YEŞİLHİSAR",
+    "neighbor_id": 23600,
+    "neighbor_name": "YEŞİLOVA MAH."
+  }
+]

@@ -1,0 +1,2506 @@
+[
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18166,
+    "neighbor_name": "BOZTEPE MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18170,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18174,
+    "neighbor_name": "KALEİÇİ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18175,
+    "neighbor_name": "KALEŞAH MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18186,
+    "neighbor_name": "KUM MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18169,
+    "neighbor_name": "ACARLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18197,
+    "neighbor_name": "AHATLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18198,
+    "neighbor_name": "AKKONAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18165,
+    "neighbor_name": "ALİOBASI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18184,
+    "neighbor_name": "BOSTANLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18192,
+    "neighbor_name": "CUMAYANI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18180,
+    "neighbor_name": "ÇAKRAZBOZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18181,
+    "neighbor_name": "ÇAKRAZOVA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18182,
+    "neighbor_name": "ÇAKRAZŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18168,
+    "neighbor_name": "ÇANAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18190,
+    "neighbor_name": "ESENLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18194,
+    "neighbor_name": "GÖÇKÜNDEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18177,
+    "neighbor_name": "GÖÇKÜN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18193,
+    "neighbor_name": "GÖMÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18178,
+    "neighbor_name": "HATİPLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18183,
+    "neighbor_name": "İNCİĞEZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18189,
+    "neighbor_name": "İNPİRİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18185,
+    "neighbor_name": "KALAYCI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18167,
+    "neighbor_name": "KARAKAÇAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18172,
+    "neighbor_name": "KAZPINARI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18191,
+    "neighbor_name": "KOCAKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18187,
+    "neighbor_name": "MAKARACI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18176,
+    "neighbor_name": "SARAYDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18164,
+    "neighbor_name": "ŞENYURT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18171,
+    "neighbor_name": "ŞÜKÜRLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18179,
+    "neighbor_name": "TARLAAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18195,
+    "neighbor_name": "TOPALLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18196,
+    "neighbor_name": "TOPDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18188,
+    "neighbor_name": "YAHYAYAZICILAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 361,
+    "district_name": "AMASRA",
+    "neighbor_id": 18173,
+    "neighbor_name": "YUKARISAL KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18243,
+    "neighbor_name": "AĞDACI MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18273,
+    "neighbor_name": "ALADAĞ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18232,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18229,
+    "neighbor_name": "ÇAYDÜZÜ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18337,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18361,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18315,
+    "neighbor_name": "GÖLBUCAĞI MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18222,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18282,
+    "neighbor_name": "KARAÇAY MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18304,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18332,
+    "neighbor_name": "KEMER KÖPRÜ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18236,
+    "neighbor_name": "KIRTEPE MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18245,
+    "neighbor_name": "KÖYORTASI MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 49848,
+    "neighbor_name": "MERKEZ-GECEN MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18238,
+    "neighbor_name": "OKULAK MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18223,
+    "neighbor_name": "ORDUYERİ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18288,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18297,
+    "neighbor_name": "ŞİREMİRÇAVUŞ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18295,
+    "neighbor_name": "TUNA MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18350,
+    "neighbor_name": "HASANKADI-GERİŞLİ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18339,
+    "neighbor_name": "HASANKADI-MERKEZ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18310,
+    "neighbor_name": "HASANKADI-ŞABANKADI MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18298,
+    "neighbor_name": "HASANKADI-TÜLOĞLU MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18256,
+    "neighbor_name": "KOZCAĞIZ-DEĞİRMENCİ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18278,
+    "neighbor_name": "KOZCAĞIZ-DEMİRCİ AHMETLER MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18211,
+    "neighbor_name": "KOZCAĞIZ-KAVLAKLIK MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18283,
+    "neighbor_name": "KOZCAĞIZ-MERKEZ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18355,
+    "neighbor_name": "KOZCAĞIZ-YENİŞAR MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18230,
+    "neighbor_name": "AHMETPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18199,
+    "neighbor_name": "AKAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18219,
+    "neighbor_name": "AKBABA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18233,
+    "neighbor_name": "AKBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18320,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18308,
+    "neighbor_name": "AKÇAMESCİT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18212,
+    "neighbor_name": "AKGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18200,
+    "neighbor_name": "AKINCILAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18239,
+    "neighbor_name": "AKMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18231,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18353,
+    "neighbor_name": "ALİBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18321,
+    "neighbor_name": "ARIÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18335,
+    "neighbor_name": "ARIT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18274,
+    "neighbor_name": "AŞAĞIDERE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18341,
+    "neighbor_name": "AVGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18225,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18247,
+    "neighbor_name": "BAKİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18336,
+    "neighbor_name": "BALAT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18358,
+    "neighbor_name": "BARKAÇBOZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18220,
+    "neighbor_name": "BAŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18301,
+    "neighbor_name": "BAYIRYÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18259,
+    "neighbor_name": "BEDİL KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18244,
+    "neighbor_name": "BEŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18359,
+    "neighbor_name": "BUDAKDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18213,
+    "neighbor_name": "BÜYÜKKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18326,
+    "neighbor_name": "BÜYÜKKIZILKUM KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18214,
+    "neighbor_name": "CELİLBEYOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18275,
+    "neighbor_name": "CÖCÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18348,
+    "neighbor_name": "ÇAKIRDEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18258,
+    "neighbor_name": "ÇAKIRKADI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18317,
+    "neighbor_name": "ÇAKIRÖMERAĞA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18357,
+    "neighbor_name": "ÇAMALTI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18318,
+    "neighbor_name": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18203,
+    "neighbor_name": "ÇAYBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18290,
+    "neighbor_name": "ÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18363,
+    "neighbor_name": "ÇEŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18285,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18263,
+    "neighbor_name": "ÇÖPBEY KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18351,
+    "neighbor_name": "ÇUKURBÜK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18204,
+    "neighbor_name": "DALLICA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18248,
+    "neighbor_name": "DARIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18331,
+    "neighbor_name": "DERBENT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18265,
+    "neighbor_name": "DIRAZLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18342,
+    "neighbor_name": "DOĞAŞI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18349,
+    "neighbor_name": "ECİKLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18226,
+    "neighbor_name": "ELLİBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18360,
+    "neighbor_name": "EPÇİLERKADI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18205,
+    "neighbor_name": "EPÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18293,
+    "neighbor_name": "ESBEY KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18253,
+    "neighbor_name": "ESENYURT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18249,
+    "neighbor_name": "ESKİEMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18227,
+    "neighbor_name": "ESKİHAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18302,
+    "neighbor_name": "EYÜPOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18234,
+    "neighbor_name": "FIRINLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18266,
+    "neighbor_name": "GENÇALİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18309,
+    "neighbor_name": "GERİŞKATIRCI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18221,
+    "neighbor_name": "GERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18215,
+    "neighbor_name": "GÖKÇEKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18281,
+    "neighbor_name": "GÖZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18276,
+    "neighbor_name": "GÜRGENPINARI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18328,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18343,
+    "neighbor_name": "GÜZELCEHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18344,
+    "neighbor_name": "HACIHATİPOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18303,
+    "neighbor_name": "HACIOSMANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18235,
+    "neighbor_name": "HANYERİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18338,
+    "neighbor_name": "HASANEFENDİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18254,
+    "neighbor_name": "HASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18250,
+    "neighbor_name": "HATİPLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18311,
+    "neighbor_name": "HIDIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18240,
+    "neighbor_name": "HOCAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18352,
+    "neighbor_name": "İMAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18312,
+    "neighbor_name": "KABAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18277,
+    "neighbor_name": "KAMAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18216,
+    "neighbor_name": "KARACAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18299,
+    "neighbor_name": "KARAHÜSEYİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18241,
+    "neighbor_name": "KARAİNLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18316,
+    "neighbor_name": "KARAKÖYŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18217,
+    "neighbor_name": "KARAMAZAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18329,
+    "neighbor_name": "KARASU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18267,
+    "neighbor_name": "KARAYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18206,
+    "neighbor_name": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18286,
+    "neighbor_name": "KAŞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18354,
+    "neighbor_name": "KAYACILAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18201,
+    "neighbor_name": "KAYADİBİÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18210,
+    "neighbor_name": "KAYADİBİKAVLAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18255,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18300,
+    "neighbor_name": "KIŞLAKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18322,
+    "neighbor_name": "KIZILELMA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18323,
+    "neighbor_name": "KOCAREİS KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18268,
+    "neighbor_name": "KÖYYERİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18207,
+    "neighbor_name": "KUMAÇORAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18333,
+    "neighbor_name": "KURT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18237,
+    "neighbor_name": "KUTLUBEYDEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18324,
+    "neighbor_name": "KUTLUBEYTABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18346,
+    "neighbor_name": "KUTLUBEYYAZICILAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18271,
+    "neighbor_name": "KÜÇÜKKIZILKUM KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18330,
+    "neighbor_name": "KÜMESLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18291,
+    "neighbor_name": "MAMAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18305,
+    "neighbor_name": "MEKEÇLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18287,
+    "neighbor_name": "MURATBEY KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18242,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18264,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18307,
+    "neighbor_name": "ÖZBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18251,
+    "neighbor_name": "SARAYLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18269,
+    "neighbor_name": "SERDAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18325,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18272,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18334,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18202,
+    "neighbor_name": "SÜLEK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18257,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18246,
+    "neighbor_name": "ŞABANKADI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18280,
+    "neighbor_name": "ŞAHİN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18208,
+    "neighbor_name": "ŞAHNE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18209,
+    "neighbor_name": "ŞARKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18319,
+    "neighbor_name": "ŞİREMİRTABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18314,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18260,
+    "neighbor_name": "TABANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18313,
+    "neighbor_name": "TASMACI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18294,
+    "neighbor_name": "TERKEHALİLLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18289,
+    "neighbor_name": "TERKEHATİPLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18347,
+    "neighbor_name": "TOPLUCA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18345,
+    "neighbor_name": "TURANLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18252,
+    "neighbor_name": "TUZCULAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18224,
+    "neighbor_name": "UĞURLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18270,
+    "neighbor_name": "ULUGEÇİTAMBARCI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18284,
+    "neighbor_name": "ULUGEÇİTKADI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18340,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18306,
+    "neighbor_name": "USTAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18279,
+    "neighbor_name": "UZUNÖZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18261,
+    "neighbor_name": "YANAZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18296,
+    "neighbor_name": "YEĞENLİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18218,
+    "neighbor_name": "YENİHAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18262,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18362,
+    "neighbor_name": "YEŞİLKAYA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18228,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18356,
+    "neighbor_name": "YILDIZ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 362,
+    "district_name": "BARTIN MERKEZ",
+    "neighbor_id": 18292,
+    "neighbor_name": "YUKARIŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18375,
+    "neighbor_name": "KARGACAK MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18390,
+    "neighbor_name": "LİMAN MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18388,
+    "neighbor_name": "ÖMERLER MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18369,
+    "neighbor_name": "ŞİLE MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18364,
+    "neighbor_name": "ALAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18365,
+    "neighbor_name": "AYDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18366,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18393,
+    "neighbor_name": "CURUNLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18387,
+    "neighbor_name": "ÇAYALTI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18384,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18370,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18394,
+    "neighbor_name": "DİZLERMEZECİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18385,
+    "neighbor_name": "ELVANLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18371,
+    "neighbor_name": "HACIKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18382,
+    "neighbor_name": "HİSARKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18378,
+    "neighbor_name": "İLYASGEÇİDİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18386,
+    "neighbor_name": "KALEKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18372,
+    "neighbor_name": "KANATLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18389,
+    "neighbor_name": "KAPISUYU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18383,
+    "neighbor_name": "KARAMAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18395,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18380,
+    "neighbor_name": "KİRLİKMÜSLİMHOCA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18379,
+    "neighbor_name": "KÖMEÇ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18373,
+    "neighbor_name": "MEYDAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18381,
+    "neighbor_name": "OVATEKKEÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18392,
+    "neighbor_name": "ÖMERLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18367,
+    "neighbor_name": "PAŞALILAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18374,
+    "neighbor_name": "SARIDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18368,
+    "neighbor_name": "ŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18391,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18376,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 363,
+    "district_name": "KURUCAŞİLE",
+    "neighbor_id": 18377,
+    "neighbor_name": "ZİYARETKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18431,
+    "neighbor_name": "KALDIRIM MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18412,
+    "neighbor_name": "KASIMLAR MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18413,
+    "neighbor_name": "MEZGELLER MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18399,
+    "neighbor_name": "SAMAT MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18404,
+    "neighbor_name": "SAZ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18429,
+    "neighbor_name": "ABDİPAŞA-DERECİK MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18419,
+    "neighbor_name": "ABDİPAŞA-KADIOĞLU MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 49818,
+    "neighbor_name": "ABDİPAŞA-KARADİKEN MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18420,
+    "neighbor_name": "ABDİPAŞA-ULUPINAR MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18434,
+    "neighbor_name": "ABDİPAŞA-YEŞİLPAZAR MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18476,
+    "neighbor_name": "KUMLUCA-KAVAKLIKALDIRIM MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18397,
+    "neighbor_name": "KUMLUCA-MERKEZ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18471,
+    "neighbor_name": "KUMLUCA-YENİ MAH."
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18418,
+    "neighbor_name": "ABDURRAHMAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18439,
+    "neighbor_name": "AĞAKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18458,
+    "neighbor_name": "AKÖRENSÖKÜLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18400,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18451,
+    "neighbor_name": "ALIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18454,
+    "neighbor_name": "ALPI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18465,
+    "neighbor_name": "ARPACIK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18426,
+    "neighbor_name": "AŞAĞIÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18435,
+    "neighbor_name": "AŞAĞIÇERÇİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18424,
+    "neighbor_name": "AŞAĞIDERE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18425,
+    "neighbor_name": "AŞAĞIEMİRCE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18466,
+    "neighbor_name": "AŞAĞIKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18421,
+    "neighbor_name": "BAĞDATLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18440,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18407,
+    "neighbor_name": "BALICAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18443,
+    "neighbor_name": "BUĞURLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18401,
+    "neighbor_name": "CEYÜPLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18409,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18405,
+    "neighbor_name": "ÇERDE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18456,
+    "neighbor_name": "ÇUBUKBELİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18472,
+    "neighbor_name": "ÇUBUKLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18444,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18427,
+    "neighbor_name": "DİBEKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18410,
+    "neighbor_name": "DODURGA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18469,
+    "neighbor_name": "DOĞANKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18441,
+    "neighbor_name": "DORUCAŞAHİNCİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18430,
+    "neighbor_name": "DÖNGELLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18436,
+    "neighbor_name": "DÖREKLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18447,
+    "neighbor_name": "DÜZKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18402,
+    "neighbor_name": "ELDEŞ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18473,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18448,
+    "neighbor_name": "ESELER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18442,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18422,
+    "neighbor_name": "GÜNEYÖREN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18411,
+    "neighbor_name": "HASANÖREN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18449,
+    "neighbor_name": "HİSARKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18467,
+    "neighbor_name": "HOCAKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18423,
+    "neighbor_name": "ISIRGANLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18406,
+    "neighbor_name": "İBRAHİMDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18464,
+    "neighbor_name": "İĞNECİLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18457,
+    "neighbor_name": "İNCEÇAM KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18474,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18403,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18475,
+    "neighbor_name": "KARAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18452,
+    "neighbor_name": "KARAKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18445,
+    "neighbor_name": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18414,
+    "neighbor_name": "KEÇİDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18438,
+    "neighbor_name": "KIYIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18462,
+    "neighbor_name": "KIZILLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18415,
+    "neighbor_name": "KİRAZCIK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18408,
+    "neighbor_name": "KİRSİNLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18463,
+    "neighbor_name": "KONAK KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18470,
+    "neighbor_name": "KONUKLU KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18396,
+    "neighbor_name": "KOZANLI KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18398,
+    "neighbor_name": "KÖKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18455,
+    "neighbor_name": "KÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18433,
+    "neighbor_name": "ÖNCÜLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18459,
+    "neighbor_name": "SARIFASIL KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18446,
+    "neighbor_name": "SARNIÇ KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18428,
+    "neighbor_name": "ŞİRİNLER KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18460,
+    "neighbor_name": "ULUKAYA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18461,
+    "neighbor_name": "ULUKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18417,
+    "neighbor_name": "ÜÇSARAY KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18450,
+    "neighbor_name": "YENİKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18437,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18432,
+    "neighbor_name": "YILANLAR KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18453,
+    "neighbor_name": "YUKARIDERE KÖYÜ"
+  },
+  {
+    "city_id": 28,
+    "city_name": "BARTIN",
+    "district_id": 364,
+    "district_name": "ULUS",
+    "neighbor_id": 18416,
+    "neighbor_name": "ZAFER KÖYÜ"
+  }
+]

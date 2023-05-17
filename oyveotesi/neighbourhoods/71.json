@@ -1,0 +1,2858 @@
+[
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44285,
+    "neighbor_name": "CANDAROĞULLARI MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44290,
+    "neighbor_name": "ÇALIŞLAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44281,
+    "neighbor_name": "ÇELEBİLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44257,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44304,
+    "neighbor_name": "TABAKLAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44296,
+    "neighbor_name": "YALACIK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44272,
+    "neighbor_name": "ABAKOLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44259,
+    "neighbor_name": "ADAY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44299,
+    "neighbor_name": "AFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44300,
+    "neighbor_name": "AKÇAKESE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44283,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44263,
+    "neighbor_name": "ALAÇAT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44276,
+    "neighbor_name": "ALPAGUT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44269,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44255,
+    "neighbor_name": "BAKIRCILAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44291,
+    "neighbor_name": "BAŞİĞDİR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44273,
+    "neighbor_name": "BEDİL KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44301,
+    "neighbor_name": "BOSTANCI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44284,
+    "neighbor_name": "BOSTANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44308,
+    "neighbor_name": "ÇAL KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44267,
+    "neighbor_name": "ÇAMYURT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44262,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44274,
+    "neighbor_name": "ÇEMÇİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44297,
+    "neighbor_name": "ÇENGELLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44298,
+    "neighbor_name": "ÇÖREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44275,
+    "neighbor_name": "ÇUKURGELİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44293,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44270,
+    "neighbor_name": "DEMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44252,
+    "neighbor_name": "EMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44253,
+    "neighbor_name": "ESENCİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44286,
+    "neighbor_name": "GELİCEK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44254,
+    "neighbor_name": "GÖKGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44277,
+    "neighbor_name": "GÖLLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44271,
+    "neighbor_name": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44264,
+    "neighbor_name": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44289,
+    "neighbor_name": "HACIAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44278,
+    "neighbor_name": "HACIŞABAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44305,
+    "neighbor_name": "HALKEVLİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44292,
+    "neighbor_name": "KARACAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44260,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44256,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44265,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44306,
+    "neighbor_name": "KIRAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44309,
+    "neighbor_name": "KOCACIK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44287,
+    "neighbor_name": "KOLTUCAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44288,
+    "neighbor_name": "KUTLUÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44294,
+    "neighbor_name": "MÜFTÜLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44310,
+    "neighbor_name": "MÜLAYİM KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44282,
+    "neighbor_name": "OSMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44279,
+    "neighbor_name": "OVAÇALIŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44295,
+    "neighbor_name": "OVAŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44311,
+    "neighbor_name": "PAŞABEY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44258,
+    "neighbor_name": "PINARÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44302,
+    "neighbor_name": "SAÇAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44266,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44303,
+    "neighbor_name": "SEFERLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44261,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44268,
+    "neighbor_name": "ŞENYURT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44307,
+    "neighbor_name": "ULUGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 868,
+    "district_name": "EFLANİ",
+    "neighbor_id": 44280,
+    "neighbor_name": "YAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43975,
+    "neighbor_name": "BAHÇEPINAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43970,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43992,
+    "neighbor_name": "KIRANKÖY MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44005,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44003,
+    "neighbor_name": "MERMER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43978,
+    "neighbor_name": "YAMANLAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43980,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44006,
+    "neighbor_name": "ADİLLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43991,
+    "neighbor_name": "ARSLANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43961,
+    "neighbor_name": "BABALAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43962,
+    "neighbor_name": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43984,
+    "neighbor_name": "BAYINDIR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43956,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43985,
+    "neighbor_name": "BEYTARLA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43986,
+    "neighbor_name": "BONCUKLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43971,
+    "neighbor_name": "BÖLÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44001,
+    "neighbor_name": "BUDAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43989,
+    "neighbor_name": "BULDUK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43976,
+    "neighbor_name": "BÜYÜKYAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43968,
+    "neighbor_name": "ÇANDIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43983,
+    "neighbor_name": "ÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43969,
+    "neighbor_name": "ÇÖMLEKÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43957,
+    "neighbor_name": "DERESEMAİL KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44002,
+    "neighbor_name": "DERESOBLAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43988,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43977,
+    "neighbor_name": "DOĞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44007,
+    "neighbor_name": "GÖZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43981,
+    "neighbor_name": "HAMAMLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44008,
+    "neighbor_name": "HAMZALAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43963,
+    "neighbor_name": "HANKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43964,
+    "neighbor_name": "HASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43987,
+    "neighbor_name": "HASLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43960,
+    "neighbor_name": "İMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44000,
+    "neighbor_name": "İNCEBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43965,
+    "neighbor_name": "KABAARMUT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43972,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44009,
+    "neighbor_name": "KAPUCULAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43996,
+    "neighbor_name": "KARAHASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43997,
+    "neighbor_name": "KARAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43982,
+    "neighbor_name": "KÖYCEĞİZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43958,
+    "neighbor_name": "KULAT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44010,
+    "neighbor_name": "KUZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43959,
+    "neighbor_name": "ORTAKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43973,
+    "neighbor_name": "OVA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43998,
+    "neighbor_name": "OZANKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43966,
+    "neighbor_name": "SADEYAKA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43999,
+    "neighbor_name": "SALLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43994,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44011,
+    "neighbor_name": "SÖBÜÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43974,
+    "neighbor_name": "ŞEVKİLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43993,
+    "neighbor_name": "TAMIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44004,
+    "neighbor_name": "TOPÇALI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43990,
+    "neighbor_name": "ÜÇEVLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43979,
+    "neighbor_name": "YAZIBOY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 44012,
+    "neighbor_name": "YAZIKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43995,
+    "neighbor_name": "YEŞİLLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 863,
+    "district_name": "ESKİPAZAR",
+    "neighbor_id": 43967,
+    "neighbor_name": "YÜRECİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44074,
+    "neighbor_name": "100.YIL MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44013,
+    "neighbor_name": "5000 EVLER 75.YIL MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44032,
+    "neighbor_name": "5000 EVLER BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44062,
+    "neighbor_name": "5000 EVLER CUMHURİYET MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44075,
+    "neighbor_name": "ADATEPE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44017,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44076,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44014,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44015,
+    "neighbor_name": "BELENKÖY MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44031,
+    "neighbor_name": "ÇERÇİLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44018,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44058,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44039,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44041,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44069,
+    "neighbor_name": "KAPULLU MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44044,
+    "neighbor_name": "KARABÜK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44026,
+    "neighbor_name": "KARTALTEPE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44024,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44059,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 49529,
+    "neighbor_name": "MERKEZ-KILAVUZLAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44061,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44021,
+    "neighbor_name": "ÖĞLEBELİ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44064,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44054,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44046,
+    "neighbor_name": "ÜNİVERSİTE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44057,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44045,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44027,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44047,
+    "neighbor_name": "ACIÖZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44038,
+    "neighbor_name": "ARICAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44033,
+    "neighbor_name": "AŞAĞI KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44077,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44051,
+    "neighbor_name": "BOLKUŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44071,
+    "neighbor_name": "BULAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44022,
+    "neighbor_name": "BURUNSUZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44016,
+    "neighbor_name": "BÜRNÜK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44067,
+    "neighbor_name": "CEMALLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44042,
+    "neighbor_name": "CUMAYANI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44073,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44055,
+    "neighbor_name": "DAVUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44034,
+    "neighbor_name": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44052,
+    "neighbor_name": "DÜZÇAM KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44048,
+    "neighbor_name": "GÖLÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44040,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44049,
+    "neighbor_name": "KADI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44063,
+    "neighbor_name": "KAHYALAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44050,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44068,
+    "neighbor_name": "KAMIŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44056,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44036,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44023,
+    "neighbor_name": "KARAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44035,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44019,
+    "neighbor_name": "MEHTERLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44020,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44043,
+    "neighbor_name": "ÖDEMİŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44066,
+    "neighbor_name": "SAİTLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44070,
+    "neighbor_name": "SALMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44072,
+    "neighbor_name": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44028,
+    "neighbor_name": "ŞENLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44053,
+    "neighbor_name": "TANDIR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44037,
+    "neighbor_name": "ÜÇBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44030,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44060,
+    "neighbor_name": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44065,
+    "neighbor_name": "YUKARI KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 864,
+    "district_name": "KARABÜK MERKEZ",
+    "neighbor_id": 44025,
+    "neighbor_name": "ZOPRAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44105,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44099,
+    "neighbor_name": "ABDULLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44078,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44114,
+    "neighbor_name": "ALINCA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44107,
+    "neighbor_name": "AMBARÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44081,
+    "neighbor_name": "AVLAĞIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44085,
+    "neighbor_name": "BAŞBOYUNDURUK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44115,
+    "neighbor_name": "BELEN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44116,
+    "neighbor_name": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44086,
+    "neighbor_name": "BEYDİNİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44117,
+    "neighbor_name": "BODUROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44093,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44087,
+    "neighbor_name": "BÖLÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44091,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44080,
+    "neighbor_name": "ÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44094,
+    "neighbor_name": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44095,
+    "neighbor_name": "DÖKECEK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44079,
+    "neighbor_name": "DUDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44118,
+    "neighbor_name": "EKİNCİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44108,
+    "neighbor_name": "ERKEÇ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44096,
+    "neighbor_name": "GANİBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44088,
+    "neighbor_name": "GÖKÇEDÜZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44109,
+    "neighbor_name": "GÜMELİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44119,
+    "neighbor_name": "GÜNEYSAZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44100,
+    "neighbor_name": "HATİPOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44120,
+    "neighbor_name": "İMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44101,
+    "neighbor_name": "KAVAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44102,
+    "neighbor_name": "KIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44112,
+    "neighbor_name": "KOLTUK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44097,
+    "neighbor_name": "KÜÇÜKSU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44106,
+    "neighbor_name": "PELİTÇİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44082,
+    "neighbor_name": "PÜRÇÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44089,
+    "neighbor_name": "SARILAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44110,
+    "neighbor_name": "SOFUOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44103,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44113,
+    "neighbor_name": "SÜLÜK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44092,
+    "neighbor_name": "ŞAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44111,
+    "neighbor_name": "TAŞOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44090,
+    "neighbor_name": "YAKA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44104,
+    "neighbor_name": "YAYLACILAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44098,
+    "neighbor_name": "YENİÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44083,
+    "neighbor_name": "YIĞINOT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 865,
+    "district_name": "OVACIK",
+    "neighbor_id": 44084,
+    "neighbor_name": "YÜREKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 50532,
+    "neighbor_name": "15 TEMMUZ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44138,
+    "neighbor_name": "AKÇASU MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 49613,
+    "neighbor_name": "AŞAĞI TOKATLI MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44194,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44178,
+    "neighbor_name": "BABASULTAN MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44187,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44152,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44165,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44179,
+    "neighbor_name": "CEMALCAYMAZ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44169,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44156,
+    "neighbor_name": "ÇEŞME MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44170,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44174,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44160,
+    "neighbor_name": "HACIHALİL MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44161,
+    "neighbor_name": "HÜSEYİNÇELEBİ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44177,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44137,
+    "neighbor_name": "İZZETPAŞA MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44140,
+    "neighbor_name": "KARAALİ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44144,
+    "neighbor_name": "KİRKİLLE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44191,
+    "neighbor_name": "MUSALLA MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44123,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44157,
+    "neighbor_name": "AĞAÇKESE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44193,
+    "neighbor_name": "AKKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44126,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44185,
+    "neighbor_name": "ALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44127,
+    "neighbor_name": "AŞAĞIÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44141,
+    "neighbor_name": "AŞAĞIDANA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44151,
+    "neighbor_name": "AŞAĞIGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44195,
+    "neighbor_name": "BAĞCIĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44153,
+    "neighbor_name": "BOSTANBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44198,
+    "neighbor_name": "CABBAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44128,
+    "neighbor_name": "CÜCAHLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44129,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44130,
+    "neighbor_name": "ÇAVUŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44184,
+    "neighbor_name": "ÇERÇEN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44150,
+    "neighbor_name": "ÇIRAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44188,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44139,
+    "neighbor_name": "DAVUTOBASI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44166,
+    "neighbor_name": "DEĞİRMENCİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44173,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44181,
+    "neighbor_name": "DÜZCE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 49550,
+    "neighbor_name": "GAYZA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44167,
+    "neighbor_name": "GEREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44189,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44148,
+    "neighbor_name": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44154,
+    "neighbor_name": "HACIHASAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44146,
+    "neighbor_name": "HACILAROBASI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44142,
+    "neighbor_name": "HARMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44176,
+    "neighbor_name": "İNCEÇAY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44158,
+    "neighbor_name": "KADIBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44171,
+    "neighbor_name": "KARACATEPE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44135,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44147,
+    "neighbor_name": "KARIT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44155,
+    "neighbor_name": "KEHLER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44175,
+    "neighbor_name": "KIRIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44190,
+    "neighbor_name": "KONARI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44132,
+    "neighbor_name": "KUZYAKAHACILAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44149,
+    "neighbor_name": "KUZYAKAKÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44182,
+    "neighbor_name": "KUZYAKAÖTE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44180,
+    "neighbor_name": "NAVSAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44199,
+    "neighbor_name": "NEBİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44121,
+    "neighbor_name": "OĞULÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44133,
+    "neighbor_name": "OVACUMA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44200,
+    "neighbor_name": "OVAKÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44131,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44162,
+    "neighbor_name": "PELİTÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44122,
+    "neighbor_name": "SAKARALAN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44192,
+    "neighbor_name": "SARIAHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44134,
+    "neighbor_name": "SAT KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44159,
+    "neighbor_name": "SIRÇALI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44172,
+    "neighbor_name": "SİNE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44136,
+    "neighbor_name": "TAYYİP KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44197,
+    "neighbor_name": "TİNTİN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44183,
+    "neighbor_name": "TOKATLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44196,
+    "neighbor_name": "TOPRAKCUMA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44164,
+    "neighbor_name": "ÜÇBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44145,
+    "neighbor_name": "YAZIKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44124,
+    "neighbor_name": "YOLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44168,
+    "neighbor_name": "YÖRÜK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44143,
+    "neighbor_name": "YUKARIÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 866,
+    "district_name": "SAFRANBOLU",
+    "neighbor_id": 44163,
+    "neighbor_name": "YUKARIDANA KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44208,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44202,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44207,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44229,
+    "neighbor_name": "KALAYCILAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44240,
+    "neighbor_name": "KARAKIRIKLAR MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44215,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44216,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44210,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44248,
+    "neighbor_name": "ÖZAL MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44220,
+    "neighbor_name": "YİRMİBEŞLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44205,
+    "neighbor_name": "YORTAN-ATATÜRK MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44236,
+    "neighbor_name": "YORTAN-ÇENGELLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44219,
+    "neighbor_name": "YORTAN-DERE MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44232,
+    "neighbor_name": "YORTAN-DÖNGELLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44225,
+    "neighbor_name": "YORTAN-KARAÖMERLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44243,
+    "neighbor_name": "YORTAN-MERKEZ MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44244,
+    "neighbor_name": "YORTAN-SİPAHİLER MAH."
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44246,
+    "neighbor_name": "ABDULLAHOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44213,
+    "neighbor_name": "AKMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44251,
+    "neighbor_name": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44249,
+    "neighbor_name": "CİHANBEY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44226,
+    "neighbor_name": "ÇAKILLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44206,
+    "neighbor_name": "ÇAMLI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44223,
+    "neighbor_name": "ÇELTİK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44221,
+    "neighbor_name": "DEĞİRMENYANI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44233,
+    "neighbor_name": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44201,
+    "neighbor_name": "ESENKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44209,
+    "neighbor_name": "GÖKBEL KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44250,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44228,
+    "neighbor_name": "HİSAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44203,
+    "neighbor_name": "HÜSEYİNBEYOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44239,
+    "neighbor_name": "IBRICAK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44214,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44238,
+    "neighbor_name": "KALE KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44234,
+    "neighbor_name": "KARAHASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44204,
+    "neighbor_name": "KAYAARKASI KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44227,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44235,
+    "neighbor_name": "KEYFALLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44230,
+    "neighbor_name": "KUZDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44241,
+    "neighbor_name": "NODULLAR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44245,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44224,
+    "neighbor_name": "SARAY KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44217,
+    "neighbor_name": "SATUK KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44222,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44247,
+    "neighbor_name": "ŞİRİNKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44211,
+    "neighbor_name": "TİR KÖYÜ"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44242,
+    "neighbor_name": "YAMAÇKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44212,
+    "neighbor_name": "YAZIKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44218,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44231,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 71,
+    "city_name": "KARABÜK",
+    "district_id": 867,
+    "district_name": "YENİCE",
+    "neighbor_id": 44237,
+    "neighbor_name": "YİRMİBEŞOĞLU KÖYÜ"
+  }
+]

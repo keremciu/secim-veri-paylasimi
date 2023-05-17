@@ -1,0 +1,4746 @@
+[
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43423,
+    "neighbor_name": "AKAMBER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43424,
+    "neighbor_name": "AKDARI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43425,
+    "neighbor_name": "ALAKENT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43429,
+    "neighbor_name": "ALTINKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43436,
+    "neighbor_name": "ATAYURDU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43426,
+    "neighbor_name": "AVUTTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43442,
+    "neighbor_name": "BABATORUN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43452,
+    "neighbor_name": "BOYNUYOĞUN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43419,
+    "neighbor_name": "BÜYÜKBURÇ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43440,
+    "neighbor_name": "ÇETENLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43437,
+    "neighbor_name": "DOKUZDAL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43438,
+    "neighbor_name": "ENEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43420,
+    "neighbor_name": "ERBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43457,
+    "neighbor_name": "FATİKLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43448,
+    "neighbor_name": "GÖZECİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43458,
+    "neighbor_name": "GÜNVURAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43449,
+    "neighbor_name": "HACIPAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43439,
+    "neighbor_name": "HANYOLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43430,
+    "neighbor_name": "KAMBERLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43415,
+    "neighbor_name": "KANSU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43450,
+    "neighbor_name": "KARBEYAZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43459,
+    "neighbor_name": "KARSU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43421,
+    "neighbor_name": "KAZANCIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43432,
+    "neighbor_name": "KESKİNCİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43443,
+    "neighbor_name": "KILIÇTUTAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43460,
+    "neighbor_name": "KIYIGÖREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43431,
+    "neighbor_name": "KOLCULAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43451,
+    "neighbor_name": "KOZKALESİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43416,
+    "neighbor_name": "KURTMEZRAASI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43422,
+    "neighbor_name": "MAYADALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43417,
+    "neighbor_name": "OYMAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43418,
+    "neighbor_name": "SARIBÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43454,
+    "neighbor_name": "SARILAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43455,
+    "neighbor_name": "SEFERLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43444,
+    "neighbor_name": "SİVRİKAVAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43413,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43433,
+    "neighbor_name": "TEPEHAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43445,
+    "neighbor_name": "TOKAÇLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43434,
+    "neighbor_name": "TOKDEMİR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43414,
+    "neighbor_name": "TOPRAKHİSAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43441,
+    "neighbor_name": "TÜRKMENMEZRAASI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43446,
+    "neighbor_name": "YANIKPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43435,
+    "neighbor_name": "YARSELİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43453,
+    "neighbor_name": "YENİHİSAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43456,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43447,
+    "neighbor_name": "YOLAĞZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43427,
+    "neighbor_name": "YUNUSHANI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 849,
+    "district_name": "ALTINÖZÜ",
+    "neighbor_id": 43428,
+    "neighbor_name": "ZİYARET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43566,
+    "neighbor_name": "AKASYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43643,
+    "neighbor_name": "AKEVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43639,
+    "neighbor_name": "AKSARAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43560,
+    "neighbor_name": "ALTINÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43576,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43645,
+    "neighbor_name": "BAĞRIYANIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43589,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43554,
+    "neighbor_name": "BİNİCİLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43620,
+    "neighbor_name": "CEBRAİL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43590,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43641,
+    "neighbor_name": "DUTDİBİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43621,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43591,
+    "neighbor_name": "ESENLİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43585,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43608,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43603,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43637,
+    "neighbor_name": "GAZİ PAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43633,
+    "neighbor_name": "GENERAL ŞÜKRÜ KANATLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43622,
+    "neighbor_name": "GÜLLÜ BAHÇE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43586,
+    "neighbor_name": "HABİB-İ NECCAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43598,
+    "neighbor_name": "HACI ÖMER ALPAGOT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43555,
+    "neighbor_name": "HARAPARASI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43616,
+    "neighbor_name": "HAVUZLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43571,
+    "neighbor_name": "İPLİK PAZARI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43587,
+    "neighbor_name": "KANTARA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43592,
+    "neighbor_name": "KARAALİ BÖLÜĞÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43610,
+    "neighbor_name": "KARDEŞLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43626,
+    "neighbor_name": "KIŞLA SARAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43604,
+    "neighbor_name": "KOCAABDİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43556,
+    "neighbor_name": "KUYULU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43581,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43624,
+    "neighbor_name": "ORHANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43559,
+    "neighbor_name": "SARAYKENT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43617,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43572,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43612,
+    "neighbor_name": "ŞEYHALİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43619,
+    "neighbor_name": "ŞİRİNCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43607,
+    "neighbor_name": "ULUCAMİİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43565,
+    "neighbor_name": "YENİ CAMİİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43647,
+    "neighbor_name": "ZENGİNLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43577,
+    "neighbor_name": "AÇIKDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43629,
+    "neighbor_name": "AKCURUN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43635,
+    "neighbor_name": "AKÇAOVA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43574,
+    "neighbor_name": "AKHİSAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43630,
+    "neighbor_name": "ALAATTİN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43575,
+    "neighbor_name": "ALAHAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43631,
+    "neighbor_name": "ALAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43583,
+    "neighbor_name": "ANAYAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43602,
+    "neighbor_name": "APAYDIN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43613,
+    "neighbor_name": "ARPAHAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43644,
+    "neighbor_name": "AŞAĞIOBA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43596,
+    "neighbor_name": "AVSUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43567,
+    "neighbor_name": "BİTİREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43636,
+    "neighbor_name": "BOHŞİN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43578,
+    "neighbor_name": "BOZHÖYÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43597,
+    "neighbor_name": "BÜYÜKDALYAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43614,
+    "neighbor_name": "DEMİRKÖPRÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43640,
+    "neighbor_name": "DERİNCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43584,
+    "neighbor_name": "DİKMECE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43646,
+    "neighbor_name": "DOĞANKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43632,
+    "neighbor_name": "EKİNCİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43609,
+    "neighbor_name": "GÖKÇEGÖZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43561,
+    "neighbor_name": "GÜLDEREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43634,
+    "neighbor_name": "GÜNYAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43615,
+    "neighbor_name": "GÜZELBURÇ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43599,
+    "neighbor_name": "HASANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43579,
+    "neighbor_name": "KARAALİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43625,
+    "neighbor_name": "KARLISU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43593,
+    "neighbor_name": "KİSECİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43562,
+    "neighbor_name": "KURUYER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43580,
+    "neighbor_name": "KUZEYTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43557,
+    "neighbor_name": "KÜÇÜKDALYAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43605,
+    "neighbor_name": "MADENBOYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43588,
+    "neighbor_name": "MANSURLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43573,
+    "neighbor_name": "MARAŞBOĞAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43638,
+    "neighbor_name": "MAŞUKLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43606,
+    "neighbor_name": "MELEKLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43623,
+    "neighbor_name": "NARLICA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43600,
+    "neighbor_name": "ODABAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43627,
+    "neighbor_name": "OĞLAKÖREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43558,
+    "neighbor_name": "OVAKENT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43628,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43611,
+    "neighbor_name": "SAÇAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43563,
+    "neighbor_name": "SARAYCIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43568,
+    "neighbor_name": "SERİNYOL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43642,
+    "neighbor_name": "SUVATLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43569,
+    "neighbor_name": "TAHTAKÖPRÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43570,
+    "neighbor_name": "TANIŞMA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43594,
+    "neighbor_name": "UZUNALİÇ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43595,
+    "neighbor_name": "ÜÇGEDİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43618,
+    "neighbor_name": "ÜRGEN PAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43648,
+    "neighbor_name": "ÜZÜMDALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43564,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43601,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 853,
+    "district_name": "ANTAKYA",
+    "neighbor_id": 43582,
+    "neighbor_name": "ZÜLÜFLÜHAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43490,
+    "neighbor_name": "AKÇALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43466,
+    "neighbor_name": "ARPAÇİFTLİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43472,
+    "neighbor_name": "ARPADERESİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43461,
+    "neighbor_name": "ARPAGEDİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43480,
+    "neighbor_name": "AŞAĞI KEPİRCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43470,
+    "neighbor_name": "AVCILARSUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43484,
+    "neighbor_name": "BEYKÖYÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43489,
+    "neighbor_name": "ÇETİLLİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43462,
+    "neighbor_name": "DEREKUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43475,
+    "neighbor_name": "GÖKMEYDAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43476,
+    "neighbor_name": "GÖZCÜLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43467,
+    "neighbor_name": "GÜLCİHAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43485,
+    "neighbor_name": "HACIAHMETLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43477,
+    "neighbor_name": "HARLISU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43491,
+    "neighbor_name": "HAYMASEKİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43481,
+    "neighbor_name": "HELVALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43492,
+    "neighbor_name": "HÜYÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43463,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43493,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 49726,
+    "neighbor_name": "KARAAĞAÇ CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 49738,
+    "neighbor_name": "KARAAĞAÇ KONARLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 49880,
+    "neighbor_name": "KARAAĞAÇ ÖVÜNDÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 49457,
+    "neighbor_name": "KARAAĞAÇ ŞARKONAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43486,
+    "neighbor_name": "KARAGÖZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43478,
+    "neighbor_name": "KARAHÜSEYİNLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43494,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43471,
+    "neighbor_name": "KONACIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43473,
+    "neighbor_name": "KOZAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43479,
+    "neighbor_name": "KURTBAĞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43474,
+    "neighbor_name": "MADENLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43464,
+    "neighbor_name": "NARDÜZÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43487,
+    "neighbor_name": "NERGİZLİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43465,
+    "neighbor_name": "PİRİNÇLİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43468,
+    "neighbor_name": "TATARLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43469,
+    "neighbor_name": "TÜLEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43495,
+    "neighbor_name": "ULUÇINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43483,
+    "neighbor_name": "ÜÇGÜLLÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 850,
+    "district_name": "ARSUZ",
+    "neighbor_id": 43488,
+    "neighbor_name": "YUKARIKEPİRCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43511,
+    "neighbor_name": "ATİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43505,
+    "neighbor_name": "BAKRAS MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43498,
+    "neighbor_name": "BENLİDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43497,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43502,
+    "neighbor_name": "ÇAKALLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43503,
+    "neighbor_name": "ÇERÇİKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43508,
+    "neighbor_name": "DEREBAHÇE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43496,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43514,
+    "neighbor_name": "HALİLBEY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43507,
+    "neighbor_name": "İSSUME MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43512,
+    "neighbor_name": "KICI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43499,
+    "neighbor_name": "KÖMÜRÇUKURU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43510,
+    "neighbor_name": "MUHLİSALİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43500,
+    "neighbor_name": "MÜFTÜLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43504,
+    "neighbor_name": "ÖTENÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43513,
+    "neighbor_name": "SARIMAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43501,
+    "neighbor_name": "SOĞUKOLUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 49858,
+    "neighbor_name": "ŞEKERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 851,
+    "district_name": "BELEN",
+    "neighbor_id": 43506,
+    "neighbor_name": "ŞENBÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43762,
+    "neighbor_name": "AKDENİZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43738,
+    "neighbor_name": "AKNEHİR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43732,
+    "neighbor_name": "ARMUTLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43750,
+    "neighbor_name": "AŞAĞIOKÇULAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43747,
+    "neighbor_name": "BAHÇEKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43739,
+    "neighbor_name": "BALIKLIDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43745,
+    "neighbor_name": "BALLIÖZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43754,
+    "neighbor_name": "BOSTANCIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43755,
+    "neighbor_name": "BÜYÜKÇAT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43751,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43752,
+    "neighbor_name": "ÇEKMECE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43737,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43767,
+    "neighbor_name": "ÇÖKEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43756,
+    "neighbor_name": "DEĞİRMENYOLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43740,
+    "neighbor_name": "DÖVER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43763,
+    "neighbor_name": "DURSUNLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43743,
+    "neighbor_name": "ELEKTRİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43748,
+    "neighbor_name": "GÜMÜŞGÖZE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43757,
+    "neighbor_name": "GÜNEYSÖĞÜT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43741,
+    "neighbor_name": "HANCAĞIZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43733,
+    "neighbor_name": "HARBİYE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43744,
+    "neighbor_name": "HÜSEYİNLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43758,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43764,
+    "neighbor_name": "KOÇÖREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43765,
+    "neighbor_name": "MEYDANCIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43766,
+    "neighbor_name": "ORHANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43753,
+    "neighbor_name": "ÖZBEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43759,
+    "neighbor_name": "SAMANKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43742,
+    "neighbor_name": "SİNANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43760,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43734,
+    "neighbor_name": "SÜMERLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43746,
+    "neighbor_name": "TAVLA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43761,
+    "neighbor_name": "TOYGARLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43735,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43731,
+    "neighbor_name": "ÜZENGİLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43749,
+    "neighbor_name": "YENİÇAĞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 857,
+    "district_name": "DEFNE",
+    "neighbor_id": 43736,
+    "neighbor_name": "YEŞİLPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43659,
+    "neighbor_name": "ALTINÇAĞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43653,
+    "neighbor_name": "ÇATKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43657,
+    "neighbor_name": "ÇAYLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43654,
+    "neighbor_name": "KAPILI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43660,
+    "neighbor_name": "KARAKESE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43655,
+    "neighbor_name": "KIŞLALAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43649,
+    "neighbor_name": "KONAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43661,
+    "neighbor_name": "KUZUCULU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43662,
+    "neighbor_name": "NUMUNE EVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43650,
+    "neighbor_name": "OCAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43658,
+    "neighbor_name": "ÖZERLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43663,
+    "neighbor_name": "SANAYİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43651,
+    "neighbor_name": "YENİYURT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43652,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 854,
+    "district_name": "DÖRTYOL",
+    "neighbor_id": 43656,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43676,
+    "neighbor_name": "AŞAĞIBURNAZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43677,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43678,
+    "neighbor_name": "BAŞLAMIŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43679,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43666,
+    "neighbor_name": "GÖKDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43667,
+    "neighbor_name": "GÖKGÖL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43680,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43674,
+    "neighbor_name": "İSALİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43670,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43681,
+    "neighbor_name": "KARAMUSTAFALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43672,
+    "neighbor_name": "KIZLARÇAYI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43668,
+    "neighbor_name": "KUYULUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43673,
+    "neighbor_name": "MAHMUTLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43682,
+    "neighbor_name": "MUSTAFALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43671,
+    "neighbor_name": "ŞÜKRÜ PAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43675,
+    "neighbor_name": "TURUNÇLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43669,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43683,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43664,
+    "neighbor_name": "YONCADÜZÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 855,
+    "district_name": "ERZİN",
+    "neighbor_id": 43665,
+    "neighbor_name": "YUKARIBURNAZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43516,
+    "neighbor_name": "15 KASIM MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43524,
+    "neighbor_name": "AKBEZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43517,
+    "neighbor_name": "AKKÜLEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43537,
+    "neighbor_name": "AKTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43531,
+    "neighbor_name": "ARDIÇLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43542,
+    "neighbor_name": "ARPALIUŞAĞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43538,
+    "neighbor_name": "AŞAĞIKARAFAKILI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43532,
+    "neighbor_name": "BADEMLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43533,
+    "neighbor_name": "BİNTAŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43549,
+    "neighbor_name": "BUHARA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43548,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43544,
+    "neighbor_name": "ÇINARBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43518,
+    "neighbor_name": "DEDEMLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43525,
+    "neighbor_name": "DEMREK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43519,
+    "neighbor_name": "DERVİŞ PAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43550,
+    "neighbor_name": "EĞRİBUCAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43539,
+    "neighbor_name": "GAZELUŞAĞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43527,
+    "neighbor_name": "GİRNE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43543,
+    "neighbor_name": "GÜLKENT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43526,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43520,
+    "neighbor_name": "GÜVENÇ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43534,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43535,
+    "neighbor_name": "HAYDARLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43528,
+    "neighbor_name": "KATRANLIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43521,
+    "neighbor_name": "KORUHÜYÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43522,
+    "neighbor_name": "KÜRECİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43515,
+    "neighbor_name": "MAZMANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43545,
+    "neighbor_name": "SAPANÖZÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43552,
+    "neighbor_name": "SÖĞÜT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43551,
+    "neighbor_name": "SUGEDİĞİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43540,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43523,
+    "neighbor_name": "TİYEK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43546,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43536,
+    "neighbor_name": "YENİYAPAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43529,
+    "neighbor_name": "YOLUKLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43541,
+    "neighbor_name": "YUKARIBUCAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43530,
+    "neighbor_name": "YUKARIKARAFAKILI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43553,
+    "neighbor_name": "YUVALI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 852,
+    "district_name": "HASSA",
+    "neighbor_id": 43547,
+    "neighbor_name": "ZEYTİNOBA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43940,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43936,
+    "neighbor_name": "BARIŞTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43911,
+    "neighbor_name": "BULUTTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43929,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43927,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43942,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43930,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43951,
+    "neighbor_name": "GÜRSEL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43913,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43939,
+    "neighbor_name": "İSMET İNÖNÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43937,
+    "neighbor_name": "KOCATEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43949,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43938,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43932,
+    "neighbor_name": "MUSTAFA KEMAL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43914,
+    "neighbor_name": "NUMUNE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43915,
+    "neighbor_name": "PİRİREİS MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43954,
+    "neighbor_name": "SAVAŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43922,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43916,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43955,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43923,
+    "neighbor_name": "AKÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43941,
+    "neighbor_name": "AŞKARBEYLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43947,
+    "neighbor_name": "AZGANLIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43917,
+    "neighbor_name": "BEKBELE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43918,
+    "neighbor_name": "BİTİŞİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43912,
+    "neighbor_name": "BÜYÜKDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 49787,
+    "neighbor_name": "CEBİKE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43935,
+    "neighbor_name": "CIRTIMAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43928,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43950,
+    "neighbor_name": "DENİZCİLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43924,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43948,
+    "neighbor_name": "FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43925,
+    "neighbor_name": "GÜZELÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43926,
+    "neighbor_name": "KALEDİBİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43920,
+    "neighbor_name": "KARAYILAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43921,
+    "neighbor_name": "KAVAKLIOLUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43931,
+    "neighbor_name": "MODERNEVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43952,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43933,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43953,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43934,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43943,
+    "neighbor_name": "SARISEKİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43944,
+    "neighbor_name": "SUÇIKAĞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43945,
+    "neighbor_name": "YILDIRIMTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 862,
+    "district_name": "İSKENDERUN",
+    "neighbor_id": 43946,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43776,
+    "neighbor_name": "408 EVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43807,
+    "neighbor_name": "ABALAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43797,
+    "neighbor_name": "ADALAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43777,
+    "neighbor_name": "ALAYBEYLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43770,
+    "neighbor_name": "ALİBEYÇAĞILLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43820,
+    "neighbor_name": "ALPARSLAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43822,
+    "neighbor_name": "ALSANCAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43780,
+    "neighbor_name": "ARKITÇA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43783,
+    "neighbor_name": "ATTUTAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43798,
+    "neighbor_name": "AYDINLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43781,
+    "neighbor_name": "AYGIRGÖLÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43791,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43792,
+    "neighbor_name": "BALARMUDU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43799,
+    "neighbor_name": "BALDIRAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43809,
+    "neighbor_name": "BARBAROS MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43772,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43808,
+    "neighbor_name": "BEKTAŞLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43793,
+    "neighbor_name": "CAMUZKIŞLASI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43800,
+    "neighbor_name": "CEYLANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43818,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43788,
+    "neighbor_name": "ÇAMSARI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43810,
+    "neighbor_name": "ÇAMSEKİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43827,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43806,
+    "neighbor_name": "ÇATALTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43782,
+    "neighbor_name": "ÇİLOĞLANHÜYÜĞÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43839,
+    "neighbor_name": "DANAAHMETLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43819,
+    "neighbor_name": "DEDEÇINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43801,
+    "neighbor_name": "DELİBEKİRLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43784,
+    "neighbor_name": "DEMİRKONAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43773,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43771,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43840,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43815,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43834,
+    "neighbor_name": "GÜNDÜZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43835,
+    "neighbor_name": "GÜVENTAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43778,
+    "neighbor_name": "GÜZELCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43832,
+    "neighbor_name": "ILIKPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43796,
+    "neighbor_name": "İÇADA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43831,
+    "neighbor_name": "İNCİRLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43824,
+    "neighbor_name": "KALETEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43836,
+    "neighbor_name": "KAMBERLİKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43789,
+    "neighbor_name": "KAMIŞLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43774,
+    "neighbor_name": "KANGALLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43826,
+    "neighbor_name": "KARAÇAĞIL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43794,
+    "neighbor_name": "KARADURMUŞLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43833,
+    "neighbor_name": "KARAELMASLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43779,
+    "neighbor_name": "KARAMAĞARA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43813,
+    "neighbor_name": "KARAMANKAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43825,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43790,
+    "neighbor_name": "KAZKELİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43837,
+    "neighbor_name": "KIZILKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43768,
+    "neighbor_name": "KODALLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43823,
+    "neighbor_name": "KURTLUSARIMAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43802,
+    "neighbor_name": "KURTLUSOĞUKSU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43785,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43816,
+    "neighbor_name": "MAHMUTLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43814,
+    "neighbor_name": "MENDERES MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43803,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43769,
+    "neighbor_name": "MURATPAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43821,
+    "neighbor_name": "NARLIHOPUR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43828,
+    "neighbor_name": "ÖZKIZILKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43829,
+    "neighbor_name": "ÖZSOĞUKSU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43830,
+    "neighbor_name": "ÖZYÖRÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43775,
+    "neighbor_name": "REŞATLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43786,
+    "neighbor_name": "SAYLAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43817,
+    "neighbor_name": "SÖĞÜTLÜÖZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43811,
+    "neighbor_name": "SUCUKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43812,
+    "neighbor_name": "TAŞOLUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43838,
+    "neighbor_name": "TOPBOĞAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43804,
+    "neighbor_name": "TORUN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43787,
+    "neighbor_name": "YALANGOZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43805,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 858,
+    "district_name": "KIRIKHAN",
+    "neighbor_id": 43795,
+    "neighbor_name": "YILANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43842,
+    "neighbor_name": "AKKERPİÇ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43855,
+    "neighbor_name": "AKKUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43850,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43851,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43843,
+    "neighbor_name": "BATIAYRANCI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43844,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43852,
+    "neighbor_name": "DOĞUAYRANCI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43845,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43856,
+    "neighbor_name": "GÖKÇEOĞLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43846,
+    "neighbor_name": "GÜLOVA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43853,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43841,
+    "neighbor_name": "HATAYHAMAMI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43854,
+    "neighbor_name": "KALETEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43847,
+    "neighbor_name": "KELİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43848,
+    "neighbor_name": "KIRCAOĞLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 859,
+    "district_name": "KUMLU",
+    "neighbor_id": 43849,
+    "neighbor_name": "MUHARREM MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43900,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43899,
+    "neighbor_name": "ÇAĞLALIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43906,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43905,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43901,
+    "neighbor_name": "KARACAMİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43902,
+    "neighbor_name": "KARBEYAZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43907,
+    "neighbor_name": "KARŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43903,
+    "neighbor_name": "KOZLUDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43904,
+    "neighbor_name": "KÜRTÜL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43908,
+    "neighbor_name": "SİNCAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43909,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 861,
+    "district_name": "PAYAS",
+    "neighbor_id": 43910,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43401,
+    "neighbor_name": "ADABUCAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43389,
+    "neighbor_name": "AHMETBEYLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43376,
+    "neighbor_name": "AKYAYLA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43394,
+    "neighbor_name": "ALAKUZU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43390,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43368,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43407,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43408,
+    "neighbor_name": "BEŞASLAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43409,
+    "neighbor_name": "BÜKÜLMEZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43384,
+    "neighbor_name": "CİLVEGÖZÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43391,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43395,
+    "neighbor_name": "CÜDEYDE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43386,
+    "neighbor_name": "ÇAKIRYİĞİT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43377,
+    "neighbor_name": "DAVUTPAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43369,
+    "neighbor_name": "DEĞİRMENKAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43370,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43379,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43410,
+    "neighbor_name": "FİDANLIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43402,
+    "neighbor_name": "GAZİMÜRSELTEPESİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43396,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43403,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43371,
+    "neighbor_name": "HARRAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43385,
+    "neighbor_name": "KARACANLIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43372,
+    "neighbor_name": "KARAHÜYÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43373,
+    "neighbor_name": "KARASÜLEYMANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43397,
+    "neighbor_name": "KONUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43366,
+    "neighbor_name": "KULETEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43398,
+    "neighbor_name": "KUMTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43380,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43381,
+    "neighbor_name": "KUŞAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43367,
+    "neighbor_name": "MEHMETBEYLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43378,
+    "neighbor_name": "MUSTAFA KEMAL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43392,
+    "neighbor_name": "NERGİZLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43382,
+    "neighbor_name": "OĞULPINAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43387,
+    "neighbor_name": "ÖZ KURTULUŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43404,
+    "neighbor_name": "PAŞAHÜYÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43393,
+    "neighbor_name": "PAŞAKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43405,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43406,
+    "neighbor_name": "SULUKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43411,
+    "neighbor_name": "TAYFURSÖKMEN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43383,
+    "neighbor_name": "TERZİHÜYÜK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43412,
+    "neighbor_name": "UZUNKAVAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43388,
+    "neighbor_name": "ÜÇTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43374,
+    "neighbor_name": "VARIŞLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43375,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43399,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 848,
+    "district_name": "REYHANLI",
+    "neighbor_id": 43400,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43889,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43883,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43890,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43862,
+    "neighbor_name": "BATIAYAZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43868,
+    "neighbor_name": "BÜYÜKOBA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43869,
+    "neighbor_name": "CEMAL GÜRSEL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43857,
+    "neighbor_name": "CEYLANDERE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43879,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43881,
+    "neighbor_name": "ÇAMLIYAYLA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43882,
+    "neighbor_name": "ÇANAKOLUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43898,
+    "neighbor_name": "ÇİĞDEDE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43867,
+    "neighbor_name": "ÇÖĞÜRLÜ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43874,
+    "neighbor_name": "ÇUBUKLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43891,
+    "neighbor_name": "DEĞİRMENBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43858,
+    "neighbor_name": "DENİZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43870,
+    "neighbor_name": "ERİKLİKUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43871,
+    "neighbor_name": "FİDANLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43892,
+    "neighbor_name": "GENERAL ŞÜKRÜ KANADLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43875,
+    "neighbor_name": "GÖZENE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43884,
+    "neighbor_name": "HIDIRBEY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43876,
+    "neighbor_name": "HUZURLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43893,
+    "neighbor_name": "KAPISUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43863,
+    "neighbor_name": "KARAÇAY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43864,
+    "neighbor_name": "KOYUNOĞLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43885,
+    "neighbor_name": "KURTDERESİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43865,
+    "neighbor_name": "KUŞALANI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43894,
+    "neighbor_name": "MAĞARACIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43877,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43878,
+    "neighbor_name": "MIZRAKLI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43880,
+    "neighbor_name": "SELDİREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43886,
+    "neighbor_name": "SUTAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43866,
+    "neighbor_name": "TEKEBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43859,
+    "neighbor_name": "TOMRUKSUYU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43860,
+    "neighbor_name": "UZUNBAĞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 49698,
+    "neighbor_name": "VAKIFKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43896,
+    "neighbor_name": "YAYLICA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43873,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43872,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43887,
+    "neighbor_name": "YEŞİLADA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43897,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43861,
+    "neighbor_name": "YEŞİLYAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 860,
+    "district_name": "SAMANDAĞ",
+    "neighbor_id": 43888,
+    "neighbor_name": "YOĞUNOLUK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43691,
+    "neighbor_name": "ARSLANYAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43699,
+    "neighbor_name": "AŞAĞIPULLUYAZI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43698,
+    "neighbor_name": "AYDINBAHÇE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43705,
+    "neighbor_name": "AYIŞIĞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43685,
+    "neighbor_name": "BEZGE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43719,
+    "neighbor_name": "BOZLU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43729,
+    "neighbor_name": "ÇABALA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43708,
+    "neighbor_name": "ÇAKI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43704,
+    "neighbor_name": "ÇAKSINA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43711,
+    "neighbor_name": "ÇAMALTI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43725,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43712,
+    "neighbor_name": "ÇATBAŞI MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43730,
+    "neighbor_name": "ÇAYIR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43686,
+    "neighbor_name": "DENİZGÖREN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43706,
+    "neighbor_name": "DUSDURU MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43707,
+    "neighbor_name": "EĞERCİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43700,
+    "neighbor_name": "GÖRENTAŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43726,
+    "neighbor_name": "GÖZLÜCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43709,
+    "neighbor_name": "GÜRIŞIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43701,
+    "neighbor_name": "GÜVEÇÇİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43702,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43727,
+    "neighbor_name": "HİSARCIK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43687,
+    "neighbor_name": "KARACURUN MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43713,
+    "neighbor_name": "KARAKÖSE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43688,
+    "neighbor_name": "KIŞLAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43710,
+    "neighbor_name": "KIZILÇAT MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43692,
+    "neighbor_name": "KÖSRELİK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43720,
+    "neighbor_name": "KULAÇ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43728,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43721,
+    "neighbor_name": "LEYLEKLİ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43693,
+    "neighbor_name": "OLGUNLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43694,
+    "neighbor_name": "SEBENOBA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43703,
+    "neighbor_name": "SUNGUR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43696,
+    "neighbor_name": "SÜRÜTME MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43690,
+    "neighbor_name": "ŞAKŞAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43684,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43722,
+    "neighbor_name": "TURFANDA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43723,
+    "neighbor_name": "TUTLUBAHÇE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43689,
+    "neighbor_name": "ULUYOL MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43716,
+    "neighbor_name": "ÜÇIRMAK MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43695,
+    "neighbor_name": "YALAZ MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43714,
+    "neighbor_name": "YAYIKDAMLAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43724,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43717,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43718,
+    "neighbor_name": "YONCAKAYA MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43697,
+    "neighbor_name": "YUKARIOKÇULAR MAH."
+  },
+  {
+    "city_id": 70,
+    "city_name": "HATAY",
+    "district_id": 856,
+    "district_name": "YAYLADAĞI",
+    "neighbor_id": 43715,
+    "neighbor_name": "YUKARIPULLUYAZI MAH."
+  }
+]

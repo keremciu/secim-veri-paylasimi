@@ -1,0 +1,2122 @@
+[
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45147,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45148,
+    "neighbor_name": "GÜRÇAYIR MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45174,
+    "neighbor_name": "HALİLEFENDİ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45181,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45132,
+    "neighbor_name": "KAPTANPAŞA MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45178,
+    "neighbor_name": "KARAGÖL MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45162,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45131,
+    "neighbor_name": "AÇIKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45182,
+    "neighbor_name": "AĞAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45188,
+    "neighbor_name": "AĞZIPEK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45141,
+    "neighbor_name": "AKYAKA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45166,
+    "neighbor_name": "ALAGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45125,
+    "neighbor_name": "ALTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45167,
+    "neighbor_name": "ARDIÇDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45189,
+    "neighbor_name": "AŞAĞIKURTOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45122,
+    "neighbor_name": "BAĞDAŞEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45158,
+    "neighbor_name": "BALIKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45183,
+    "neighbor_name": "BAYRAMOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45172,
+    "neighbor_name": "BEŞİKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45128,
+    "neighbor_name": "BİNBAŞAR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45136,
+    "neighbor_name": "BÜYÜKSÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45165,
+    "neighbor_name": "ÇAĞLAYIK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45157,
+    "neighbor_name": "ÇALABAŞ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45164,
+    "neighbor_name": "ÇAMLIÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45187,
+    "neighbor_name": "ÇATALDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45146,
+    "neighbor_name": "ÇATALKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45176,
+    "neighbor_name": "ÇEĞİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45154,
+    "neighbor_name": "ÇETİNSU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45149,
+    "neighbor_name": "ÇİMENKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45142,
+    "neighbor_name": "DAĞCI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45150,
+    "neighbor_name": "DAĞEVİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45168,
+    "neighbor_name": "DEDEGÜL KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45190,
+    "neighbor_name": "DEĞİRMENLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45151,
+    "neighbor_name": "DERİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45173,
+    "neighbor_name": "EDEGÜL KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45137,
+    "neighbor_name": "GÖLGELİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45138,
+    "neighbor_name": "GÜZÇİMENİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45156,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45177,
+    "neighbor_name": "HACIALİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45143,
+    "neighbor_name": "HASKÖY KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45144,
+    "neighbor_name": "HÖÇVAN BUCAĞI HASKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45184,
+    "neighbor_name": "KARTALPINAR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45133,
+    "neighbor_name": "KAZLIKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45123,
+    "neighbor_name": "KIRAÇ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45145,
+    "neighbor_name": "KOCAKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45124,
+    "neighbor_name": "KÖPRÜCÜK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45126,
+    "neighbor_name": "KÜÇÜKSÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45185,
+    "neighbor_name": "LEHİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45175,
+    "neighbor_name": "MEŞEDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45186,
+    "neighbor_name": "NEBİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45129,
+    "neighbor_name": "ORTAGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45179,
+    "neighbor_name": "OTBİÇEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45134,
+    "neighbor_name": "OVAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45130,
+    "neighbor_name": "ÖLÇEK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45155,
+    "neighbor_name": "ÖMERAĞA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45127,
+    "neighbor_name": "SAMANBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45169,
+    "neighbor_name": "SARIYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45152,
+    "neighbor_name": "SUGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45170,
+    "neighbor_name": "SULAKYURT KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45140,
+    "neighbor_name": "TAŞLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45180,
+    "neighbor_name": "TAZEKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45135,
+    "neighbor_name": "TEPELER KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45171,
+    "neighbor_name": "TEPESUYU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45159,
+    "neighbor_name": "TUNÇOLUK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45160,
+    "neighbor_name": "UZUNOVA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45139,
+    "neighbor_name": "YANLIZÇAM KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45161,
+    "neighbor_name": "YAYLACIK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45153,
+    "neighbor_name": "YOKUŞDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 888,
+    "district_name": "ARDAHAN MERKEZ",
+    "neighbor_id": 45163,
+    "neighbor_name": "YUKARIKURTOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45370,
+    "neighbor_name": "AŞIKŞENLİK MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45358,
+    "neighbor_name": "ÇANKAYA MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45359,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45386,
+    "neighbor_name": "DEDEKORKUT MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45375,
+    "neighbor_name": "SUHARA MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45354,
+    "neighbor_name": "UFUKTEPE MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45356,
+    "neighbor_name": "YAKINSU MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45377,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45346,
+    "neighbor_name": "YILDIRIMTEPE MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45355,
+    "neighbor_name": "AĞILLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45368,
+    "neighbor_name": "AKÇAKALE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45369,
+    "neighbor_name": "AKÇIL KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45382,
+    "neighbor_name": "AKDARI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45376,
+    "neighbor_name": "AKKİRAZ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45347,
+    "neighbor_name": "AŞAĞICAMBAZ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45348,
+    "neighbor_name": "BALTALI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45365,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45344,
+    "neighbor_name": "DAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45364,
+    "neighbor_name": "DİRSEKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45383,
+    "neighbor_name": "DOĞANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45349,
+    "neighbor_name": "ESKİBEYREHATUN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45350,
+    "neighbor_name": "EŞMEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45371,
+    "neighbor_name": "GÖLBELEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45361,
+    "neighbor_name": "GÖLEBAKAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45384,
+    "neighbor_name": "GÜVENOCAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45378,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45351,
+    "neighbor_name": "KAŞLIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45372,
+    "neighbor_name": "KAYABEYİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45373,
+    "neighbor_name": "KENARBEL KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45385,
+    "neighbor_name": "KENARDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45379,
+    "neighbor_name": "KOTANLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45366,
+    "neighbor_name": "KURTKALE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45357,
+    "neighbor_name": "KUZUKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45374,
+    "neighbor_name": "MERYEMKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45381,
+    "neighbor_name": "ÖNCÜL KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45360,
+    "neighbor_name": "ÖVÜNDÜ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45345,
+    "neighbor_name": "SABAHOLDU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45362,
+    "neighbor_name": "SAYMALI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45380,
+    "neighbor_name": "SAZLISU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45352,
+    "neighbor_name": "SEMİHAŞAKİR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45353,
+    "neighbor_name": "TAŞDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45367,
+    "neighbor_name": "YENİBEYREHATUN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 893,
+    "district_name": "ÇILDIR",
+    "neighbor_id": 45363,
+    "neighbor_name": "YUKARICAMBAZ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45199,
+    "neighbor_name": "ATA MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45200,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45198,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45192,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45194,
+    "neighbor_name": "KALENDER MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45195,
+    "neighbor_name": "KONUK SEVER MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45202,
+    "neighbor_name": "MUSTAFA KEMAL MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45205,
+    "neighbor_name": "SERHAT MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45203,
+    "neighbor_name": "BURMADERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45204,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45201,
+    "neighbor_name": "ESKİKILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45191,
+    "neighbor_name": "İKİZDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45196,
+    "neighbor_name": "OTAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45197,
+    "neighbor_name": "SEYİTÖREN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 889,
+    "district_name": "DAMAL",
+    "neighbor_id": 45193,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45224,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45209,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45207,
+    "neighbor_name": "KUBİLAY BEY MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45231,
+    "neighbor_name": "SALİM BEY MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45251,
+    "neighbor_name": "KÖPRÜLÜ-DEDEŞEN MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45258,
+    "neighbor_name": "KÖPRÜLÜ-DURANÇAM MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45212,
+    "neighbor_name": "KÖPRÜLÜ-KÖPRÜLÜ MERKEZ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45219,
+    "neighbor_name": "KÖPRÜLÜ-KUZUPINARI MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45211,
+    "neighbor_name": "ARPAŞEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45242,
+    "neighbor_name": "BALÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45221,
+    "neighbor_name": "BELLİTEPE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45247,
+    "neighbor_name": "BUDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45237,
+    "neighbor_name": "BÜYÜKALTINBULAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45227,
+    "neighbor_name": "ÇAKILDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45214,
+    "neighbor_name": "ÇAKIRÜZÜM KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45249,
+    "neighbor_name": "ÇALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45254,
+    "neighbor_name": "ÇARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45241,
+    "neighbor_name": "ÇAYIRBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45239,
+    "neighbor_name": "ÇOBANKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45250,
+    "neighbor_name": "ÇULLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45261,
+    "neighbor_name": "DAMLASU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45232,
+    "neighbor_name": "DEDEKILICI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45206,
+    "neighbor_name": "DENGELİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45262,
+    "neighbor_name": "DEREYOLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45222,
+    "neighbor_name": "DÖLEKÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45233,
+    "neighbor_name": "DURUCASU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45234,
+    "neighbor_name": "ESENBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45215,
+    "neighbor_name": "ESENYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45230,
+    "neighbor_name": "ESKİDEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45255,
+    "neighbor_name": "FİLİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45208,
+    "neighbor_name": "GEDİK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45243,
+    "neighbor_name": "GÜLİSTAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45248,
+    "neighbor_name": "GÜNORTA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45218,
+    "neighbor_name": "HOŞDÜLBENT KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45257,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45244,
+    "neighbor_name": "KARLIYAZI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45228,
+    "neighbor_name": "KAYAALTI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45216,
+    "neighbor_name": "KOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45245,
+    "neighbor_name": "KUYTUCA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45259,
+    "neighbor_name": "KÜÇÜKALTINBULAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45235,
+    "neighbor_name": "MOLLAHASAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45220,
+    "neighbor_name": "OKÇU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45210,
+    "neighbor_name": "SAMANDÖKEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45217,
+    "neighbor_name": "SENEMOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45256,
+    "neighbor_name": "SERİNÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45240,
+    "neighbor_name": "SÜRÜGÜDEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45229,
+    "neighbor_name": "TAHTAKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45213,
+    "neighbor_name": "TELLİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45252,
+    "neighbor_name": "TOPTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45225,
+    "neighbor_name": "UĞURTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45236,
+    "neighbor_name": "YAĞMUROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45253,
+    "neighbor_name": "YANATLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45238,
+    "neighbor_name": "YAVUZLAR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45226,
+    "neighbor_name": "YELEÇLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45260,
+    "neighbor_name": "YENİDEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45246,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 890,
+    "district_name": "GÖLE",
+    "neighbor_id": 45223,
+    "neighbor_name": "YİĞİTKONAĞI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45272,
+    "neighbor_name": "ALAÇAM MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45267,
+    "neighbor_name": "ATALAR MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45277,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45289,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45290,
+    "neighbor_name": "ORTAKENT MERKEZ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45291,
+    "neighbor_name": "SELAM VERDİ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45275,
+    "neighbor_name": "ALTINEMEK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45276,
+    "neighbor_name": "ARIKONAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45268,
+    "neighbor_name": "AŞAĞIAYDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45278,
+    "neighbor_name": "BAŞTOKLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45269,
+    "neighbor_name": "BİNBAŞAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45285,
+    "neighbor_name": "BÖRK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45292,
+    "neighbor_name": "ÇATKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45265,
+    "neighbor_name": "ÇAVDARLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45288,
+    "neighbor_name": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45293,
+    "neighbor_name": "ÇİÇEKLİDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45266,
+    "neighbor_name": "ÇİMLİÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45263,
+    "neighbor_name": "DİLEKDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45279,
+    "neighbor_name": "GEÇ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45270,
+    "neighbor_name": "GÜNEŞGÖREN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45271,
+    "neighbor_name": "İNCEDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45280,
+    "neighbor_name": "KARAKALE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45282,
+    "neighbor_name": "KOYUNPINARI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45283,
+    "neighbor_name": "OĞUZYOLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45264,
+    "neighbor_name": "SAZLIÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45284,
+    "neighbor_name": "SERİNKUYU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45273,
+    "neighbor_name": "SEVİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45274,
+    "neighbor_name": "SULAKÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45294,
+    "neighbor_name": "YAMAÇYOLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45286,
+    "neighbor_name": "YAMÇILI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45281,
+    "neighbor_name": "YUKARIAYDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 891,
+    "district_name": "HANAK",
+    "neighbor_id": 45287,
+    "neighbor_name": "YÜNBÜKEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 50232,
+    "neighbor_name": "DOĞRULAR MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45327,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45332,
+    "neighbor_name": "AKBALLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45300,
+    "neighbor_name": "ALABALIK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45307,
+    "neighbor_name": "ALKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45328,
+    "neighbor_name": "ARILI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45308,
+    "neighbor_name": "ARMUTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45295,
+    "neighbor_name": "ASMAKONAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45333,
+    "neighbor_name": "AŞIKÜZEYİR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45325,
+    "neighbor_name": "AŞIKZÜLALİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 50226,
+    "neighbor_name": "BALGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45314,
+    "neighbor_name": "BAYKENT KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45320,
+    "neighbor_name": "BİNBAŞIEMİNBEY KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45312,
+    "neighbor_name": "ÇAKIRKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45323,
+    "neighbor_name": "ÇAMBELİ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45324,
+    "neighbor_name": "ÇAMYAZI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45313,
+    "neighbor_name": "ÇAYIRÇİMEN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45302,
+    "neighbor_name": "DEMİRDÖVER KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45309,
+    "neighbor_name": "DERİNDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45316,
+    "neighbor_name": "ERİM KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45334,
+    "neighbor_name": "GÖNÜLAÇAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45310,
+    "neighbor_name": "GÜMÜŞKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45296,
+    "neighbor_name": "GÜNBATAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45329,
+    "neighbor_name": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45335,
+    "neighbor_name": "GÜRARMUT KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45306,
+    "neighbor_name": "İNCEDERE KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45297,
+    "neighbor_name": "KALEÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45303,
+    "neighbor_name": "KALKANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45317,
+    "neighbor_name": "KAYINLI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45321,
+    "neighbor_name": "KIRKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45336,
+    "neighbor_name": "KOLKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45326,
+    "neighbor_name": "KOPUZLU KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45337,
+    "neighbor_name": "KUMLUKOZ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45338,
+    "neighbor_name": "KURŞUNÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45343,
+    "neighbor_name": "ÖZBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45298,
+    "neighbor_name": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45330,
+    "neighbor_name": "SARIDARI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45339,
+    "neighbor_name": "SAVAŞIR KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45318,
+    "neighbor_name": "SÖĞÜTLÜKAYA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45331,
+    "neighbor_name": "SÜNGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45322,
+    "neighbor_name": "SÜTOLUK KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45340,
+    "neighbor_name": "TAŞKIRAN KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 49564,
+    "neighbor_name": "TÜRKGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45341,
+    "neighbor_name": "UĞURCA KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45304,
+    "neighbor_name": "YAYLAALTI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45299,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45311,
+    "neighbor_name": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45305,
+    "neighbor_name": "YURTBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 74,
+    "city_name": "ARDAHAN",
+    "district_id": 892,
+    "district_name": "POSOF",
+    "neighbor_id": 45342,
+    "neighbor_name": "YURTBEKLER KÖYÜ"
+  }
+]

@@ -1,0 +1,4554 @@
+[
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41535,
+    "neighbor_name": "AKÇAALAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41524,
+    "neighbor_name": "AKYARLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41508,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41502,
+    "neighbor_name": "BAHÇEYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41503,
+    "neighbor_name": "BİTEZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41515,
+    "neighbor_name": "CEVAT ŞAKİR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41509,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41501,
+    "neighbor_name": "ÇAMARASI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41522,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41497,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41533,
+    "neighbor_name": "ÇIRKAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 50668,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41534,
+    "neighbor_name": "ÇÖMLEKÇİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41491,
+    "neighbor_name": "DAĞBELEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41525,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41488,
+    "neighbor_name": "DİRMİL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41504,
+    "neighbor_name": "ESKİÇEŞME MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41510,
+    "neighbor_name": "FARİLYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41492,
+    "neighbor_name": "GERİŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41519,
+    "neighbor_name": "GÖKPINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41528,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 50627,
+    "neighbor_name": "GÖLKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41493,
+    "neighbor_name": "GÜMBET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41531,
+    "neighbor_name": "GÜMÜŞLÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41511,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41529,
+    "neighbor_name": "GÜRECE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41516,
+    "neighbor_name": "GÜVERCİNLİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41514,
+    "neighbor_name": "İSLAMHANELERİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41536,
+    "neighbor_name": "KARABAĞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41506,
+    "neighbor_name": "KARAOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41537,
+    "neighbor_name": "KEMER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 50625,
+    "neighbor_name": "KIZILAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41517,
+    "neighbor_name": "KONACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41494,
+    "neighbor_name": "KOYUNBABA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41526,
+    "neighbor_name": "KUMBAHÇE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41500,
+    "neighbor_name": "KUMKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41489,
+    "neighbor_name": "KÜÇÜKBÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41507,
+    "neighbor_name": "MAZIKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41521,
+    "neighbor_name": "MUMCULAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 49974,
+    "neighbor_name": "MÜSKEBİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41512,
+    "neighbor_name": "PEKSİMET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41530,
+    "neighbor_name": "PINARLIBELEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41523,
+    "neighbor_name": "SAZKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41498,
+    "neighbor_name": "TEPECİK (KARAOVA) MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41539,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41532,
+    "neighbor_name": "TORBA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41513,
+    "neighbor_name": "TURGUTREİS MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 49713,
+    "neighbor_name": "TÜRKBÜKÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41499,
+    "neighbor_name": "TÜRKKUYUSU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41540,
+    "neighbor_name": "UMURCA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 49825,
+    "neighbor_name": "YAHŞİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41495,
+    "neighbor_name": "YAKAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41520,
+    "neighbor_name": "YALIKAVAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41490,
+    "neighbor_name": "YENİKÖY (KARAOVA) MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41496,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 803,
+    "district_name": "BODRUM",
+    "neighbor_id": 41527,
+    "neighbor_name": "YOKUŞBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41159,
+    "neighbor_name": "AKÇATAŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41167,
+    "neighbor_name": "ALTINTAS MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41168,
+    "neighbor_name": "ATAKENT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41161,
+    "neighbor_name": "BEZKESE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41155,
+    "neighbor_name": "BOZBEL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41148,
+    "neighbor_name": "ÇÖĞMEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41150,
+    "neighbor_name": "DARIYERİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41162,
+    "neighbor_name": "EGE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41156,
+    "neighbor_name": "ELCİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41160,
+    "neighbor_name": "GÜRKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41152,
+    "neighbor_name": "GÜRLEYK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41157,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41163,
+    "neighbor_name": "KAPUKARGIN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41164,
+    "neighbor_name": "KARACAAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41151,
+    "neighbor_name": "KARAÇALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41165,
+    "neighbor_name": "KARGINKÜRÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41145,
+    "neighbor_name": "KAVACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41153,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41146,
+    "neighbor_name": "KIZILKAYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41166,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41158,
+    "neighbor_name": "NARLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41147,
+    "neighbor_name": "SABUNLU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41169,
+    "neighbor_name": "SÖĞÜTLÜYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41149,
+    "neighbor_name": "ŞEREFLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 797,
+    "district_name": "DALAMAN",
+    "neighbor_id": 41154,
+    "neighbor_name": "TAŞBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41547,
+    "neighbor_name": "CUMALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41541,
+    "neighbor_name": "DATÇA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41548,
+    "neighbor_name": "EMECİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41542,
+    "neighbor_name": "HIZIRŞAH MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41552,
+    "neighbor_name": "İSKELE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41549,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41550,
+    "neighbor_name": "KIZLAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41543,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41544,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41545,
+    "neighbor_name": "SINDI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41551,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 804,
+    "district_name": "DATÇA",
+    "neighbor_id": 41546,
+    "neighbor_name": "YAZI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41561,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41591,
+    "neighbor_name": "BABATAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41558,
+    "neighbor_name": "BOZYER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41569,
+    "neighbor_name": "CAMİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41559,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41577,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41557,
+    "neighbor_name": "ÇATALARIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41563,
+    "neighbor_name": "ÇENGER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41585,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41560,
+    "neighbor_name": "ELDİREK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41586,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41553,
+    "neighbor_name": "FARALYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41587,
+    "neighbor_name": "FOÇA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41562,
+    "neighbor_name": "GÖCEK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41570,
+    "neighbor_name": "GÖKBEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41571,
+    "neighbor_name": "GÖKÇEOVACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41590,
+    "neighbor_name": "İNCİRKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41568,
+    "neighbor_name": "İNLİCE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41592,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41572,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41554,
+    "neighbor_name": "KARAÇULHA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41588,
+    "neighbor_name": "KARAGEDİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41566,
+    "neighbor_name": "KARAGÖZLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41579,
+    "neighbor_name": "KARAKEÇİLİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41564,
+    "neighbor_name": "KARGI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41573,
+    "neighbor_name": "KAYAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41555,
+    "neighbor_name": "KESİKKAPI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41580,
+    "neighbor_name": "KIZILBEL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41574,
+    "neighbor_name": "KORUKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41582,
+    "neighbor_name": "MENTEŞEOĞLU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41567,
+    "neighbor_name": "NİF MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41578,
+    "neighbor_name": "ÖLÜDENİZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41583,
+    "neighbor_name": "PATLANGIÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41593,
+    "neighbor_name": "PAZARYERİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41584,
+    "neighbor_name": "SÖĞÜTLÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41556,
+    "neighbor_name": "TAŞYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41581,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41575,
+    "neighbor_name": "YAKACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41565,
+    "neighbor_name": "YANIKLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41589,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 805,
+    "district_name": "FETHİYE",
+    "neighbor_id": 41576,
+    "neighbor_name": "YEŞİLÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41606,
+    "neighbor_name": "BAKIRCILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41602,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41605,
+    "neighbor_name": "ÇAMLIBEL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41604,
+    "neighbor_name": "ÇAMLIYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41600,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41601,
+    "neighbor_name": "ÇAVDIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41594,
+    "neighbor_name": "ÇAYBOYU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41595,
+    "neighbor_name": "DEREBAĞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41607,
+    "neighbor_name": "KURUCUOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41598,
+    "neighbor_name": "MENTEŞE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41608,
+    "neighbor_name": "NEBİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41599,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41596,
+    "neighbor_name": "SALKIM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41603,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 806,
+    "district_name": "KAVAKLIDERE",
+    "neighbor_id": 41597,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41617,
+    "neighbor_name": "AKKÖPRÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41610,
+    "neighbor_name": "BALCILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41628,
+    "neighbor_name": "BEYOBASI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41622,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41616,
+    "neighbor_name": "ÇAYHİSAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41623,
+    "neighbor_name": "DÖĞÜŞBELEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41618,
+    "neighbor_name": "EKİNCİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41611,
+    "neighbor_name": "GELİŞİM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41612,
+    "neighbor_name": "GÜLPINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41624,
+    "neighbor_name": "HAMİTKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41625,
+    "neighbor_name": "KARAÇAM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41619,
+    "neighbor_name": "KAVAKARASI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41613,
+    "neighbor_name": "KÖYCEĞİZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41629,
+    "neighbor_name": "OTMANLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41614,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41615,
+    "neighbor_name": "SAZAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41626,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41630,
+    "neighbor_name": "TOPARLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41620,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41627,
+    "neighbor_name": "YANGI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41609,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41631,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41632,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41621,
+    "neighbor_name": "ZAFERLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 807,
+    "district_name": "KÖYCEĞİZ",
+    "neighbor_id": 41633,
+    "neighbor_name": "ZEYTİNALANI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41171,
+    "neighbor_name": "ADAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41182,
+    "neighbor_name": "ARMUTALAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41172,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41173,
+    "neighbor_name": "BELDİBİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41183,
+    "neighbor_name": "BOZBURUN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41193,
+    "neighbor_name": "ÇAMDİBİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41187,
+    "neighbor_name": "ÇAMLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41194,
+    "neighbor_name": "ÇETİBELİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41188,
+    "neighbor_name": "ÇILDIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41189,
+    "neighbor_name": "HATİPİRİMİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41174,
+    "neighbor_name": "HİSARÖNÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41181,
+    "neighbor_name": "İÇMELER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41190,
+    "neighbor_name": "KARACA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41184,
+    "neighbor_name": "KEMERALTI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41175,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41185,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41176,
+    "neighbor_name": "SARIANA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41191,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41177,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41178,
+    "neighbor_name": "SÖĞÜT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41179,
+    "neighbor_name": "TAŞLICA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41170,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41180,
+    "neighbor_name": "TURGUT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41186,
+    "neighbor_name": "TURUNÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 798,
+    "district_name": "MARMARİS",
+    "neighbor_id": 41192,
+    "neighbor_name": "YEŞİLBELDE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41225,
+    "neighbor_name": "AKÇAOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41260,
+    "neighbor_name": "AKKAYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41200,
+    "neighbor_name": "AKYER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41220,
+    "neighbor_name": "ALGI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41221,
+    "neighbor_name": "AVCILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41209,
+    "neighbor_name": "BALIBEY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41248,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41219,
+    "neighbor_name": "BOZYER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41236,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41208,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41242,
+    "neighbor_name": "ÇAMOLUK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 49889,
+    "neighbor_name": "ÇATAKBAĞYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41217,
+    "neighbor_name": "ÇAYBÜKÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41218,
+    "neighbor_name": "ÇIRPI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41211,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41249,
+    "neighbor_name": "DAĞDİBİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41213,
+    "neighbor_name": "DAĞPINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41195,
+    "neighbor_name": "DENİZOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41256,
+    "neighbor_name": "DERİNKUYU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41207,
+    "neighbor_name": "DOĞAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41234,
+    "neighbor_name": "DOKUZÇAM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41250,
+    "neighbor_name": "DÜĞEREK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41229,
+    "neighbor_name": "EMİRBEYAZIT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41196,
+    "neighbor_name": "ESENÇAY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41257,
+    "neighbor_name": "FADIL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41240,
+    "neighbor_name": "GAZELLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41235,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41230,
+    "neighbor_name": "GÜLAĞZI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41226,
+    "neighbor_name": "GÜNLÜCE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41244,
+    "neighbor_name": "HACIRÜSTEM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41239,
+    "neighbor_name": "İKİZCE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41251,
+    "neighbor_name": "KAFACA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41227,
+    "neighbor_name": "KARACAÖREN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41204,
+    "neighbor_name": "KARAMEHMET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41237,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41203,
+    "neighbor_name": "KIRAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41210,
+    "neighbor_name": "KİRAMETTİN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41245,
+    "neighbor_name": "KOZAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41212,
+    "neighbor_name": "KÖTEKLİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41233,
+    "neighbor_name": "KUYUCAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41214,
+    "neighbor_name": "KUZLUK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41205,
+    "neighbor_name": "MEKE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41252,
+    "neighbor_name": "MURATLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41258,
+    "neighbor_name": "MUSLİHİTTİN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41222,
+    "neighbor_name": "MÜŞTAKBEY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41253,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41223,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41254,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41199,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41201,
+    "neighbor_name": "PAŞAPINARI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41215,
+    "neighbor_name": "SALİHPAŞALAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41243,
+    "neighbor_name": "SARNIÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41216,
+    "neighbor_name": "SUNGUR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41202,
+    "neighbor_name": "ŞENYAYLA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41224,
+    "neighbor_name": "ŞEYH MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41246,
+    "neighbor_name": "TAŞLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41231,
+    "neighbor_name": "YARAŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41232,
+    "neighbor_name": "YEMİŞENDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41197,
+    "neighbor_name": "YENİBAĞYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41238,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41206,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41241,
+    "neighbor_name": "YENİKÖY (YERKESİK) MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41247,
+    "neighbor_name": "YERKESİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41259,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41198,
+    "neighbor_name": "YÖRÜKOĞLU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 799,
+    "district_name": "MENTEŞE",
+    "neighbor_id": 41228,
+    "neighbor_name": "ZEYTİN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41312,
+    "neighbor_name": "AĞAÇLIHÜYÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41380,
+    "neighbor_name": "AHMETÇAVUŞ HAYITLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41374,
+    "neighbor_name": "AKÇAKAYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41289,
+    "neighbor_name": "AKÇALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41274,
+    "neighbor_name": "AKKOVANLIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41381,
+    "neighbor_name": "AKYOL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41278,
+    "neighbor_name": "ALAÇAM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41351,
+    "neighbor_name": "ALATEPE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41382,
+    "neighbor_name": "ASLANYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41284,
+    "neighbor_name": "AVŞAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41299,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41366,
+    "neighbor_name": "BAFA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41338,
+    "neighbor_name": "BAĞDAMLARI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41337,
+    "neighbor_name": "BAHARLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41293,
+    "neighbor_name": "BAHÇEBURUN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41342,
+    "neighbor_name": "BAHÇE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41307,
+    "neighbor_name": "BALCILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41268,
+    "neighbor_name": "BAYIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41358,
+    "neighbor_name": "BEÇİN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41300,
+    "neighbor_name": "BEYCİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41343,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41269,
+    "neighbor_name": "BOZALAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41384,
+    "neighbor_name": "BOZBÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41389,
+    "neighbor_name": "BURGAZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41383,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41364,
+    "neighbor_name": "ÇAKIRALAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41365,
+    "neighbor_name": "ÇALLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41356,
+    "neighbor_name": "ÇAMKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41332,
+    "neighbor_name": "ÇAMLIBELEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41281,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41331,
+    "neighbor_name": "ÇAMLIYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41298,
+    "neighbor_name": "ÇAMOVALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41310,
+    "neighbor_name": "ÇANDIR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41350,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41340,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41357,
+    "neighbor_name": "ÇOMAKDAĞKIZILAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41288,
+    "neighbor_name": "ÇÖKERTME MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41273,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41301,
+    "neighbor_name": "DAMLIBOĞAZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41294,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41311,
+    "neighbor_name": "DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41371,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41372,
+    "neighbor_name": "DERİNCE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41285,
+    "neighbor_name": "DİBEKDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41316,
+    "neighbor_name": "DÖRTTEPE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41369,
+    "neighbor_name": "EĞRİDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41265,
+    "neighbor_name": "EKİNANBARI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41333,
+    "neighbor_name": "EKİNDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41390,
+    "neighbor_name": "EKİZKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41334,
+    "neighbor_name": "EKİZTAŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41317,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41344,
+    "neighbor_name": "EPÇE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41346,
+    "neighbor_name": "ETRENLİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41308,
+    "neighbor_name": "FESLEĞEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41261,
+    "neighbor_name": "FİRUZPAŞA GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41262,
+    "neighbor_name": "GÖKBEL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41391,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41375,
+    "neighbor_name": "GÖLDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41392,
+    "neighbor_name": "GÖLYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41362,
+    "neighbor_name": "GÜLLÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41295,
+    "neighbor_name": "GÜMÜŞLÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41352,
+    "neighbor_name": "GÜNEŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41325,
+    "neighbor_name": "GÜNLÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41275,
+    "neighbor_name": "GÜRCEĞİZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41290,
+    "neighbor_name": "GÜRÇAMLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41276,
+    "neighbor_name": "HACIABTİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41387,
+    "neighbor_name": "HACIAHMETLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41326,
+    "neighbor_name": "HACI İLYAS MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41363,
+    "neighbor_name": "HASANLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41376,
+    "neighbor_name": "HİSARBAŞI-HOCA BEDRETTİN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41385,
+    "neighbor_name": "HİSARCIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41303,
+    "neighbor_name": "HÜSAMLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41324,
+    "neighbor_name": "İÇME MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41368,
+    "neighbor_name": "İSMET PAŞA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41353,
+    "neighbor_name": "KAFACA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41359,
+    "neighbor_name": "KALEM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41318,
+    "neighbor_name": "KALINAĞIL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41266,
+    "neighbor_name": "KANDAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41271,
+    "neighbor_name": "KAPIKIRI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41319,
+    "neighbor_name": "KARACAAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41279,
+    "neighbor_name": "KARACAHİSAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41354,
+    "neighbor_name": "KARAHAYIT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41320,
+    "neighbor_name": "KARAKUYU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41263,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41335,
+    "neighbor_name": "KARGICAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41367,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41286,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41360,
+    "neighbor_name": "KAYABÜKÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41264,
+    "neighbor_name": "KAYADERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41361,
+    "neighbor_name": "KAZIKLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41280,
+    "neighbor_name": "KEMİKLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41287,
+    "neighbor_name": "KETENDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41321,
+    "neighbor_name": "KILAVUZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41302,
+    "neighbor_name": "KIRCAĞIZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41304,
+    "neighbor_name": "KISIRLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41347,
+    "neighbor_name": "KIYIKIŞLACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41297,
+    "neighbor_name": "KIZILAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41313,
+    "neighbor_name": "KIZILCAKUYU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41388,
+    "neighbor_name": "KIZILCAYIKIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41386,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41296,
+    "neighbor_name": "KORUCUK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41267,
+    "neighbor_name": "KORU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41327,
+    "neighbor_name": "KÖŞK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41336,
+    "neighbor_name": "KULTAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41373,
+    "neighbor_name": "KURUDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41272,
+    "neighbor_name": "KUZYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41291,
+    "neighbor_name": "KÜÇÜKDİBEKDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41378,
+    "neighbor_name": "MENTEŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41329,
+    "neighbor_name": "MEŞELİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41355,
+    "neighbor_name": "NARHİSAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41277,
+    "neighbor_name": "OLUKBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41339,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41309,
+    "neighbor_name": "OVAKIŞLACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41306,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41314,
+    "neighbor_name": "PINARARASI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41282,
+    "neighbor_name": "PINARCIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41328,
+    "neighbor_name": "PİNAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41370,
+    "neighbor_name": "SAKARKAYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41283,
+    "neighbor_name": "SARIKAYA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41345,
+    "neighbor_name": "SAVRAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41330,
+    "neighbor_name": "SEK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41322,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41323,
+    "neighbor_name": "SÖĞÜTÇÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41270,
+    "neighbor_name": "ŞENKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41341,
+    "neighbor_name": "ŞEVKETİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41379,
+    "neighbor_name": "TUZABAT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41315,
+    "neighbor_name": "TÜRKEVLERİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41348,
+    "neighbor_name": "ULAŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41305,
+    "neighbor_name": "YAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41292,
+    "neighbor_name": "YAŞYER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41377,
+    "neighbor_name": "YOĞUNOLUK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 800,
+    "district_name": "MİLAS",
+    "neighbor_id": 41349,
+    "neighbor_name": "YUSUFCA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41654,
+    "neighbor_name": "AKINCI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41648,
+    "neighbor_name": "ARIKBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41640,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41658,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41644,
+    "neighbor_name": "BEŞKÖPRÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41641,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41636,
+    "neighbor_name": "ÇAYLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41655,
+    "neighbor_name": "DALAKLI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41649,
+    "neighbor_name": "DALYAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41659,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41643,
+    "neighbor_name": "DİKMEKAVAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41660,
+    "neighbor_name": "EKŞİLİYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41634,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41651,
+    "neighbor_name": "FEVZİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41637,
+    "neighbor_name": "GÖKBEL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41642,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41656,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41645,
+    "neighbor_name": "KARABURUN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41652,
+    "neighbor_name": "KARADONLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41635,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41653,
+    "neighbor_name": "MERGENLİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41657,
+    "neighbor_name": "OKÇULAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41646,
+    "neighbor_name": "SARIGERME MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41650,
+    "neighbor_name": "TEPEARASI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41638,
+    "neighbor_name": "TERZİALİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41647,
+    "neighbor_name": "YERBELEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 808,
+    "district_name": "ORTACA",
+    "neighbor_id": 41639,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41417,
+    "neighbor_name": "ALAÇAT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41431,
+    "neighbor_name": "ARİFLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41418,
+    "neighbor_name": "ARSAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41420,
+    "neighbor_name": "ATLIDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41422,
+    "neighbor_name": "BAĞLIAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41405,
+    "neighbor_name": "BAYIRKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41401,
+    "neighbor_name": "BEKÇİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41397,
+    "neighbor_name": "BELEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41426,
+    "neighbor_name": "BOĞALAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41393,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41457,
+    "neighbor_name": "CEYLAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41398,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41434,
+    "neighbor_name": "ÇALTILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41439,
+    "neighbor_name": "ÇALTIÖZÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41448,
+    "neighbor_name": "ÇAMURKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41435,
+    "neighbor_name": "ÇATAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41445,
+    "neighbor_name": "ÇAYAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41452,
+    "neighbor_name": "ÇAYKENARI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41453,
+    "neighbor_name": "ÇOBANİSA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41440,
+    "neighbor_name": "ÇOBANLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41416,
+    "neighbor_name": "ÇÖKEK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41430,
+    "neighbor_name": "ÇUKURİNCİR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41441,
+    "neighbor_name": "DEMİRLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41399,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41411,
+    "neighbor_name": "DODURGA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41412,
+    "neighbor_name": "DOĞANLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41419,
+    "neighbor_name": "DONT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41413,
+    "neighbor_name": "DÖĞER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41449,
+    "neighbor_name": "EŞEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41432,
+    "neighbor_name": "GERİŞBURNU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41394,
+    "neighbor_name": "GİRMELER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41433,
+    "neighbor_name": "GÖLBENT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41446,
+    "neighbor_name": "GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41400,
+    "neighbor_name": "HACIOSMANLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41456,
+    "neighbor_name": "İZZETTİNKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41395,
+    "neighbor_name": "KABAAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41423,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41414,
+    "neighbor_name": "KARADERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41402,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41454,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41447,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41396,
+    "neighbor_name": "KAYADİBİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41442,
+    "neighbor_name": "KINCILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41403,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41436,
+    "neighbor_name": "KORUBÜKÜ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41450,
+    "neighbor_name": "KUMLUOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41404,
+    "neighbor_name": "MENEKŞE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41455,
+    "neighbor_name": "MİNARE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41415,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41425,
+    "neighbor_name": "ÖREN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41408,
+    "neighbor_name": "PAŞALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41424,
+    "neighbor_name": "SAHİLCEYLAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41443,
+    "neighbor_name": "SARIYER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41427,
+    "neighbor_name": "SEKİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41409,
+    "neighbor_name": "SEYDİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41444,
+    "neighbor_name": "SÖĞÜTLÜDERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41428,
+    "neighbor_name": "TEMEL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41421,
+    "neighbor_name": "UĞURLU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41410,
+    "neighbor_name": "YAKABAĞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41437,
+    "neighbor_name": "YAKAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41451,
+    "neighbor_name": "YAYLA ELDİREK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41406,
+    "neighbor_name": "YAYLA GÖKBEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41438,
+    "neighbor_name": "YAYLA KARAÇULHA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41429,
+    "neighbor_name": "YAYLAPATLANGIÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 801,
+    "district_name": "SEYDİKEMER",
+    "neighbor_id": 41407,
+    "neighbor_name": "ZORLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41458,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41462,
+    "neighbor_name": "AKYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41481,
+    "neighbor_name": "ALPARSLAN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41482,
+    "neighbor_name": "ARICILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41474,
+    "neighbor_name": "ARMUTCUK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41463,
+    "neighbor_name": "ATAKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41475,
+    "neighbor_name": "AYAZKIYI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41487,
+    "neighbor_name": "ÇITLIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41461,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41484,
+    "neighbor_name": "ÇÖRÜŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41483,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41459,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41468,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41469,
+    "neighbor_name": "GÖKÇE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41464,
+    "neighbor_name": "GÖKOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41477,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41465,
+    "neighbor_name": "KARABÖRTLEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41476,
+    "neighbor_name": "KAVAKÇALI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41466,
+    "neighbor_name": "KIRA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41470,
+    "neighbor_name": "KIZILAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41471,
+    "neighbor_name": "KIZILYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41467,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41479,
+    "neighbor_name": "ÖRNEKKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41486,
+    "neighbor_name": "PORTAKALLIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41480,
+    "neighbor_name": "SARAYYANI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41485,
+    "neighbor_name": "ŞİRİNKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41472,
+    "neighbor_name": "TURGUT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41460,
+    "neighbor_name": "YAYLASÖĞÜT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41473,
+    "neighbor_name": "YEŞİLÇAM MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 802,
+    "district_name": "ULA",
+    "neighbor_id": 41478,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41702,
+    "neighbor_name": "AKGEDİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41672,
+    "neighbor_name": "AKYOL MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41666,
+    "neighbor_name": "ALAŞAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41695,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41707,
+    "neighbor_name": "BAĞYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41696,
+    "neighbor_name": "BAHÇEYAKA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41697,
+    "neighbor_name": "BENCİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41665,
+    "neighbor_name": "BOZARMUT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41680,
+    "neighbor_name": "BOZÜYÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41667,
+    "neighbor_name": "CAZKIRLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41694,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41706,
+    "neighbor_name": "ÇAKIRLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41692,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41686,
+    "neighbor_name": "ÇUKURÖZ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41661,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41668,
+    "neighbor_name": "DEŞTİN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41662,
+    "neighbor_name": "DOĞANKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41688,
+    "neighbor_name": "ELMACIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41689,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41669,
+    "neighbor_name": "ESKİHİSAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41670,
+    "neighbor_name": "GÖKGEDİK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41673,
+    "neighbor_name": "GÖKPINAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41690,
+    "neighbor_name": "HACIBAYRAMLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41698,
+    "neighbor_name": "HACIVELİLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41663,
+    "neighbor_name": "HİSARARDI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41674,
+    "neighbor_name": "KADIKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41682,
+    "neighbor_name": "KAFACAKAPLANCIK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41710,
+    "neighbor_name": "KAPUBAĞ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41683,
+    "neighbor_name": "KATRANCI MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41664,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41691,
+    "neighbor_name": "KIRIKKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41671,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41703,
+    "neighbor_name": "KOZAĞAÇ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41684,
+    "neighbor_name": "KÖKLÜK MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41704,
+    "neighbor_name": "MADENLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41675,
+    "neighbor_name": "MESKEN MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41676,
+    "neighbor_name": "NEBİKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41687,
+    "neighbor_name": "ŞAHİNLER MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41693,
+    "neighbor_name": "ŞEREF MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41708,
+    "neighbor_name": "TURGUTLAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41677,
+    "neighbor_name": "TURGUT MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41699,
+    "neighbor_name": "YAVA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41700,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41685,
+    "neighbor_name": "YENİKARAKUYU MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41709,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41701,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41678,
+    "neighbor_name": "YEŞİLBAĞCILAR MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41679,
+    "neighbor_name": "YEŞİLKÖY MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41681,
+    "neighbor_name": "YUKARIYAYLA MAH."
+  },
+  {
+    "city_id": 63,
+    "city_name": "MUĞLA",
+    "district_id": 809,
+    "district_name": "YATAĞAN",
+    "neighbor_id": 41705,
+    "neighbor_name": "ZEYTİNKÖY MAH."
+  }
+]

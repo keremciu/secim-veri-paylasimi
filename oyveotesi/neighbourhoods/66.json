@@ -1,0 +1,2346 @@
+[
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42292,
+    "neighbor_name": "ASLANLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42295,
+    "neighbor_name": "BAHÇELİ EVLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42271,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42291,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42287,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42283,
+    "neighbor_name": "İSLAM MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42284,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42278,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42288,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42281,
+    "neighbor_name": "YENI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42289,
+    "neighbor_name": "YEŞİL YURT MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42285,
+    "neighbor_name": "ARICAKLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42277,
+    "neighbor_name": "ARIKLIKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42293,
+    "neighbor_name": "AŞAĞIARICAKLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42294,
+    "neighbor_name": "AŞAĞIKARADERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42286,
+    "neighbor_name": "BEKDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42296,
+    "neighbor_name": "BURGAÇLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42272,
+    "neighbor_name": "GÖKMUSTAFALI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42276,
+    "neighbor_name": "İNDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42279,
+    "neighbor_name": "KAMAN KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42280,
+    "neighbor_name": "KIZLAÇ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42290,
+    "neighbor_name": "NOHUT KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42282,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42273,
+    "neighbor_name": "SAVRANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42274,
+    "neighbor_name": "YAYLALIK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 823,
+    "district_name": "BAHÇE",
+    "neighbor_id": 42275,
+    "neighbor_name": "YUKARIKARDERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42339,
+    "neighbor_name": "BOĞAZİÇİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42347,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 50650,
+    "neighbor_name": "ÇAMİÇİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42318,
+    "neighbor_name": "ÇİFTLİK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42314,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42358,
+    "neighbor_name": "İRFANLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42322,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42338,
+    "neighbor_name": "KARACAOĞLAN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42315,
+    "neighbor_name": "KARKIN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42316,
+    "neighbor_name": "KARLICA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42336,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42329,
+    "neighbor_name": "KURTBEYOĞLU MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42356,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42340,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42308,
+    "neighbor_name": "ŞEHİT ASKER KEMAL KESKİN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42348,
+    "neighbor_name": "UZUN BANI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42307,
+    "neighbor_name": "ÜZÜMLÜ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42344,
+    "neighbor_name": "YENİCE HARUNİYE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42362,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42325,
+    "neighbor_name": "YUKARI HACILAR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42355,
+    "neighbor_name": "ATALAN-ÇUKUROBA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42327,
+    "neighbor_name": "ATALAN-KATOBASI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42319,
+    "neighbor_name": "ATALAN-MERKEZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42323,
+    "neighbor_name": "ATALAN-ŞEHİT HÜSEYİN SARI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42304,
+    "neighbor_name": "BÖCEKLİ-BOYALI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42298,
+    "neighbor_name": "BÖCEKLİ-CELİLLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42341,
+    "neighbor_name": "BÖCEKLİ-DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42320,
+    "neighbor_name": "BÖCEKLİ-DÜMBÜRDEK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42299,
+    "neighbor_name": "BÖCEKLİ-KÜRT MAHMUTLAR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42334,
+    "neighbor_name": "BÖCEKLİ-YEŞİL YURT MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42330,
+    "neighbor_name": "ELLEK-AYDINLAR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42309,
+    "neighbor_name": "ELLEK-ÇEVLİK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42335,
+    "neighbor_name": "ELLEK-ÇİRAZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42360,
+    "neighbor_name": "ELLEK-GÖKYILDIZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42331,
+    "neighbor_name": "ELLEK-MERKEZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42328,
+    "neighbor_name": "ELLEK-PEÇENEK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42342,
+    "neighbor_name": "ELLEK-SOYLAR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42305,
+    "neighbor_name": "ELLEK-ŞEHİT ALİ GÖKÇE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42357,
+    "neighbor_name": "YARBAŞI-KARACAÖREN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42333,
+    "neighbor_name": "YARBAŞI-KARAÇARLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42353,
+    "neighbor_name": "YARBAŞI-MERKEZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42326,
+    "neighbor_name": "AKÇAKOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42303,
+    "neighbor_name": "ALİBOZLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42297,
+    "neighbor_name": "BAYINDIRLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42313,
+    "neighbor_name": "BOSTANLAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42301,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42354,
+    "neighbor_name": "ÇERÇİOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42346,
+    "neighbor_name": "ÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42302,
+    "neighbor_name": "ÇOTLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42359,
+    "neighbor_name": "ELBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42310,
+    "neighbor_name": "FARSAK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42349,
+    "neighbor_name": "GÖKÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42337,
+    "neighbor_name": "GÜMÜŞ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42300,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42350,
+    "neighbor_name": "KARAGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42306,
+    "neighbor_name": "KARAGUZ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42343,
+    "neighbor_name": "KUŞCU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42311,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42332,
+    "neighbor_name": "PİRSULTANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42351,
+    "neighbor_name": "SELVERLER KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42352,
+    "neighbor_name": "SÖĞÜTLÜGÖL KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42312,
+    "neighbor_name": "YAZLAMAZLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42361,
+    "neighbor_name": "YENİFARSAK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42321,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42317,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 824,
+    "district_name": "DÜZİÇİ",
+    "neighbor_id": 42324,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42369,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42370,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42372,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42367,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42364,
+    "neighbor_name": "ÇOLAKLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42368,
+    "neighbor_name": "ÇULHALI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42371,
+    "neighbor_name": "KALECİK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42363,
+    "neighbor_name": "KARAYİĞİT KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42365,
+    "neighbor_name": "SARAYOVA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 825,
+    "district_name": "HASANBEYLİ",
+    "neighbor_id": 42366,
+    "neighbor_name": "YANIKKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42418,
+    "neighbor_name": "7 MART MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42389,
+    "neighbor_name": "BAĞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42411,
+    "neighbor_name": "CEMALPAŞA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42405,
+    "neighbor_name": "CENGİZ TOPEL MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42397,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42379,
+    "neighbor_name": "DERVİŞPAŞA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42429,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42385,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42401,
+    "neighbor_name": "SAVRUN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42410,
+    "neighbor_name": "ŞEHİT HALİS ŞİŞMAN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42430,
+    "neighbor_name": "ŞEHİT İBRAHİM KUNDAKÇI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42406,
+    "neighbor_name": "ŞEHİT KANSU KÜÇÜKATEŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42395,
+    "neighbor_name": "ŞEHİT MEHMET DELİKUŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42375,
+    "neighbor_name": "ŞEHİT MEHMET HALLAÇ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42388,
+    "neighbor_name": "ŞEHİT MUSTAFA YAĞIZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42396,
+    "neighbor_name": "ŞEHİT ORHAN GÖK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42443,
+    "neighbor_name": "ŞEHİT VEDAT KOCADALLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42437,
+    "neighbor_name": "TUFANPAŞA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42426,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42427,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42452,
+    "neighbor_name": "AKKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42439,
+    "neighbor_name": "AKOVA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42444,
+    "neighbor_name": "ANBERİNARKI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42445,
+    "neighbor_name": "AŞAĞIBOZKUYU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42392,
+    "neighbor_name": "AŞAĞIÇİYANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42440,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42415,
+    "neighbor_name": "AZAPLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42446,
+    "neighbor_name": "BAHADIRLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42432,
+    "neighbor_name": "BEKERECİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42383,
+    "neighbor_name": "COŞKUNLAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42428,
+    "neighbor_name": "ÇAYGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42438,
+    "neighbor_name": "ÇINAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42450,
+    "neighbor_name": "ÇİĞCİK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42407,
+    "neighbor_name": "ÇİĞDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42417,
+    "neighbor_name": "ÇUKURKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42416,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42376,
+    "neighbor_name": "DURMUŞSOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42378,
+    "neighbor_name": "ERDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42373,
+    "neighbor_name": "GÖZTAŞI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42374,
+    "neighbor_name": "HACIHALİLOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42398,
+    "neighbor_name": "HALİTAĞALAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42421,
+    "neighbor_name": "HARDALLIK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42393,
+    "neighbor_name": "HARKAŞTIĞI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42431,
+    "neighbor_name": "İLBİSTANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42433,
+    "neighbor_name": "KABAYAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42408,
+    "neighbor_name": "KARABACAK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42434,
+    "neighbor_name": "KARAKÜTÜK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42414,
+    "neighbor_name": "KARATEPE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42394,
+    "neighbor_name": "KAYASUYU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42419,
+    "neighbor_name": "KERİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42420,
+    "neighbor_name": "KESİKKELİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42380,
+    "neighbor_name": "KESİM KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42390,
+    "neighbor_name": "KIZYUSUFLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42435,
+    "neighbor_name": "KİREMİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42384,
+    "neighbor_name": "KOÇLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42381,
+    "neighbor_name": "KÖSEPINARI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42391,
+    "neighbor_name": "KÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42422,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42436,
+    "neighbor_name": "MEHEDİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42382,
+    "neighbor_name": "MEZRETLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42423,
+    "neighbor_name": "NARLIKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42399,
+    "neighbor_name": "ORUÇBEY KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42387,
+    "neighbor_name": "ÖKSÜZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42400,
+    "neighbor_name": "SARITANIŞMANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42412,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42409,
+    "neighbor_name": "SÖĞÜTLÜDERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42451,
+    "neighbor_name": "ŞABAPLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42447,
+    "neighbor_name": "TAHTA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42441,
+    "neighbor_name": "TATARLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42448,
+    "neighbor_name": "TEKELİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42424,
+    "neighbor_name": "TOPRAKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42425,
+    "neighbor_name": "TOZLU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42413,
+    "neighbor_name": "VAYVAYLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42402,
+    "neighbor_name": "YALNIZDUT KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42403,
+    "neighbor_name": "YENİGÜN KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42404,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42442,
+    "neighbor_name": "YOĞUNOLUK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42377,
+    "neighbor_name": "YUKARIBOZKUYU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42386,
+    "neighbor_name": "YUKARIÇİYANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 826,
+    "district_name": "KADİRLİ",
+    "neighbor_id": 42449,
+    "neighbor_name": "YUSUFİZZETTİN KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42469,
+    "neighbor_name": "ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42475,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42521,
+    "neighbor_name": "ALİ BEKİRLİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42453,
+    "neighbor_name": "ALİBEYLİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42504,
+    "neighbor_name": "BAŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42497,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42471,
+    "neighbor_name": "DR.İHSAN GÖKNAL MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42498,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42464,
+    "neighbor_name": "ESENEVLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42458,
+    "neighbor_name": "EYÜP SULTAN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42522,
+    "neighbor_name": "FAKIUŞAĞI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42518,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42499,
+    "neighbor_name": "GEBELİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42454,
+    "neighbor_name": "HACI OSMANLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42514,
+    "neighbor_name": "HARAZ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42480,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42483,
+    "neighbor_name": "KARACAY MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42488,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 49838,
+    "neighbor_name": "KORKUT ATA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42527,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42528,
+    "neighbor_name": "M.AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42472,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42478,
+    "neighbor_name": "M.FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42529,
+    "neighbor_name": "MİMAR SİNAN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42507,
+    "neighbor_name": "RAHİME HATUN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42515,
+    "neighbor_name": "RAUFBEY MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42484,
+    "neighbor_name": "RIZAİYE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42457,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42490,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42482,
+    "neighbor_name": "ULAŞLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42517,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42523,
+    "neighbor_name": "YAVERPAŞA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42502,
+    "neighbor_name": "YEDİ OCAK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42485,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42513,
+    "neighbor_name": "YEŞİL YURT MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42509,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42486,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42470,
+    "neighbor_name": "CEVDETİYE-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42487,
+    "neighbor_name": "CEVDETİYE-KARATAŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42505,
+    "neighbor_name": "CEVDETİYE-KOCATEPE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42476,
+    "neighbor_name": "CEVDETİYE-YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42503,
+    "neighbor_name": "AKYAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42463,
+    "neighbor_name": "ARSLANLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42496,
+    "neighbor_name": "BAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42493,
+    "neighbor_name": "ÇAĞŞAK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42474,
+    "neighbor_name": "ÇARDAK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42494,
+    "neighbor_name": "ÇONA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42510,
+    "neighbor_name": "DEĞİRMEN OCAĞI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42525,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42526,
+    "neighbor_name": "DEREOBASI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42506,
+    "neighbor_name": "DERVİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 49611,
+    "neighbor_name": "HEMİTE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42459,
+    "neighbor_name": "ISSIZCA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42465,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42519,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42500,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42460,
+    "neighbor_name": "KAZMACA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42461,
+    "neighbor_name": "KESMEBURUN KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42466,
+    "neighbor_name": "KIRIKLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42455,
+    "neighbor_name": "KIRMACILI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42467,
+    "neighbor_name": "KIRMITLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42501,
+    "neighbor_name": "KOÇYURDU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42462,
+    "neighbor_name": "KÖYYERİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42477,
+    "neighbor_name": "KUMARLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42491,
+    "neighbor_name": "KÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42479,
+    "neighbor_name": "NOHUTTEPE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42492,
+    "neighbor_name": "ORHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42520,
+    "neighbor_name": "ORUÇGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42456,
+    "neighbor_name": "SAKARCALIK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42481,
+    "neighbor_name": "SAKIZGEDİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42473,
+    "neighbor_name": "SARPINAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42489,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42516,
+    "neighbor_name": "SERDAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42512,
+    "neighbor_name": "SERİNOVA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42495,
+    "neighbor_name": "ŞEKERDERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42468,
+    "neighbor_name": "TEHÇİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42508,
+    "neighbor_name": "YARPUZ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 827,
+    "district_name": "OSMANİYE MERKEZ",
+    "neighbor_id": 42524,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42241,
+    "neighbor_name": "DÖĞENLİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42248,
+    "neighbor_name": "KARAÖMERLİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42249,
+    "neighbor_name": "MEHMETLİ-ARMAĞANLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42239,
+    "neighbor_name": "MEHMETLİ-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42250,
+    "neighbor_name": "MEHMETLİ-YENİ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42251,
+    "neighbor_name": "AKÇATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42245,
+    "neighbor_name": "AKDAM KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42238,
+    "neighbor_name": "ALİBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42240,
+    "neighbor_name": "ÇİÇEKLİDERE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42246,
+    "neighbor_name": "ESENLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42242,
+    "neighbor_name": "GAFARLI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42247,
+    "neighbor_name": "HÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42243,
+    "neighbor_name": "KIZILÖMERLİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42252,
+    "neighbor_name": "KÖSELİ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42253,
+    "neighbor_name": "KÜÇÜKÇINAR KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42254,
+    "neighbor_name": "REŞADİYE KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42255,
+    "neighbor_name": "YAZIBOYU KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 821,
+    "district_name": "SUMBAS",
+    "neighbor_id": 42244,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42261,
+    "neighbor_name": "ÇAMLIKEVLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42258,
+    "neighbor_name": "DAGISTAN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42266,
+    "neighbor_name": "FATIH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42267,
+    "neighbor_name": "GÖÇMENLER MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42268,
+    "neighbor_name": "KARATAŞ MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42269,
+    "neighbor_name": "KIŞLA MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42259,
+    "neighbor_name": "KUMARLI MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42260,
+    "neighbor_name": "SAZLIK MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42257,
+    "neighbor_name": "TEPE MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 50121,
+    "neighbor_name": "TÜRKMEN-BÜYÜKTÜRKMEN MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 49487,
+    "neighbor_name": "TÜRKMEN-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 50141,
+    "neighbor_name": "TÜRKMEN-FATİH MAH."
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42262,
+    "neighbor_name": "ARSLANPINARI KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42256,
+    "neighbor_name": "LALEGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 66,
+    "city_name": "OSMANİYE",
+    "district_id": 822,
+    "district_name": "TOPRAKKALE",
+    "neighbor_id": 42263,
+    "neighbor_name": "SAYHÜYÜK KÖYÜ"
+  }
+]

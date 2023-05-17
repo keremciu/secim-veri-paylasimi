@@ -1,0 +1,2450 @@
+[
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32920,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32892,
+    "neighbor_name": "BEŞİKTAŞ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32887,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32879,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32888,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32868,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32905,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32871,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32866,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32882,
+    "neighbor_name": "ORHANGAZİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32894,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 50236,
+    "neighbor_name": "PELİTÖZÜ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32891,
+    "neighbor_name": "BAYIRKÖY-FATİH MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32903,
+    "neighbor_name": "BAYIRKÖY-GAZİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32924,
+    "neighbor_name": "BAYIRKÖY-SARMAŞIK MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32914,
+    "neighbor_name": "VEZİRHAN-ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32923,
+    "neighbor_name": "VEZİRHAN-İSTASYON MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32915,
+    "neighbor_name": "VEZİRHAN-KAYALAR MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32884,
+    "neighbor_name": "VEZİRHAN-KÖPRÜLÜ MEHMET PAŞA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32931,
+    "neighbor_name": "VEZİRHAN-YENİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32886,
+    "neighbor_name": "ABADİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32927,
+    "neighbor_name": "ABBASLIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32912,
+    "neighbor_name": "AHMETPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32907,
+    "neighbor_name": "ALPAĞUT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32875,
+    "neighbor_name": "AŞAĞIKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32906,
+    "neighbor_name": "AYVACIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32919,
+    "neighbor_name": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32872,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32908,
+    "neighbor_name": "BEKDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32897,
+    "neighbor_name": "BEYCE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32909,
+    "neighbor_name": "CUMALI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32902,
+    "neighbor_name": "ÇAKIRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32904,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32878,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32895,
+    "neighbor_name": "DERESAKARI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32921,
+    "neighbor_name": "DEREŞEMSETTİN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32928,
+    "neighbor_name": "ELMABAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32898,
+    "neighbor_name": "ERKOCA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32867,
+    "neighbor_name": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32880,
+    "neighbor_name": "GÜLÜMBE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32893,
+    "neighbor_name": "HASANDERE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32901,
+    "neighbor_name": "İKİZCE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32916,
+    "neighbor_name": "İLYASBEY KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32896,
+    "neighbor_name": "İLYASÇA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32925,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32913,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32929,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32873,
+    "neighbor_name": "KENDİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32889,
+    "neighbor_name": "KEPİRLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32890,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32926,
+    "neighbor_name": "KIZILDAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32881,
+    "neighbor_name": "KOYUNKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32930,
+    "neighbor_name": "KURTKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32869,
+    "neighbor_name": "KUYUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32876,
+    "neighbor_name": "KÜNCEĞİZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32922,
+    "neighbor_name": "KÜPLÜ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32874,
+    "neighbor_name": "NECMİYEKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32870,
+    "neighbor_name": "OKLUCA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32885,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32883,
+    "neighbor_name": "SELBÜKÜ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32911,
+    "neighbor_name": "SELÖZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32899,
+    "neighbor_name": "SÜTLÜK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32918,
+    "neighbor_name": "ŞÜKRANİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32877,
+    "neighbor_name": "TAŞÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32900,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 663,
+    "district_name": "BİLECİK MERKEZ",
+    "neighbor_id": 32917,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32843,
+    "neighbor_name": "4 EYLÜL MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32829,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32859,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 49988,
+    "neighbor_name": "İÇKÖY MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32826,
+    "neighbor_name": "KASIMPAŞA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32833,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32825,
+    "neighbor_name": "YEDİLER MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32828,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32857,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32845,
+    "neighbor_name": "YEŞİLKENT MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32809,
+    "neighbor_name": "DODURGA-MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32822,
+    "neighbor_name": "DODURGA-MİTHATPAŞA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32827,
+    "neighbor_name": "DODURGA-NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32839,
+    "neighbor_name": "DODURGA-ZİYA GÖKALP MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32820,
+    "neighbor_name": "AKÇAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32812,
+    "neighbor_name": "AKSUTEKKE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32821,
+    "neighbor_name": "ALİBEYDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32834,
+    "neighbor_name": "AŞAĞIARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32860,
+    "neighbor_name": "BOZALAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32835,
+    "neighbor_name": "CAMİLİYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32844,
+    "neighbor_name": "CİHANGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32811,
+    "neighbor_name": "ÇAMYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32852,
+    "neighbor_name": "ÇAYDERE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32837,
+    "neighbor_name": "ÇOKÇAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32846,
+    "neighbor_name": "DARIDERE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32853,
+    "neighbor_name": "DELİELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32810,
+    "neighbor_name": "DOMBAYÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32823,
+    "neighbor_name": "DÜBEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32831,
+    "neighbor_name": "DÜZAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32861,
+    "neighbor_name": "DÜZDAĞ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32836,
+    "neighbor_name": "ECEKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32849,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32840,
+    "neighbor_name": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32816,
+    "neighbor_name": "GÖYNÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32841,
+    "neighbor_name": "GÜNYARIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32817,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32850,
+    "neighbor_name": "KANDİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32847,
+    "neighbor_name": "KAPANALAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32818,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32830,
+    "neighbor_name": "KARABAYIR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32842,
+    "neighbor_name": "KARAÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32819,
+    "neighbor_name": "KETENLİK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32854,
+    "neighbor_name": "KIZILCAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32851,
+    "neighbor_name": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32864,
+    "neighbor_name": "KOVALICA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32813,
+    "neighbor_name": "KOZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32814,
+    "neighbor_name": "KUYUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32848,
+    "neighbor_name": "METRİSTEPE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32838,
+    "neighbor_name": "MURATDERE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32865,
+    "neighbor_name": "ORMANGÜZLE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32824,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32832,
+    "neighbor_name": "POYRA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32862,
+    "neighbor_name": "REVNAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32863,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32858,
+    "neighbor_name": "YENİÇEPNİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32855,
+    "neighbor_name": "YENİDODURGA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32815,
+    "neighbor_name": "YENİÜREĞİL KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 662,
+    "district_name": "BOZÜYÜK",
+    "neighbor_id": 32856,
+    "neighbor_name": "YEŞİLÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32957,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32933,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32956,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32935,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32936,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32934,
+    "neighbor_name": "AKÇAKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32971,
+    "neighbor_name": "AKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32972,
+    "neighbor_name": "ALIÇ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32960,
+    "neighbor_name": "ARICAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32938,
+    "neighbor_name": "ARMUTÇUK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32961,
+    "neighbor_name": "BALTALI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32958,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32954,
+    "neighbor_name": "BEDİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32945,
+    "neighbor_name": "BOLATLI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32946,
+    "neighbor_name": "BÜYÜKBELEN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32979,
+    "neighbor_name": "BÜYÜKSUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32939,
+    "neighbor_name": "BÜYÜKSÜRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32942,
+    "neighbor_name": "ÇENGELLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32974,
+    "neighbor_name": "ÇIMIŞKI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32955,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32951,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32962,
+    "neighbor_name": "DEMİRHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32966,
+    "neighbor_name": "DERECİKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32967,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32982,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32969,
+    "neighbor_name": "DOKUZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32980,
+    "neighbor_name": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32983,
+    "neighbor_name": "GÖKÇEÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32959,
+    "neighbor_name": "GÖLDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32963,
+    "neighbor_name": "GÖZAÇANLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32981,
+    "neighbor_name": "HACIKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32968,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32975,
+    "neighbor_name": "İNCİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32978,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32977,
+    "neighbor_name": "KARAAHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32970,
+    "neighbor_name": "KARACALAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32932,
+    "neighbor_name": "KASIMLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32940,
+    "neighbor_name": "KAVAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32949,
+    "neighbor_name": "KESKİN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32950,
+    "neighbor_name": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32943,
+    "neighbor_name": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32941,
+    "neighbor_name": "KUŞÇUÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32952,
+    "neighbor_name": "KÜÇÜKSUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32937,
+    "neighbor_name": "KÜÇÜKYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32984,
+    "neighbor_name": "KÜMBET KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32948,
+    "neighbor_name": "SARIHACILAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32964,
+    "neighbor_name": "SOFTALAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32944,
+    "neighbor_name": "SÖĞÜTCÜK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32965,
+    "neighbor_name": "ŞAHİNLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32973,
+    "neighbor_name": "TAŞÇIAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32976,
+    "neighbor_name": "TONGURLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32947,
+    "neighbor_name": "TÜRKMEN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 664,
+    "district_name": "GÖLPAZARI",
+    "neighbor_id": 32953,
+    "neighbor_name": "ÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33101,
+    "neighbor_name": "AKKUM MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33103,
+    "neighbor_name": "GÜNER ORBAY MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33106,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33112,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33102,
+    "neighbor_name": "AKKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33113,
+    "neighbor_name": "ÇAYKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33104,
+    "neighbor_name": "HARMANKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33105,
+    "neighbor_name": "HİSARCIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33107,
+    "neighbor_name": "KOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33110,
+    "neighbor_name": "MURATÇA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33108,
+    "neighbor_name": "SAMRI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33111,
+    "neighbor_name": "TARPAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 669,
+    "district_name": "İNHİSAR",
+    "neighbor_id": 33109,
+    "neighbor_name": "TOZMAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33001,
+    "neighbor_name": "CAMİCEDİT MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33011,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32986,
+    "neighbor_name": "HACELOĞLU MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33010,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33005,
+    "neighbor_name": "ADLİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32997,
+    "neighbor_name": "AĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32988,
+    "neighbor_name": "AKÇAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32991,
+    "neighbor_name": "AVDAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33006,
+    "neighbor_name": "BALÇIKHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33007,
+    "neighbor_name": "BELENALAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33000,
+    "neighbor_name": "BEREKET KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32989,
+    "neighbor_name": "BORCAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32993,
+    "neighbor_name": "BOYUNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32985,
+    "neighbor_name": "BÜYÜKYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32994,
+    "neighbor_name": "CİCİLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33015,
+    "neighbor_name": "ÇERKEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32987,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33002,
+    "neighbor_name": "DEREYÖRÜK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33012,
+    "neighbor_name": "DÜZMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33013,
+    "neighbor_name": "ERİCEK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32992,
+    "neighbor_name": "GÜNÜÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32998,
+    "neighbor_name": "HİSARCIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32995,
+    "neighbor_name": "KAZANCI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33003,
+    "neighbor_name": "KIZILÖZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33008,
+    "neighbor_name": "MEDETLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32996,
+    "neighbor_name": "OĞULPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33009,
+    "neighbor_name": "ORHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32999,
+    "neighbor_name": "SARIYAZI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 32990,
+    "neighbor_name": "SELÇİK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33004,
+    "neighbor_name": "SELİMİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 665,
+    "district_name": "OSMANELİ",
+    "neighbor_id": 33014,
+    "neighbor_name": "SOĞUCAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33016,
+    "neighbor_name": "BEŞİKLİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33045,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33032,
+    "neighbor_name": "DEREBOĞAZ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33033,
+    "neighbor_name": "DOĞANLAR MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33040,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33044,
+    "neighbor_name": "YÜZBAŞI MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33034,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33023,
+    "neighbor_name": "ALINCA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33024,
+    "neighbor_name": "ARAPDEDE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33028,
+    "neighbor_name": "ARPADERE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33031,
+    "neighbor_name": "BAHÇESULTAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33035,
+    "neighbor_name": "BOZCAARMUT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33041,
+    "neighbor_name": "BULDUK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33029,
+    "neighbor_name": "BURÇALIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33025,
+    "neighbor_name": "BÜYÜKELMALI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33017,
+    "neighbor_name": "DEMİRKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33020,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33026,
+    "neighbor_name": "DÜLGEROĞLU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33018,
+    "neighbor_name": "ESEMEN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33019,
+    "neighbor_name": "FIRANLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33036,
+    "neighbor_name": "GÜDE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33027,
+    "neighbor_name": "GÜMÜŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33038,
+    "neighbor_name": "GÜNYURDU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33021,
+    "neighbor_name": "KARADEDE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33042,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33043,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33022,
+    "neighbor_name": "KÜÇÜKELMALI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33030,
+    "neighbor_name": "NAZİFPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33037,
+    "neighbor_name": "SARIDAYI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 666,
+    "district_name": "PAZARYERİ",
+    "neighbor_id": 33039,
+    "neighbor_name": "SARNIÇ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33070,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33052,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33059,
+    "neighbor_name": "KAYHAN MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33060,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33047,
+    "neighbor_name": "TÜRKMENBAŞI MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33063,
+    "neighbor_name": "AKÇASU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33071,
+    "neighbor_name": "BORCAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33062,
+    "neighbor_name": "ÇALTI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33054,
+    "neighbor_name": "DEREBOYU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33053,
+    "neighbor_name": "DÖMEZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33058,
+    "neighbor_name": "DUDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33050,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33064,
+    "neighbor_name": "GÜNDÜZBEY KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33065,
+    "neighbor_name": "HAMİTABAT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33048,
+    "neighbor_name": "HAYRİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33072,
+    "neighbor_name": "KAYABALI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33066,
+    "neighbor_name": "KEPEN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33068,
+    "neighbor_name": "KIZILSARAY KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33049,
+    "neighbor_name": "KÜRE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33055,
+    "neighbor_name": "OLUKLU KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33069,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33073,
+    "neighbor_name": "RIZAPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33067,
+    "neighbor_name": "SAVCIBEY KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33046,
+    "neighbor_name": "SIRHOCA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33056,
+    "neighbor_name": "TUZAKLI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33061,
+    "neighbor_name": "YAKACIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33051,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 667,
+    "district_name": "SÖĞÜT",
+    "neighbor_id": 33057,
+    "neighbor_name": "ZEMZEMİYE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33081,
+    "neighbor_name": "ÇÖTE MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33091,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33096,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33089,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33090,
+    "neighbor_name": "AŞAĞIBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33077,
+    "neighbor_name": "AŞAĞIÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33078,
+    "neighbor_name": "BATIBELENÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33082,
+    "neighbor_name": "BELKESE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33087,
+    "neighbor_name": "CAFERLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33093,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33083,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33098,
+    "neighbor_name": "DOĞUBELENÖREN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33099,
+    "neighbor_name": "ESENKÖY"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33097,
+    "neighbor_name": "KARAHASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33084,
+    "neighbor_name": "KATRAN KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33074,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33076,
+    "neighbor_name": "KÖSÜRE KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33075,
+    "neighbor_name": "KUŞÇA KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33094,
+    "neighbor_name": "KÜKÜRT KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33079,
+    "neighbor_name": "NASUHLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33092,
+    "neighbor_name": "SELİM KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33095,
+    "neighbor_name": "SORGUNCUKAHİLER KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33080,
+    "neighbor_name": "TOHUMLAR KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33088,
+    "neighbor_name": "ULUCAK KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33100,
+    "neighbor_name": "YUKARIBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33085,
+    "neighbor_name": "YUKARIÇAYLI KÖYÜ"
+  },
+  {
+    "city_id": 50,
+    "city_name": "BİLECİK",
+    "district_id": 668,
+    "district_name": "YENİPAZAR",
+    "neighbor_id": 33086,
+    "neighbor_name": "YUMAKLI KÖYÜ"
+  }
+]

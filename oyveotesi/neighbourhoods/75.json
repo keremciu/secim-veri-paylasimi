@@ -1,0 +1,3362 @@
+[
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45679,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45686,
+    "neighbor_name": "BAYINDIR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45689,
+    "neighbor_name": "BELDE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45722,
+    "neighbor_name": "CUDİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45746,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45702,
+    "neighbor_name": "ÇAMLITEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45723,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45747,
+    "neighbor_name": "GAP MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45692,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45727,
+    "neighbor_name": "KORİK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45755,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45710,
+    "neighbor_name": "PETROL MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45694,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45707,
+    "neighbor_name": "ŞAFAK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45750,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45718,
+    "neighbor_name": "TİLMERC MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45688,
+    "neighbor_name": "ZİYAGÖKALP MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45708,
+    "neighbor_name": "AKÇA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45703,
+    "neighbor_name": "AKOBA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45721,
+    "neighbor_name": "BAYRAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45687,
+    "neighbor_name": "BIÇAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45726,
+    "neighbor_name": "ÇARIKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45738,
+    "neighbor_name": "DEMİRLİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45715,
+    "neighbor_name": "DİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45728,
+    "neighbor_name": "DOLUCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45748,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45724,
+    "neighbor_name": "GÜVERCİN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45739,
+    "neighbor_name": "KAYABAĞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45751,
+    "neighbor_name": "KOCALAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45717,
+    "neighbor_name": "KÖSETARLA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45705,
+    "neighbor_name": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45696,
+    "neighbor_name": "YAKITLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45712,
+    "neighbor_name": "YAYLICA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45734,
+    "neighbor_name": "YEDİYOL KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45700,
+    "neighbor_name": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45706,
+    "neighbor_name": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45731,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45720,
+    "neighbor_name": "AKYÜREK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45735,
+    "neighbor_name": "AYDINLIKEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45754,
+    "neighbor_name": "BAĞLAR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45736,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45701,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45730,
+    "neighbor_name": "ÇARŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45742,
+    "neighbor_name": "ÇAY MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 49452,
+    "neighbor_name": "GİRBEREŞİK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45744,
+    "neighbor_name": "GÜNEYKENT MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45709,
+    "neighbor_name": "HİLAL MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45732,
+    "neighbor_name": "HUZUR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45680,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45719,
+    "neighbor_name": "İLUH MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 49586,
+    "neighbor_name": "İRMİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 50234,
+    "neighbor_name": "KARDELEN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45745,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45697,
+    "neighbor_name": "KISMET MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45698,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45681,
+    "neighbor_name": "PAZARYERİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45682,
+    "neighbor_name": "PETROLKENT MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45725,
+    "neighbor_name": "RAMAN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45704,
+    "neighbor_name": "SAĞLIK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45699,
+    "neighbor_name": "SEYİTLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45711,
+    "neighbor_name": "SİTE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45684,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45729,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45685,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 49740,
+    "neighbor_name": "BALPINAR-SEGİRKAN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45743,
+    "neighbor_name": "BALPINAR-SEYRANTEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 49981,
+    "neighbor_name": "BALPINAR-YENİKÖY MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45753,
+    "neighbor_name": "BALPINAR-YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45690,
+    "neighbor_name": "BİNATLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45713,
+    "neighbor_name": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 49427,
+    "neighbor_name": "ÇEŞMEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45714,
+    "neighbor_name": "ÇEVRİMOVA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45737,
+    "neighbor_name": "DEMİRBİLEK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45733,
+    "neighbor_name": "KARAYÜN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45749,
+    "neighbor_name": "KESMEKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45740,
+    "neighbor_name": "KILIÇ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45716,
+    "neighbor_name": "KUYUBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45693,
+    "neighbor_name": "OYMATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45756,
+    "neighbor_name": "RECEPLER KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45695,
+    "neighbor_name": "SUÇEKEN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45757,
+    "neighbor_name": "URGANLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 899,
+    "district_name": "BATMAN MERKEZ",
+    "neighbor_id": 45741,
+    "neighbor_name": "YOLVEREN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45425,
+    "neighbor_name": "BAĞDU MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45399,
+    "neighbor_name": "BEHREM YOĞUN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45398,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45444,
+    "neighbor_name": "KOBİN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45428,
+    "neighbor_name": "MEHMET YATKIN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45402,
+    "neighbor_name": "MİLLİ EGEMENLİK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45439,
+    "neighbor_name": "İKİKÖPRÜ-KARADUMAN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45448,
+    "neighbor_name": "İKİKÖPRÜ-KIYANÇ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45440,
+    "neighbor_name": "İKİKÖPRÜ-TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45393,
+    "neighbor_name": "ALACA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45432,
+    "neighbor_name": "ASMADERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45430,
+    "neighbor_name": "ATBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45446,
+    "neighbor_name": "AYRANCI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45401,
+    "neighbor_name": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45405,
+    "neighbor_name": "BAŞARI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45406,
+    "neighbor_name": "BEŞPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45441,
+    "neighbor_name": "BEYÇAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45407,
+    "neighbor_name": "BİLEK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45404,
+    "neighbor_name": "ÇAKILLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45413,
+    "neighbor_name": "ÇAVUŞBAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45423,
+    "neighbor_name": "ÇIĞIRLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45442,
+    "neighbor_name": "DAĞYOLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45387,
+    "neighbor_name": "DANALI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45433,
+    "neighbor_name": "DAYILAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45388,
+    "neighbor_name": "DEĞİRMENÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45443,
+    "neighbor_name": "DEVEBOYNU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45414,
+    "neighbor_name": "DOĞANKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45394,
+    "neighbor_name": "DOĞANPAZARI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45395,
+    "neighbor_name": "DURUCAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45431,
+    "neighbor_name": "ESENCE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45396,
+    "neighbor_name": "ESKİHAMUR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45415,
+    "neighbor_name": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45426,
+    "neighbor_name": "ILICA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45419,
+    "neighbor_name": "IŞIKVEREN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45424,
+    "neighbor_name": "İKİYAKA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45437,
+    "neighbor_name": "İNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45389,
+    "neighbor_name": "KARATEPE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45391,
+    "neighbor_name": "KAŞÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45397,
+    "neighbor_name": "KAYATEPE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45434,
+    "neighbor_name": "KUMÇAY KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45409,
+    "neighbor_name": "KUMGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45410,
+    "neighbor_name": "KURUKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45436,
+    "neighbor_name": "KUŞÇUKURU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45427,
+    "neighbor_name": "KÜTÜKLÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45445,
+    "neighbor_name": "OĞUZ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45420,
+    "neighbor_name": "OTLUCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45408,
+    "neighbor_name": "ÖRMEGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45416,
+    "neighbor_name": "SAMANLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45417,
+    "neighbor_name": "TEKAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45421,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45438,
+    "neighbor_name": "UĞURCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45411,
+    "neighbor_name": "ÜÇKUYULAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45390,
+    "neighbor_name": "YAKACIK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45429,
+    "neighbor_name": "YALINCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45418,
+    "neighbor_name": "YALINKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45435,
+    "neighbor_name": "YARIMTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45422,
+    "neighbor_name": "YAZIHAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45412,
+    "neighbor_name": "YENİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45447,
+    "neighbor_name": "YENİYOL KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45403,
+    "neighbor_name": "YEŞİLOBA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45400,
+    "neighbor_name": "YOLKONAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 894,
+    "district_name": "BEŞİRİ",
+    "neighbor_id": 45392,
+    "neighbor_name": "YONTUKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45455,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45482,
+    "neighbor_name": "ÇUKURÇEŞME MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45465,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50248,
+    "neighbor_name": "YOLAĞZI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45496,
+    "neighbor_name": "KAYAPINAR-PINARBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45472,
+    "neighbor_name": "KAYAPINAR-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45450,
+    "neighbor_name": "AKBURÇ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45451,
+    "neighbor_name": "AKYAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50239,
+    "neighbor_name": "ARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45483,
+    "neighbor_name": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45498,
+    "neighbor_name": "ARICA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45489,
+    "neighbor_name": "AYDINCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45491,
+    "neighbor_name": "AYDINLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45458,
+    "neighbor_name": "BABNİR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45484,
+    "neighbor_name": "BAĞLICA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45456,
+    "neighbor_name": "BAĞÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45467,
+    "neighbor_name": "BAŞARKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 49813,
+    "neighbor_name": "BAŞOVA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45463,
+    "neighbor_name": "BECİRMAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45457,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45470,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50126,
+    "neighbor_name": "ÇALIŞKAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45480,
+    "neighbor_name": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45466,
+    "neighbor_name": "ÇUKURYURT KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50268,
+    "neighbor_name": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50245,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45477,
+    "neighbor_name": "DORUK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45485,
+    "neighbor_name": "DÜZMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45495,
+    "neighbor_name": "EYMİR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45499,
+    "neighbor_name": "GEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45459,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45468,
+    "neighbor_name": "GÖKÇEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45486,
+    "neighbor_name": "GÖNÜLLÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45464,
+    "neighbor_name": "GÜRBÜZ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45492,
+    "neighbor_name": "GÜZELÖZ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45493,
+    "neighbor_name": "HİSAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45460,
+    "neighbor_name": "KANTAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45478,
+    "neighbor_name": "KARALAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45500,
+    "neighbor_name": "KAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45473,
+    "neighbor_name": "KESİKSU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45452,
+    "neighbor_name": "KIRKAT KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 49810,
+    "neighbor_name": "KIŞLAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45474,
+    "neighbor_name": "KOÇAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45501,
+    "neighbor_name": "KOYUNLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45497,
+    "neighbor_name": "KOZLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45453,
+    "neighbor_name": "KÖMÜRCÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45475,
+    "neighbor_name": "KUTLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45494,
+    "neighbor_name": "NURLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50257,
+    "neighbor_name": "ÖZLER KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 50259,
+    "neighbor_name": "POYRAZ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45476,
+    "neighbor_name": "RÜZGARLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 49695,
+    "neighbor_name": "SARGIN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45487,
+    "neighbor_name": "SEKİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 49719,
+    "neighbor_name": "SERİNKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45502,
+    "neighbor_name": "TAŞÇI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45454,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45449,
+    "neighbor_name": "ULAŞ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45488,
+    "neighbor_name": "YAKITLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45469,
+    "neighbor_name": "YAMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45479,
+    "neighbor_name": "YASSICA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45481,
+    "neighbor_name": "YAYLADÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45490,
+    "neighbor_name": "YEMİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45471,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 895,
+    "district_name": "GERCÜŞ",
+    "neighbor_id": 45462,
+    "neighbor_name": "YÜCEKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 50378,
+    "neighbor_name": "DİCLE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 49729,
+    "neighbor_name": "EYYUBİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 50272,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 50247,
+    "neighbor_name": "RAMAN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45509,
+    "neighbor_name": "AKALIN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45516,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45510,
+    "neighbor_name": "BAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45518,
+    "neighbor_name": "BÜYÜKDERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45524,
+    "neighbor_name": "ÇARDAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45519,
+    "neighbor_name": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45520,
+    "neighbor_name": "IRMAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45508,
+    "neighbor_name": "İNCİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45503,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45504,
+    "neighbor_name": "KAYIKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45521,
+    "neighbor_name": "KUMLUCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45515,
+    "neighbor_name": "ÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45512,
+    "neighbor_name": "SAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45513,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45522,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45523,
+    "neighbor_name": "UZUNDERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45525,
+    "neighbor_name": "ÜÇYOL KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45514,
+    "neighbor_name": "YAKAKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 896,
+    "district_name": "HASANKEYF",
+    "neighbor_id": 45507,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45590,
+    "neighbor_name": "AĞAÇLIK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45553,
+    "neighbor_name": "AŞAĞIGÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50284,
+    "neighbor_name": "BAHÇELİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50299,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45597,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45583,
+    "neighbor_name": "DEĞİRMENDERE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45570,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45543,
+    "neighbor_name": "İSLAMBEY MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45534,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45595,
+    "neighbor_name": "KARPUZLU MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50283,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50273,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45561,
+    "neighbor_name": "KOMANDO MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45546,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50241,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45531,
+    "neighbor_name": "SELAHADDİNİ EYYÜBİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45589,
+    "neighbor_name": "ŞEMDİNAĞA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45585,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50277,
+    "neighbor_name": "TEPEÜSTÜ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45573,
+    "neighbor_name": "YAMAÇLI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45568,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50320,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45557,
+    "neighbor_name": "YOLALTI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50235,
+    "neighbor_name": "YOLÜSTÜ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45580,
+    "neighbor_name": "YUKARI GÜNEŞLİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50114,
+    "neighbor_name": "BEKİRHAN-ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49918,
+    "neighbor_name": "BEKİRHAN-GÜLPINAR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50149,
+    "neighbor_name": "BEKİRHAN-ORTAÇAY MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45539,
+    "neighbor_name": "BEKİRHAN-TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49879,
+    "neighbor_name": "BEKİRHAN-YAPRAKLI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45582,
+    "neighbor_name": "AKÇAKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45587,
+    "neighbor_name": "AKÇALI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45529,
+    "neighbor_name": "ALIÇLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45533,
+    "neighbor_name": "ARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45569,
+    "neighbor_name": "ARMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45588,
+    "neighbor_name": "AŞAĞIKIRATLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49441,
+    "neighbor_name": "BEKİRHAN YENİDOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45564,
+    "neighbor_name": "BEŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49654,
+    "neighbor_name": "BEYBAĞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45574,
+    "neighbor_name": "BÖLÜKKONAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50265,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50305,
+    "neighbor_name": "ÇAYGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45550,
+    "neighbor_name": "ÇAYHAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45551,
+    "neighbor_name": "ÇAYÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45532,
+    "neighbor_name": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45565,
+    "neighbor_name": "DANAGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50255,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45537,
+    "neighbor_name": "DERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49963,
+    "neighbor_name": "DÖVECİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45559,
+    "neighbor_name": "DUYGULU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45544,
+    "neighbor_name": "ESKİCE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45526,
+    "neighbor_name": "GEÇİTALTI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45575,
+    "neighbor_name": "GEYİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45545,
+    "neighbor_name": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49552,
+    "neighbor_name": "GÜMÜŞÖRGÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45560,
+    "neighbor_name": "GÜNDÜZLÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50275,
+    "neighbor_name": "GÜNYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45530,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45598,
+    "neighbor_name": "İNİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45566,
+    "neighbor_name": "KAHVECİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45576,
+    "neighbor_name": "KALETEPE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45571,
+    "neighbor_name": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45535,
+    "neighbor_name": "KARAOĞLAK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45527,
+    "neighbor_name": "KARPUZLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50269,
+    "neighbor_name": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45591,
+    "neighbor_name": "KAVAKDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45554,
+    "neighbor_name": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45567,
+    "neighbor_name": "KOÇAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45584,
+    "neighbor_name": "KONAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45577,
+    "neighbor_name": "KULLUDERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45562,
+    "neighbor_name": "KUMLUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45563,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45547,
+    "neighbor_name": "OYUKTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49532,
+    "neighbor_name": "ÖRENSU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49982,
+    "neighbor_name": "PARMAKKAPI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45548,
+    "neighbor_name": "PINARHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45592,
+    "neighbor_name": "SAMANYOLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50297,
+    "neighbor_name": "SEYİTLER KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 50244,
+    "neighbor_name": "SEYRANTEPE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45593,
+    "neighbor_name": "TAŞLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45596,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45586,
+    "neighbor_name": "TOSUNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45594,
+    "neighbor_name": "TUZLAGÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45572,
+    "neighbor_name": "ULAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45540,
+    "neighbor_name": "UZUNÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45578,
+    "neighbor_name": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45552,
+    "neighbor_name": "ÜNSALDI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45528,
+    "neighbor_name": "YANIKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45541,
+    "neighbor_name": "YANKILI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 49516,
+    "neighbor_name": "YAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45538,
+    "neighbor_name": "YAYALAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45549,
+    "neighbor_name": "YAZILI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45555,
+    "neighbor_name": "YAZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45536,
+    "neighbor_name": "YEDİBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45556,
+    "neighbor_name": "YENİÇAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45579,
+    "neighbor_name": "YENİDOĞAN ASE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45542,
+    "neighbor_name": "YILDIZLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45581,
+    "neighbor_name": "YUKARIKIRATLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 897,
+    "district_name": "KOZLUK",
+    "neighbor_id": 45558,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45643,
+    "neighbor_name": "AŞAĞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45606,
+    "neighbor_name": "AYKUT OZAN MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45676,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45613,
+    "neighbor_name": "DEMETEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45620,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45604,
+    "neighbor_name": "EMEK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45670,
+    "neighbor_name": "ERDEMLİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45677,
+    "neighbor_name": "GÜRPINAR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45633,
+    "neighbor_name": "HAYDAR MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45615,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45667,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45621,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45659,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45608,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45609,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45599,
+    "neighbor_name": "SEVEK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45625,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45672,
+    "neighbor_name": "TEKEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45634,
+    "neighbor_name": "TEKİNLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45618,
+    "neighbor_name": "YAYLATEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45669,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45635,
+    "neighbor_name": "YEŞİLEVLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45673,
+    "neighbor_name": "YEŞİLLER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45610,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45611,
+    "neighbor_name": "YEŞİLTEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45616,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45617,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45656,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45601,
+    "neighbor_name": "YÜCEBAĞ-AYDINLIK MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45636,
+    "neighbor_name": "YÜCEBAĞ-BARIŞ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45668,
+    "neighbor_name": "YÜCEBAĞ-BİNEKLİ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45629,
+    "neighbor_name": "YÜCEBAĞ-GÜNLÜCE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45650,
+    "neighbor_name": "YÜCEBAĞ-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45646,
+    "neighbor_name": "YÜCEBAĞ-KOÇKAYA MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45655,
+    "neighbor_name": "YÜCEBAĞ-TEPE MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45602,
+    "neighbor_name": "YÜCEBAĞ-YILDIZ MAH."
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45626,
+    "neighbor_name": "ACAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50100,
+    "neighbor_name": "ALTINDERE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45660,
+    "neighbor_name": "BALBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45637,
+    "neighbor_name": "BAYRAMLAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45661,
+    "neighbor_name": "BOĞAZKAPI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45651,
+    "neighbor_name": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45674,
+    "neighbor_name": "ÇAĞLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45647,
+    "neighbor_name": "ÇAKIRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45664,
+    "neighbor_name": "ÇALIŞIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45665,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45623,
+    "neighbor_name": "ÇINARLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45612,
+    "neighbor_name": "DAĞÇATI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50254,
+    "neighbor_name": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45638,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45627,
+    "neighbor_name": "DERİNCE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45644,
+    "neighbor_name": "DİKBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45603,
+    "neighbor_name": "DÖRTBÖLÜK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50286,
+    "neighbor_name": "EKİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45607,
+    "neighbor_name": "ERGÜNÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45645,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45640,
+    "neighbor_name": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45639,
+    "neighbor_name": "GENÇLER KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45666,
+    "neighbor_name": "GÜRGENLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45652,
+    "neighbor_name": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45648,
+    "neighbor_name": "HEYBELİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45675,
+    "neighbor_name": "İNCESU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45657,
+    "neighbor_name": "KALEYOLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45614,
+    "neighbor_name": "KARAMEŞE KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50289,
+    "neighbor_name": "KARAYÜN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45605,
+    "neighbor_name": "KAŞYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45678,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45630,
+    "neighbor_name": "KAYADÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50293,
+    "neighbor_name": "KELHASAN KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45631,
+    "neighbor_name": "KINALI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50519,
+    "neighbor_name": "KİLİMLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45653,
+    "neighbor_name": "KİLİS KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45658,
+    "neighbor_name": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50243,
+    "neighbor_name": "KULAKSIZ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45654,
+    "neighbor_name": "MEŞELİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45624,
+    "neighbor_name": "ÖRENAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45671,
+    "neighbor_name": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45628,
+    "neighbor_name": "SOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45622,
+    "neighbor_name": "TAŞYUVA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45641,
+    "neighbor_name": "TOPLUCA KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45662,
+    "neighbor_name": "TURNALI KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45600,
+    "neighbor_name": "UMURLU KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 49840,
+    "neighbor_name": "YAKABAĞ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45642,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45619,
+    "neighbor_name": "YİĞİTLER KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45649,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45632,
+    "neighbor_name": "YUVALAR KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 49757,
+    "neighbor_name": "YUVALIÇAY KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 45663,
+    "neighbor_name": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "city_id": 75,
+    "city_name": "BATMAN",
+    "district_id": 898,
+    "district_name": "SASON",
+    "neighbor_id": 50240,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  }
+]

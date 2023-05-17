@@ -1,0 +1,2298 @@
+[
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5318,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5280,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5295,
+    "neighbor_name": "DİNDOĞRU MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5319,
+    "neighbor_name": "FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5287,
+    "neighbor_name": "GAZİKEMAL MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5299,
+    "neighbor_name": "GAZİOSMANPAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5281,
+    "neighbor_name": "HACIHASAN MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5272,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5275,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5279,
+    "neighbor_name": "ALPULLU-GÜLBAHÇE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5303,
+    "neighbor_name": "ALPULLU-ŞEKER MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5311,
+    "neighbor_name": "ALPULLU-YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5312,
+    "neighbor_name": "BÜYÜKMANDIRA-HATİP MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5313,
+    "neighbor_name": "BÜYÜKMANDIRA-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5314,
+    "neighbor_name": "BÜYÜKMANDIRA-PAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5294,
+    "neighbor_name": "BÜYÜKMANDIRA-ŞAMDANİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5273,
+    "neighbor_name": "KARAHALİL-BİRLİK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5274,
+    "neighbor_name": "KARAHALİL-DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5283,
+    "neighbor_name": "KARAHALİL-FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5308,
+    "neighbor_name": "KARAHALİL-HALİLPAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5309,
+    "neighbor_name": "KARAHALİL-KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5293,
+    "neighbor_name": "AĞAYERİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5278,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5286,
+    "neighbor_name": "ÇENGERLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5302,
+    "neighbor_name": "ÇİĞDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5304,
+    "neighbor_name": "DÜĞÜNCÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5305,
+    "neighbor_name": "ERİKLERYURDU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5298,
+    "neighbor_name": "ERTUĞRULKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5282,
+    "neighbor_name": "HAZİNEDAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5288,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5296,
+    "neighbor_name": "KARABAYIR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5315,
+    "neighbor_name": "KARACAOĞLAN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5289,
+    "neighbor_name": "KARAMESUTLU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5277,
+    "neighbor_name": "KATRANCA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5290,
+    "neighbor_name": "KULELİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5320,
+    "neighbor_name": "KUMRULAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5321,
+    "neighbor_name": "KUZUÇARDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5292,
+    "neighbor_name": "MİNNETLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5291,
+    "neighbor_name": "MUTLU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5297,
+    "neighbor_name": "MÜSELLİM KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5306,
+    "neighbor_name": "NACAK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5276,
+    "neighbor_name": "NADIRLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5310,
+    "neighbor_name": "ORUÇLU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5300,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5322,
+    "neighbor_name": "PANCARKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5284,
+    "neighbor_name": "SİNANLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5316,
+    "neighbor_name": "SOFUHALİL KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5271,
+    "neighbor_name": "TAŞAĞIL BUCAK MERKEZİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5301,
+    "neighbor_name": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5307,
+    "neighbor_name": "TERZİLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5285,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 121,
+    "district_name": "BABAESKİ",
+    "neighbor_id": 5317,
+    "neighbor_name": "YENİMAHALLE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5329,
+    "neighbor_name": "HAMDİBEY MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5325,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5342,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5327,
+    "neighbor_name": "İĞNEADA-DENİZ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5330,
+    "neighbor_name": "İĞNEADA-YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5323,
+    "neighbor_name": "ARMUTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5324,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5331,
+    "neighbor_name": "BALABAN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5332,
+    "neighbor_name": "BEĞENDİK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5328,
+    "neighbor_name": "BOZTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5333,
+    "neighbor_name": "GÖKYAKA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5337,
+    "neighbor_name": "HAMDİBEY KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5336,
+    "neighbor_name": "İNCESIRT KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5338,
+    "neighbor_name": "KARACADAĞ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5339,
+    "neighbor_name": "LİMANKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5340,
+    "neighbor_name": "SARPDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5341,
+    "neighbor_name": "SİSLİOBA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5334,
+    "neighbor_name": "SİVRİLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5326,
+    "neighbor_name": "YEŞİLCE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 122,
+    "district_name": "DEMİRKÖY",
+    "neighbor_id": 5335,
+    "neighbor_name": "YİĞİTBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5349,
+    "neighbor_name": "AKALAR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 50568,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5375,
+    "neighbor_name": "BADEMLİK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5364,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5392,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5357,
+    "neighbor_name": "DOĞU MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5356,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5371,
+    "neighbor_name": "KARACAİBRAHİM MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5345,
+    "neighbor_name": "KARAHIDIR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5385,
+    "neighbor_name": "KARAKAŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5373,
+    "neighbor_name": "KOCAHIDIR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5353,
+    "neighbor_name": "PINAR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5363,
+    "neighbor_name": "YAYLA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5394,
+    "neighbor_name": "İNECE-KAZIMPAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5403,
+    "neighbor_name": "İNECE-KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5351,
+    "neighbor_name": "İNECE-ULUKONAK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5359,
+    "neighbor_name": "İNECE-YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5369,
+    "neighbor_name": "KAVAKLI-CELALİYE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5347,
+    "neighbor_name": "KAVAKLI-ÇARŞI MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5360,
+    "neighbor_name": "KAVAKLI-TURİST MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5399,
+    "neighbor_name": "KAVAKLI-YENİ OKULLAR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5355,
+    "neighbor_name": "ÜSKÜP-CEVAT PAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5348,
+    "neighbor_name": "ÜSKÜP-GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5381,
+    "neighbor_name": "ÜSKÜP-KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5370,
+    "neighbor_name": "ÜSKÜP-MEHMET ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5374,
+    "neighbor_name": "AHMETÇE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5368,
+    "neighbor_name": "ARİZBABA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5382,
+    "neighbor_name": "ARMAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5395,
+    "neighbor_name": "ASILBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5391,
+    "neighbor_name": "BAYRAMDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5372,
+    "neighbor_name": "BEYPINAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5400,
+    "neighbor_name": "ÇAĞALAYIK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5354,
+    "neighbor_name": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5380,
+    "neighbor_name": "ÇEŞMEKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5401,
+    "neighbor_name": "ÇUKURPINAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5390,
+    "neighbor_name": "DEĞİRMENCİK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5352,
+    "neighbor_name": "DEMİRCİHALİL KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5376,
+    "neighbor_name": "DEREKÖY BUCAK MERKEZİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5386,
+    "neighbor_name": "DEVEÇATAĞI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5377,
+    "neighbor_name": "DOKUZHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5361,
+    "neighbor_name": "DOLHAN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5387,
+    "neighbor_name": "DÜZORMAN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5343,
+    "neighbor_name": "ERİKLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5344,
+    "neighbor_name": "ERİKLİCE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5383,
+    "neighbor_name": "GEÇİTAĞZI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5404,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5406,
+    "neighbor_name": "KAPAKLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5384,
+    "neighbor_name": "KARADERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5365,
+    "neighbor_name": "KARAHAMZA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5362,
+    "neighbor_name": "KARAKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5346,
+    "neighbor_name": "KARINCAK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5388,
+    "neighbor_name": "KAVAKDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5378,
+    "neighbor_name": "KAYALI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5358,
+    "neighbor_name": "KIZILCIKDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5393,
+    "neighbor_name": "KOCAHIDIR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5350,
+    "neighbor_name": "KORUKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5366,
+    "neighbor_name": "KOYUNBABA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 50580,
+    "neighbor_name": "KULA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5398,
+    "neighbor_name": "KUZULU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5379,
+    "neighbor_name": "PAŞAYERİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5396,
+    "neighbor_name": "ŞÜKRÜPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5367,
+    "neighbor_name": "ÜRÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5402,
+    "neighbor_name": "ÜSKÜPDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5405,
+    "neighbor_name": "YOĞUNTAŞ BUCAK MERKEZİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5397,
+    "neighbor_name": "YÜNDALAN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 123,
+    "district_name": "KIRKLARELİ MERKEZ",
+    "neighbor_id": 5389,
+    "neighbor_name": "YÜRÜKBAYIRI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5424,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5408,
+    "neighbor_name": "YEŞİLLİK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5412,
+    "neighbor_name": "AHLATLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5413,
+    "neighbor_name": "AHMETLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5409,
+    "neighbor_name": "AŞAĞIKANARA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5414,
+    "neighbor_name": "BEYCİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5417,
+    "neighbor_name": "DEVLETLİAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5410,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5418,
+    "neighbor_name": "KARAABALAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5419,
+    "neighbor_name": "KOCATARLA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5420,
+    "neighbor_name": "KOCAYAZI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5421,
+    "neighbor_name": "MALKOÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5422,
+    "neighbor_name": "TASTEPE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5411,
+    "neighbor_name": "TATLIPINAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5423,
+    "neighbor_name": "TERZİDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5416,
+    "neighbor_name": "TOPÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 124,
+    "district_name": "KOFÇAZ",
+    "neighbor_id": 5415,
+    "neighbor_name": "YUKARIKANARA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5434,
+    "neighbor_name": "8 KASIM MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5436,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5425,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5486,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5448,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5442,
+    "neighbor_name": "DURAK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5431,
+    "neighbor_name": "GENÇLİK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5459,
+    "neighbor_name": "GÜNDOĞU MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5445,
+    "neighbor_name": "GÜNEŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5482,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5440,
+    "neighbor_name": "İNÖNÜ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5446,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5453,
+    "neighbor_name": "KOCASİNAN MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5454,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5481,
+    "neighbor_name": "ÖZERLER MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5483,
+    "neighbor_name": "SARIMSAKLI MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5447,
+    "neighbor_name": "SEVGİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5460,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5462,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5479,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5488,
+    "neighbor_name": "YILDIZ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5463,
+    "neighbor_name": "YILMAZ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5464,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5465,
+    "neighbor_name": "AHMETBEY-DERE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5435,
+    "neighbor_name": "AHMETBEY-GÜNDOĞU MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5441,
+    "neighbor_name": "AHMETBEY-KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5437,
+    "neighbor_name": "BÜYÜKKARIŞTIRAN-FATİH MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5457,
+    "neighbor_name": "BÜYÜKKARIŞTIRAN-KÜÇÜKKARIŞTIRAN MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5476,
+    "neighbor_name": "BÜYÜKKARIŞTIRAN-YENİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5428,
+    "neighbor_name": "BÜYÜKKARIŞTIRAN-YILDIRIM MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5438,
+    "neighbor_name": "EVRENSEKİZ-FATİH MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5439,
+    "neighbor_name": "EVRENSEKİZ-GÜNDOĞU MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5443,
+    "neighbor_name": "EVRENSEKİZ-KIRCAALİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5472,
+    "neighbor_name": "AKÇAKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5444,
+    "neighbor_name": "ALACAOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5484,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5466,
+    "neighbor_name": "CELALİYE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5485,
+    "neighbor_name": "CEYLANKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5456,
+    "neighbor_name": "ÇENGELLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5480,
+    "neighbor_name": "ÇEŞMEKOLU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5429,
+    "neighbor_name": "ÇİFTLİKKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5452,
+    "neighbor_name": "DAVUTLU KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5473,
+    "neighbor_name": "DÜĞÜNCÜBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5469,
+    "neighbor_name": "EMİRALİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5458,
+    "neighbor_name": "ERTUĞRUL KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5470,
+    "neighbor_name": "ESKİBEDİR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5430,
+    "neighbor_name": "ESKİTAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5471,
+    "neighbor_name": "HAMİTABAT KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5426,
+    "neighbor_name": "HAMZABEY KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5449,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5468,
+    "neighbor_name": "KARAMUSUL KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5477,
+    "neighbor_name": "KAYABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5467,
+    "neighbor_name": "KIRIKKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5451,
+    "neighbor_name": "MÜSELLİM KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5432,
+    "neighbor_name": "OKLALI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5450,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5455,
+    "neighbor_name": "SAKIZKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5487,
+    "neighbor_name": "SARICAALİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5474,
+    "neighbor_name": "SEYİTLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5478,
+    "neighbor_name": "TATARKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5461,
+    "neighbor_name": "TURGUTBEY KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5433,
+    "neighbor_name": "UMURCA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5475,
+    "neighbor_name": "YENİBEDİR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 125,
+    "district_name": "LÜLEBURGAZ",
+    "neighbor_id": 5427,
+    "neighbor_name": "YENİTAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5210,
+    "neighbor_name": "ERGENE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5211,
+    "neighbor_name": "KAZIMDİRİK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5212,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5208,
+    "neighbor_name": "AKARCA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5209,
+    "neighbor_name": "DOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5203,
+    "neighbor_name": "HIDIRCA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5207,
+    "neighbor_name": "İMAMPAZARI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5204,
+    "neighbor_name": "KUMKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5205,
+    "neighbor_name": "KUŞTEPE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5213,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 118,
+    "district_name": "PEHLİVANKÖY",
+    "neighbor_id": 5206,
+    "neighbor_name": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5223,
+    "neighbor_name": "BEYLİK MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5224,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5217,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5220,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5229,
+    "neighbor_name": "KAYNARCA-AKARLAR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5228,
+    "neighbor_name": "KAYNARCA-IŞIKLAR MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5225,
+    "neighbor_name": "KAYNARCA-YENİCAMİİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5233,
+    "neighbor_name": "AKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5215,
+    "neighbor_name": "ATAKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5234,
+    "neighbor_name": "CEVİZKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5232,
+    "neighbor_name": "ÇAYIRDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5227,
+    "neighbor_name": "ERENLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5218,
+    "neighbor_name": "EVCİLER KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5219,
+    "neighbor_name": "HACIFAKILI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5214,
+    "neighbor_name": "İSLAMBEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5216,
+    "neighbor_name": "KURUDERE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5221,
+    "neighbor_name": "OSMANCIK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5230,
+    "neighbor_name": "POYRALI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5231,
+    "neighbor_name": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5226,
+    "neighbor_name": "TOZAKLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 119,
+    "district_name": "PINARHİSAR",
+    "neighbor_id": 5222,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5235,
+    "neighbor_name": "DEVLET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5238,
+    "neighbor_name": "EVREN MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5239,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5259,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5262,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5247,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5241,
+    "neighbor_name": "ÇAKILLI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5256,
+    "neighbor_name": "ÇAKILLI-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5236,
+    "neighbor_name": "ÇAKILLI-ZAFER MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5254,
+    "neighbor_name": "KIYIKÖY-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5255,
+    "neighbor_name": "KIYIKÖY-GÜVEN MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5260,
+    "neighbor_name": "KIYIKÖY-KALE MAH."
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5250,
+    "neighbor_name": "AKINCILAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5245,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5237,
+    "neighbor_name": "AKSİCİM KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5242,
+    "neighbor_name": "BALKAYA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5244,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5270,
+    "neighbor_name": "ÇÜVENLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5267,
+    "neighbor_name": "DEVELİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5246,
+    "neighbor_name": "DOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5251,
+    "neighbor_name": "DÜZOVA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5258,
+    "neighbor_name": "EVRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5252,
+    "neighbor_name": "EVRENLİ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5253,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5268,
+    "neighbor_name": "HASBUĞA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5240,
+    "neighbor_name": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5261,
+    "neighbor_name": "KIZILAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5248,
+    "neighbor_name": "KÖMÜRKÖY"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5264,
+    "neighbor_name": "KÜÇÜKYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5265,
+    "neighbor_name": "MÜSELLİM KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5249,
+    "neighbor_name": "OKÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5243,
+    "neighbor_name": "PAZARLI KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5266,
+    "neighbor_name": "SERGEN KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5269,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5263,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 8,
+    "city_name": "KIRKLARELİ",
+    "district_id": 120,
+    "district_name": "VİZE",
+    "neighbor_id": 5257,
+    "neighbor_name": "TOPÇUKÖY"
+  }
+]

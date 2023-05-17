@@ -1,0 +1,1778 @@
+[
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17903,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17922,
+    "neighbor_name": "HACI CAMİ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17895,
+    "neighbor_name": "HAMAMATİK MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17900,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17897,
+    "neighbor_name": "MESCİT MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17901,
+    "neighbor_name": "TEPEBAŞI MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17896,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17915,
+    "neighbor_name": "AKÇAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17904,
+    "neighbor_name": "ANIL KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17911,
+    "neighbor_name": "ARPADEREN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17920,
+    "neighbor_name": "AŞAĞIBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17916,
+    "neighbor_name": "BAĞSUYU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17899,
+    "neighbor_name": "BÜYÜKÖRENCE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17928,
+    "neighbor_name": "CEBE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17912,
+    "neighbor_name": "DOĞANALAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17929,
+    "neighbor_name": "DOĞAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17921,
+    "neighbor_name": "ERKALKAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17917,
+    "neighbor_name": "GEDİKLER KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17923,
+    "neighbor_name": "GÖZLÜÇAYIR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17924,
+    "neighbor_name": "GÜLBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 50055,
+    "neighbor_name": "GÜNEYBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17918,
+    "neighbor_name": "KIRAÇLAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17908,
+    "neighbor_name": "PAŞACIK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17907,
+    "neighbor_name": "PAYAMDÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17925,
+    "neighbor_name": "SARIBALTA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17919,
+    "neighbor_name": "TEKELİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17926,
+    "neighbor_name": "TORATLI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17930,
+    "neighbor_name": "ULUKALE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17909,
+    "neighbor_name": "UZUNGÖL KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17914,
+    "neighbor_name": "VİŞNELİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17910,
+    "neighbor_name": "YEMİŞDERE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 355,
+    "district_name": "ÇEMİŞGEZEK",
+    "neighbor_id": 17893,
+    "neighbor_name": "YÜNBÜKEN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17948,
+    "neighbor_name": "DİYAP AĞA MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17949,
+    "neighbor_name": "FİKRİPAŞA MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17945,
+    "neighbor_name": "KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17951,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17940,
+    "neighbor_name": "ALTINÇEVRE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17952,
+    "neighbor_name": "ÇAĞLARCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17947,
+    "neighbor_name": "DALÖREN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17934,
+    "neighbor_name": "DERVİŞCEMAL KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17931,
+    "neighbor_name": "İN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17943,
+    "neighbor_name": "KARABAKIR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17944,
+    "neighbor_name": "KARDELEN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 50109,
+    "neighbor_name": "TÜRKTANER KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17937,
+    "neighbor_name": "YENİDOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 356,
+    "district_name": "HOZAT",
+    "neighbor_id": 17935,
+    "neighbor_name": "YÜCELDİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17963,
+    "neighbor_name": "ELTİHATUN MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17960,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17991,
+    "neighbor_name": "AKPAZAR-ÇARŞIBAŞI MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17981,
+    "neighbor_name": "AKPAZAR-ELMALIK MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18022,
+    "neighbor_name": "AKPAZAR-GÜNEŞDERE MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17995,
+    "neighbor_name": "AKPAZAR-KEPEKTAŞI MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18023,
+    "neighbor_name": "AKPAZAR-KUŞÇU MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18007,
+    "neighbor_name": "AKPAZAR-ÖRS MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18025,
+    "neighbor_name": "AĞAÇARDI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17984,
+    "neighbor_name": "AKDÜVEN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18024,
+    "neighbor_name": "AKTARLA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18008,
+    "neighbor_name": "ALANYAZI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 49867,
+    "neighbor_name": "ALHAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17978,
+    "neighbor_name": "ASLANYURDU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17993,
+    "neighbor_name": "AŞAĞIOYUMCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17973,
+    "neighbor_name": "AVUNCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18019,
+    "neighbor_name": "BALKAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17985,
+    "neighbor_name": "BEYLERMEZRASI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17958,
+    "neighbor_name": "BULGURCULAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17987,
+    "neighbor_name": "DANABURAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18014,
+    "neighbor_name": "DARIKENT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18027,
+    "neighbor_name": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17979,
+    "neighbor_name": "DEMİRKAZIK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18001,
+    "neighbor_name": "DOĞANLI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17959,
+    "neighbor_name": "GEÇİTVEREN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17967,
+    "neighbor_name": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17964,
+    "neighbor_name": "GÜMÜŞGÜN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17961,
+    "neighbor_name": "İSMAİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17965,
+    "neighbor_name": "KALAYCI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17998,
+    "neighbor_name": "KIZILCIK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17972,
+    "neighbor_name": "KIZILKALE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18010,
+    "neighbor_name": "KUŞHANE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18015,
+    "neighbor_name": "OTLUKAYA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17980,
+    "neighbor_name": "ÖRENİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 17970,
+    "neighbor_name": "SÜLÜNTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18016,
+    "neighbor_name": "TEMÜRTAHT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18012,
+    "neighbor_name": "YAZELİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18017,
+    "neighbor_name": "YENİBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 357,
+    "district_name": "MAZGİRT",
+    "neighbor_id": 18000,
+    "neighbor_name": "YUKARIOYUMCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18035,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18054,
+    "neighbor_name": "AŞAĞIDOLUCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18046,
+    "neighbor_name": "BALLICA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18039,
+    "neighbor_name": "BOSTANLI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18033,
+    "neighbor_name": "BÜYÜKYURT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18049,
+    "neighbor_name": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18029,
+    "neighbor_name": "DEREOVA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18053,
+    "neighbor_name": "GERİŞ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18041,
+    "neighbor_name": "GÜNEYCİK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18030,
+    "neighbor_name": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18042,
+    "neighbor_name": "GÜZELPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18043,
+    "neighbor_name": "KAPIBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18044,
+    "neighbor_name": "KILKÖY"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18031,
+    "neighbor_name": "SAPKÖY"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18050,
+    "neighbor_name": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18036,
+    "neighbor_name": "TURNAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18048,
+    "neighbor_name": "YAZGELDİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 358,
+    "district_name": "NAZIMİYE",
+    "neighbor_id": 18037,
+    "neighbor_name": "YİĞİTLER KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18106,
+    "neighbor_name": "94 MAHALLESİ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18070,
+    "neighbor_name": "KANDOLAR MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18109,
+    "neighbor_name": "PULUR MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18102,
+    "neighbor_name": "ADA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 50994,
+    "neighbor_name": "AĞAÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18099,
+    "neighbor_name": "AŞAĞITORUNOBA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 49959,
+    "neighbor_name": "BİLGEÇ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18089,
+    "neighbor_name": "BURNAK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18096,
+    "neighbor_name": "BUZLUTEPE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18088,
+    "neighbor_name": "CEVİZLİDERE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18092,
+    "neighbor_name": "ÇAKMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18085,
+    "neighbor_name": "ÇAT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18066,
+    "neighbor_name": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18095,
+    "neighbor_name": "EĞRİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 49553,
+    "neighbor_name": "ESKİGEDİK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18087,
+    "neighbor_name": "GÜNEYKONAK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18058,
+    "neighbor_name": "HANUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18059,
+    "neighbor_name": "IŞIKVURAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 50968,
+    "neighbor_name": "KARATAŞ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18060,
+    "neighbor_name": "KARAYONCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18076,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18071,
+    "neighbor_name": "KOYUNGÖLÜ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18083,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18055,
+    "neighbor_name": "MOLLAALİLER KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18098,
+    "neighbor_name": "PAŞADÜZÜ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18078,
+    "neighbor_name": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18110,
+    "neighbor_name": "TATUŞAĞI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18111,
+    "neighbor_name": "TOPUZLU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18081,
+    "neighbor_name": "YAYLAGÜNÜ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18056,
+    "neighbor_name": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18100,
+    "neighbor_name": "YENİKONAK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18091,
+    "neighbor_name": "YEŞİLYAZI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 359,
+    "district_name": "OVACIK",
+    "neighbor_id": 18065,
+    "neighbor_name": "ZİYARET KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18142,
+    "neighbor_name": "CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18157,
+    "neighbor_name": "DEREBAŞI MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18117,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18137,
+    "neighbor_name": "KALEDİBİ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18159,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18134,
+    "neighbor_name": "AKDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18141,
+    "neighbor_name": "ARDIÇ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18156,
+    "neighbor_name": "AŞAĞIGÜLBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18135,
+    "neighbor_name": "AYAZPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18147,
+    "neighbor_name": "BALLIDUT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18148,
+    "neighbor_name": "BEYDAMI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18127,
+    "neighbor_name": "BULGURTEPE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18115,
+    "neighbor_name": "ÇAKIRBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18116,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18136,
+    "neighbor_name": "DEMİRSABAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18128,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18160,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18119,
+    "neighbor_name": "DORUTAY KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18129,
+    "neighbor_name": "ELMAKAŞI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18122,
+    "neighbor_name": "GEÇİTYAKA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18123,
+    "neighbor_name": "GÖVDELİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18143,
+    "neighbor_name": "GÜNBOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18161,
+    "neighbor_name": "KAÇARLAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18158,
+    "neighbor_name": "KOÇPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18162,
+    "neighbor_name": "KOLANKAYA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18131,
+    "neighbor_name": "KONAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18132,
+    "neighbor_name": "KORLUCA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18149,
+    "neighbor_name": "MERCİMEK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18114,
+    "neighbor_name": "PINARLAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18125,
+    "neighbor_name": "SAĞMAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18150,
+    "neighbor_name": "SÖĞÜTLÜTEPE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18151,
+    "neighbor_name": "TOZKOPARAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18153,
+    "neighbor_name": "ULUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18154,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18155,
+    "neighbor_name": "YUKARIGÜLBAHÇE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 360,
+    "district_name": "PERTEK",
+    "neighbor_id": 18140,
+    "neighbor_name": "YUKARIYAKABAŞI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17834,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17836,
+    "neighbor_name": "ECEVİT MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17830,
+    "neighbor_name": "HİVER MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17831,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17832,
+    "neighbor_name": "MEYDANLAR MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50992,
+    "neighbor_name": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 49665,
+    "neighbor_name": "ÇOBANYILDIZI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50853,
+    "neighbor_name": "DEREBOYU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17835,
+    "neighbor_name": "DOĞANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 17829,
+    "neighbor_name": "HASANGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50068,
+    "neighbor_name": "KABADAL KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 49785,
+    "neighbor_name": "KANGALLI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50861,
+    "neighbor_name": "KOCATEPE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50880,
+    "neighbor_name": "MEZRAA KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 49470,
+    "neighbor_name": "SAĞLAMTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50101,
+    "neighbor_name": "TURNADERE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 353,
+    "district_name": "PÜLÜMÜR",
+    "neighbor_id": 50902,
+    "neighbor_name": "ÜÇDAM KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17889,
+    "neighbor_name": "AKTULUK MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17874,
+    "neighbor_name": "ALİBABA MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17883,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17870,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17840,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17872,
+    "neighbor_name": "İSMET İNÖNÜ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17892,
+    "neighbor_name": "MOĞULTAY MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17887,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17852,
+    "neighbor_name": "ATADOĞDU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17837,
+    "neighbor_name": "BAŞAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 49985,
+    "neighbor_name": "BATMAN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 50007,
+    "neighbor_name": "BÖĞÜRTLEN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17873,
+    "neighbor_name": "BUĞULU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17847,
+    "neighbor_name": "BURMAGEÇİT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17891,
+    "neighbor_name": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17867,
+    "neighbor_name": "DİKENLİ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17884,
+    "neighbor_name": "EĞRİYAMAÇ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17862,
+    "neighbor_name": "GEYİKSUYU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17850,
+    "neighbor_name": "GÖKÇEK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17863,
+    "neighbor_name": "GÖZEN KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17886,
+    "neighbor_name": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17841,
+    "neighbor_name": "KANOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17878,
+    "neighbor_name": "KARŞILAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17842,
+    "neighbor_name": "KOCAKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17855,
+    "neighbor_name": "KOPUZLAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 50897,
+    "neighbor_name": "KÖKLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17879,
+    "neighbor_name": "OKURLAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17851,
+    "neighbor_name": "PINAR KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17856,
+    "neighbor_name": "SARITAŞ KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17860,
+    "neighbor_name": "SUVAT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 50840,
+    "neighbor_name": "TAHT KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17880,
+    "neighbor_name": "TÜLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 27,
+    "city_name": "TUNCELİ",
+    "district_id": 354,
+    "district_name": "TUNCELİ MERKEZ",
+    "neighbor_id": 17846,
+    "neighbor_name": "YOLKONAK KÖYÜ"
+  }
+]

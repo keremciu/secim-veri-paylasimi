@@ -1,0 +1,2786 @@
+[
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13801,
+    "neighbor_name": "1.MURAT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13829,
+    "neighbor_name": "ABDURRAHMAN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13859,
+    "neighbor_name": "BABADEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13821,
+    "neighbor_name": "BARUTLUK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13854,
+    "neighbor_name": "ÇAVUŞBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13860,
+    "neighbor_name": "DİLAVERBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13844,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13815,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13841,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13830,
+    "neighbor_name": "KOCA SİNAN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13804,
+    "neighbor_name": "MEDRESE ALİ BEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13831,
+    "neighbor_name": "MENZİLAHIR MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13858,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13819,
+    "neighbor_name": "MİTHAT PAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13826,
+    "neighbor_name": "NİŞANCIPAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13807,
+    "neighbor_name": "SABUNİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13828,
+    "neighbor_name": "SARICAPAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13820,
+    "neighbor_name": "ŞÜKRÜPAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13853,
+    "neighbor_name": "TALATPAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13837,
+    "neighbor_name": "UMURBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13847,
+    "neighbor_name": "YANCIKÇI ŞAHİN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13851,
+    "neighbor_name": "YENİİMARET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13824,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13835,
+    "neighbor_name": "YILDIRIM HACI SARRAF MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13855,
+    "neighbor_name": "AHI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13802,
+    "neighbor_name": "AVARIZ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13816,
+    "neighbor_name": "BOSNA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13842,
+    "neighbor_name": "BUDAKDOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13856,
+    "neighbor_name": "BÜYÜKDÖLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13822,
+    "neighbor_name": "BÜYÜKİSMAİLÇE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13843,
+    "neighbor_name": "DEĞİRMENYENİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13838,
+    "neighbor_name": "DEMİRHANLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13839,
+    "neighbor_name": "DOYRAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13809,
+    "neighbor_name": "EKMEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13817,
+    "neighbor_name": "ELÇİLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13857,
+    "neighbor_name": "ESKİKADIN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13818,
+    "neighbor_name": "HACIUMUR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13803,
+    "neighbor_name": "HASANAĞA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13840,
+    "neighbor_name": "HATİP KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13861,
+    "neighbor_name": "HIDIRAĞA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13814,
+    "neighbor_name": "İSKENDER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13805,
+    "neighbor_name": "KARABULUT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13810,
+    "neighbor_name": "KARAKASIM KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13848,
+    "neighbor_name": "KARAYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13811,
+    "neighbor_name": "KAYAPA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13833,
+    "neighbor_name": "KEMAL KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13827,
+    "neighbor_name": "KORUCU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13834,
+    "neighbor_name": "KÖŞENÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13836,
+    "neighbor_name": "KÜÇÜKDÖLLÜK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13825,
+    "neighbor_name": "MENEKŞESOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13806,
+    "neighbor_name": "MURATÇALI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13812,
+    "neighbor_name": "MUSABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13852,
+    "neighbor_name": "ORHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13813,
+    "neighbor_name": "SARAYAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13849,
+    "neighbor_name": "SAZLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13850,
+    "neighbor_name": "SUAKACAĞI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13846,
+    "neighbor_name": "TAYAKADIN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13808,
+    "neighbor_name": "UZGAÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13845,
+    "neighbor_name": "ÜYÜKLÜTATAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13823,
+    "neighbor_name": "YENİKADIN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 284,
+    "district_name": "EDİRNE MERKEZ",
+    "neighbor_id": 13832,
+    "neighbor_name": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13866,
+    "neighbor_name": "ÇATALTEPE MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13874,
+    "neighbor_name": "GAZİÖMERBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13872,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13873,
+    "neighbor_name": "ABDURRAHİM KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13862,
+    "neighbor_name": "BÜYÜKEVREN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 50384,
+    "neighbor_name": "ÇANDIR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13877,
+    "neighbor_name": "ÇAVUŞKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13867,
+    "neighbor_name": "ÇERİBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13868,
+    "neighbor_name": "GÜLÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13878,
+    "neighbor_name": "HASKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13863,
+    "neighbor_name": "HİSARLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13879,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13864,
+    "neighbor_name": "KARAİNCİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13880,
+    "neighbor_name": "KOCAALİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13881,
+    "neighbor_name": "KÜÇÜKEVREN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13875,
+    "neighbor_name": "SULTANİÇE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13882,
+    "neighbor_name": "SÜTÇÜLER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13865,
+    "neighbor_name": "ŞEHİTLER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13869,
+    "neighbor_name": "UMURBEY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13870,
+    "neighbor_name": "VAKIF KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13871,
+    "neighbor_name": "YAZIR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 285,
+    "district_name": "ENEZ",
+    "neighbor_id": 13876,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13902,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13893,
+    "neighbor_name": "HACIGAZİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13884,
+    "neighbor_name": "HACIİSA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13885,
+    "neighbor_name": "HELVACI MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13910,
+    "neighbor_name": "VAROŞ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13899,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13891,
+    "neighbor_name": "ABALAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13889,
+    "neighbor_name": "ARPAÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13901,
+    "neighbor_name": "AZATLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13892,
+    "neighbor_name": "BAKIŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13906,
+    "neighbor_name": "BOSTANLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13900,
+    "neighbor_name": "ÇUKURKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13903,
+    "neighbor_name": "HABİLLER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13894,
+    "neighbor_name": "HASKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13886,
+    "neighbor_name": "KABAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13897,
+    "neighbor_name": "KÖSEÖMER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13896,
+    "neighbor_name": "KULUBALIK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13887,
+    "neighbor_name": "KUZUCU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13907,
+    "neighbor_name": "MUSULCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13908,
+    "neighbor_name": "NAİPYUSUF KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13909,
+    "neighbor_name": "NECATİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13904,
+    "neighbor_name": "OĞULPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13888,
+    "neighbor_name": "OSMANLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13895,
+    "neighbor_name": "SÖĞÜTLÜDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13905,
+    "neighbor_name": "ŞERBETTAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13898,
+    "neighbor_name": "TAHAL KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13890,
+    "neighbor_name": "TAPTIK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 286,
+    "district_name": "HAVSA",
+    "neighbor_id": 13883,
+    "neighbor_name": "YOLAGELDİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14117,
+    "neighbor_name": "BAYRAMBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14144,
+    "neighbor_name": "BOZKURT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 50422,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14137,
+    "neighbor_name": "KAPUCU MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14140,
+    "neighbor_name": "KÖPRÜ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14134,
+    "neighbor_name": "SARAÇ İLYAS MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14132,
+    "neighbor_name": "ESETÇE-ATATÜRK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14143,
+    "neighbor_name": "ESETÇE-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14122,
+    "neighbor_name": "ESETÇE-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14136,
+    "neighbor_name": "YENİKARPUZLU-FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14121,
+    "neighbor_name": "YENİKARPUZLU-GAZİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14125,
+    "neighbor_name": "YENİKARPUZLU-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14131,
+    "neighbor_name": "ALİÇOPEHLİVAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14138,
+    "neighbor_name": "BALABANCIK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14133,
+    "neighbor_name": "HACI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14118,
+    "neighbor_name": "HIDIRKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14126,
+    "neighbor_name": "İBRİKTEPE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14145,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14127,
+    "neighbor_name": "KOCAHIDIR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14119,
+    "neighbor_name": "KORUCU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14146,
+    "neighbor_name": "KOYUNTEPE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14139,
+    "neighbor_name": "KUMDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14128,
+    "neighbor_name": "KÜÇÜKDOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14123,
+    "neighbor_name": "PAŞAKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14141,
+    "neighbor_name": "PAZARDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14124,
+    "neighbor_name": "SARICAALİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14129,
+    "neighbor_name": "SARPDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14147,
+    "neighbor_name": "SULTAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14120,
+    "neighbor_name": "TEVFİKİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14135,
+    "neighbor_name": "TURPÇULAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 292,
+    "district_name": "İPSALA",
+    "neighbor_id": 14130,
+    "neighbor_name": "YAPILDAK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13983,
+    "neighbor_name": "AŞAĞI ZAFERİYE MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13994,
+    "neighbor_name": "BÜYÜK CAMİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13942,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13974,
+    "neighbor_name": "İSPAT CAMİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13985,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13965,
+    "neighbor_name": "İZZETİYE MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13984,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13949,
+    "neighbor_name": "PAŞAYİĞİT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13972,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13944,
+    "neighbor_name": "YENİMESCİT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13952,
+    "neighbor_name": "YUKARI ZAFERİYE MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13941,
+    "neighbor_name": "BEĞENDİK-AYDOĞAN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13966,
+    "neighbor_name": "BEĞENDİK-BEYKENT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13992,
+    "neighbor_name": "BEĞENDİK-KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13961,
+    "neighbor_name": "BEĞENDİK-YENİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13945,
+    "neighbor_name": "YENİMUHACİR-ATATÜRK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13946,
+    "neighbor_name": "YENİMUHACİR-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13979,
+    "neighbor_name": "YENİMUHACİR-İNÖNÜ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13973,
+    "neighbor_name": "YENİMUHACİR-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13947,
+    "neighbor_name": "AKÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13940,
+    "neighbor_name": "AKHOCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13938,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13986,
+    "neighbor_name": "BAHÇEKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13960,
+    "neighbor_name": "BARAĞI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13976,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13981,
+    "neighbor_name": "BOZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13967,
+    "neighbor_name": "BÜYÜKDOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13982,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13980,
+    "neighbor_name": "ÇELEBİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13953,
+    "neighbor_name": "ÇELTİK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13998,
+    "neighbor_name": "ÇOBANÇEŞMESİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13987,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13968,
+    "neighbor_name": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13995,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13989,
+    "neighbor_name": "GÖKÇETEPE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13996,
+    "neighbor_name": "GÜNDÜZLER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13988,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13939,
+    "neighbor_name": "KARACAALİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13969,
+    "neighbor_name": "KARAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13954,
+    "neighbor_name": "KARASATI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 14000,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13977,
+    "neighbor_name": "KILIÇKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13993,
+    "neighbor_name": "KIZKAPAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13948,
+    "neighbor_name": "KORUKLU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13955,
+    "neighbor_name": "KOZKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13978,
+    "neighbor_name": "KÜÇÜKDOĞANCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13970,
+    "neighbor_name": "LALACIK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13943,
+    "neighbor_name": "MAHMUTKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13956,
+    "neighbor_name": "MALTEPE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13962,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13957,
+    "neighbor_name": "MERCAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13971,
+    "neighbor_name": "ORHANİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13963,
+    "neighbor_name": "PIRNAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 14001,
+    "neighbor_name": "SAZLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13950,
+    "neighbor_name": "SEYDİKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13990,
+    "neighbor_name": "SİĞİLLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13964,
+    "neighbor_name": "SULUCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13999,
+    "neighbor_name": "ŞABANMERA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13975,
+    "neighbor_name": "ŞÜKRÜKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13958,
+    "neighbor_name": "TÜRKMEN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13997,
+    "neighbor_name": "YAYLAKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13951,
+    "neighbor_name": "YENİCEÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13959,
+    "neighbor_name": "YERLİSU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 288,
+    "district_name": "KEŞAN",
+    "neighbor_id": 13991,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14027,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14024,
+    "neighbor_name": "BÜYÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14012,
+    "neighbor_name": "ÇALLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14029,
+    "neighbor_name": "ÇATMA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14014,
+    "neighbor_name": "ÇÖMLEKAKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14013,
+    "neighbor_name": "ÇÖMLEK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14016,
+    "neighbor_name": "DEMİRKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14005,
+    "neighbor_name": "DOĞANKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14002,
+    "neighbor_name": "DOMBAY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14025,
+    "neighbor_name": "HACIDANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14006,
+    "neighbor_name": "HACILAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14017,
+    "neighbor_name": "HAMZABEYLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14018,
+    "neighbor_name": "HANLIYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14019,
+    "neighbor_name": "HÜSEYİNPINAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14022,
+    "neighbor_name": "KALKANSÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14026,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14020,
+    "neighbor_name": "KÜÇÜNLÜ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14021,
+    "neighbor_name": "ORTAKÇI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14023,
+    "neighbor_name": "ÖMEROBA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14008,
+    "neighbor_name": "SAKSAĞAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14009,
+    "neighbor_name": "SARIDANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14003,
+    "neighbor_name": "SİNANKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14015,
+    "neighbor_name": "SÜLEYMANDANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14010,
+    "neighbor_name": "TAŞLIMÜSELLİM KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14011,
+    "neighbor_name": "TUĞLALIK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14004,
+    "neighbor_name": "UZUNBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14007,
+    "neighbor_name": "VAYSAL KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 289,
+    "district_name": "LALAPAŞA",
+    "neighbor_id": 14028,
+    "neighbor_name": "YÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13918,
+    "neighbor_name": "B.DOĞANCA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13919,
+    "neighbor_name": "K. DOĞANCA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13932,
+    "neighbor_name": "KÜPLÜ-GAZİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13912,
+    "neighbor_name": "KÜPLÜ-MERKEZ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13937,
+    "neighbor_name": "SUBAŞI-İZZET PAŞA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13927,
+    "neighbor_name": "SUBAŞI-ŞEHİT MEHMET AYDIN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13917,
+    "neighbor_name": "ADASARHANLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13916,
+    "neighbor_name": "AKÇADAM KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13920,
+    "neighbor_name": "AKINCILAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13928,
+    "neighbor_name": "ALİBEY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13929,
+    "neighbor_name": "BÜYÜKALTIAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13924,
+    "neighbor_name": "HASIRCIARNAVUTKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13933,
+    "neighbor_name": "KADIDONDURMA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13925,
+    "neighbor_name": "KARAHAMZA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13921,
+    "neighbor_name": "KARAYUSUFLU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13922,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13913,
+    "neighbor_name": "KÜÇÜKALTIAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13923,
+    "neighbor_name": "KÜPDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13934,
+    "neighbor_name": "NASUHBEY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13926,
+    "neighbor_name": "OLACAK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13935,
+    "neighbor_name": "PAŞAYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13936,
+    "neighbor_name": "RAHMANCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13930,
+    "neighbor_name": "SAATAĞACI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13914,
+    "neighbor_name": "SEREM KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13915,
+    "neighbor_name": "UMURCA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13931,
+    "neighbor_name": "YAKUPBEY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 287,
+    "district_name": "MERİÇ",
+    "neighbor_id": 13911,
+    "neighbor_name": "YENİCEGÖRÜCE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14041,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14039,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14034,
+    "neighbor_name": "ŞAFAK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14043,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14040,
+    "neighbor_name": "AKARDERE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14036,
+    "neighbor_name": "BÜYÜK GERDELLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14042,
+    "neighbor_name": "DOMURCALI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14035,
+    "neighbor_name": "GEÇKİNLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14037,
+    "neighbor_name": "KERAMETTİN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14038,
+    "neighbor_name": "KÜKÜLER KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14030,
+    "neighbor_name": "SÜLECİK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14032,
+    "neighbor_name": "TAŞLISEKBAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14031,
+    "neighbor_name": "TATARLAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 290,
+    "district_name": "SÜLOĞLU",
+    "neighbor_id": 14033,
+    "neighbor_name": "YAĞCILI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14073,
+    "neighbor_name": "AŞÇIOĞLU MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14069,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14065,
+    "neighbor_name": "BÜYÜK ŞEHSUVARBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14076,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14083,
+    "neighbor_name": "ÇÖPKÖY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14077,
+    "neighbor_name": "DEMİRTAŞ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14049,
+    "neighbor_name": "HABİB HOCA MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14085,
+    "neighbor_name": "HALİSE HATUN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14098,
+    "neighbor_name": "KAVAK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14088,
+    "neighbor_name": "KÜÇÜK ŞEHSUVARBEY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14101,
+    "neighbor_name": "MAREŞAL FEVZİ ÇAKMAK MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14061,
+    "neighbor_name": "MESCİT MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14046,
+    "neighbor_name": "MURADİYE CAMİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14058,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14107,
+    "neighbor_name": "RIZAEFENDİ MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14109,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14105,
+    "neighbor_name": "KIRCASALİH-BALABAN MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14080,
+    "neighbor_name": "KIRCASALİH-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14051,
+    "neighbor_name": "KIRCASALİH-İSTİKLAL MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14075,
+    "neighbor_name": "KIRCASALİH-OKULLAR MAH."
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14111,
+    "neighbor_name": "ALIÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14062,
+    "neighbor_name": "ALTINYAZI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14068,
+    "neighbor_name": "ASLIHAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14093,
+    "neighbor_name": "BALABANKORU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14053,
+    "neighbor_name": "BALABAN KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14063,
+    "neighbor_name": "BAŞAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14074,
+    "neighbor_name": "BAYRAMLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14094,
+    "neighbor_name": "BEYKONAK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14115,
+    "neighbor_name": "BILDIR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14114,
+    "neighbor_name": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14064,
+    "neighbor_name": "ÇALI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14092,
+    "neighbor_name": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14095,
+    "neighbor_name": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14086,
+    "neighbor_name": "ÇOBANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14084,
+    "neighbor_name": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14059,
+    "neighbor_name": "DEĞİRMENCİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14089,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14054,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14116,
+    "neighbor_name": "ESKİKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 49625,
+    "neighbor_name": "GAZİHALİL KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14103,
+    "neighbor_name": "GAZİMEHMET KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14112,
+    "neighbor_name": "GEMİCİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14087,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14090,
+    "neighbor_name": "HAMİTLİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14070,
+    "neighbor_name": "HARMANLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14081,
+    "neighbor_name": "HASANPINAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14104,
+    "neighbor_name": "KADIKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14079,
+    "neighbor_name": "KARABÜRÇEK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14060,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14071,
+    "neighbor_name": "KARAYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14066,
+    "neighbor_name": "KAVACIK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14057,
+    "neighbor_name": "KAVAKAYAZMA KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14047,
+    "neighbor_name": "KIRKKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14067,
+    "neighbor_name": "KIRKÖY"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14099,
+    "neighbor_name": "KİREMİTÇİSALİH KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14106,
+    "neighbor_name": "KURDU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14048,
+    "neighbor_name": "KURTBEY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14044,
+    "neighbor_name": "KURTTEPE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14045,
+    "neighbor_name": "MAKSUTLU KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14100,
+    "neighbor_name": "MALKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14072,
+    "neighbor_name": "MEŞELİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14096,
+    "neighbor_name": "MUHACIRKADI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14110,
+    "neighbor_name": "ÖMERBEY KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14056,
+    "neighbor_name": "SAÇLIMÜSELLİM KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14055,
+    "neighbor_name": "SALARLI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14091,
+    "neighbor_name": "SAZLIMALKOÇ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14102,
+    "neighbor_name": "SIĞIRCILI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14082,
+    "neighbor_name": "SİPAHİ KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14108,
+    "neighbor_name": "SULTANŞAH KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14052,
+    "neighbor_name": "SÜLEYMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14078,
+    "neighbor_name": "TURNACI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14097,
+    "neighbor_name": "TÜRKOBASI KÖYÜ"
+  },
+  {
+    "city_id": 22,
+    "city_name": "EDİRNE",
+    "district_id": 291,
+    "district_name": "UZUNKÖPRÜ",
+    "neighbor_id": 14113,
+    "neighbor_name": "YAĞMURCA KÖYÜ"
+  }
+]

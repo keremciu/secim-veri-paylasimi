@@ -1,0 +1,2322 @@
+[
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29466,
+    "neighbor_name": "DEDE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29480,
+    "neighbor_name": "MUSA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29471,
+    "neighbor_name": "ULU MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29470,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29464,
+    "neighbor_name": "AĞIZBOĞAZ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29463,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29481,
+    "neighbor_name": "AMBAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29472,
+    "neighbor_name": "BERENDİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29483,
+    "neighbor_name": "BÖĞECİK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29482,
+    "neighbor_name": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29465,
+    "neighbor_name": "BÜYÜKKORAŞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29477,
+    "neighbor_name": "ÇATKÖY"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 49460,
+    "neighbor_name": "DİVLE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29484,
+    "neighbor_name": "DOKUZYOL KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29459,
+    "neighbor_name": "HÜYÜKBURUN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29476,
+    "neighbor_name": "KALEKÖY"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29473,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29460,
+    "neighbor_name": "KAVAKÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29479,
+    "neighbor_name": "KAVUKLAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29474,
+    "neighbor_name": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29475,
+    "neighbor_name": "KIRAMAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29461,
+    "neighbor_name": "KÜÇÜKKORAŞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29462,
+    "neighbor_name": "MELİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29467,
+    "neighbor_name": "PINARKAYA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29468,
+    "neighbor_name": "SARAYKÖY"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 602,
+    "district_name": "AYRANCI",
+    "neighbor_id": 29469,
+    "neighbor_name": "YARIKKUYU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29487,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29492,
+    "neighbor_name": "GÖZTEPE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29485,
+    "neighbor_name": "KİRAZLIYAYLA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29486,
+    "neighbor_name": "ŞİRİNDERE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29493,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29488,
+    "neighbor_name": "BOZYAKA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29491,
+    "neighbor_name": "BÜYÜKKARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29489,
+    "neighbor_name": "KIŞLAKÖY"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 603,
+    "district_name": "BAŞYAYLA",
+    "neighbor_id": 29490,
+    "neighbor_name": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29516,
+    "neighbor_name": "AKCAMESCİT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29502,
+    "neighbor_name": "BAŞPINAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29543,
+    "neighbor_name": "ÇINARLISU MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29503,
+    "neighbor_name": "DEĞİRMENLİK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29531,
+    "neighbor_name": "GÜLLÜK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29509,
+    "neighbor_name": "GÜLPAZAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29512,
+    "neighbor_name": "KARALAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29521,
+    "neighbor_name": "KEBENDİBİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29546,
+    "neighbor_name": "KEÇİPAZAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29541,
+    "neighbor_name": "KEŞİLLİK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29506,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29514,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29497,
+    "neighbor_name": "SANDIKLI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29522,
+    "neighbor_name": "SEYRAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29510,
+    "neighbor_name": "SUSAKLI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29523,
+    "neighbor_name": "TAŞBAŞI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29495,
+    "neighbor_name": "GÜNEYYURT-ARALIK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29499,
+    "neighbor_name": "GÜNEYYURT-CAMİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29532,
+    "neighbor_name": "GÜNEYYURT-HABİB MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29548,
+    "neighbor_name": "GÜNEYYURT-KIŞLACIK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29539,
+    "neighbor_name": "GÜNEYYURT-ODA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29518,
+    "neighbor_name": "GÜNEYYURT-ORTA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29504,
+    "neighbor_name": "GÜNEYYURT-PINARGÖZÜ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29527,
+    "neighbor_name": "GÜNEYYURT-YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29517,
+    "neighbor_name": "KAZANCI-BUCAK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29533,
+    "neighbor_name": "KAZANCI-ÇATALBADEM MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29496,
+    "neighbor_name": "KAZANCI-GÖKCELER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29549,
+    "neighbor_name": "KAZANCI-MERKEZ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29545,
+    "neighbor_name": "KAZANCI-TEPECİK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29528,
+    "neighbor_name": "KAZANCI-TÜRBESEKİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29550,
+    "neighbor_name": "KAZANCI-ULUKÖY MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29505,
+    "neighbor_name": "KAZANCI-YUKARI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29536,
+    "neighbor_name": "AĞAÇÇATI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29498,
+    "neighbor_name": "ARDIÇKAYA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29537,
+    "neighbor_name": "AŞAĞIÇAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29511,
+    "neighbor_name": "BALKUSAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29525,
+    "neighbor_name": "BOYALIK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29515,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29501,
+    "neighbor_name": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29520,
+    "neighbor_name": "ELMAYURDU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29494,
+    "neighbor_name": "ESKİCE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29544,
+    "neighbor_name": "EVSİN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29547,
+    "neighbor_name": "GÖKCESEKİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29508,
+    "neighbor_name": "GÖKÇEKENT KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29526,
+    "neighbor_name": "GÖRMELİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29538,
+    "neighbor_name": "İKİZÇINAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29540,
+    "neighbor_name": "KATRANLI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29513,
+    "neighbor_name": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29534,
+    "neighbor_name": "OLUKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29535,
+    "neighbor_name": "PAMUKLU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29507,
+    "neighbor_name": "PINARÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29542,
+    "neighbor_name": "SARIVADİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29529,
+    "neighbor_name": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29524,
+    "neighbor_name": "YALINDAL KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29551,
+    "neighbor_name": "YAYLAPAZARI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29500,
+    "neighbor_name": "YERBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29519,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 604,
+    "district_name": "ERMENEK",
+    "neighbor_id": 29530,
+    "neighbor_name": "YUKARIÇAĞLAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29568,
+    "neighbor_name": "ABBAS MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29688,
+    "neighbor_name": "AHİOSMAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29636,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29698,
+    "neighbor_name": "ALACASULUK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29603,
+    "neighbor_name": "ALİŞAHANE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29617,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29668,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29597,
+    "neighbor_name": "BAŞAKŞEHİR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29605,
+    "neighbor_name": "BEYAZKENT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29642,
+    "neighbor_name": "CEDİT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29578,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29594,
+    "neighbor_name": "ÇELTEK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29569,
+    "neighbor_name": "ELMAŞEHİR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29674,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29652,
+    "neighbor_name": "FENARİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29627,
+    "neighbor_name": "GAZİDÜKKAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29706,
+    "neighbor_name": "GEVHER HATUN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29581,
+    "neighbor_name": "HACICELAL MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29562,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29563,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29612,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29595,
+    "neighbor_name": "İBRAHİM HAKKI KONYALI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29567,
+    "neighbor_name": "İMARET MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29685,
+    "neighbor_name": "KARAMANOĞLU MEHMET BEY MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29681,
+    "neighbor_name": "KAZIM KARABEKİR PAŞA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29555,
+    "neighbor_name": "KIRBAĞI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29606,
+    "neighbor_name": "KİRİŞÇİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29644,
+    "neighbor_name": "KOÇAKDEDE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29647,
+    "neighbor_name": "KÜLHAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29631,
+    "neighbor_name": "LARENDE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29658,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29570,
+    "neighbor_name": "MANSURDEDE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29671,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29598,
+    "neighbor_name": "MÜMİNE HATUN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29682,
+    "neighbor_name": "NEFİSE SULTAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29675,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29587,
+    "neighbor_name": "PİRİREİS MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29588,
+    "neighbor_name": "RAUF DENKTAŞ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29629,
+    "neighbor_name": "SAKABAŞI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29600,
+    "neighbor_name": "SEKİÇEŞME MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29615,
+    "neighbor_name": "SİYAHSER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29659,
+    "neighbor_name": "SÜMER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29667,
+    "neighbor_name": "ŞEYH EDEBALİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29583,
+    "neighbor_name": "ŞEYH ŞAMİL MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29601,
+    "neighbor_name": "TABDUK EMRE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29649,
+    "neighbor_name": "TAHSİN ÜNAL MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29650,
+    "neighbor_name": "TOPUCAK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29645,
+    "neighbor_name": "URGAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29707,
+    "neighbor_name": "ÜNİVERSİTE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29557,
+    "neighbor_name": "VALİDE SULTAN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29702,
+    "neighbor_name": "YENİMAHALLE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29558,
+    "neighbor_name": "YENİŞEHİR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29634,
+    "neighbor_name": "YEŞİLADA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 50527,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29655,
+    "neighbor_name": "YUNUSKENT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29666,
+    "neighbor_name": "ZEMBİLLİ ALİ EFENDİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29635,
+    "neighbor_name": "ZİYA GÖKALP MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29684,
+    "neighbor_name": "AKÇAŞEHİR-ATATÜRK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29590,
+    "neighbor_name": "AKÇAŞEHİR-FATİH MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29559,
+    "neighbor_name": "AKÇAŞEHİR-GAZİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29616,
+    "neighbor_name": "AKÇAŞEHİR-HÜRRİYET MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29686,
+    "neighbor_name": "SUDURAĞI-BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29607,
+    "neighbor_name": "SUDURAĞI-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29665,
+    "neighbor_name": "SUDURAĞI-KETENCİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29625,
+    "neighbor_name": "ADA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29599,
+    "neighbor_name": "AĞAÇYURDU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29657,
+    "neighbor_name": "AĞILÖNÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29697,
+    "neighbor_name": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29596,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29641,
+    "neighbor_name": "ALAÇATI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29656,
+    "neighbor_name": "AŞAĞIAKIN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29591,
+    "neighbor_name": "AŞAĞIKIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29672,
+    "neighbor_name": "AYBASTI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29678,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29553,
+    "neighbor_name": "BARUTKAVURAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29679,
+    "neighbor_name": "BAŞKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29604,
+    "neighbor_name": "BAYIR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29673,
+    "neighbor_name": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29689,
+    "neighbor_name": "BOSTANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29662,
+    "neighbor_name": "BOYALI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29699,
+    "neighbor_name": "BOZKANDAK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29576,
+    "neighbor_name": "BÖLÜKYAZI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29663,
+    "neighbor_name": "BUCAKKIŞLA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29703,
+    "neighbor_name": "BURHAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29609,
+    "neighbor_name": "BURUNOBA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29577,
+    "neighbor_name": "CERİT KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29589,
+    "neighbor_name": "ÇAKIRBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29694,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29573,
+    "neighbor_name": "ÇAVUŞPINARI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29624,
+    "neighbor_name": "ÇİĞDEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29623,
+    "neighbor_name": "ÇİMENKUYU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29677,
+    "neighbor_name": "ÇOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29651,
+    "neighbor_name": "ÇUKURBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29574,
+    "neighbor_name": "ÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29704,
+    "neighbor_name": "DAĞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29579,
+    "neighbor_name": "DAMLAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29695,
+    "neighbor_name": "DEĞİRMENBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29584,
+    "neighbor_name": "DEMİRYURT KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29700,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29592,
+    "neighbor_name": "DİNEK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29705,
+    "neighbor_name": "EĞİLMEZ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29626,
+    "neighbor_name": "EKİNÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29554,
+    "neighbor_name": "ELMADAĞI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29701,
+    "neighbor_name": "EMİNLER KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29664,
+    "neighbor_name": "ERENKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29637,
+    "neighbor_name": "GÖÇER KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29643,
+    "neighbor_name": "GÖKÇE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29560,
+    "neighbor_name": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29580,
+    "neighbor_name": "GÜÇLER KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29669,
+    "neighbor_name": "GÜLDERE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29561,
+    "neighbor_name": "GÜLKAYA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29585,
+    "neighbor_name": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29691,
+    "neighbor_name": "İHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29661,
+    "neighbor_name": "İSLİHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29680,
+    "neighbor_name": "KALABA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29670,
+    "neighbor_name": "KAMENİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29586,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29646,
+    "neighbor_name": "KAŞOBA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29653,
+    "neighbor_name": "KILBASAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29638,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29628,
+    "neighbor_name": "KIZILLARAĞINI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29621,
+    "neighbor_name": "KIZILYAKA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29618,
+    "neighbor_name": "KİSECİK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29565,
+    "neighbor_name": "KOZLUBUCAK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29690,
+    "neighbor_name": "KURTDERESİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29639,
+    "neighbor_name": "KURUCABEL KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29593,
+    "neighbor_name": "LALE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29566,
+    "neighbor_name": "MADENŞEHRİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29632,
+    "neighbor_name": "MEDRESELİK KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29613,
+    "neighbor_name": "MESUDİYE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29564,
+    "neighbor_name": "MORCALI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29571,
+    "neighbor_name": "MURATDEDE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29572,
+    "neighbor_name": "NARLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29614,
+    "neighbor_name": "ORTAOBA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29610,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29575,
+    "neighbor_name": "ÖZDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29633,
+    "neighbor_name": "PAŞABAĞI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29611,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29683,
+    "neighbor_name": "SALUR KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29640,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29622,
+    "neighbor_name": "SAZLIYAKA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29654,
+    "neighbor_name": "SEYİTHASAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29648,
+    "neighbor_name": "SÜLEYMANHACI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29582,
+    "neighbor_name": "ŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29556,
+    "neighbor_name": "TARLAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29692,
+    "neighbor_name": "TAŞKALE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29676,
+    "neighbor_name": "TAVŞANLI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29552,
+    "neighbor_name": "ÜÇBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29620,
+    "neighbor_name": "ÜÇKUYU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29660,
+    "neighbor_name": "YAZILI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29687,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29696,
+    "neighbor_name": "YILANGÖMÜ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29608,
+    "neighbor_name": "YOLLARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29693,
+    "neighbor_name": "YUKARIAKIN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29630,
+    "neighbor_name": "YUKARIKIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29619,
+    "neighbor_name": "YUVATEPE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 605,
+    "district_name": "KARAMAN MERKEZ",
+    "neighbor_id": 29602,
+    "neighbor_name": "ZENGEN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29720,
+    "neighbor_name": "BOYACI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29711,
+    "neighbor_name": "EMİNETTİN MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29708,
+    "neighbor_name": "EMSALHAYAT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29716,
+    "neighbor_name": "OBA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29719,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29712,
+    "neighbor_name": "SELÇUKLU MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29710,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29709,
+    "neighbor_name": "TİMSAL MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29715,
+    "neighbor_name": "AKARKÖY"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29721,
+    "neighbor_name": "KARALGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29717,
+    "neighbor_name": "KIZILKUYU KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29718,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29714,
+    "neighbor_name": "ÖZYURT KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 606,
+    "district_name": "KAZIMKARABEKİR",
+    "neighbor_id": 29713,
+    "neighbor_name": "SİNCİ KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29725,
+    "neighbor_name": "ADİLLER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29734,
+    "neighbor_name": "BAŞ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29741,
+    "neighbor_name": "ÇAKILLAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29723,
+    "neighbor_name": "KARAKAYA MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29738,
+    "neighbor_name": "KÜÇÜK KARAPINAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 50056,
+    "neighbor_name": "MENÇEK MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29730,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29747,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29731,
+    "neighbor_name": "TURCALAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29740,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29732,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29744,
+    "neighbor_name": "GÖKTEPE-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29746,
+    "neighbor_name": "GÖKTEPE-ÇUKURBAĞ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29735,
+    "neighbor_name": "GÖKTEPE-ESENTEPE MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29736,
+    "neighbor_name": "GÖKTEPE-GÖKSU MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29737,
+    "neighbor_name": "GÖKTEPE-GÜLPAZAR MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29745,
+    "neighbor_name": "GÖKTEPE-GÜNDER MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29739,
+    "neighbor_name": "GÖKTEPE-YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29729,
+    "neighbor_name": "GÖKTEPE-YILDIZ MAH."
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29726,
+    "neighbor_name": "CİVANDERE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29727,
+    "neighbor_name": "CİVLER KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29728,
+    "neighbor_name": "DARAN KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29743,
+    "neighbor_name": "DUMLUGÖZE KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29722,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29724,
+    "neighbor_name": "KOÇAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 45,
+    "city_name": "KARAMAN",
+    "district_id": 607,
+    "district_name": "SARIVELİLER",
+    "neighbor_id": 29742,
+    "neighbor_name": "UĞURLU KÖYÜ"
+  }
+]

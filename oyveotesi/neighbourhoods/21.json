@@ -1,0 +1,8482 @@
+[
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13601,
+    "neighbor_name": "AKÇASAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13624,
+    "neighbor_name": "AKTAŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13625,
+    "neighbor_name": "ARMUTÇUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13602,
+    "neighbor_name": "BADEMLİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13593,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13603,
+    "neighbor_name": "BAYINDIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13588,
+    "neighbor_name": "BURUNCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13604,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13614,
+    "neighbor_name": "ÇAKIRYENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13615,
+    "neighbor_name": "ÇERİBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13589,
+    "neighbor_name": "DANACILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13626,
+    "neighbor_name": "DANAÇALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13605,
+    "neighbor_name": "DEMİRLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13594,
+    "neighbor_name": "DERECİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13608,
+    "neighbor_name": "DURHASAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13590,
+    "neighbor_name": "DÜĞÜNCÜLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13619,
+    "neighbor_name": "ELEKÇALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13627,
+    "neighbor_name": "ERİCEK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13595,
+    "neighbor_name": "GEDİKLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13606,
+    "neighbor_name": "GEYNİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13591,
+    "neighbor_name": "HACIAHMETLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13616,
+    "neighbor_name": "HACILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13592,
+    "neighbor_name": "HEMŞERİLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13609,
+    "neighbor_name": "HOCAHASAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13630,
+    "neighbor_name": "İSMETİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13599,
+    "neighbor_name": "KARAAĞIZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13611,
+    "neighbor_name": "KARAÇUKUR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13617,
+    "neighbor_name": "KARALAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13600,
+    "neighbor_name": "KAYAPA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13612,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13596,
+    "neighbor_name": "KUŞLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13628,
+    "neighbor_name": "MAZLUMLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13597,
+    "neighbor_name": "ORHAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13610,
+    "neighbor_name": "OSMANLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13621,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13618,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13598,
+    "neighbor_name": "PERÇİN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13620,
+    "neighbor_name": "PINARKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13629,
+    "neighbor_name": "PİREBEYLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13622,
+    "neighbor_name": "SARNIÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13613,
+    "neighbor_name": "TEKERLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13607,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 279,
+    "district_name": "BÜYÜKORHAN",
+    "neighbor_id": 13623,
+    "neighbor_name": "ZAFERİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13642,
+    "neighbor_name": "ADLİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13635,
+    "neighbor_name": "ATA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13631,
+    "neighbor_name": "BALIKPAZARI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13643,
+    "neighbor_name": "BÜYÜKKUMLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13652,
+    "neighbor_name": "CİHATLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13655,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13636,
+    "neighbor_name": "DEMİRSUBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13659,
+    "neighbor_name": "DR.ZİYA KAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13656,
+    "neighbor_name": "ENGÜRÜCÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13665,
+    "neighbor_name": "EŞREF DİNÇER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 50130,
+    "neighbor_name": "FEYZİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13644,
+    "neighbor_name": "FINDICAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13645,
+    "neighbor_name": "GENÇALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13632,
+    "neighbor_name": "GÜVENLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13660,
+    "neighbor_name": "HALİTPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13638,
+    "neighbor_name": "HAMİDİYEKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13653,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13661,
+    "neighbor_name": "HAYDARİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13646,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13639,
+    "neighbor_name": "KARACAALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13662,
+    "neighbor_name": "KATIRLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13647,
+    "neighbor_name": "KAYHAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13663,
+    "neighbor_name": "KUMLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13640,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13657,
+    "neighbor_name": "KURTUL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13664,
+    "neighbor_name": "KÜÇÜKKUMLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13633,
+    "neighbor_name": "MURATOBA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13654,
+    "neighbor_name": "NARLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13648,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13641,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13651,
+    "neighbor_name": "ŞAHİNYURDU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13634,
+    "neighbor_name": "ŞÜKRİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13658,
+    "neighbor_name": "UMURBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13649,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 280,
+    "district_name": "GEMLİK",
+    "neighbor_id": 13650,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13676,
+    "neighbor_name": "ADAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13677,
+    "neighbor_name": "AĞAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13669,
+    "neighbor_name": "CANBAZLARKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13666,
+    "neighbor_name": "DIŞKAYAKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13673,
+    "neighbor_name": "ERİCEKKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13667,
+    "neighbor_name": "HASANKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13680,
+    "neighbor_name": "İĞDİRKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13678,
+    "neighbor_name": "İPEKYOLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13679,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13670,
+    "neighbor_name": "KARAHIDIRKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13674,
+    "neighbor_name": "KAZIKLIKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13668,
+    "neighbor_name": "KUMLUKALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13671,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13675,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 281,
+    "district_name": "GÜRSU",
+    "neighbor_id": 13672,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12800,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12801,
+    "neighbor_name": "ALUTCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12784,
+    "neighbor_name": "BALATDANİŞMENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12798,
+    "neighbor_name": "BALLISARAY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12780,
+    "neighbor_name": "BEKDEMİRLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12795,
+    "neighbor_name": "ÇAKMAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12785,
+    "neighbor_name": "ÇAMOĞLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12782,
+    "neighbor_name": "ÇATALSÖĞÜT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12796,
+    "neighbor_name": "DEDEBALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12781,
+    "neighbor_name": "DELİCEGÜNEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12789,
+    "neighbor_name": "DUTLUCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12802,
+    "neighbor_name": "ECE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12797,
+    "neighbor_name": "GEDİKÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12774,
+    "neighbor_name": "GÖKÇELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12775,
+    "neighbor_name": "GÜLÖZÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12790,
+    "neighbor_name": "HARMANCIK AKALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12776,
+    "neighbor_name": "HOPANDANİŞMENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12791,
+    "neighbor_name": "ILICAKSU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12783,
+    "neighbor_name": "İSHAKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12777,
+    "neighbor_name": "KARACA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12803,
+    "neighbor_name": "KEPEKDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12799,
+    "neighbor_name": "KILAVUZLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12786,
+    "neighbor_name": "KIŞMANLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12787,
+    "neighbor_name": "KOCAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12788,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12792,
+    "neighbor_name": "MERKEZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12804,
+    "neighbor_name": "NALBANT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12793,
+    "neighbor_name": "OKÇULAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12778,
+    "neighbor_name": "SAÇAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12779,
+    "neighbor_name": "YAYABAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 268,
+    "district_name": "HARMANCIK",
+    "neighbor_id": 12794,
+    "neighbor_name": "YEŞİLYURT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13035,
+    "neighbor_name": "ALİBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12953,
+    "neighbor_name": "AŞAĞIBALLIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13041,
+    "neighbor_name": "BAHARİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12961,
+    "neighbor_name": "BAHÇEKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13048,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12975,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13011,
+    "neighbor_name": "ÇAYLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12970,
+    "neighbor_name": "ÇAYYAKA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13001,
+    "neighbor_name": "ÇİTLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12996,
+    "neighbor_name": "DEYDİNLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12967,
+    "neighbor_name": "DİPSİZGÖL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13044,
+    "neighbor_name": "DOĞANYURDU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12984,
+    "neighbor_name": "ELMAÇAYIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12950,
+    "neighbor_name": "ESKİ BAHÇEKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12947,
+    "neighbor_name": "ESKİKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13045,
+    "neighbor_name": "FEVZİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13029,
+    "neighbor_name": "GAZELLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13004,
+    "neighbor_name": "GÜLBAHÇE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13008,
+    "neighbor_name": "GÜNDÜZLÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13017,
+    "neighbor_name": "HACIKARA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13018,
+    "neighbor_name": "HAMAMLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13050,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12985,
+    "neighbor_name": "HAYRİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12979,
+    "neighbor_name": "HİLMİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12959,
+    "neighbor_name": "HOCAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13016,
+    "neighbor_name": "İCLALİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13043,
+    "neighbor_name": "İSAÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13027,
+    "neighbor_name": "KARAKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13030,
+    "neighbor_name": "KAYAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12976,
+    "neighbor_name": "KEMALPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12991,
+    "neighbor_name": "KESTANEALANI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12980,
+    "neighbor_name": "KIRAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12968,
+    "neighbor_name": "KONURLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12943,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13019,
+    "neighbor_name": "MADENKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13031,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13046,
+    "neighbor_name": "MEZİT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12987,
+    "neighbor_name": "MURATBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13032,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12965,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12969,
+    "neighbor_name": "OSMANİYEKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13002,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13020,
+    "neighbor_name": "PAŞAÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13025,
+    "neighbor_name": "SAADET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12973,
+    "neighbor_name": "SARIPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13047,
+    "neighbor_name": "SİNANBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12944,
+    "neighbor_name": "SOĞUKDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12999,
+    "neighbor_name": "SULHİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12989,
+    "neighbor_name": "SÜLE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13021,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13009,
+    "neighbor_name": "TAHTAKÖPRÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13003,
+    "neighbor_name": "TURGUTALPKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13014,
+    "neighbor_name": "TURGUTALP MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13000,
+    "neighbor_name": "TUZLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13010,
+    "neighbor_name": "TÜFEKÇİKONAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13038,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13052,
+    "neighbor_name": "YUKARIBALLIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13007,
+    "neighbor_name": "AKBAŞLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13037,
+    "neighbor_name": "AKHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12990,
+    "neighbor_name": "AKINCILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13040,
+    "neighbor_name": "BABAOĞLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13028,
+    "neighbor_name": "BAYKOCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12992,
+    "neighbor_name": "BAYRAMŞAH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12995,
+    "neighbor_name": "BİLALKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12962,
+    "neighbor_name": "BOĞAZKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12981,
+    "neighbor_name": "CEMİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12946,
+    "neighbor_name": "CERRAH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12982,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13039,
+    "neighbor_name": "ÇAVUŞKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13056,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12994,
+    "neighbor_name": "ÇİFTLİKKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12949,
+    "neighbor_name": "DÖMEZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12963,
+    "neighbor_name": "EDEBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13054,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13026,
+    "neighbor_name": "ESENKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12941,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13055,
+    "neighbor_name": "ESKİKARACAKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12983,
+    "neighbor_name": "EYMİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13042,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12958,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12978,
+    "neighbor_name": "GEDİKPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12971,
+    "neighbor_name": "GÜNEYKESTANE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13049,
+    "neighbor_name": "GÜZELYURT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13022,
+    "neighbor_name": "HALHALCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13005,
+    "neighbor_name": "HAMİTABAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13023,
+    "neighbor_name": "HAMZABEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13012,
+    "neighbor_name": "HASANPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13051,
+    "neighbor_name": "HUZUR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13053,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12964,
+    "neighbor_name": "KARAGÖLET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12986,
+    "neighbor_name": "KARAHASANLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12948,
+    "neighbor_name": "KARALAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12951,
+    "neighbor_name": "KINIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13024,
+    "neighbor_name": "KOCAKONAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12942,
+    "neighbor_name": "KOZLUCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12972,
+    "neighbor_name": "KULACA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12954,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12993,
+    "neighbor_name": "KÜÇÜKYENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12997,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12955,
+    "neighbor_name": "OLUKMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12945,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12998,
+    "neighbor_name": "RÜŞTİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12988,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12977,
+    "neighbor_name": "SUNGURPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12974,
+    "neighbor_name": "SÜLÜKLÜGÖL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13013,
+    "neighbor_name": "SÜPÜRTÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13034,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12966,
+    "neighbor_name": "ŞİPALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12960,
+    "neighbor_name": "TEKKEKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12956,
+    "neighbor_name": "TOKUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13015,
+    "neighbor_name": "YENİCEKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13006,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13036,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 13033,
+    "neighbor_name": "YENİYÖRÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12957,
+    "neighbor_name": "YİĞİT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 270,
+    "district_name": "İNEGÖL",
+    "neighbor_id": 12952,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13096,
+    "neighbor_name": "AYDINLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13088,
+    "neighbor_name": "BAYINDIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13077,
+    "neighbor_name": "BEYLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13073,
+    "neighbor_name": "BOYALICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13069,
+    "neighbor_name": "CANDARLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13061,
+    "neighbor_name": "ÇAKIRCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13095,
+    "neighbor_name": "ÇAMDİBİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13081,
+    "neighbor_name": "ÇAMOLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13087,
+    "neighbor_name": "ÇAMPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13062,
+    "neighbor_name": "ÇİÇEKLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13097,
+    "neighbor_name": "DERBENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13078,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13098,
+    "neighbor_name": "DIRAZALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13070,
+    "neighbor_name": "ELBEYLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13063,
+    "neighbor_name": "ELMALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13099,
+    "neighbor_name": "EŞREFZADE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13064,
+    "neighbor_name": "GÖLLÜCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13089,
+    "neighbor_name": "GÜRMÜZLÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13057,
+    "neighbor_name": "HACIOSMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13079,
+    "neighbor_name": "HİSARDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13065,
+    "neighbor_name": "HOCAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13060,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13102,
+    "neighbor_name": "İNİKLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13066,
+    "neighbor_name": "KARATEKİN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13090,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13074,
+    "neighbor_name": "KIRINTI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13067,
+    "neighbor_name": "KUTLUCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13080,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13083,
+    "neighbor_name": "MAHMUT ÇELEBİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13068,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13100,
+    "neighbor_name": "MUSTAFA KEMAL PAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13071,
+    "neighbor_name": "MUSTAFALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13101,
+    "neighbor_name": "MÜŞKÜLE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13091,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13058,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13093,
+    "neighbor_name": "ÖMERLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13084,
+    "neighbor_name": "SANSARAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13059,
+    "neighbor_name": "SARIAĞIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13072,
+    "neighbor_name": "SELÇUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13075,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13082,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13085,
+    "neighbor_name": "TACİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13094,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13076,
+    "neighbor_name": "YENİŞEREFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13092,
+    "neighbor_name": "YEŞİL CAMİİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 271,
+    "district_name": "İZNİK",
+    "neighbor_id": 13086,
+    "neighbor_name": "YÜRÜKLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13687,
+    "neighbor_name": "ABDULLAHPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13733,
+    "neighbor_name": "AKÇAKOYUN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13727,
+    "neighbor_name": "AKÇASUSURLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13756,
+    "neighbor_name": "AKHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13752,
+    "neighbor_name": "ARIZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13757,
+    "neighbor_name": "BAKIRKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13743,
+    "neighbor_name": "BALLIKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13758,
+    "neighbor_name": "BAYRAMDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13681,
+    "neighbor_name": "BEYLİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13684,
+    "neighbor_name": "BOĞAZKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13721,
+    "neighbor_name": "CANBALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13759,
+    "neighbor_name": "CANBAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13709,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13700,
+    "neighbor_name": "ÇARIKKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13699,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13765,
+    "neighbor_name": "ÇEŞNİGİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13716,
+    "neighbor_name": "DAĞESEMEN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13744,
+    "neighbor_name": "DAĞKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13722,
+    "neighbor_name": "DANİŞMENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13745,
+    "neighbor_name": "DOĞLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13728,
+    "neighbor_name": "DRAMA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13701,
+    "neighbor_name": "EKİNLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13729,
+    "neighbor_name": "EKMEKÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13730,
+    "neighbor_name": "EMİRSULTAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13702,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13760,
+    "neighbor_name": "ESKİKARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13735,
+    "neighbor_name": "ESKİSARIBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13694,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13761,
+    "neighbor_name": "GARİPÇE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13731,
+    "neighbor_name": "GAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13734,
+    "neighbor_name": "GÖLECİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13688,
+    "neighbor_name": "GÖLKIYI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13762,
+    "neighbor_name": "GÖNÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13703,
+    "neighbor_name": "GÜNGÖRMEZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13750,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13704,
+    "neighbor_name": "HARMANLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13689,
+    "neighbor_name": "HAYIRLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13723,
+    "neighbor_name": "HOTANLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13746,
+    "neighbor_name": "HÜDAVENDİGAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13682,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13742,
+    "neighbor_name": "İKİZCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13726,
+    "neighbor_name": "İNKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13711,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13753,
+    "neighbor_name": "KARACAAHMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13717,
+    "neighbor_name": "KARAKOCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13747,
+    "neighbor_name": "KARASU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13724,
+    "neighbor_name": "KEDİKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13718,
+    "neighbor_name": "KEŞLİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13736,
+    "neighbor_name": "KIRANLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13713,
+    "neighbor_name": "KULAKPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13737,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13705,
+    "neighbor_name": "KÜÇÜKKARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13695,
+    "neighbor_name": "MAMURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13738,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13683,
+    "neighbor_name": "MURATLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13739,
+    "neighbor_name": "NASRETTİN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13751,
+    "neighbor_name": "OKÇULAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13755,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13748,
+    "neighbor_name": "ORTASARIBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13690,
+    "neighbor_name": "OVAESEMEN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13740,
+    "neighbor_name": "OVA HAMİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13710,
+    "neighbor_name": "ÖRENCİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13749,
+    "neighbor_name": "RUNGUŞPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13732,
+    "neighbor_name": "SAADET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13706,
+    "neighbor_name": "SAZLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13725,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13696,
+    "neighbor_name": "SEYRAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13763,
+    "neighbor_name": "SIRABADEMLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13741,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13714,
+    "neighbor_name": "SULTANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13712,
+    "neighbor_name": "ŞAHİNKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13715,
+    "neighbor_name": "ŞAHMELEK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13697,
+    "neighbor_name": "TABAKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13708,
+    "neighbor_name": "TAŞLIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13692,
+    "neighbor_name": "TAŞPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13691,
+    "neighbor_name": "TAVŞANLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13685,
+    "neighbor_name": "TOPHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13707,
+    "neighbor_name": "ULUABAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13686,
+    "neighbor_name": "YARIŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13764,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13693,
+    "neighbor_name": "YENİKARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13698,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13719,
+    "neighbor_name": "YENİSARIBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13754,
+    "neighbor_name": "YEŞİLDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 282,
+    "district_name": "KARACABEY",
+    "neighbor_id": 13720,
+    "neighbor_name": "YOLAĞZI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13129,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13136,
+    "neighbor_name": "ALPAĞUT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13130,
+    "neighbor_name": "AVDAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13124,
+    "neighbor_name": "BARAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13141,
+    "neighbor_name": "BASAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13137,
+    "neighbor_name": "BELENÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13115,
+    "neighbor_name": "BIYIKLIALANI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13120,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13114,
+    "neighbor_name": "ÇUKUR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13121,
+    "neighbor_name": "DAĞ DEMİRCİLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13109,
+    "neighbor_name": "DAĞDİBİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13119,
+    "neighbor_name": "DAVUTLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13125,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13126,
+    "neighbor_name": "DELİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13138,
+    "neighbor_name": "DENİZLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13110,
+    "neighbor_name": "DURAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13103,
+    "neighbor_name": "DÜVENLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13131,
+    "neighbor_name": "EPÇELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13111,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13104,
+    "neighbor_name": "GELEMİÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13105,
+    "neighbor_name": "GÖKÖZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13106,
+    "neighbor_name": "HARMANALANI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13116,
+    "neighbor_name": "HARMANCIK DEMİRCİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13144,
+    "neighbor_name": "HAYDAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13132,
+    "neighbor_name": "HEREKE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13107,
+    "neighbor_name": "ISSIZÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13139,
+    "neighbor_name": "KARAARDIÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13112,
+    "neighbor_name": "KEMALİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13117,
+    "neighbor_name": "KIRAN IŞIKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13143,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13142,
+    "neighbor_name": "KOCA KOVACIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13122,
+    "neighbor_name": "KOZBUDAKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13133,
+    "neighbor_name": "KÜÇÜK KOVACIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13140,
+    "neighbor_name": "MENTEŞE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13127,
+    "neighbor_name": "PINARCIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13123,
+    "neighbor_name": "SOFULAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13113,
+    "neighbor_name": "SORGUN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13134,
+    "neighbor_name": "UZUNÖZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13135,
+    "neighbor_name": "YAĞCILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13108,
+    "neighbor_name": "YAZIBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13118,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 272,
+    "district_name": "KELES",
+    "neighbor_id": 13128,
+    "neighbor_name": "YUNUSLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13798,
+    "neighbor_name": "AĞLAŞAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13786,
+    "neighbor_name": "AHMETVEFİKPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13791,
+    "neighbor_name": "AKSU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13778,
+    "neighbor_name": "ALAÇAM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13787,
+    "neighbor_name": "BABASULTAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13773,
+    "neighbor_name": "BARAKFAKİH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13766,
+    "neighbor_name": "BURHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13777,
+    "neighbor_name": "ÇATALTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13779,
+    "neighbor_name": "DEREKIZIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13780,
+    "neighbor_name": "DUDAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13774,
+    "neighbor_name": "ERDOĞAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13788,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13789,
+    "neighbor_name": "GÖLBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13792,
+    "neighbor_name": "GÖLCÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13781,
+    "neighbor_name": "GÖZEDE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13767,
+    "neighbor_name": "KALE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13770,
+    "neighbor_name": "KAYACIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13782,
+    "neighbor_name": "KAZANCI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13783,
+    "neighbor_name": "KOZLUÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13799,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13768,
+    "neighbor_name": "NARLIDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13800,
+    "neighbor_name": "NÜZHETİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13784,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13775,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13794,
+    "neighbor_name": "SAİTABAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13785,
+    "neighbor_name": "SAYFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13793,
+    "neighbor_name": "SERME MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13771,
+    "neighbor_name": "SEYMEN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13772,
+    "neighbor_name": "SOĞUKSU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13790,
+    "neighbor_name": "ŞEVKETİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13769,
+    "neighbor_name": "TURANKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13797,
+    "neighbor_name": "ÜMİTALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13776,
+    "neighbor_name": "VANİMEHMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13795,
+    "neighbor_name": "YAĞMURLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 283,
+    "district_name": "KESTEL",
+    "neighbor_id": 13796,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13487,
+    "neighbor_name": "AKKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13501,
+    "neighbor_name": "ALTINTAŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13523,
+    "neighbor_name": "AYDINPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13502,
+    "neighbor_name": "BADEMLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13480,
+    "neighbor_name": "BALABANCIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13522,
+    "neighbor_name": "ÇAĞRIŞAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13519,
+    "neighbor_name": "ÇAMLIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13492,
+    "neighbor_name": "ÇAYÖNÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13491,
+    "neighbor_name": "ÇEKRİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13505,
+    "neighbor_name": "ÇEPNİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13506,
+    "neighbor_name": "ÇINARLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13507,
+    "neighbor_name": "DEDEKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13494,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13495,
+    "neighbor_name": "EĞERCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13514,
+    "neighbor_name": "EMİRLERYENİCESİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13488,
+    "neighbor_name": "ESENCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13508,
+    "neighbor_name": "EVCİLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13481,
+    "neighbor_name": "GÖYNÜKLÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13489,
+    "neighbor_name": "GÜZELYALI BURGAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13509,
+    "neighbor_name": "GÜZELYALI EĞİTİM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13503,
+    "neighbor_name": "GÜZELYALI SİTELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13524,
+    "neighbor_name": "GÜZELYALI YALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13515,
+    "neighbor_name": "HALİTPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13490,
+    "neighbor_name": "HANÇERLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13525,
+    "neighbor_name": "HASANBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13526,
+    "neighbor_name": "HASKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13516,
+    "neighbor_name": "IŞIKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13499,
+    "neighbor_name": "İPEKYAYLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13496,
+    "neighbor_name": "KAYMAKOBA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13504,
+    "neighbor_name": "KUMYAKA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13498,
+    "neighbor_name": "KÜÇÜKYENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13517,
+    "neighbor_name": "MESUDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13484,
+    "neighbor_name": "MİRZAOBA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13483,
+    "neighbor_name": "MÜRSEL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13521,
+    "neighbor_name": "MÜTAREKE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13511,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13520,
+    "neighbor_name": "ÖMERBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13497,
+    "neighbor_name": "SÖĞÜTPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13500,
+    "neighbor_name": "ŞÜKRÜÇAVUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13485,
+    "neighbor_name": "TİRİLYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13493,
+    "neighbor_name": "ÜLKÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13512,
+    "neighbor_name": "YALIÇİFTLİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13513,
+    "neighbor_name": "YAMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13518,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13482,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13510,
+    "neighbor_name": "YÖRÜKALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 277,
+    "district_name": "MUDANYA",
+    "neighbor_id": 13486,
+    "neighbor_name": "YÖRÜKYENİCESİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13171,
+    "neighbor_name": "ADAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13203,
+    "neighbor_name": "ADALET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13184,
+    "neighbor_name": "AĞAÇLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13223,
+    "neighbor_name": "AKARCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13192,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13158,
+    "neighbor_name": "ALACAAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13208,
+    "neighbor_name": "ALİSEYDİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13245,
+    "neighbor_name": "ALPAĞUT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13240,
+    "neighbor_name": "ARALIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13224,
+    "neighbor_name": "AŞAĞIBALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13235,
+    "neighbor_name": "ATARİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13151,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13159,
+    "neighbor_name": "AYAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13220,
+    "neighbor_name": "BAHARİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13199,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13209,
+    "neighbor_name": "BEHRAM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13263,
+    "neighbor_name": "BOĞAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13193,
+    "neighbor_name": "BOSTANDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13250,
+    "neighbor_name": "BÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13200,
+    "neighbor_name": "CAMANDAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13256,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13243,
+    "neighbor_name": "ÇAKALLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13238,
+    "neighbor_name": "ÇALTILIBÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13167,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13202,
+    "neighbor_name": "ÇARDAKBELEN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13233,
+    "neighbor_name": "ÇAVUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13174,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13148,
+    "neighbor_name": "ÇIRPAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13239,
+    "neighbor_name": "ÇİVİLİÇAM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13198,
+    "neighbor_name": "ÇÖMLEKÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13234,
+    "neighbor_name": "ÇÖRDÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13274,
+    "neighbor_name": "DALLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13222,
+    "neighbor_name": "DEMİRDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13163,
+    "neighbor_name": "DEMİRELİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13251,
+    "neighbor_name": "DERECİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13185,
+    "neighbor_name": "DEREKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13268,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13257,
+    "neighbor_name": "DEVECİKONAĞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13152,
+    "neighbor_name": "DOĞANALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13186,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13179,
+    "neighbor_name": "DORAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13187,
+    "neighbor_name": "DÖLLÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13172,
+    "neighbor_name": "DURUMTAY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13149,
+    "neighbor_name": "ESKİBALÇIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13166,
+    "neighbor_name": "ESKİKIZILELMA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13168,
+    "neighbor_name": "FEVZİDEDE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13215,
+    "neighbor_name": "FINDICAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13180,
+    "neighbor_name": "GARİPÇETEKKE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13269,
+    "neighbor_name": "GÜLLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13153,
+    "neighbor_name": "GÜLLÜCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13247,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13150,
+    "neighbor_name": "GÜVEÇDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13216,
+    "neighbor_name": "GÜVEM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13241,
+    "neighbor_name": "HACIAHMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13204,
+    "neighbor_name": "HACIALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13275,
+    "neighbor_name": "HAMİDİYEKÖYÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13145,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13211,
+    "neighbor_name": "HAMZABEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13255,
+    "neighbor_name": "HİSARALTI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13228,
+    "neighbor_name": "IŞIKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13191,
+    "neighbor_name": "İLYASÇILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13210,
+    "neighbor_name": "İNCEALİPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13154,
+    "neighbor_name": "KABULBABA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13270,
+    "neighbor_name": "KADİRÇEŞME MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13236,
+    "neighbor_name": "KAPAKLIOLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13146,
+    "neighbor_name": "KARACALAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13212,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13230,
+    "neighbor_name": "KARAOĞLAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13264,
+    "neighbor_name": "KARAORMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13205,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13175,
+    "neighbor_name": "KAYABAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13248,
+    "neighbor_name": "KAZANPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13242,
+    "neighbor_name": "KELTAŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13176,
+    "neighbor_name": "KESTELEK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13260,
+    "neighbor_name": "KİLLİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13265,
+    "neighbor_name": "KOCAKORU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13181,
+    "neighbor_name": "KOSOVA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13169,
+    "neighbor_name": "KOŞUBOĞAZI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13259,
+    "neighbor_name": "KÖMÜRCÜKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13221,
+    "neighbor_name": "KÖREKEM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13229,
+    "neighbor_name": "KÖSEHOROZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13271,
+    "neighbor_name": "KUMKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13213,
+    "neighbor_name": "KURŞUNLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13170,
+    "neighbor_name": "LALAŞAHİN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13246,
+    "neighbor_name": "LÜTFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13217,
+    "neighbor_name": "MELİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13201,
+    "neighbor_name": "MURADİYESARNIÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13173,
+    "neighbor_name": "OCAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13182,
+    "neighbor_name": "ONAÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13155,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13177,
+    "neighbor_name": "ORMANKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13261,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13225,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13244,
+    "neighbor_name": "OVAAZATLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13267,
+    "neighbor_name": "ÖMERALTI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13226,
+    "neighbor_name": "PAŞALAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13164,
+    "neighbor_name": "SARIMUSTAFALAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13231,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13147,
+    "neighbor_name": "SİNCANSARNIÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13272,
+    "neighbor_name": "SOĞUCAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13253,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13195,
+    "neighbor_name": "SÖĞÜTALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13218,
+    "neighbor_name": "SÜNLÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13214,
+    "neighbor_name": "ŞAPÇI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13206,
+    "neighbor_name": "ŞEHRİMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13194,
+    "neighbor_name": "ŞEREFİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13219,
+    "neighbor_name": "ŞEVKETİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13207,
+    "neighbor_name": "ŞEYHMÜFTÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13188,
+    "neighbor_name": "TAŞKÖPRÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13161,
+    "neighbor_name": "TAŞPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13249,
+    "neighbor_name": "TATKAVAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13189,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13183,
+    "neighbor_name": "TIRNOVA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13156,
+    "neighbor_name": "UĞURLUPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13160,
+    "neighbor_name": "ÜÇBEYLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13258,
+    "neighbor_name": "VIRACA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13165,
+    "neighbor_name": "YALINTAŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13178,
+    "neighbor_name": "YAMANLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13162,
+    "neighbor_name": "YAVELLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13254,
+    "neighbor_name": "YAYLAÇAYIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13237,
+    "neighbor_name": "YENİBALÇIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13196,
+    "neighbor_name": "YENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13262,
+    "neighbor_name": "YENİDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13227,
+    "neighbor_name": "YENİKIZILELMA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13232,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13197,
+    "neighbor_name": "YONCAAĞAÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13252,
+    "neighbor_name": "YUKARIBALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13190,
+    "neighbor_name": "YUMURCAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13157,
+    "neighbor_name": "YUNUS EMRE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13273,
+    "neighbor_name": "YÜZBAŞI SABRİBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 273,
+    "district_name": "MUSTAFAKEMALPAŞA",
+    "neighbor_id": 13266,
+    "neighbor_name": "ZÜFERBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13283,
+    "neighbor_name": "19 MAYIS MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13338,
+    "neighbor_name": "23 NİSAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13304,
+    "neighbor_name": "29 EKİM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13295,
+    "neighbor_name": "AHMET YESEVİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13276,
+    "neighbor_name": "ALTINŞEHİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13315,
+    "neighbor_name": "ATAEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13300,
+    "neighbor_name": "BADIRGA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13296,
+    "neighbor_name": "BALAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13285,
+    "neighbor_name": "BARIŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13312,
+    "neighbor_name": "BÜYÜKBALIKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13292,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13336,
+    "neighbor_name": "ÇAYLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13293,
+    "neighbor_name": "DOĞANKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13335,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13277,
+    "neighbor_name": "ERTUĞRUL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13279,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13287,
+    "neighbor_name": "GÖKÇE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13318,
+    "neighbor_name": "GÖRÜKLE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13316,
+    "neighbor_name": "IŞIKTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13337,
+    "neighbor_name": "İHSANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13331,
+    "neighbor_name": "İRFANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13328,
+    "neighbor_name": "KONAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13281,
+    "neighbor_name": "MİNARELİÇAVUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13278,
+    "neighbor_name": "ÖZLÜCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13298,
+    "neighbor_name": "YOLÇATI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13309,
+    "neighbor_name": "YÜZÜNCÜYIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13284,
+    "neighbor_name": "30 AĞUSTOS ZAFER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13332,
+    "neighbor_name": "AKÇALAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13305,
+    "neighbor_name": "ALAADDİNBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13310,
+    "neighbor_name": "ATLAS MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13306,
+    "neighbor_name": "AYVAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13333,
+    "neighbor_name": "BALKAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13291,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13311,
+    "neighbor_name": "BEŞEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13320,
+    "neighbor_name": "ÇALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13325,
+    "neighbor_name": "ÇAMLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13282,
+    "neighbor_name": "ÇATALAĞIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13334,
+    "neighbor_name": "DAĞYENİCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13301,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13326,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13286,
+    "neighbor_name": "FADILLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13317,
+    "neighbor_name": "GÖLYAZI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13280,
+    "neighbor_name": "GÜMÜŞTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13307,
+    "neighbor_name": "GÜNGÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13302,
+    "neighbor_name": "HASANAĞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13289,
+    "neighbor_name": "İNEGAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13327,
+    "neighbor_name": "KADRİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13322,
+    "neighbor_name": "KARACAOBA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13323,
+    "neighbor_name": "KARAMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13290,
+    "neighbor_name": "KAYAPA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13303,
+    "neighbor_name": "KIZILCIKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13339,
+    "neighbor_name": "KONAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13324,
+    "neighbor_name": "KORUBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13297,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13299,
+    "neighbor_name": "KURUÇEŞME MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13288,
+    "neighbor_name": "KÜLTÜR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13313,
+    "neighbor_name": "MAKŞEMPINARI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13329,
+    "neighbor_name": "ODUNLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13314,
+    "neighbor_name": "TAHTALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13319,
+    "neighbor_name": "UNÇUKURU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13321,
+    "neighbor_name": "ÜÇEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13330,
+    "neighbor_name": "ÜÇPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13294,
+    "neighbor_name": "ÜRÜNLÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 274,
+    "district_name": "NİLÜFER",
+    "neighbor_id": 13308,
+    "neighbor_name": "YAYLACIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13549,
+    "neighbor_name": "300 EVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13533,
+    "neighbor_name": "AĞAÇHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13563,
+    "neighbor_name": "AKALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13570,
+    "neighbor_name": "AKÇABÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13564,
+    "neighbor_name": "ALTINTAŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13558,
+    "neighbor_name": "ARGIN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13576,
+    "neighbor_name": "BALIOĞLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13571,
+    "neighbor_name": "BAŞKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13565,
+    "neighbor_name": "BELENOLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13534,
+    "neighbor_name": "CELEPLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13539,
+    "neighbor_name": "ÇEKİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13557,
+    "neighbor_name": "ÇINARCIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13561,
+    "neighbor_name": "ÇİVİLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13532,
+    "neighbor_name": "ÇÖRELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13550,
+    "neighbor_name": "DAĞGÜNEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13559,
+    "neighbor_name": "DELİBALLILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13543,
+    "neighbor_name": "DEMİRCİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13583,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13544,
+    "neighbor_name": "DÜNDAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13578,
+    "neighbor_name": "EMİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13536,
+    "neighbor_name": "ERENLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13551,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13545,
+    "neighbor_name": "ESKİDANİŞMENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13552,
+    "neighbor_name": "FADIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13584,
+    "neighbor_name": "FEVZİPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13555,
+    "neighbor_name": "FİROZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13579,
+    "neighbor_name": "GAZİOLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13585,
+    "neighbor_name": "GAZİPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13528,
+    "neighbor_name": "GİRENCİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13566,
+    "neighbor_name": "GÖKTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13560,
+    "neighbor_name": "GÖYNÜKBELEN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13540,
+    "neighbor_name": "GÜMÜŞPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13554,
+    "neighbor_name": "İKİZOLUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13562,
+    "neighbor_name": "İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13541,
+    "neighbor_name": "KABAKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13546,
+    "neighbor_name": "KADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13586,
+    "neighbor_name": "KARABEKİRPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13572,
+    "neighbor_name": "KARAOĞLANLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13573,
+    "neighbor_name": "KARASİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13556,
+    "neighbor_name": "KARINCALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13580,
+    "neighbor_name": "KOÇU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13577,
+    "neighbor_name": "KUSUMLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13581,
+    "neighbor_name": "KÜÇÜKORHAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13537,
+    "neighbor_name": "LETAFET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13538,
+    "neighbor_name": "MAHALLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13574,
+    "neighbor_name": "NALINLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13582,
+    "neighbor_name": "ORTA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13527,
+    "neighbor_name": "OSMANİYEÇATAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13548,
+    "neighbor_name": "SADAĞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13567,
+    "neighbor_name": "SEMERCİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13553,
+    "neighbor_name": "SERÇELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13535,
+    "neighbor_name": "SIRIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13547,
+    "neighbor_name": "SÖĞÜT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13529,
+    "neighbor_name": "SÜLEYMANBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13575,
+    "neighbor_name": "ŞÜKRİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13542,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13587,
+    "neighbor_name": "TOPUK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13530,
+    "neighbor_name": "YAKUPLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13568,
+    "neighbor_name": "YENİDANİŞMENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 13569,
+    "neighbor_name": "YEŞİLLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 278,
+    "district_name": "ORHANELİ",
+    "neighbor_id": 50292,
+    "neighbor_name": "YÖRÜKLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12743,
+    "neighbor_name": "AKHAREM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12746,
+    "neighbor_name": "ARAPZADE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12759,
+    "neighbor_name": "BAYIRKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12753,
+    "neighbor_name": "CAMİİKEBİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12770,
+    "neighbor_name": "CİHANKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12745,
+    "neighbor_name": "ÇAKIRLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12773,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12754,
+    "neighbor_name": "DUTLUCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12762,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12755,
+    "neighbor_name": "FINDIKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12744,
+    "neighbor_name": "GEDELEK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12756,
+    "neighbor_name": "GEMİÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12748,
+    "neighbor_name": "GÖLYAKA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12771,
+    "neighbor_name": "GÜRLE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12749,
+    "neighbor_name": "HAMZALI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12757,
+    "neighbor_name": "HECELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12766,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12763,
+    "neighbor_name": "KARSAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12760,
+    "neighbor_name": "KERAMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12747,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12767,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12758,
+    "neighbor_name": "NARLICA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12750,
+    "neighbor_name": "ORTAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12765,
+    "neighbor_name": "ÖRNEKKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12764,
+    "neighbor_name": "PAŞAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12772,
+    "neighbor_name": "SÖLÖZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12768,
+    "neighbor_name": "TEKKE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12751,
+    "neighbor_name": "ÜREĞİL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12752,
+    "neighbor_name": "YENİGÜRLE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12769,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 267,
+    "district_name": "ORHANGAZİ",
+    "neighbor_id": 12761,
+    "neighbor_name": "YENİSÖLÖZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12917,
+    "neighbor_name": "AHMETPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12937,
+    "neighbor_name": "AKTARHÜSSAM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12905,
+    "neighbor_name": "ALAADDİN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12883,
+    "neighbor_name": "ALACAHIRKA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12888,
+    "neighbor_name": "ALACAMESCİT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12919,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12898,
+    "neighbor_name": "ALTIPARMAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12934,
+    "neighbor_name": "ÇEKİRGE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12877,
+    "neighbor_name": "ÇIRPAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12893,
+    "neighbor_name": "DEMİRKAPI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12869,
+    "neighbor_name": "DEMİRTAŞPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12890,
+    "neighbor_name": "DİKKALDIRIM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12931,
+    "neighbor_name": "DOBURCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12865,
+    "neighbor_name": "DOĞANBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12811,
+    "neighbor_name": "EBU İSHAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12812,
+    "neighbor_name": "ELMASBAHÇELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12870,
+    "neighbor_name": "HACI İLYAS MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12909,
+    "neighbor_name": "HAMZABEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12850,
+    "neighbor_name": "HOCAALİZADE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12872,
+    "neighbor_name": "HOCAHASAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12827,
+    "neighbor_name": "HÜDAVENDİGAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12818,
+    "neighbor_name": "İBRAHİMPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12929,
+    "neighbor_name": "İNKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12846,
+    "neighbor_name": "İNTİZAM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12819,
+    "neighbor_name": "İVAZPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12925,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12916,
+    "neighbor_name": "KAYIHAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12908,
+    "neighbor_name": "KIRCAALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12851,
+    "neighbor_name": "KİREMİTÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12880,
+    "neighbor_name": "KOCANAİP MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12921,
+    "neighbor_name": "KURUÇEŞME MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12894,
+    "neighbor_name": "KÜKÜRTLÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12881,
+    "neighbor_name": "MAKSEM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12891,
+    "neighbor_name": "MOLLAFENARİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12835,
+    "neighbor_name": "MOLLAGÜRANİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12939,
+    "neighbor_name": "MURADİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12852,
+    "neighbor_name": "NALBANTOĞLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12843,
+    "neighbor_name": "ORHANBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12922,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12911,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12901,
+    "neighbor_name": "REYHAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12841,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12875,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12904,
+    "neighbor_name": "ŞEHABETTİNPAŞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12871,
+    "neighbor_name": "ŞEHREKÜSTÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12873,
+    "neighbor_name": "TAHTAKALE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12940,
+    "neighbor_name": "TAYAKADIN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12817,
+    "neighbor_name": "TUZPAZARI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12837,
+    "neighbor_name": "ULU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12935,
+    "neighbor_name": "YAHŞİBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12815,
+    "neighbor_name": "ALTINOVA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12938,
+    "neighbor_name": "ATICILAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12838,
+    "neighbor_name": "AVDANCIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12839,
+    "neighbor_name": "BAHAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12860,
+    "neighbor_name": "BAŞARAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12868,
+    "neighbor_name": "DEMİRTAŞ BARBAROS MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12826,
+    "neighbor_name": "DEMİRTAŞ CUMHURİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12930,
+    "neighbor_name": "DEMİRTAŞ DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12810,
+    "neighbor_name": "DEMİRTAŞ SAKARYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12820,
+    "neighbor_name": "DOĞANEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12857,
+    "neighbor_name": "DÜRDANE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12913,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12844,
+    "neighbor_name": "GAZİAKDEMİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12816,
+    "neighbor_name": "GÜLBAHÇE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12885,
+    "neighbor_name": "İSMETİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12910,
+    "neighbor_name": "KARABALÇIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12834,
+    "neighbor_name": "KEMERÇEŞME MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12853,
+    "neighbor_name": "KOĞUKÇINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12858,
+    "neighbor_name": "KÜÇÜKBALIKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12828,
+    "neighbor_name": "KÜPLÜPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12830,
+    "neighbor_name": "NAMIK KEMAL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12847,
+    "neighbor_name": "OVAAKÇA ÇEŞMEBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12867,
+    "neighbor_name": "OVAAKÇA EĞİTİM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12823,
+    "neighbor_name": "OVAAKÇA MERKEZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12831,
+    "neighbor_name": "OVAAKÇA SANTRAL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12859,
+    "neighbor_name": "PANAYIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12836,
+    "neighbor_name": "SANTRAL GARAJ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12863,
+    "neighbor_name": "SEÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12806,
+    "neighbor_name": "SELAMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12895,
+    "neighbor_name": "SELÇUKGAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12903,
+    "neighbor_name": "TUNA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12862,
+    "neighbor_name": "VEYSEL KARANİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12808,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12884,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12856,
+    "neighbor_name": "ADALET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12809,
+    "neighbor_name": "ALAŞARKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12906,
+    "neighbor_name": "ALEMDAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12892,
+    "neighbor_name": "BAĞLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12864,
+    "neighbor_name": "BÜYÜKDELİLLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12928,
+    "neighbor_name": "ÇAYBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12814,
+    "neighbor_name": "ÇELTİKKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12933,
+    "neighbor_name": "ÇİFTEHAVUZLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12924,
+    "neighbor_name": "ÇİRİŞHANE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12855,
+    "neighbor_name": "ÇUKURCAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12899,
+    "neighbor_name": "DAĞAKÇA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12889,
+    "neighbor_name": "DOĞANCI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12805,
+    "neighbor_name": "GÖKÇEÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12926,
+    "neighbor_name": "GÜNEYBAYIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12861,
+    "neighbor_name": "GÜNEYBUDAKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12915,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12866,
+    "neighbor_name": "HÜSEYİNALAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12825,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12879,
+    "neighbor_name": "KARAİSLAH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12845,
+    "neighbor_name": "KİRAZLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12822,
+    "neighbor_name": "KÜÇÜKDELİLLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12829,
+    "neighbor_name": "MEHMET AKİF MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12840,
+    "neighbor_name": "MÜRSELLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12813,
+    "neighbor_name": "SEFERIŞIKLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12886,
+    "neighbor_name": "SIRAMEŞELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12887,
+    "neighbor_name": "SOĞANLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12902,
+    "neighbor_name": "SOĞUKKUYU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12807,
+    "neighbor_name": "SOĞUKPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12896,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12923,
+    "neighbor_name": "TUZAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12848,
+    "neighbor_name": "ULUÇAM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12876,
+    "neighbor_name": "YENİCEABAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12874,
+    "neighbor_name": "YENİKARAMAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12936,
+    "neighbor_name": "YİĞİTALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12882,
+    "neighbor_name": "AHMETBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12897,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12918,
+    "neighbor_name": "AKSUNGUR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12878,
+    "neighbor_name": "ARMUTKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12832,
+    "neighbor_name": "BAĞLARBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12854,
+    "neighbor_name": "ÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12920,
+    "neighbor_name": "DEREÇAVUŞKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12821,
+    "neighbor_name": "EMEK ADNAN MENDERES MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12907,
+    "neighbor_name": "EMEK FATİH SULTAN MEHMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12900,
+    "neighbor_name": "EMEK ZEKAİ GÜMÜŞDİŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12849,
+    "neighbor_name": "GEÇİT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12914,
+    "neighbor_name": "GÜNDOĞDU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12932,
+    "neighbor_name": "GÜNEŞTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12833,
+    "neighbor_name": "HAMİTLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12842,
+    "neighbor_name": "NİLÜFERKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12927,
+    "neighbor_name": "YENİBAĞLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12912,
+    "neighbor_name": "YENİKENT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 269,
+    "district_name": "OSMANGAZİ",
+    "neighbor_id": 12824,
+    "neighbor_name": "YUNUSELİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13385,
+    "neighbor_name": "AFŞAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13350,
+    "neighbor_name": "AKBIYIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13377,
+    "neighbor_name": "AKÇAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13366,
+    "neighbor_name": "AKDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13351,
+    "neighbor_name": "ALAYLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13344,
+    "neighbor_name": "AYAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13367,
+    "neighbor_name": "AYDOĞDU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13386,
+    "neighbor_name": "BARCIN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13387,
+    "neighbor_name": "BEYPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13397,
+    "neighbor_name": "BURCUN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13352,
+    "neighbor_name": "CİHADİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13363,
+    "neighbor_name": "ÇAMÖNÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13361,
+    "neighbor_name": "ÇARDAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13409,
+    "neighbor_name": "ÇAYIRLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13380,
+    "neighbor_name": "ÇAYIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13356,
+    "neighbor_name": "ÇELEBİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13381,
+    "neighbor_name": "ÇELTİKÇİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13410,
+    "neighbor_name": "ÇİÇEKÖZÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13398,
+    "neighbor_name": "DEMİRBOĞA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13388,
+    "neighbor_name": "DEREKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13378,
+    "neighbor_name": "EBEKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13357,
+    "neighbor_name": "EĞERCE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13370,
+    "neighbor_name": "FETHİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13340,
+    "neighbor_name": "GÖKÇESU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13389,
+    "neighbor_name": "GÜNDOĞAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13345,
+    "neighbor_name": "GÜNECE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13341,
+    "neighbor_name": "HAYRİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13346,
+    "neighbor_name": "HIDIRBALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13384,
+    "neighbor_name": "İNCİRLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13407,
+    "neighbor_name": "KARAAMCA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13399,
+    "neighbor_name": "KARABAHADIR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13342,
+    "neighbor_name": "KARACAAHMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13347,
+    "neighbor_name": "KARACAALİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13364,
+    "neighbor_name": "KARAKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13400,
+    "neighbor_name": "KARASIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13390,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13403,
+    "neighbor_name": "KIBLEPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13382,
+    "neighbor_name": "KIZILHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13371,
+    "neighbor_name": "KIZILKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13374,
+    "neighbor_name": "KİRAZLIYAYLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13372,
+    "neighbor_name": "KOYUNHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13368,
+    "neighbor_name": "KOZDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13391,
+    "neighbor_name": "KÖPRÜHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13401,
+    "neighbor_name": "KURTULUŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13395,
+    "neighbor_name": "MAHMUDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13404,
+    "neighbor_name": "MARMARACIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13358,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13396,
+    "neighbor_name": "MENTEŞE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13359,
+    "neighbor_name": "ORHANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13392,
+    "neighbor_name": "OSMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13405,
+    "neighbor_name": "PAPATYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13353,
+    "neighbor_name": "PAŞAYAYLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13348,
+    "neighbor_name": "REŞADİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13360,
+    "neighbor_name": "SELİMİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13402,
+    "neighbor_name": "SÖYLEMİŞ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13349,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13379,
+    "neighbor_name": "SÜLEYMANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13383,
+    "neighbor_name": "TABAKHANE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13406,
+    "neighbor_name": "TERZİLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13373,
+    "neighbor_name": "TOPRAKDERE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13365,
+    "neighbor_name": "TOPRAKOCAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13354,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13375,
+    "neighbor_name": "YARHİSAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13343,
+    "neighbor_name": "YAZILI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13376,
+    "neighbor_name": "YENİGÜN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13408,
+    "neighbor_name": "YENİKÖY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13362,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13369,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13393,
+    "neighbor_name": "YILMAZ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13394,
+    "neighbor_name": "YOLÖREN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 275,
+    "district_name": "YENİŞEHİR",
+    "neighbor_id": 13355,
+    "neighbor_name": "YÜZÜNCÜYIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13475,
+    "neighbor_name": "AKÇAĞLAYAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13479,
+    "neighbor_name": "BARUTHANE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13454,
+    "neighbor_name": "DAVUTDEDE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13427,
+    "neighbor_name": "DAVUTKADI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13462,
+    "neighbor_name": "EMİRSULTAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13417,
+    "neighbor_name": "HACISEYFETTİN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13412,
+    "neighbor_name": "HOCATAŞKIN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13426,
+    "neighbor_name": "KARAAĞAÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13413,
+    "neighbor_name": "KARAMAZAK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13430,
+    "neighbor_name": "KURTOĞLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13418,
+    "neighbor_name": "MALTEPE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13414,
+    "neighbor_name": "MEHMETAKİFERSOY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13419,
+    "neighbor_name": "MEYDANCIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13464,
+    "neighbor_name": "MOLLAARAP MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13456,
+    "neighbor_name": "MUSABABA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13432,
+    "neighbor_name": "NAMAZGAH MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13445,
+    "neighbor_name": "PİREMİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13433,
+    "neighbor_name": "SELİMZADE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13449,
+    "neighbor_name": "SIRACEVİZLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13438,
+    "neighbor_name": "TEFERRÜÇ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13423,
+    "neighbor_name": "UMURBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13451,
+    "neighbor_name": "YEDİSELVİLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13448,
+    "neighbor_name": "YENIMAHALLE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13468,
+    "neighbor_name": "YEŞİL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13459,
+    "neighbor_name": "YEŞİLYAYLA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13474,
+    "neighbor_name": "YILDIRIM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13461,
+    "neighbor_name": "ZEYNİLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13421,
+    "neighbor_name": "ZÜMRÜTEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13416,
+    "neighbor_name": "152EVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13447,
+    "neighbor_name": "75.YIL MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13453,
+    "neighbor_name": "BAĞLARALTI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13443,
+    "neighbor_name": "BALABAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13431,
+    "neighbor_name": "BEYAZIT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13476,
+    "neighbor_name": "CUMALIKIZIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13466,
+    "neighbor_name": "DEĞİRMENLİKIZIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13455,
+    "neighbor_name": "DEĞİRMENÖNÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13442,
+    "neighbor_name": "EĞİTİM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13422,
+    "neighbor_name": "ERİKLİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13411,
+    "neighbor_name": "ERTUĞRULGAZİ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13434,
+    "neighbor_name": "ESENEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13472,
+    "neighbor_name": "FİDYEKIZIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13429,
+    "neighbor_name": "GÜLLÜK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13473,
+    "neighbor_name": "HAMAMLIKIZIK MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13444,
+    "neighbor_name": "KAPLIKAYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13463,
+    "neighbor_name": "KARAPINAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13450,
+    "neighbor_name": "MİMARSİNAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13436,
+    "neighbor_name": "ORTABAĞLAR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13420,
+    "neighbor_name": "SELÇUKBEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13467,
+    "neighbor_name": "SİNANDEDE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13458,
+    "neighbor_name": "SİTELER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13441,
+    "neighbor_name": "ŞÜKRANİYE MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13439,
+    "neighbor_name": "YİĞİTLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13437,
+    "neighbor_name": "ANADOLU MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13460,
+    "neighbor_name": "ARABAYATAĞI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 49896,
+    "neighbor_name": "ÇELEBİ MEHMET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13469,
+    "neighbor_name": "ÇINARÖNÜ MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13471,
+    "neighbor_name": "DEMETEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13428,
+    "neighbor_name": "DUAÇINARI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13435,
+    "neighbor_name": "HACİVAT MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13440,
+    "neighbor_name": "İSABEY MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13470,
+    "neighbor_name": "KAZIM KARABEKİR MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13452,
+    "neighbor_name": "MEVLANA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13457,
+    "neighbor_name": "MİLLET MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 50306,
+    "neighbor_name": "SAKARYA MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13465,
+    "neighbor_name": "SAMANLI MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13478,
+    "neighbor_name": "ŞİRİNEVLER MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13477,
+    "neighbor_name": "ULUS MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13415,
+    "neighbor_name": "VAKIF MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13424,
+    "neighbor_name": "VATAN MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13446,
+    "neighbor_name": "YAVUZSELIM MAH."
+  },
+  {
+    "city_id": 21,
+    "city_name": "BURSA",
+    "district_id": 276,
+    "district_name": "YILDIRIM",
+    "neighbor_id": 13425,
+    "neighbor_name": "YUNUSEMRE MAH."
+  }
+]

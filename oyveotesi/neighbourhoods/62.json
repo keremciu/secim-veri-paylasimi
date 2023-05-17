@@ -1,0 +1,6138 @@
+[
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40899,
+    "neighbor_name": "BOZBAY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40885,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40903,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40916,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40915,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40892,
+    "neighbor_name": "AKÇAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40910,
+    "neighbor_name": "ALINCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40911,
+    "neighbor_name": "ALİBEY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40893,
+    "neighbor_name": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40912,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40894,
+    "neighbor_name": "AYKIRIKÇI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40896,
+    "neighbor_name": "BEŞKARIŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40909,
+    "neighbor_name": "ÇAKIRSAZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40890,
+    "neighbor_name": "ÇAYIRBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40900,
+    "neighbor_name": "ERENKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40917,
+    "neighbor_name": "EYMİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40901,
+    "neighbor_name": "GECEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40886,
+    "neighbor_name": "GENİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40902,
+    "neighbor_name": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40923,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40920,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40887,
+    "neighbor_name": "KUYUCAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40897,
+    "neighbor_name": "MECİDİYE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40904,
+    "neighbor_name": "MURATHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40918,
+    "neighbor_name": "OSMANİYE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40905,
+    "neighbor_name": "OYSU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40913,
+    "neighbor_name": "PINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40921,
+    "neighbor_name": "PUSAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40906,
+    "neighbor_name": "SADIKKIRI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40922,
+    "neighbor_name": "SARAYCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40907,
+    "neighbor_name": "SEVDİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40891,
+    "neighbor_name": "ŞANLIYURT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40919,
+    "neighbor_name": "ÜÇHÜYÜK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40908,
+    "neighbor_name": "YALNIZSARAY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40914,
+    "neighbor_name": "YAPILCAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40888,
+    "neighbor_name": "YAYLA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40924,
+    "neighbor_name": "YENİKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40898,
+    "neighbor_name": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40889,
+    "neighbor_name": "YOLÇATI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 790,
+    "district_name": "ALTINTAŞ",
+    "neighbor_id": 40895,
+    "neighbor_name": "ZAFERTEPEÇALKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40957,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40950,
+    "neighbor_name": "HÜRRİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40959,
+    "neighbor_name": "PINARBAŞI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40935,
+    "neighbor_name": "YALNIZSARAY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40925,
+    "neighbor_name": "ABAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40932,
+    "neighbor_name": "ADA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40937,
+    "neighbor_name": "ASLIHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40926,
+    "neighbor_name": "BALLIBABA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40927,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40953,
+    "neighbor_name": "BAYRAMŞAH KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40938,
+    "neighbor_name": "BEZİRGAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40936,
+    "neighbor_name": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40952,
+    "neighbor_name": "ÇAL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40931,
+    "neighbor_name": "ÇAMDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40948,
+    "neighbor_name": "ÇAMIRDIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40944,
+    "neighbor_name": "ÇÖMLEKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40949,
+    "neighbor_name": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40939,
+    "neighbor_name": "DERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40947,
+    "neighbor_name": "EMREZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40933,
+    "neighbor_name": "ESEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40930,
+    "neighbor_name": "GÖLBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40934,
+    "neighbor_name": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40940,
+    "neighbor_name": "HAYDARLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40928,
+    "neighbor_name": "KARADİĞİN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40941,
+    "neighbor_name": "KUREYŞLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40958,
+    "neighbor_name": "MUSA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40942,
+    "neighbor_name": "NUHÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40951,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40945,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40929,
+    "neighbor_name": "PAZARCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40954,
+    "neighbor_name": "SARAY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40946,
+    "neighbor_name": "ŞENİŞLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40955,
+    "neighbor_name": "TERZİLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40943,
+    "neighbor_name": "TOKUL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 791,
+    "district_name": "ASLANAPA",
+    "neighbor_id": 40956,
+    "neighbor_name": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40864,
+    "neighbor_name": "CERELLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40858,
+    "neighbor_name": "KEMALLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40881,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40883,
+    "neighbor_name": "YUKARI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40874,
+    "neighbor_name": "AFŞAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40878,
+    "neighbor_name": "AĞARI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40868,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40875,
+    "neighbor_name": "BARAĞI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40873,
+    "neighbor_name": "ÇAMKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40863,
+    "neighbor_name": "ÇATKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40859,
+    "neighbor_name": "DEMİROLUK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40884,
+    "neighbor_name": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40865,
+    "neighbor_name": "EFELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40860,
+    "neighbor_name": "EFENDİKÖPRÜSÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40879,
+    "neighbor_name": "GÖKAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40871,
+    "neighbor_name": "GÖKLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40869,
+    "neighbor_name": "HACIKEBİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40880,
+    "neighbor_name": "HACIMAHMUT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40877,
+    "neighbor_name": "İLCİKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40861,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40870,
+    "neighbor_name": "PUSATLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40872,
+    "neighbor_name": "SUSUZKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40882,
+    "neighbor_name": "TEPECİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40866,
+    "neighbor_name": "YAĞDIĞIN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40867,
+    "neighbor_name": "YENİCEARMUTCUK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40876,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 789,
+    "district_name": "ÇAVDARHİSAR",
+    "neighbor_id": 40862,
+    "neighbor_name": "ZOBU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41092,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41116,
+    "neighbor_name": "HASANTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41093,
+    "neighbor_name": "HİSAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41100,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41123,
+    "neighbor_name": "ÇUKURCA-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41124,
+    "neighbor_name": "ÇUKURCA-ILICAKSU MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41104,
+    "neighbor_name": "ÇUKURCA-KÜÇÜKLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41125,
+    "neighbor_name": "ÇUKURCA-OSMANLI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41106,
+    "neighbor_name": "AKSU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41119,
+    "neighbor_name": "BERÇİN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41095,
+    "neighbor_name": "BÖÇEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41111,
+    "neighbor_name": "BÜKERLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41094,
+    "neighbor_name": "ÇAKILKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41102,
+    "neighbor_name": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41115,
+    "neighbor_name": "ÇARŞAMBA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41103,
+    "neighbor_name": "ÇOKKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41107,
+    "neighbor_name": "DOMUR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41126,
+    "neighbor_name": "DURABEY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41112,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41120,
+    "neighbor_name": "FINDICAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41127,
+    "neighbor_name": "FIRANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41121,
+    "neighbor_name": "GÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41096,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41128,
+    "neighbor_name": "KARAMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41117,
+    "neighbor_name": "KIRIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41097,
+    "neighbor_name": "KOZCAĞIZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41118,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41113,
+    "neighbor_name": "KÜÇÜKKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41108,
+    "neighbor_name": "MUHACİRLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41098,
+    "neighbor_name": "MURATLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41101,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41129,
+    "neighbor_name": "SAFA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41109,
+    "neighbor_name": "SARIOT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41110,
+    "neighbor_name": "SARUHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41130,
+    "neighbor_name": "SEYDİKUZU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41099,
+    "neighbor_name": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41114,
+    "neighbor_name": "TIRAZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 795,
+    "district_name": "DOMANİÇ",
+    "neighbor_id": 41122,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41133,
+    "neighbor_name": "CAFERGAZİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41138,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41140,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41141,
+    "neighbor_name": "ZAFER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41132,
+    "neighbor_name": "AĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41131,
+    "neighbor_name": "ALLIÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41142,
+    "neighbor_name": "ARPALI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41143,
+    "neighbor_name": "BÜYÜKASLIHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41135,
+    "neighbor_name": "EYİDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41144,
+    "neighbor_name": "HAMUR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41134,
+    "neighbor_name": "KIZILCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41136,
+    "neighbor_name": "KÜÇÜKASLIHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41139,
+    "neighbor_name": "SELKİSARAY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 796,
+    "district_name": "DUMLUPINAR",
+    "neighbor_id": 41137,
+    "neighbor_name": "YÜYLÜK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40413,
+    "neighbor_name": "AKPINAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40390,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40405,
+    "neighbor_name": "DERE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40383,
+    "neighbor_name": "ESENTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40407,
+    "neighbor_name": "HAMAM MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40375,
+    "neighbor_name": "KAPAKLICA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40414,
+    "neighbor_name": "KAYNARCA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40381,
+    "neighbor_name": "ABAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40404,
+    "neighbor_name": "AYDINCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40382,
+    "neighbor_name": "BAHATLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40418,
+    "neighbor_name": "ÇERTE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40391,
+    "neighbor_name": "DERELİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40388,
+    "neighbor_name": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40398,
+    "neighbor_name": "DÜŞECEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40392,
+    "neighbor_name": "EĞRİGÖZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40406,
+    "neighbor_name": "ESATLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40399,
+    "neighbor_name": "ESELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40400,
+    "neighbor_name": "GÖNCEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40401,
+    "neighbor_name": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40384,
+    "neighbor_name": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40408,
+    "neighbor_name": "IŞIKLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40380,
+    "neighbor_name": "İĞDEKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40403,
+    "neighbor_name": "İKİBAŞLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40378,
+    "neighbor_name": "KABAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40402,
+    "neighbor_name": "KATRANDAĞI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40409,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40393,
+    "neighbor_name": "KIRGIL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40410,
+    "neighbor_name": "KONUŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40411,
+    "neighbor_name": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40389,
+    "neighbor_name": "KÜRECİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40376,
+    "neighbor_name": "MUSALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40397,
+    "neighbor_name": "ÖMERFAKI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40387,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40379,
+    "neighbor_name": "SAMRIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40415,
+    "neighbor_name": "SARIAYAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40377,
+    "neighbor_name": "SUBAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40416,
+    "neighbor_name": "UMUTLU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40417,
+    "neighbor_name": "UZUNÇAM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40395,
+    "neighbor_name": "YAĞCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40385,
+    "neighbor_name": "YARIŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40394,
+    "neighbor_name": "YAYLAYOLU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40386,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 784,
+    "district_name": "EMET",
+    "neighbor_id": 40396,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40989,
+    "neighbor_name": "DAYINLAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41039,
+    "neighbor_name": "ERGENEKON MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41015,
+    "neighbor_name": "GAZİKEMAL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41041,
+    "neighbor_name": "HACIBABA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41007,
+    "neighbor_name": "KIZILTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40986,
+    "neighbor_name": "KUMTAŞ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40965,
+    "neighbor_name": "MUHİPLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40994,
+    "neighbor_name": "ÖZYURT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40966,
+    "neighbor_name": "SALUR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41029,
+    "neighbor_name": "SAYGILAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41018,
+    "neighbor_name": "ULUOYMAK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41035,
+    "neighbor_name": "UMURBEY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41022,
+    "neighbor_name": "ESKİGEDİZ-AKÇAALAN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41040,
+    "neighbor_name": "ESKİGEDİZ-CAMİKEBİR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40980,
+    "neighbor_name": "ESKİGEDİZ-HİSAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40985,
+    "neighbor_name": "ESKİGEDİZ-İSMETPAŞA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40983,
+    "neighbor_name": "ESKİGEDİZ-KURTULUŞ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40984,
+    "neighbor_name": "ESKİGEDİZ-PARK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40999,
+    "neighbor_name": "ESKİGEDİZ-SABIRGAZİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41023,
+    "neighbor_name": "GÖKLER-GÜNEY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41024,
+    "neighbor_name": "GÖKLER-KUZEY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40960,
+    "neighbor_name": "YENİKENT-GÖLCÜK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41037,
+    "neighbor_name": "YENİKENT-HAMZABEY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41003,
+    "neighbor_name": "YENİKENT-İBRAHİMKAHYA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40976,
+    "neighbor_name": "YENİKENT-YENİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40995,
+    "neighbor_name": "ABİDE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41014,
+    "neighbor_name": "AKKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41027,
+    "neighbor_name": "AKSAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41038,
+    "neighbor_name": "ALİKAHYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41032,
+    "neighbor_name": "ALTINKENT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41021,
+    "neighbor_name": "ARICA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40987,
+    "neighbor_name": "AŞIKPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40988,
+    "neighbor_name": "CEBRAİL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41020,
+    "neighbor_name": "ÇELTİKÇİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40992,
+    "neighbor_name": "ÇOMAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40993,
+    "neighbor_name": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41009,
+    "neighbor_name": "DEDEKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41028,
+    "neighbor_name": "DEĞİRMENKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40990,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40972,
+    "neighbor_name": "DÖRTDEĞİRMEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40962,
+    "neighbor_name": "ECE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41010,
+    "neighbor_name": "ERDOĞMUŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41033,
+    "neighbor_name": "FIRDAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40996,
+    "neighbor_name": "GÖYNÜK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40973,
+    "neighbor_name": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41016,
+    "neighbor_name": "GÜMELE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41017,
+    "neighbor_name": "GÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40981,
+    "neighbor_name": "GÜRLEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41034,
+    "neighbor_name": "GÜZÜNGÜLÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40963,
+    "neighbor_name": "ILICASU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41005,
+    "neighbor_name": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40974,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41036,
+    "neighbor_name": "KARABACAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40964,
+    "neighbor_name": "KAYACIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41011,
+    "neighbor_name": "KAYAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41006,
+    "neighbor_name": "KIRAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40982,
+    "neighbor_name": "KÖPENEZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41000,
+    "neighbor_name": "KURTÇAM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41002,
+    "neighbor_name": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40991,
+    "neighbor_name": "PULAT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40975,
+    "neighbor_name": "SAMRALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41008,
+    "neighbor_name": "SANDIKLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41012,
+    "neighbor_name": "SARUHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40997,
+    "neighbor_name": "SAZAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41001,
+    "neighbor_name": "SAZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40968,
+    "neighbor_name": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40969,
+    "neighbor_name": "SUMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41013,
+    "neighbor_name": "TEPEPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41030,
+    "neighbor_name": "UĞURLUCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40978,
+    "neighbor_name": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41025,
+    "neighbor_name": "VAKIF KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40970,
+    "neighbor_name": "YAĞMURLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40998,
+    "neighbor_name": "YAYLAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40967,
+    "neighbor_name": "YEĞİNLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41019,
+    "neighbor_name": "YELKİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40971,
+    "neighbor_name": "YENİGÜNEY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40977,
+    "neighbor_name": "YEŞİLÇAY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41004,
+    "neighbor_name": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41026,
+    "neighbor_name": "YUKARISUSUZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 41031,
+    "neighbor_name": "YUMRUTAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 792,
+    "district_name": "GEDİZ",
+    "neighbor_id": 40961,
+    "neighbor_name": "YUNUSLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41053,
+    "neighbor_name": "82.YIL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41067,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41044,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41071,
+    "neighbor_name": "ŞEHİTLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41056,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41047,
+    "neighbor_name": "YEŞİLHİSAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41070,
+    "neighbor_name": "ALINÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41068,
+    "neighbor_name": "AŞAĞIYONCAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41059,
+    "neighbor_name": "BEYKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41057,
+    "neighbor_name": "ÇATAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41063,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41050,
+    "neighbor_name": "GÜLDÜREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41054,
+    "neighbor_name": "HALİFELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41048,
+    "neighbor_name": "HAMAMKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41064,
+    "neighbor_name": "HASANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41042,
+    "neighbor_name": "HOCALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41043,
+    "neighbor_name": "KARAAĞIL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41060,
+    "neighbor_name": "KARBASAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41051,
+    "neighbor_name": "KIZILÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41049,
+    "neighbor_name": "KURTDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41045,
+    "neighbor_name": "KUTLUBEYLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41061,
+    "neighbor_name": "KUTLUHALLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41058,
+    "neighbor_name": "ÖRENKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41046,
+    "neighbor_name": "SAKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41052,
+    "neighbor_name": "SEFAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41062,
+    "neighbor_name": "ŞEYHÇAKIR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41069,
+    "neighbor_name": "ŞEYHLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41065,
+    "neighbor_name": "TOKAT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41055,
+    "neighbor_name": "ULAŞLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41066,
+    "neighbor_name": "YENİPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 793,
+    "district_name": "HİSARCIK",
+    "neighbor_id": 41072,
+    "neighbor_name": "YUKARIYONCAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40447,
+    "neighbor_name": "100. YIL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40499,
+    "neighbor_name": "30 AĞUSTOS MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40463,
+    "neighbor_name": "75. YIL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40510,
+    "neighbor_name": "AĞAÇKÖY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40500,
+    "neighbor_name": "AKKENT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40422,
+    "neighbor_name": "ALAYUNT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40501,
+    "neighbor_name": "ALİPAŞA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40509,
+    "neighbor_name": "ANDIZ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40503,
+    "neighbor_name": "AYDOĞDU MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40465,
+    "neighbor_name": "BAHÇELİEVLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40584,
+    "neighbor_name": "BALIKLI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40529,
+    "neighbor_name": "BÖLÜCEK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40549,
+    "neighbor_name": "BÖREKÇİLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40504,
+    "neighbor_name": "CEDİT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40450,
+    "neighbor_name": "CEMALETTİN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40459,
+    "neighbor_name": "CİVLİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40451,
+    "neighbor_name": "CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40565,
+    "neighbor_name": "ÇALCA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40560,
+    "neighbor_name": "DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40567,
+    "neighbor_name": "ENNE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40466,
+    "neighbor_name": "EVLİYA ÇELEBİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40473,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40432,
+    "neighbor_name": "FUATPAŞA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40440,
+    "neighbor_name": "GAYBİEFENDİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40441,
+    "neighbor_name": "GEVEN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40587,
+    "neighbor_name": "G. KEMAL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40523,
+    "neighbor_name": "GÜLTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40446,
+    "neighbor_name": "GÜVEÇÇİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40495,
+    "neighbor_name": "HACIAZİZLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40489,
+    "neighbor_name": "HAMİDİYE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 50599,
+    "neighbor_name": "HİLALKENT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40438,
+    "neighbor_name": "İKİZÜYÜK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40582,
+    "neighbor_name": "İNKÖY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 49850,
+    "neighbor_name": "İSHAK SEYDİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40462,
+    "neighbor_name": "İSTİKLAL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40443,
+    "neighbor_name": "KIRGILLI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40454,
+    "neighbor_name": "KİRAZPINAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40425,
+    "neighbor_name": "KUMARI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40568,
+    "neighbor_name": "LALA HÜSEYİN PAŞA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40498,
+    "neighbor_name": "MALTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40436,
+    "neighbor_name": "MARUF MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40589,
+    "neighbor_name": "MECİDİYE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40572,
+    "neighbor_name": "MEHMET AKİF ERSOY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40478,
+    "neighbor_name": "MEYDAN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40426,
+    "neighbor_name": "MÜDERRİS MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40506,
+    "neighbor_name": "OKÇU MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40455,
+    "neighbor_name": "OK MEYDANI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40557,
+    "neighbor_name": "OSMANGAZİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40539,
+    "neighbor_name": "PARMAKÖREN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40569,
+    "neighbor_name": "PAŞAM SULTAN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40578,
+    "neighbor_name": "PERLİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40468,
+    "neighbor_name": "PİRLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40456,
+    "neighbor_name": "SARAY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40540,
+    "neighbor_name": "SERVİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40580,
+    "neighbor_name": "SİNER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40472,
+    "neighbor_name": "SOFU MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40526,
+    "neighbor_name": "SULTANBAĞI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40474,
+    "neighbor_name": "ŞAİR ŞEYHİ DUMLUPINAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40534,
+    "neighbor_name": "VEFA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40485,
+    "neighbor_name": "YENİ BOSNA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40563,
+    "neighbor_name": "YENİDOĞAN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40564,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40546,
+    "neighbor_name": "YONCALI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40457,
+    "neighbor_name": "YUNUSEMRE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40527,
+    "neighbor_name": "ZAFERTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40596,
+    "neighbor_name": "ZİĞRA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40493,
+    "neighbor_name": "ZİRAAT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40579,
+    "neighbor_name": "SEYİTÖMER-BOZCAHÖYÜK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40551,
+    "neighbor_name": "SEYİTÖMER-GÜLTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40525,
+    "neighbor_name": "SEYİTÖMER-SEYİTLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40464,
+    "neighbor_name": "AĞAÇKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40448,
+    "neighbor_name": "AĞIZÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40592,
+    "neighbor_name": "AHİLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40554,
+    "neighbor_name": "AHMETOLUĞU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40480,
+    "neighbor_name": "AKÇAMESCİT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40508,
+    "neighbor_name": "AKOLUK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40548,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40430,
+    "neighbor_name": "ALOĞLU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40502,
+    "neighbor_name": "ANASULTAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40458,
+    "neighbor_name": "ARSLANLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40494,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40521,
+    "neighbor_name": "BAŞÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40515,
+    "neighbor_name": "BAYAT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40475,
+    "neighbor_name": "BAYRAMŞAH KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40449,
+    "neighbor_name": "BELKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40585,
+    "neighbor_name": "BÜYÜKSAKA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40486,
+    "neighbor_name": "ÇAVUŞÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40445,
+    "neighbor_name": "ÇAYCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40427,
+    "neighbor_name": "ÇİFTEOLUKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40487,
+    "neighbor_name": "ÇOBANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40571,
+    "neighbor_name": "ÇÖĞÜRLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40437,
+    "neighbor_name": "ÇUBUKİÇİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40543,
+    "neighbor_name": "DAMLALIKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40586,
+    "neighbor_name": "DARICA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40511,
+    "neighbor_name": "DEDİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40512,
+    "neighbor_name": "DEMİRCİÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40481,
+    "neighbor_name": "DEMİRÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40423,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40566,
+    "neighbor_name": "DOĞA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40593,
+    "neighbor_name": "DOĞALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40439,
+    "neighbor_name": "DOĞARSLAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40476,
+    "neighbor_name": "DOĞLUŞAH KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40536,
+    "neighbor_name": "ELMACIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40431,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40488,
+    "neighbor_name": "ESKİYÜREĞİL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40452,
+    "neighbor_name": "EYNEGAZİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40460,
+    "neighbor_name": "FINDIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40575,
+    "neighbor_name": "FİNCANBURNU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40453,
+    "neighbor_name": "GEDİKOĞLUÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40419,
+    "neighbor_name": "GELİNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40477,
+    "neighbor_name": "GÖÇERİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40537,
+    "neighbor_name": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40442,
+    "neighbor_name": "GÜLLÜDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40555,
+    "neighbor_name": "GÜMÜŞKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40576,
+    "neighbor_name": "GÜVEM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40588,
+    "neighbor_name": "HAMİDİYEKIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40484,
+    "neighbor_name": "HAYMANA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40469,
+    "neighbor_name": "IŞIKKARA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40535,
+    "neighbor_name": "İHSANİYE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40428,
+    "neighbor_name": "İNCİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40528,
+    "neighbor_name": "İNLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40421,
+    "neighbor_name": "İSHAKÇILAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40594,
+    "neighbor_name": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40530,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40505,
+    "neighbor_name": "KARAÖZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40433,
+    "neighbor_name": "KARSAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40434,
+    "neighbor_name": "KAYNARCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40561,
+    "neighbor_name": "KEPEZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40435,
+    "neighbor_name": "KINIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40577,
+    "neighbor_name": "KIRANŞEYH KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40550,
+    "neighbor_name": "KIZIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40420,
+    "neighbor_name": "KIZILCAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40424,
+    "neighbor_name": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40483,
+    "neighbor_name": "KİRAZLIYAYLASI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40533,
+    "neighbor_name": "KİREÇ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40595,
+    "neighbor_name": "KOÇAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40531,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40482,
+    "neighbor_name": "KÖPRÜÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40516,
+    "neighbor_name": "KÖRPE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40471,
+    "neighbor_name": "KÖRS KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40532,
+    "neighbor_name": "KUMLUYURT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40470,
+    "neighbor_name": "KUYUSİNİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40517,
+    "neighbor_name": "KÜKÜRT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40556,
+    "neighbor_name": "LÜTFİYE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40490,
+    "neighbor_name": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40524,
+    "neighbor_name": "MAKASALANI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40491,
+    "neighbor_name": "MUHATBOĞAZI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40513,
+    "neighbor_name": "MUSTAFALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40518,
+    "neighbor_name": "NUSRET KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40538,
+    "neighbor_name": "ORTACA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40573,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40467,
+    "neighbor_name": "PULLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40479,
+    "neighbor_name": "SABUNCUPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40590,
+    "neighbor_name": "SAĞIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40492,
+    "neighbor_name": "SAKAÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40496,
+    "neighbor_name": "SEKİÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40461,
+    "neighbor_name": "SEYDİKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40558,
+    "neighbor_name": "SIRÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40562,
+    "neighbor_name": "SOBRAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40552,
+    "neighbor_name": "SOFÇA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40514,
+    "neighbor_name": "SOĞUKÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40570,
+    "neighbor_name": "SÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40559,
+    "neighbor_name": "SÖĞÜTYAYLASI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40591,
+    "neighbor_name": "SÖKMEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40583,
+    "neighbor_name": "SULU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40545,
+    "neighbor_name": "SÜNNETYENİCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40497,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40519,
+    "neighbor_name": "TEŞVİKİYE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40553,
+    "neighbor_name": "TURGUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40541,
+    "neighbor_name": "ULU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40547,
+    "neighbor_name": "ÜRÜNLÜÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40522,
+    "neighbor_name": "YAKACA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40507,
+    "neighbor_name": "YAYLABABA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40429,
+    "neighbor_name": "YAZLICA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40542,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40581,
+    "neighbor_name": "YENİKARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40520,
+    "neighbor_name": "YENİKIZILCAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40444,
+    "neighbor_name": "YEŞİLBAYIR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 785,
+    "district_name": "KÜTAHYA MERKEZ",
+    "neighbor_id": 40574,
+    "neighbor_name": "YUMAKLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40597,
+    "neighbor_name": "ADNANMENDERES MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40599,
+    "neighbor_name": "ATATÜRK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40609,
+    "neighbor_name": "AYVALI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40603,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40600,
+    "neighbor_name": "HOCAAHMETYESEVİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40601,
+    "neighbor_name": "TURGUT ÖZAL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40607,
+    "neighbor_name": "YAKUPLAR ATATÜRK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40605,
+    "neighbor_name": "YAKUPLAR FATİH MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40608,
+    "neighbor_name": "AKŞİNİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40598,
+    "neighbor_name": "ORHANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40602,
+    "neighbor_name": "ÖREY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40604,
+    "neighbor_name": "SARAYKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40610,
+    "neighbor_name": "SOFULAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40611,
+    "neighbor_name": "TEPEKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 786,
+    "district_name": "PAZARLAR",
+    "neighbor_id": 40606,
+    "neighbor_name": "YENİCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41074,
+    "neighbor_name": "HACI HASANLAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41086,
+    "neighbor_name": "KALABAK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41088,
+    "neighbor_name": "KARAAĞIL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41081,
+    "neighbor_name": "KARACADERBENT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41089,
+    "neighbor_name": "PAZAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41083,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41077,
+    "neighbor_name": "TÜREGÜN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41078,
+    "neighbor_name": "AYVACIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41085,
+    "neighbor_name": "ÇAM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41091,
+    "neighbor_name": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41073,
+    "neighbor_name": "GAİPLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41087,
+    "neighbor_name": "GÜRKUYU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41079,
+    "neighbor_name": "İNCEĞİZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41075,
+    "neighbor_name": "KARAKÜR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41076,
+    "neighbor_name": "KARAMANCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41080,
+    "neighbor_name": "KARAMUSTAFALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41082,
+    "neighbor_name": "KIZILKOLTUK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41084,
+    "neighbor_name": "UĞURLUGÜME KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 794,
+    "district_name": "ŞAPHANE",
+    "neighbor_id": 41090,
+    "neighbor_name": "ÜÇBAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40717,
+    "neighbor_name": "101 EVLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40718,
+    "neighbor_name": "4 EYLÜL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40667,
+    "neighbor_name": "CUMA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40724,
+    "neighbor_name": "ÇAVDIR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40685,
+    "neighbor_name": "DEĞİRMENCİLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40673,
+    "neighbor_name": "ESENEVLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40670,
+    "neighbor_name": "FATİH MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40642,
+    "neighbor_name": "HACIAHMETOĞLU MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40651,
+    "neighbor_name": "HİSARARDI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40674,
+    "neighbor_name": "KARAKÜR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40704,
+    "neighbor_name": "KARŞIYAKA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40705,
+    "neighbor_name": "KEKLİKTEPE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40714,
+    "neighbor_name": "MURADINLAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40625,
+    "neighbor_name": "SIRAPAYAM MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40623,
+    "neighbor_name": "TABAKHANE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40626,
+    "neighbor_name": "TEPECİK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40707,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40689,
+    "neighbor_name": "YEŞİLOVA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40727,
+    "neighbor_name": "AKDAĞ-CEVİZLİK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40709,
+    "neighbor_name": "AKDAĞ-KINIK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40666,
+    "neighbor_name": "AKDAĞ-SAVCILAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40659,
+    "neighbor_name": "ÇİTGÖL-CAMİİ KEBİR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40633,
+    "neighbor_name": "ÇİTGÖL-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40646,
+    "neighbor_name": "DEMİRCİ-ÇAYSİMAV MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40721,
+    "neighbor_name": "DEMİRCİ-DEMİRCİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40615,
+    "neighbor_name": "DEMİRCİ-KARACALAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40616,
+    "neighbor_name": "DEMİRCİ-ÖREYLER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40661,
+    "neighbor_name": "GÜNEY-CUMA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40647,
+    "neighbor_name": "GÜNEY-FATİH MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40644,
+    "neighbor_name": "KUŞU-DERE MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40663,
+    "neighbor_name": "KUŞU-KADILAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40678,
+    "neighbor_name": "KUŞU-KAYA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40631,
+    "neighbor_name": "KUŞU-YENİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40696,
+    "neighbor_name": "NAŞA-CUMHURİYET MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40657,
+    "neighbor_name": "NAŞA-FATİH MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40702,
+    "neighbor_name": "NAŞA-HAMZABEY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40628,
+    "neighbor_name": "AHLATLIÇEŞME KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40699,
+    "neighbor_name": "AHMETLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40614,
+    "neighbor_name": "AKPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40660,
+    "neighbor_name": "AKSAZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40618,
+    "neighbor_name": "AŞAĞIDOLAYLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40719,
+    "neighbor_name": "BADEMLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40695,
+    "neighbor_name": "BAHTILLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40703,
+    "neighbor_name": "BAŞKONAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40645,
+    "neighbor_name": "BECİLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40621,
+    "neighbor_name": "BEDİRLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40713,
+    "neighbor_name": "BEYCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40669,
+    "neighbor_name": "BOĞAZKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40708,
+    "neighbor_name": "ÇAKIRLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40730,
+    "neighbor_name": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40725,
+    "neighbor_name": "ÇINARLIDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40726,
+    "neighbor_name": "ÇULHALAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40677,
+    "neighbor_name": "DEREKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40629,
+    "neighbor_name": "DEREYÜZÜDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40649,
+    "neighbor_name": "EFİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40710,
+    "neighbor_name": "EĞDEMİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40720,
+    "neighbor_name": "EĞİRLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40619,
+    "neighbor_name": "ESENBAĞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40686,
+    "neighbor_name": "EVCİLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40700,
+    "neighbor_name": "GILMANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40635,
+    "neighbor_name": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40671,
+    "neighbor_name": "GÖLKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40641,
+    "neighbor_name": "GÜMÜŞSU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40715,
+    "neighbor_name": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40636,
+    "neighbor_name": "HACIHÜSEYİNEFENDİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40679,
+    "neighbor_name": "HASANÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40650,
+    "neighbor_name": "HIDIRDİVANI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40691,
+    "neighbor_name": "HİSARBEY KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40728,
+    "neighbor_name": "IHLAMUR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40698,
+    "neighbor_name": "İMRANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40630,
+    "neighbor_name": "İNKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40634,
+    "neighbor_name": "İNLİCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40620,
+    "neighbor_name": "KALKAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40617,
+    "neighbor_name": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40655,
+    "neighbor_name": "KARACAHİSAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40711,
+    "neighbor_name": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40682,
+    "neighbor_name": "KARAKOCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40612,
+    "neighbor_name": "KARAPINAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40662,
+    "neighbor_name": "KAYAIŞIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40683,
+    "neighbor_name": "KAYALIDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40652,
+    "neighbor_name": "KESTEL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40637,
+    "neighbor_name": "KIZILCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40716,
+    "neighbor_name": "KİÇİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40722,
+    "neighbor_name": "KOYUNOBA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40656,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40638,
+    "neighbor_name": "KURDUMAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40643,
+    "neighbor_name": "KUSUMLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40701,
+    "neighbor_name": "KÜLCÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40648,
+    "neighbor_name": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40653,
+    "neighbor_name": "MADEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40680,
+    "neighbor_name": "MAMAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40639,
+    "neighbor_name": "ORTACI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40640,
+    "neighbor_name": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40664,
+    "neighbor_name": "ÖRENLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40706,
+    "neighbor_name": "PULLUCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40712,
+    "neighbor_name": "SAMAT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40658,
+    "neighbor_name": "SARIÇAM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40622,
+    "neighbor_name": "SARIKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40675,
+    "neighbor_name": "SARKATLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40692,
+    "neighbor_name": "SÖĞÜT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40672,
+    "neighbor_name": "SUDÖŞEĞİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40676,
+    "neighbor_name": "SÜNNETÇİLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40665,
+    "neighbor_name": "ŞENKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40729,
+    "neighbor_name": "TAŞKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40693,
+    "neighbor_name": "TAŞLIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40627,
+    "neighbor_name": "TOKLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40632,
+    "neighbor_name": "YAĞILLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40688,
+    "neighbor_name": "YAĞMURLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40694,
+    "neighbor_name": "YASSIEYNİHAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40690,
+    "neighbor_name": "YAVI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40624,
+    "neighbor_name": "YAYKIN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40654,
+    "neighbor_name": "YEMİŞLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40687,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40681,
+    "neighbor_name": "YENİLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40723,
+    "neighbor_name": "YEŞİLÇAM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40684,
+    "neighbor_name": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40697,
+    "neighbor_name": "YEŞİLKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40668,
+    "neighbor_name": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 787,
+    "district_name": "SİMAV",
+    "neighbor_id": 40613,
+    "neighbor_name": "YUKARIDOLAYLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40827,
+    "neighbor_name": "ADA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40816,
+    "neighbor_name": "BAĞLIK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40829,
+    "neighbor_name": "BEYKÖY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40787,
+    "neighbor_name": "ÇARDAKLI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40817,
+    "neighbor_name": "ÇIRÇIRÇEŞME MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40766,
+    "neighbor_name": "ÇUKURKÖY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40825,
+    "neighbor_name": "DAĞÇEŞME MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40831,
+    "neighbor_name": "DEDELER MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40791,
+    "neighbor_name": "DURAK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40778,
+    "neighbor_name": "HANIMÇEŞME MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40781,
+    "neighbor_name": "İSTASYON MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40800,
+    "neighbor_name": "KARAKOVA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40806,
+    "neighbor_name": "KAVAKLI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40795,
+    "neighbor_name": "MOYMUL MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40746,
+    "neighbor_name": "ÖMERBEY MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40756,
+    "neighbor_name": "SUBAŞI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40744,
+    "neighbor_name": "ULUCAMİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40749,
+    "neighbor_name": "YENİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40843,
+    "neighbor_name": "YILDIRIM BEYAZIT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40777,
+    "neighbor_name": "BALIKÖY-BALIKÖY-ÇIVGALAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40857,
+    "neighbor_name": "BALIKÖY-BALIKÖY-KADI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40782,
+    "neighbor_name": "BALIKÖY-BALIKÖY-KARAŞEHİR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40790,
+    "neighbor_name": "BALIKÖY-BALIKÖY-KIŞLA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40830,
+    "neighbor_name": "BALIKÖY-BALIKÖY-MERKEZ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40799,
+    "neighbor_name": "BALIKÖY-SOLUGANLAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40845,
+    "neighbor_name": "KURUÇAY-KURUÇAY-GÜZELYURT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40808,
+    "neighbor_name": "KURUÇAY-KURUÇAY-KOCAPINAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40805,
+    "neighbor_name": "KURUÇAY-KURUÇAY-ÖREN MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40814,
+    "neighbor_name": "TEPECİK-TEPECİK-AŞAĞI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40812,
+    "neighbor_name": "TEPECİK-TEPECİK-ORTA MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40754,
+    "neighbor_name": "TEPECİK-TEPECİK-YUKARI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40757,
+    "neighbor_name": "TUNÇBİLEK-GÜRAĞAÇ CEVİZLİ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40839,
+    "neighbor_name": "TUNÇBİLEK-GÜRAĞAÇ ÇINAR MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40780,
+    "neighbor_name": "TUNÇBİLEK-TUNÇBİLEK-ÇAMALTI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40840,
+    "neighbor_name": "TUNÇBİLEK-TUNÇBİLEK-DEMİRBİLEK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40796,
+    "neighbor_name": "TUNÇBİLEK-TUNÇBİLEK-HAMİTABAT MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40847,
+    "neighbor_name": "TUNÇBİLEK-TUNÇBİLEK-IŞIK MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40797,
+    "neighbor_name": "TUNÇBİLEK-TUNÇBİLEK-KÖPRÜBAŞI MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40764,
+    "neighbor_name": "TUNÇBİLEK-TUNÇBİLEK MERKEZ MAH."
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40838,
+    "neighbor_name": "AĞAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40775,
+    "neighbor_name": "AKÇAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40833,
+    "neighbor_name": "AKÇAŞEHİR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 50081,
+    "neighbor_name": "ALABARDA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40848,
+    "neighbor_name": "ALİKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40815,
+    "neighbor_name": "ALTINOVA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40854,
+    "neighbor_name": "ARİFLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40750,
+    "neighbor_name": "ARTIRANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40828,
+    "neighbor_name": "AVCILAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40776,
+    "neighbor_name": "AYDINLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40789,
+    "neighbor_name": "AYVALI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40783,
+    "neighbor_name": "BAŞKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40841,
+    "neighbor_name": "BOZBELEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40784,
+    "neighbor_name": "BURHAN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40758,
+    "neighbor_name": "ÇAKILLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40794,
+    "neighbor_name": "ÇALDİBİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40786,
+    "neighbor_name": "ÇALTILI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40798,
+    "neighbor_name": "ÇAYIRKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40745,
+    "neighbor_name": "ÇAYIROLUK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40755,
+    "neighbor_name": "ÇIKRICAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40739,
+    "neighbor_name": "ÇINARCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40788,
+    "neighbor_name": "ÇOBANKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40765,
+    "neighbor_name": "ÇOBANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40768,
+    "neighbor_name": "DAĞDEMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40822,
+    "neighbor_name": "DEĞİRMİSAZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40734,
+    "neighbor_name": "DERBENT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40769,
+    "neighbor_name": "DERECİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40836,
+    "neighbor_name": "DEVEKAYASI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40740,
+    "neighbor_name": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40770,
+    "neighbor_name": "DUDAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40753,
+    "neighbor_name": "DUTLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40771,
+    "neighbor_name": "DÜMREKHÜSEYİNPAŞA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40823,
+    "neighbor_name": "DÜMREKORTA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40849,
+    "neighbor_name": "DÜMREKULUKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40803,
+    "neighbor_name": "EĞRİÖZ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40824,
+    "neighbor_name": "ELMAAĞACI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40813,
+    "neighbor_name": "ELMALI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40760,
+    "neighbor_name": "EMİRLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40850,
+    "neighbor_name": "ERİKLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40735,
+    "neighbor_name": "EŞEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40792,
+    "neighbor_name": "GAZELYAKUP KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40855,
+    "neighbor_name": "GEVREKLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40761,
+    "neighbor_name": "GÖBEL KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40837,
+    "neighbor_name": "GÖKÇEYURT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40842,
+    "neighbor_name": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40834,
+    "neighbor_name": "GÜMÜŞGÖLCÜK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40785,
+    "neighbor_name": "GÜMÜŞYENİKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40832,
+    "neighbor_name": "İSAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40844,
+    "neighbor_name": "KARACAKAŞ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40747,
+    "neighbor_name": "KARAKAYA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40779,
+    "neighbor_name": "KARAKİŞİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40741,
+    "neighbor_name": "KARAKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40772,
+    "neighbor_name": "KARAPELİT KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40736,
+    "neighbor_name": "KARCIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40821,
+    "neighbor_name": "KARGILI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40801,
+    "neighbor_name": "KARLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40762,
+    "neighbor_name": "KAVAKLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40751,
+    "neighbor_name": "KAYAARASI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40802,
+    "neighbor_name": "KAYI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40810,
+    "neighbor_name": "KIRKKAVAK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40807,
+    "neighbor_name": "KIŞLADEMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40743,
+    "neighbor_name": "KIZILBÜK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40742,
+    "neighbor_name": "KIZILÇUKUR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40731,
+    "neighbor_name": "KOCAYERİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40835,
+    "neighbor_name": "KOZLUCA KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40811,
+    "neighbor_name": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40818,
+    "neighbor_name": "KÖREKEN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40846,
+    "neighbor_name": "KÖSELER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40733,
+    "neighbor_name": "MADANLAR KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40819,
+    "neighbor_name": "NUSRETLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40737,
+    "neighbor_name": "OPANÖZÜ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40763,
+    "neighbor_name": "OVACIK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40851,
+    "neighbor_name": "ÖKSÜZLER KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40774,
+    "neighbor_name": "ÖREN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40748,
+    "neighbor_name": "SEKBANDEMİRLİ KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40820,
+    "neighbor_name": "ŞAHİN KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40852,
+    "neighbor_name": "ŞAHMELEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40759,
+    "neighbor_name": "ŞAPÇIDEDE KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40732,
+    "neighbor_name": "ŞAPÇI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40853,
+    "neighbor_name": "ŞENLİK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40809,
+    "neighbor_name": "ULUÇAM KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40767,
+    "neighbor_name": "ÜYÜCEK KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40826,
+    "neighbor_name": "VAKIF KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40804,
+    "neighbor_name": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40856,
+    "neighbor_name": "YATAKLI KÖYÜ"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40738,
+    "neighbor_name": "YENİKÖY"
+  },
+  {
+    "city_id": 62,
+    "city_name": "KÜTAHYA",
+    "district_id": 788,
+    "district_name": "TAVŞANLI",
+    "neighbor_id": 40752,
+    "neighbor_name": "YÖRGÜÇ KÖYÜ"
+  }
+]
